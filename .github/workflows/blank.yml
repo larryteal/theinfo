@@ -1,0 +1,54 @@
+name: Fetch Informations
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0 点运行
+  workflow_dispatch:
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get timestamp
+        id: get-timestamp
+        run: echo "timestamp=$(date -u +'%Y%m%dT%H%M%SZ')" >> $GITHUB_OUTPUT
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update -y && sudo apt-get install -y cloudflare-warp
+          sudo warp-cli --accept-tos registration new
+          sudo warp-cli --accept-tos connect
+          sleep 3
+          curl -s https://www.cloudflare.com/cdn-cgi/trace/
+      
+      - name: Fetch informations
+        run: |
+          mkdir -p briefings
+          python main.py $REFRESH_TOKEN $INSTALL_ID $LOGIN_URL $BRIEFINGS_URL
+        env:
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          INSTALL_ID: ${{ secrets.INSTALL_ID }}
+          LOGIN_URL: ${{ secrets.LOGIN_URL }}
+          BRIEFINGS_URL: ${{ secrets.BRIEFINGS_URL }}
+      - name: Commit and push new info file
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add briefings/*.json
+          git commit -m "Add info for ${{ steps.get-timestamp.outputs.timestamp }} UTC" || echo "Nothing to commit"
+          git push
