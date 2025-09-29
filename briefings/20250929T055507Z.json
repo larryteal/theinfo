@@ -1,0 +1,641 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 15991,
+            "guid": "b5c72c",
+            "headline": "German AI Startup Seeking Funding at $4 Billion Valuation",
+            "dek": "Black Forest Labs aims to raise between $200mn and $300mn",
+            "source_url": "https://www.ft.com/content/299ddb72-1ae7-4691-bf6b-cd0229bbb04f",
+            "source_label": "Financial Times",
+            "body": "<p>Black Forest Labs, a German startup that focuses on image generation, is seeking to raise between $200 million and $300 million in a fundraising round that would value the company at $4 billion, the Financial Times reported.</p>\n\n<p>The one-year-old company previously raised funds at a $1 billion valuation. Among the investors was Andreessen Horowitz. The current fundraising round is still in its early stages, the FT reported.</p>\n\n<p>Black Forest, along with Mistral, are&nbsp;among a small number of European startups developing their own AI models, the FT reported. Black Forest’s Flux models can produce images from a few lines of text and are being used by major tech companies.</p>",
+            "published_at": "2025-09-28T18:52:49.207Z",
+            "url": "https://www.theinformation.com/briefings/german-ai-startup-seeking-funding-4-billion-valuation?unlock=b5c72c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/german-ai-startup-seeking-funding-4-billion-valuation?unlock=b5c72c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2326614,
+                    "display_name": "Ken Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15990,
+            "guid": "033070",
+            "headline": "Data Startup Fivetran In Talks to Buy Dbt Labs",
+            "dek": "Merger could create a full-service data offering and bring company closer to an IPO.",
+            "source_url": "https://www.theinformation.com/articles/data-startup-fivetran-talks-buy-dbt-labs-multibillion-dollar-deal",
+            "source_label": "The Information",
+            "body": "<p>Fivetran, a startup&nbsp;used by companies to manage and prepare data for analytics and artificial intelligence, is in talks to buy data management company&nbsp;dbt Labs, according to people with direct knowledge of the deal.</p>\n\n<p>The deal would combine two data companies that are facing competition from artificial intelligence. Fivetran and dbt Labs have complementary offerings and the deal could give them the scale to compete in a fast-changing market and potentially carry out an initial public offering.</p>\n\n<p>The deal is weeks away from completion, the people said, and the acquisition could still fall apart.</p>\n\n<p>A merger of the two venture-backed companies, founded before the wave of AI advancements pioneered by OpenAI, could give the combined entity an enterprise value between $5 billion to $10 billion.&nbsp;Andreessen Horowitz has backed both companies and holds a board seat on both.</p>\n\n<p>Representatives from both companies declined to comment.</p>",
+            "published_at": "2025-09-28T18:38:33.040Z",
+            "url": "https://www.theinformation.com/briefings/data-startup-fivetran-talks-buy-dbt-labs?unlock=033070&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/data-startup-fivetran-talks-buy-dbt-labs?unlock=033070&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2326614,
+                    "display_name": "Ken Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15989,
+            "guid": "1fc1d9",
+            "headline": "Trump Demands Microsoft Fire Company Executive ‘Immediately’",
+            "dek": "It’s the latest example of Trump using his position to target people he views as opponents.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump has called on Microsoft to fire its head of global affairs, Lisa Monaco, over her ties to the Democratic Party.</p>\n\n<p>In a <a href=\"https://truthsocial.com/@realDonaldTrump/posts/115272758814629814\">rambling post</a> on Truth Social, Trump claimed Monaco was a “menace to U.S. National Security” and cited “the major contracts that Microsoft has with the United States Government.” He said Microsoft should “immediately terminate” Monaco’s employment. It’s unclear what triggered the outburst, but Laura Loomer—a right-wing conspiracy theorist who has aligned herself with Trump—had&nbsp;previously targeted Monaco on X.</p>\n\n<p>The move&nbsp;is the latest example of Trump using his position to put pressure on companies and to attempt to oust people he views as opponents. In a Truth Social post in August, Trump called on Intel CEO Lip-Bu Tan to <a href=\"https://www.theinformation.com/briefings/trump-calls-intel-ceo-resign-immediately?rc=kfcki8\">resign from his position</a> “immediately” over the Intel leader’s business ties to Chinese companies, including some reportedly linked to the country’s military. (Trump later changed his tune about Tan and the U.S. now owns a stake in Intel.)</p>\n\n<p>Monaco, a former deputy attorney general at the Department of Justice under President Joe Biden, has been at Microsoft since July, according to her LinkedIn page. The White House&nbsp;and Monaco did not immediately respond to requests for comment.&nbsp;Microsoft declined to comment.</p>",
+            "published_at": "2025-09-26T23:00:04.713Z",
+            "url": "https://www.theinformation.com/briefings/trump-demands-microsoft-fire-company-executive-immediately?unlock=1fc1d9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-demands-microsoft-fire-company-executive-immediately?unlock=1fc1d9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15988,
+            "guid": "5705c6",
+            "headline": "ByteDance Could Take 50% of TikTok U.S. Profit Under Proposed Deal",
+            "dek": "Vice President JD Vance said Thursday that TikTok U.S. would be valued at $14 billion.\r\n",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-09-26/bytedance-to-get-about-50-of-tiktok-us-profit-under-trump-deal?srnd=homepage-americas&embedded-checkout=true",
+            "source_label": "Bloomberg",
+            "body": "<p>TikTok’s Chinese parent company, ByteDance, could get as much as 50% of the profits from TikTok’s U.S. business, even after the U.S. arm is split off from ByteDance and sold to a group of investors, Bloomberg News reported Friday.</p>\n\n<p>ByteDance is due to take a stake of just under 20% in a new joint-venture company that will own TikTok U.S., along with a cohort of non-Chinese investors. As part of the arrangement, ByteDance is set to receive some of the new company’s profits, in proportion to its equity stake, as well as a fee on the revenue made from licensing its algorithm to the U.S. entity, the publication reported, citing people familiar with the matter.</p>\n\n<p>The details are the latest chapter in the long-running saga over TikTok’s fate in the U.S. Also this week, Vice President JD Vance said the new entity would be valued at $14 billion—far lower than expected.</p>",
+            "published_at": "2025-09-26T21:02:10.493Z",
+            "url": "https://www.theinformation.com/briefings/bytedance-take-50-tiktok-u-s-profit-proposed-deal?unlock=5705c6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bytedance-take-50-tiktok-u-s-profit-proposed-deal?unlock=5705c6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15987,
+            "guid": "6d452d",
+            "headline": "Videogame Firm Electronic Arts Nears Private Equity Megadeal",
+            "dek": "The company behind popular sports video games looks poised to ink one of the largest leveraged buyouts in history, backed by Silver Lake and Saudi Arabia’s wealth fund. \r\n",
+            "source_url": "https://www.wsj.com/business/deals/ea-private-deal-buyout-video-game-maker-808aefec?mod=deals_news_article_pos1",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Electronic Arts, the company behind popular video games such as FIFA, Madden football and The Sims, could announce a deal to sell itself to investors including Silver Lake, Jared Kushner’s Affinity Partners and Saudi Arabia’s sovereign wealth fund as soon as next week, The Wall Street Journal first reported on Friday. EA’s shares jumped 13% immediately following the report, bringing its market capitalization to just over $48 billion. That’s close to the $50 billion valuation investors are reportedly considering ascribing it in the deal, which would make it one of the largest leveraged buyouts in history.</p>\n\n<p>EA’s sales growth has been anemic for the last few years, and the company’s top line shrank in fiscal 2025. Still, Wall Street analysts expect to see a comeback from the company. They estimate its sales will grow by more than 7% in 2026, according to Koyfin, as a result of some hotly anticipated new releases this year. That has helped its stock slightly outperform the S&amp;P 500 in 2025, even prior to the news report.</p>\n\n<p>Despite its slowdown, the business still throws off a healthy amount of cash: Its free cash flow margin last year was around 25%. With $1.6 billion in cash on hand and just over $2 billion in existing debt, that suggests it has room to comfortably borrow. The deal will include a debt financing package worth upwards of $20 billion, the Financial Times separately <a href=\"https://www.ft.com/content/b845be9e-8f36-4dd8-885a-2eb81150a530?desktop=true&segmentId=d8d3e364-5197-20eb-17cf-2437841d178a#myft:notification:instant-email:content\">reported</a>.</p>",
+            "published_at": "2025-09-26T20:16:20.470Z",
+            "url": "https://www.theinformation.com/briefings/videogame-firm-electronic-arts-nears-private-equity-megadeal?unlock=6d452d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/videogame-firm-electronic-arts-nears-private-equity-megadeal?unlock=6d452d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15986,
+            "guid": "591b3e",
+            "headline": "Anthropic Hires Head of International Business in Global Push",
+            "dek": "Anthropic plans to triple its international workforce and grow its applied AI team fivefold this year.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic said Friday it has hired Chris Ciauri, a former Google Cloud executive, to lead its international expansion as its new managing director of international.</p>\n\n<p>Ciauri joins the company as its international activity has boomed, with nearly 80% of the consumer usage of its Claude chatbot coming from outside the United States from countries including South Korea, Australia and Singapore, the company said. Anthropic makes the majority of its revenue from businesses using its models through its application programming interface, but consumers can access the Claude chatbot for free with limited features.</p>\n\n<p>The company also told CNBC that it would triple its international workforce and expand its applied AI team, which helps customers use its models, fivefold this year. Anthropic and rival OpenAI are racing to sell to consumers and businesses outside of the U.S. In recent months, OpenAI has released cheaper ChatGPT subscriptions available in geographies like India and Indonesia, for example.</p>",
+            "published_at": "2025-09-26T17:41:13.816Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-hires-head-international-business-global-push?unlock=591b3e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-hires-head-international-business-global-push?unlock=591b3e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15985,
+            "guid": "b978c9",
+            "headline": "U.S. Considers Chip Production Rule to Curb Imports ",
+            "dek": "The Trump administration plans to ask chip companies to produce the same amount as their customers import from overseas. ",
+            "source_url": "https://www.wsj.com/economy/trade/trump-chip-tariffs-exemptions-90fa2ab3?mod=tech_lead_story",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>The Trump administration is considering requiring companies to produce the same number of chips domestically as they import from overseas, with non-compliant companies facing tariffs, according to The Wall Street Journal, citing people familiar with the matter.</p>\n\n<p>The policy would create substantial operational challenges for major technology companies like Apple and Nvidia, which rely on products containing chips from multiple global suppliers. It would be challenging for companies to quickly match domestically produced chips with overseas ones, as expanding U.S. production capacity requires significant investments and time.</p>\n\n<p>However, the proposal could benefit companies already expanding their U.S. operations, including Taiwan Semiconductor Manufacturing Company, Micron Technology, and GlobalFoundries. These manufacturers could gain increased leverage in customer negotiations as demand for domestic production grows.</p>\n\n<p>The proposal stems from President Trump’s previous statements that tech companies need greater investments in the U.S. to avoid the roughly 100% semiconductor tariffs. Under the proposed rule, companies pledging to build chips domestically would receive credits over time, allowing continued imports without tariffs until their U.S. facilities become operational, according to the Journal.</p>",
+            "published_at": "2025-09-26T10:27:44.210Z",
+            "url": "https://www.theinformation.com/briefings/u-s-considers-chip-production-rule-curb-imports?unlock=b978c9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-s-considers-chip-production-rule-curb-imports?unlock=b978c9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15984,
+            "guid": "6234c1",
+            "headline": "Tech Giant Cloudflare to Launch a Stablecoin",
+            "dek": "Cloudflare’s stablecoin, called NET dollar, will be used in transactions handled by AI.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Cloudflare, a $76&nbsp;billion company that powers major websites, <a href=\"https://www.cloudflare.com/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/\">said</a> it plans to launch a U.S. dollar-backed stablecoin that will be used in AI-powered transactions. The stablecoin is the first by a major tech firm after the passage of stablecoin legislation in July.</p>\n\n<p>The stablecoin, called NET Dollar, will enable instant, automated transactions by AI to take actions on behalf of humans, such as paying for cheapest flight, ordering an item that goes on sale, or paying suppliers upon delivery, the company said. It can also be used by creators to get paid for content. Stablecoins are cryptocurrencies that are typically pegged to the dollar and backed by reserves.</p>\n\n<p>Cloudflare is a publicly traded company that manages web traffic and cybersecurity for around 20% of the internet. There have been concerns among banks and crypto companies that a tech firm would issue a stablecoin to compete against their products. The stablecoin legislation over the summer banned public companies that are not financial firms from issuing stablecoins without government approval. A Cloudflare representative said the company will announce more details later.</p>",
+            "published_at": "2025-09-25T22:30:44.435Z",
+            "url": "https://www.theinformation.com/briefings/tech-giant-cloudflare-launch-stablecoin?unlock=6234c1&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tech-giant-cloudflare-launch-stablecoin?unlock=6234c1&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15983,
+            "guid": "be4d04",
+            "headline": "Apple Presses the EU to Overturn Digital Markets Act",
+            "dek": "The company said the law has forced it to delay features due to the landmark law.",
+            "source_url": "https://www.apple.com/newsroom/2025/09/the-digital-markets-acts-impacts-on-eu-users/",
+            "source_label": "The Information",
+            "body": "<p>Apple has urged the European Union to repeal the Digital Markets Act, claiming it causes delays in new features and increases privacy and security risks for users on the continent.</p>\n\n<p>The company said the law has forced it to postpone features like iPhone mirroring to Mac and live translation with AirPods due to engineering challenges. Location-based features in Maps were also delayed because the DMA requires compatibility with non-Apple products. “Over time, it’s become clear that the DMA isn’t helping markets,” the company said in a statement on its website. “It’s making it harder to do business in Europe.</p>\n\n<p>Apple said it can’t comply with the demands from the European Commission—the entity that oversees the DMA on the EU’s behalf—without compromising user data and that its proposed safeguards were rejected. In June, Apple adjusted its App Store rules and fees in Europe to comply with an EU antitrust order. Apple said this has led to a riskier app experience for iPhone users, with scams, malware and pornography apps appearing due to sideloading and alternative marketplaces. The DMA, which came into force last year, mandates that large tech firms to open their platforms to competitors.</p>\n\n<p>European Commission officials <a href=\"https://www.wsj.com/tech/apple-asks-eu-to-repeal-blocs-landmark-digital-markets-act-8d250aac?gaa_at=eafs&gaa_n=ASWzDAgk3hXdLRFx4EwmnICzLFdDQLhv6PDokmWg75RZHjE_PkxATLy_UUCmnJq3Lcg%3D&gaa_ts=68d5becd&gaa_sig=zLGR6YkD0q0F9rNhsr1CgPAqKAcu6ZNqg-0fJvInGO-e4pD6YNdwqEWvqPf7YArVkQBfBTlIahYHwHoxQAZUIA%3D%3D\">told The Wall Street Journal</a> the organization has no intention to repeal the law.</p>",
+            "published_at": "2025-09-25T22:17:26.580Z",
+            "url": "https://www.theinformation.com/briefings/apple-presses-eu-overturn-digital-markets-act?unlock=be4d04&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-presses-eu-overturn-digital-markets-act?unlock=be4d04&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15982,
+            "guid": "99fc8f",
+            "headline": "Google Considered Selling Part of Ad Tech Unit Last Year, Google Executive Says",
+            "dek": "Google also considered putting part of its ad tech unit into Google Cloud and selling it as a software as a service.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google considered selling part of its ad tech unit as recently as 2024, a Google executive testified in federal court in Virginia on Thursday, after considering the same idea in 2021. The company also considered putting part of its ad tech business into Google Cloud and selling its software as aservice.</p>\n\n<p>The disclosures were made by Tim Craycroft, a Google vice president and general manager of ads, under questioning by a lawyer for the Justice Department. The lawyer was trying to demonstrate that it was technically feasible for Google to break off parts of its ad tech business, even as Google has argued that doing so wasn’t possible.&nbsp;Craycroft&nbsp;added that the 2024 divestiture discussions concerned the ad tech unit’s contracts, patents and revenue, but&nbsp;not the majority of its technology.</p>\n\n<p>The testimony came in the fourth day of a hearing on how Google’s ad tech business should be overhauled to remedy its monopoly in the market for helping publishers sell ad space. The government wants Google to have to sell the part of its ad tech unit that deals with publishers. Craycroft didn’t explain why Google had considered selling the unit in the past, although complaints about Google’s power in the sector have circulated for several years, even as Google’s revenue from handling ads on other people’s websites has declined. Of note, Google has offered to sell parts of its business during the course of the Department of Justice’s investigation and case, but Google and the government couldn’t agree on terms, Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2025-09-15/google-ad-tech-sale-offer-fell-far-short-of-breakup-doj-seeks?taid=68c83f884a6caf0001de0ee4&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter\">reported</a> earlier this month.</p>\n\n<p>Chief Business Officer Philipp Schindler was involved in last year’s consideration, Craycroft testified, and then-Chief Financial Officer Ruth Porat and Schindler were involved in the 2021 discussions.</p>",
+            "published_at": "2025-09-25T20:41:22.391Z",
+            "url": "https://www.theinformation.com/briefings/google-considered-selling-part-ad-tech-unit-last-year-google-executive-says?unlock=99fc8f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-considered-selling-part-ad-tech-unit-last-year-google-executive-says?unlock=99fc8f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15981,
+            "guid": "c5b463",
+            "headline": "DeepMind Releases New Robot AI Models",
+            "dek": "Gemini Robotics-ER 1.5 is the first broadly available Gemini Robotics model.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google DeepMind released the latest version of its flagship language model designed for powering robots, touting the model’s ability to detect nearby objects, plan motions such as how to grab a mug and search the internet for information, such as local recycling laws.</p>\n\n<p>The unit of Alphabet’s Google also made the model, Gemini Robotics-ER 1.5, available for developers to use.</p>\n\n<p>‘ER’ stands for embodied reasoning, indicating the model’s ability to understand the physical world. Those skills also allow a second model, Gemini Robotics 1.5, to control a robot to complete tasks, such as cleaning a table or sorting trash. Users can instruct ER 1.5 to “think” for longer to improve a robot’s accuracy on more complex tasks.</p>\n\n<p>DeepMind announced earlier robotics models in March, but those were not made broadly available to developers.</p>",
+            "published_at": "2025-09-25T20:30:08.138Z",
+            "url": "https://www.theinformation.com/briefings/deepmind-releases-new-robot-ai-models?unlock=c5b463&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/deepmind-releases-new-robot-ai-models?unlock=c5b463&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15980,
+            "guid": "09b204",
+            "headline": "Trump Signs TikTok Executive Order, Values Company at $14 Billion",
+            "dek": "The Abu Dhabi-based investment company could potentially also get a board seat.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Vice President JD Vance said Thursday that a new company poised to take over TikTok’s U.S. operations will be valued at about $14 billion, well below what was expected. Vance made the comments at the Oval Office, where Trump was signing <a href=\"https://www.whitehouse.gov/presidential-actions/2025/09/saving-tiktok-while-protecting-national-security/\">an executive order</a> approving the proposed deal. ByteDance, which owns TikTok, <a href=\"https://www.theinformation.com/briefings/a4fb9b?rc=9byxri\">was valued at $330 billion</a> in a recent employee share sale.</p>\n\n<p>Earlier Thursday, Bloomberg reported that MGX, the United Arab Emirates-backed investment fund, was in talks to join the consortium of non-Chinese investors involved in the deal, which also includes Oracle. The administration has not yet disclosed the complete lineup of investors but Vance said they intend to announce more details&nbsp;in the coming days.</p>\n\n<p>Addressing a question from a reporter about whether he hoped to see TikTok’s algorithm show more MAGA-related content on the U.S. app, Trump responded: “If I could make it 100% MAGA I would, but it’s not gonna work out that way unfortunately.”</p>",
+            "published_at": "2025-09-25T19:41:38.321Z",
+            "url": "https://www.theinformation.com/briefings/mgx-reportedly-involved-tiktok-deal-talks?unlock=09b204&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/mgx-reportedly-involved-tiktok-deal-talks?unlock=09b204&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 15979,
+            "guid": "943af7",
+            "headline": "Databricks Inks $100 Million Deal to Host OpenAI Models",
+            "dek": "The multi-year deal gives Databricks customers direct access to OpenAI’s latest models",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Cloud AI provider&nbsp;Databricks, through a <a href=\"https://www.databricks.com/blog/run-openai-models-directly-databricks\">new agreement with OpenAI</a>, will be able to host models such as GPT-5 for its customers, in a move to address data security concerns for Fortune 500 companies. The partnership enables Databricks’ customers to run OpenAI’s models and design AI agents directly within the Databricks platform.</p>\n\n<p>Databricks expects&nbsp;to spend at least $100 million across multiple years to provide customers access to OpenAI’s models. The agreement could help Databricks generate more revenue from customers building AI applications using the data they store and manage in its cloud service.</p>\n\n<p>The agreement, which is similar to one Databricks <a href=\"https://www.theinformation.com/briefings/771b4e\">announced with Anthropic in March</a>, is the latest example of AI companies <a href=\"https://www.theinformation.com/articles/google-anthropic-discuss-ai-data-security-deals-with-snowflake-databricks?rc=eqgjah\">making it easier for customers to build AI applications</a> without moving their data. This is especially important for firms in regulated industries, such as banks, which have strict data security requirements.</p>",
+            "published_at": "2025-09-25T18:52:50.178Z",
+            "url": "https://www.theinformation.com/briefings/databricks-inks-100-milllion-deal-host-openai-models?unlock=943af7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/databricks-inks-100-milllion-deal-host-openai-models?unlock=943af7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                },
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15978,
+            "guid": "103b3f",
+            "headline": "OpenAI Signs Additional $6.5 Billion Contract With CoreWeave",
+            "dek": "The expanded contract adds to OpenAI’s spending commitments as it tries to secure computing power to train new models and serve its growing customer base.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI agreed to purchase up to $6.5 billion of cloud services from CoreWeave, pushing its contracted spending with the cloud provider&nbsp;to about $22.4 billion, the companies said Thursday.</p>\n\n<p>The expanded contract adds to OpenAI’s spending commitments as it tries to secure enough computing power to train new artificial-intelligence models and serve its growing customer base. OpenAI said this week it’s working on five new data center sites with Oracle and SoftBank and signed a $100 billion deal with Nvidia to use its chips.</p>\n\n<p>CoreWeave in July raised $2.6 billion in debt to help it deliver cloud computing to OpenAI.</p>",
+            "published_at": "2025-09-25T17:57:11.587Z",
+            "url": "https://www.theinformation.com/briefings/openai-signs-additional-6-5-billion-contract-coreweave?unlock=103b3f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-signs-additional-6-5-billion-contract-coreweave?unlock=103b3f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15977,
+            "guid": "044227",
+            "headline": "U.S. Government Signs Deal to Use xAI’s Grok ",
+            "dek": "xAI will charge $0.42 per federal agency. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The U.S. government said Thursday that it had signed a deal with Elon Musk’s xAI that will allow federal workers to use the Grok chatbot for a nominal fee. The government announced similar deals with OpenAI and Anthropic last month.</p>\n\n<p>“Thanks to President Trump and his administration, xAI’s frontier AI is now unlocked for every federal agency empowering the U.S. Government to innovate faster and accomplish its mission more effectively than ever before,” Musk said in a press release. Musk had been a close ally of President Trump during the first months of his presidency before the pair had a public falling-out over the summer. On Sunday, Musk was pictured speaking with Trump at Charlie Kirk’s memorial.</p>\n\n<p>xAI will charge $0.42 per federal agency, according to the <a href=\"https://www.gsa.gov/about-us/newsroom/news-releases/gsa-xai-partner-to-accelerate-federal-ai-adoption-09252025\">press release</a> from the General Services Administration, which handles many government contracts. OpenAI and Anthropic are charging $1 per agency. All three startups, as well as Google, were also <a href=\"https://www.theinformation.com/briefings/pentagon-awards-200-million-contracts-xai-google-anthropic\">awarded $200 million Pentagon contracts</a> this summer.</p>",
+            "published_at": "2025-09-25T16:21:54.520Z",
+            "url": "https://www.theinformation.com/briefings/u-s-government-signs-deal-use-xais-grok?unlock=044227&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-s-government-signs-deal-use-xais-grok?unlock=044227&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15976,
+            "guid": "a5ef23",
+            "headline": "Amazon Reaches $2.5 Billion Settlement In FTC Consumer Protection Lawsuit",
+            "dek": "Amazon will have to make it easier to cancel Prime subscriptions and offer refunds to consumers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon will pay $2.5 billion to settle the Federal Trade Commission’s lawsuit over the e-commerce firm’s alleged use of deceptive practices to unknowingly lock consumers into its Prime membership, the FTC <a href=\"https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon\">announced</a> Thursday. Amazon will pay a $1 billion civil penalty and refund $1.5 billion to roughly 35 million consumers, the statement said.</p>\n\n<p>In addition to the payments, the settlement will require Amazon&nbsp;to include a “clear and conspicuous” button for consumers to decline Prime enrollment and can no longer have a button that says “No, I don’t want Free Shipping.” Amazon must also have clear disclosures about the cost of Prime and how consumers will be charged, as well as have an easy way for shoppers to cancel their subscriptions.</p>\n\n<p>“Amazon and our executives have always followed the law and this settlement allows us to move forward and focus on innovating for customers,” spokesperson Mark Blafkin said in a statement. “We work incredibly hard to make it clear and simple for customers to both sign up or cancel their Prime membership, and to offer substantial value for our many millions of loyal Prime members around the world. We will continue to do so, and look forward to what we’ll deliver for Prime members in the coming years.”</p>\n\n<p>The FTC originally sued Amazon in 2023, and the suit went to trial in Seattle earlier this week. The consumer protection lawsuit is separate from an FTC antitrust lawsuit against Amazon, which alleges that it uses illegal monopolization tactics to control online commerce. That suit isn’t due to go to trial until 2027.</p>",
+            "published_at": "2025-09-25T16:15:36.555Z",
+            "url": "https://www.theinformation.com/briefings/amazon-reaches-2-5-billion-settlement-ftc-consumer-protection-lawsuit?unlock=a5ef23&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-reaches-2-5-billion-settlement-ftc-consumer-protection-lawsuit?unlock=a5ef23&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15975,
+            "guid": "9f50db",
+            "headline": "xAI Sues OpenAI For Allegedly Stealing Trade Secrets ",
+            "dek": "The lawsuit, filed late Wednesday, alleges that OpenAI poached eight xAI employees as part of a “deliberate scheme” to steal confidential information. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk’s xAI sued OpenAI for hiring away several employees who xAI alleges stole trade secrets. Staff that have jumped from xAI to OpenAI include several engineers and former CFO Mike Liberatore.</p>\n\n<p>The lawsuit, filed late Wednesday, alleges that OpenAI poached eight xAI employees as part of a “deliberate scheme” to steal confidential information. xAI already <a href=\"https://www.theinformation.com/briefings/elon-musks-xai-sues-ex-employee-allegedly-taking-secrets-openai\">filed a separate lawsuit</a> last month against one of the former employees named in the lawsuit, Xuechen Li. Other employees named in the suit include former engineers Ethan Knight, Hieu Pham and former head of infrastructure engineering Uday Raddurraju. An OpenAI spokesperson said: “This new lawsuit is the latest chapter in Mr Musk’s ongoing harassment. We have no tolerance for any breaches of confidentiality, nor any interest in trade secrets from other labs.”</p>\n\n<p>The lawsuit didn’t name Liberatore but it did include a screenshot of an email sent by xAI lawyer Alex Sprio to an unnamed “senior finance executive” in July, accusing the executive of breaching their confidentiality agreement. The former executive responded with “s— my d—”, the lawsuit showed. Liberatore left the company in July after three months and joined OpenAI in September.</p>",
+            "published_at": "2025-09-25T14:21:49.313Z",
+            "url": "https://www.theinformation.com/briefings/xai-sues-openai-allegedly-stealing-trade-secrets?unlock=9f50db&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/xai-sues-openai-allegedly-stealing-trade-secrets?unlock=9f50db&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15974,
+            "guid": "fec9a9",
+            "headline": "Oracle Raises $18 Billion in Upsized Debt Offering",
+            "dek": "Oracle had more than $150 billion in current and long-term liabilities at the end of August, according to securities filings.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Oracle raised $18 billion in a debt offering that was upsized from an earlier $15 billion target due to strong demand, said a person familiar with the deal.</p>\n\n<p>The offering includes bonds maturing as far out as 40 years from now, a rarity in the debt markets. The largest portion maturing in 2035 has a coupon that’s roughly one percentage point above the comparable Treasury yield, giving it a <a href=\"https://www.spglobal.com/spdji/en/indices/fixed-income/sp-500-investment-grade-corporate-bond-index/#overview&nbsp;\">higher yield</a> than the overall S&amp;P 500 Investment Grade Corporate Bond Index.</p>\n\n<p>Oracle’s offering comes as it plans to spend big on chips and data centers to satisfy more than $300 billion in cloud contracts with OpenAI and other artificial-intelligence providers. Oracle said this week it’s developing three new data center sites as part of the Stargate initiative with OpenAI and SoftBank.</p>\n\n<p>Oracle had more than $150 billion in current and long-term liabilities at the end of August, according to securities filings. Moody’s and S&amp;P Global Ratings have placed Oracle on negative credit watch, meaning its credit rating could get downgraded if it doesn’t improve its debt levels.</p>\n\n<p>“Oracle’s AI infrastructure business has tremendous potential in our view, but we note that this exponential growth and the already high debt burden at Oracle could result in an extended period of high leverage and negative cash flow,” Moody’s wrote in a report this month. Moody’s has given Oracle a Baa2 rating on the lower end of the investment grade spectrum.</p>\n\n<p>Bank of America, Citigroup, Deutsche Bank, Goldman Sachs, HSBC and JPMorgan Chase were the joint book-running manager for the offering. Oracle did not immediately respond to a request for comment.</p>",
+            "published_at": "2025-09-24T22:14:13.919Z",
+            "url": "https://www.theinformation.com/briefings/oracle-raises-18-billion-upsized-debt-offering?unlock=fec9a9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-raises-18-billion-upsized-debt-offering?unlock=fec9a9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15973,
+            "guid": "c88520",
+            "headline": "Intel Said to Seek Investment From Apple",
+            "dek": "A potential deal could follow Nvidia and Softbank's investment, as part of the struggling chipmaker’s efforts to shore up its business. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-09-24/intel-is-seeking-an-investment-from-apple-as-part-of-its-comeback-bid",
+            "source_label": "Bloomberg",
+            "body": "<p>Intel has approached Apple to seek an investment, Bloomberg reported, as part of the struggling chipmaker’s efforts to shore up its business. Shares of Intel rose more than 6% after the report, while Apple shares fell less than 1% Wednesday.</p>\n\n<p>Intel representatives declined to comment. Apple didn’t respond to a request for comments.</p>\n\n<p>A deal would follow Nvidia’s $5 billion purchase of stock in Intel, which will build custom-designed CPU chips to integrate in Nvidia’s AI systems. Japanese conglomerate SoftBank also announced a $2 billion investment in Intel last month.</p>\n\n<p>Intel, which has spent heavily on building out its foundry business, is seen as a critical part of President Trump’s plan to reduce reliance on non-U.S. manufacturers TSMC and Samsung to manufacture chips. The U.S. government acquired a roughly 10% stake in the chipmaker in an unusual deal in August.</p>",
+            "published_at": "2025-09-24T21:45:54.299Z",
+            "url": "https://www.theinformation.com/briefings/intel-said-seek-investment-apple?unlock=c88520&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/intel-said-seek-investment-apple?unlock=c88520&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 15972,
+            "guid": "14a3ae",
+            "headline": "Google Judge Raises Future of Open Web As She Weighs Ad Tech Divestiture",
+            "dek": "The future of independent web sites is increasingly in the spotlight, as many complain that traffic from Google search has declined.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The judge overseeing an antitrust case over Google’s ad tech operations, Leonie&nbsp;Brinkema,&nbsp;signaled skepticism on Wednesday about whether Google should be forced to divest part of its ad tech business. Her comments came on the third day of a hearing considering how to overhaul Google’s businesses to deal with Brinkema’s ruling in April that Google monopolized the market for technology that helps websites sell ads. The Justice Department has argued that Google should be forced to divest its ad tech operations that help publishers sell ads.</p>\n\n<p>Brinkema asked a lawyer on Wednesday morning whether forcing Google to divest part of its ad tech business would hurt the future of independent web sites, and whether she should take that issue into account as she considers possible remedies for Google’s ad tech monopoly. The future of the open Web—independent web sites—has been a subject of increasing prominence in recent months, as traffic from Google search to web sites has declined, thanks to Google’s introduction of AI overviews.</p>\n\n<p>Later in the day, Brinkema questioned a computer scientist who testified that it would be easy to shift Google’s ad tech into a new environment, as part of a divestiture. Brinkema asked the scientist, who was testifying for the government as an expert witness, how he could be so sure it would be easy. She also asked a witness how antitrust concerns about a possible buyer of the ad tech business should be considered.</p>",
+            "published_at": "2025-09-24T20:28:40.013Z",
+            "url": "https://www.theinformation.com/briefings/google-judge-raises-future-open-web-weighs-ad-tech-divestiture?unlock=14a3ae&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-judge-raises-future-open-web-weighs-ad-tech-divestiture?unlock=14a3ae&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        }
+    ]
+}
