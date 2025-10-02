@@ -1,0 +1,32 @@
+name: Fetch Info
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  vpn-test:
+    runs-on: ubuntu-latest
+
+    services:
+      vpn:
+        image: larryteal/cwcid:latest
+        options: >-
+          --cap-add=NET_ADMIN
+          --sysctl net.ipv6.conf.all.disable_ipv6=0
+          --sysctl net.ipv4.conf.all.src_valid_mark=1
+          --health-cmd="curl -fsSL https://www.cloudflare.com/cdn-cgi/trace/ | grep warp=on || exit 1"
+          --health-interval=5s
+          --health-timeout=3s
+          --health-retries=5
+          --health-start-period=5s
+          # --log-driver=none
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Run task
+        run: |
+          docker run --rm --network=container:${{ job.services.vpn.id }} -v $PWD:/app -w /app curlpy:latest python main.py
