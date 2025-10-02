@@ -21,7 +21,7 @@ jobs:
           --health-timeout=3s
           --health-retries=5
           --health-start-period=5s
-          # --log-driver=none
+        # --log-driver=none
 
     steps:
       - name: Checkout
