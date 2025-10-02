@@ -4,8 +4,8 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # 每天 UTC 0 点运行
+  # schedule:
+  #   - cron: '0 0 * * *' # 每天 UTC 0 点运行
   workflow_dispatch:
 
 jobs:
