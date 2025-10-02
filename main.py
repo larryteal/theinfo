@@ -15,7 +15,7 @@ def main(refresh_token: str, install_id: str, login_url: str, briefings_url: str
     }
 
     # 登录获取 JWT
-    r = curl_cffi.post(login_url, json=json_payload, impersonate="chrome_android")
+    r = curl_cffi.post(login_url, json=json_payload, impersonate="chrome_android", default_headers=False)
     r.raise_for_status()
     rjson = r.json()
     jwt = rjson["jwt"]
@@ -25,7 +25,7 @@ def main(refresh_token: str, install_id: str, login_url: str, briefings_url: str
     }
 
     # 获取 briefings 数据
-    r = curl_cffi.get(briefings_url, headers=headers, impersonate="chrome")
+    r = curl_cffi.get(briefings_url, headers=headers, impersonate="chrome", default_headers=False)
     r.raise_for_status()
     data = r.json()
 
