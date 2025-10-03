@@ -30,6 +30,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
+      - name: Get timestamp
+        id: get-timestamp
+        run: echo "timestamp=$(date -u +'%Y%m%dT%H%M%SZ')" >> $GITHUB_OUTPUT
+        
       - name: Run task
         run: |
           mkdir -p briefings
