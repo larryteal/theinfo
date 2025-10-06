@@ -1,0 +1,649 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16027,
+            "guid": "8b81af",
+            "headline": "Anduril CEO: Government Shutdown is ‘Brutal'",
+            "dek": "The startup is also scaling hardware production by 250% for autonomous defense systems.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anduril CEO Brian Schimpf said that the partial government shutdown could “stall progress for the year” across the defense sector in an interview that aired Friday on The Information’s TITV.</p>\n\n<p>“For a company like us, we’re in a pretty good spot working a lot of continuing programs,” he said. “The bigger issue is when you’re in rapid growth and you need these new things to go, that is very, very painful. And so I think it probably impacts a lot of the newer defense players a lot more than it hits us.”</p>\n\n<p>Schimpf also discussed Anduril’s expected doubling in revenue this year, why he’s predicting more regional instability and the future of the richly valued company’s product pipeline.</p>",
+            "published_at": "2025-10-06T01:17:48.565Z",
+            "url": "https://www.theinformation.com/briefings/anduril-ceo-government-shutdown-brutal?unlock=8b81af&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anduril-ceo-government-shutdown-brutal?unlock=8b81af&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16026,
+            "guid": "410adf",
+            "headline": "Naveen Rao’s New Startup in Funding Talks at $5 Billion Valuation ",
+            "dek": "Rao has said the startup will rethink “the foundations of a computer.”\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>A new artificial intelligence hardware startup founded by Naveen Rao is in talks to raise $1 billion at a $5 billion valuation, according to a person with knowledge of the discussions.</p>\n\n<p>The round would rank as one of the most highly valued for a months’ old startup with no product or revenue. Investors have been particularly willing to award high valuations to young AI startups if they’re led by serial entrepreneurs or top researchers. Techcrunch first reported details of the round.</p>\n\n<p>Since Databricks two years ago paid $1.3 billion for MosaicML, the AI startup Rao co-founded, he had been vice president of AI at the database management company. Last month he transitioned to an advisory role to work on his new startup, according to his LinkedIn. Last week, Rao said in a post on X that the startup, Unconventional, would be “rethinking the foundations of a computer.”</p>\n\n<p>Andreessen Horowitz, Lux Capital and Lightspeed Venture Partners are in talks to invest, according to the person. Databricks will also invest.</p>\n\n<p>(This article has been updated to confirm the talks and with details on the investors.)</p>",
+            "published_at": "2025-10-05T03:18:23.293Z",
+            "url": "https://www.theinformation.com/briefings/naveen-raos-new-startup-said-target-5-billion-valuation?unlock=410adf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/naveen-raos-new-startup-said-target-5-billion-valuation?unlock=410adf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16025,
+            "guid": "4f19ca",
+            "headline": "Cerebras Pulls IPO Plans",
+            "dek": "The chip upstart looking to challenge Nvidia told regulators it was pumping the brakes on a public offering it had been planning since 2024. ",
+            "source_url": "https://www.sec.gov/Archives/edgar/data/2021728/000119312525230382/d886849drw.htm",
+            "source_label": "The Information",
+            "body": "<p>Chipmaker Cerebras Systems said in a securities <a href=\"https://www.sec.gov/Archives/edgar/data/2021728/000119312525230382/d886849drw.htm\">filing</a> on Friday that it was withdrawing its plans to go public.</p>\n\n<p>The news comes just days after the upstart looking to take on Nvidia announced it had officially closed a $1.1 billion fundraise from private investors that it had been putting together over the summer. That round represented an apparent pivot from the earlier plan its CEO, Andrew Feldman, outlined in May, when he said the company would aim to make its public debut this year once it had secured regulatory approval to sell shares to Middle East investors, <a href=\"https://www.theinformation.com/articles/cerebras-seeks-1-billion-private-funding-delaying-possible-ipo\">according to The Information</a>.</p>\n\n<p>The company’s exposure to the Middle East has been a big sticking point with investors. According to its now-withdrawn IPO filing last September, Group 42 Holding, the parent of G42, accounted for the majority of Cerebras’ revenue in 2023 and the first half of 2024. When asked in a Sept. 22 <a href=\"https://www.theinformation.com/titv/zdxqv\">interview</a> on The Information’s TITV about whether its revenue is still so heavily concentrated, Feldman declined to answer, saying “they’ll continue to be a very, very large customer.”</p>",
+            "published_at": "2025-10-04T00:31:47.657Z",
+            "url": "https://www.theinformation.com/briefings/cerebras-pulls-ipo-plans?unlock=4f19ca&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/cerebras-pulls-ipo-plans?unlock=4f19ca&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15471,
+                    "guid": "f2c7a680ae",
+                    "title": "Cerebras Seeks Up to $1 Billion in Private Funding, Delaying Possible IPO",
+                    "url": "https://www.theinformation.com/articles/cerebras-seeks-1-billion-private-funding-delaying-possible-ipo?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16024,
+            "guid": "6110c9",
+            "headline": "OpenAI Buys Investing App Startup",
+            "dek": "The founder of the startup, called ROI, will joined the maker of ChatGPT in what's known as an acquihire. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has bought investing app startup ROI and hired its CEO and co-founder, Sujith Vishwajith, to join its technical staff, a spokesperson for the ChatGPT maker said. ROI said it will shut down the app.</p>\n\n<p>Since ChatGPT’s early days, financial firms such as <a href=\"https://www.theinformation.com/articles/stingy-banks-open-their-wallets-to-microsofts-ai-automation-comes-for-googles-salespeople?utm_campaign=article_email&utm_content=article-10929&utm_medium=email&utm_source=sg&rc=zjctrx\">J.P. Morgan and Morgan Stanley</a> have used the AI-powered chatbot to answer employees’ financial questions, and consumers use it for all manner of personal and professional financial planning and guidance. But OpenAI hasn’t yet launched any dedicated finance-related products or features.</p>\n\n<p>Vishwajith and Chief Product Officer Chip Davis started ROI in 2021 and raised $3.6 million in 2023 from investors led by Spark Capital and including Google’s Gradient Ventures and basketball star Kevin Durant’s VC firm, according to PitchBook. The app offered a personalized view of a subscriber’s investments, including assets in various crypto wallets.</p>\n\n<p>OpenAI isn’t buying any intellectual property with the deal, whose terms were not disclosed. Representatives for the startup didn’t return requests for comment.</p>",
+            "published_at": "2025-10-03T23:53:42.760Z",
+            "url": "https://www.theinformation.com/briefings/openai-buys-investing-app-startup?unlock=6110c9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-buys-investing-app-startup?unlock=6110c9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16023,
+            "guid": "504c78",
+            "headline": "Coinbase Seeks Federal Charter for Custody, Payment Business",
+            "dek": "Coinbase joins Circle, Ripple and Stripe in seeking federal trust charters. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Coinbase said Friday it is seeking a charter with a federal banking regulator that will allow it to expand its crypto custody business and enter into payments services.</p>\n\n<p>The largest U.S. crypto exchange is applying for a national trust charter with the Office of the Comptroller of the Currency, it said in a blog <a href=\"https://www.coinbase.com/blog/Coinbase-Strengthens-Commitment-to-Innovation-and-Oversight-with-National-Trust-Charter-Application\">post</a> Friday. It has “no intention of becoming a bank,” it added. The charter does not allow companies to take deposits or make loans as regular banks do.</p>\n\n<p>Coinbase joins other crypto and fintech firms, including Circle, Ripple and Stripe, in pursuing a federal trust charter under the Trump administration, which has been far friendlier to crypto companies than the last administration. Coinbase currently has a license for custody and a virtual currency business license with the New York state’s financial regulator, but a federal charter will allow it to provide services nationwide without the need for state licenses.</p>",
+            "published_at": "2025-10-03T22:44:12.896Z",
+            "url": "https://www.theinformation.com/briefings/coinbase-seeks-federal-charter-custody-payment-business?unlock=504c78&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coinbase-seeks-federal-charter-custody-payment-business?unlock=504c78&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16022,
+            "guid": "d81e86",
+            "headline": "Tesla Shareholder Group Urges Vote Against Elon Musk Pay Package",
+            "dek": "The group said Musk’s proposed pay package risks significantly diluting shareholders and fails to incentivize him to focus on Tesla over other projects like xAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>A group of Tesla shareholders is urging investors to vote against CEO Elon Musk’s proposed pay package, which could be worth up to $1 trillion, at the electric automaker’s annual meeting next month, according to a letter included in a regulatory <a href=\"https://www.sec.gov/Archives/edgar/data/1318605/000121465925014509/j102251px14a6g.htm\">filing</a>.</p>\n\n<p>The shareholders, which include officials from several U.S. states who oversee pension funds, said Musk’s proposed pay package risks significantly diluting shareholders and fails to incentivize him to focus on Tesla over other projects like xAI. The package would award Tesla shares worth up to $1 trillion if Musk meets <a href=\"https://www.theinformation.com/briefings/tesla-proposes-elon-musk-pay-package-worth-1-trillion\">several ambitious goals</a>, including increasing Tesla’s market capitalization to $8.5 trillion. “We are concerned that the Board remains fixated on pleasing Mr. Musk, rather than responsibly addressing his many varied pursuits, at least some of which have come at the expense of Tesla shareholders,” the group said.</p>\n\n<p>In addition to rejecting Musk’s proposed pay package, the group urged shareholders to vote against the re-election of board members Ira Ehrenpreis, Joe Gebbia and Kathleen Wilson-Thompson. Shareholders who signed the letter include the treasurers of Connecticut and Nevada, as well as the American Federation of Teachers.</p>",
+            "published_at": "2025-10-03T21:09:57.858Z",
+            "url": "https://www.theinformation.com/briefings/tesla-shareholder-group-urges-vote-elon-musk-pay-package?unlock=d81e86&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-shareholder-group-urges-vote-elon-musk-pay-package?unlock=d81e86&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16021,
+            "guid": "51c8df",
+            "headline": "Amazon Devices Exec, S-Team Member Rob Williams to Retire",
+            "dek": "Williams was the e-commerce giant’s vice president of device software and services and has worked at the company since 2013.",
+            "source_url": "https://www.reuters.com/business/retail-consumer/amazon-loses-devices-vp-member-elite-ceo-advisory-just-days-after-launches-2025-10-03/",
+            "source_label": "Reuters",
+            "body": "<p>Rob Williams, an Amazon executive in the company’s devices division and a member of the company’s elite management group known as the S-team, is leaving the company, Reuters <a href=\"https://www.reuters.com/business/retail-consumer/amazon-loses-devices-vp-member-elite-ceo-advisory-just-days-after-launches-2025-10-03/\">reported</a> Friday. Williams, who has worked at Amazon since 2013, confirmed his departure in a LinkedIn <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7379949994616926208/\">post</a> Friday.</p>\n\n<p>Tapas Roy, who previously led product and engineering for Amazon Fire TV, will take over Williams’s role, said Panos Panay, the executive who leads Amazon’s devices business, in a memo this week, Reuters reported. In the memo, Panay said Williams will remain an advisor to him and on the S-team through the end of this year.</p>\n\n<p>Amazon unveiled a revamped range of smart home and consumer devices at a <a href=\"https://www.theinformation.com/briefings/amazon-unveils-revamped-device-lineup-help-boost-alexa-usage?rc=d8mrkd\">launch event in New York on Tuesday</a>, including new Ring home cameras, Kindle tablets and Echo speakers. The new devices all incorporate Alexa+, the updated version of Amazon’s longtime voice assistant, which Amazon has been trying to boost adoption of this year.</p>",
+            "published_at": "2025-10-03T21:06:20.682Z",
+            "url": "https://www.theinformation.com/briefings/amazon-devices-exec-s-team-member-rob-williams-retire?unlock=51c8df&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-devices-exec-s-team-member-rob-williams-retire?unlock=51c8df&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16020,
+            "guid": "6d6e13",
+            "headline": "Apple Removes ICE-Tracking App After Pressure From DOJ",
+            "dek": "The creator of the app said he would fight the move.\r\n",
+            "source_url": "https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi",
+            "source_label": "Fox News",
+            "body": "<p>Apple has taken down an app used to track the location of ICE agents from its app store after pressure from officials from the Department of Justice, Fox News Digital reported.</p>\n\n<p>“We reached out to Apple today demanding they remove the ICEBlock app from their App Store — and Apple did so,” Attorney General Pam Bondi told the news organization, arguing that the app put law enforcement officers at risk. Joshua Aaron, the creator of ICEBlock disputed the idea that the app caused harm to officers and condemned Apple’s actions. “Capitulating to an authoritarian regime is never the right move,“ he said in a statement to Fox.</p>\n\n<p>The move is the latest example of the Trump administration pressuring tech companies over various issues. In recent months, President Trump called on Microsoft to <a href=\"https://www.theinformation.com/briefings/trump-demands-microsoft-fire-company-executive-immediately?rc=kfcki8\">fire its head of global affairs</a>, and <a href=\"https://www.theinformation.com/briefings/trump-calls-intel-ceo-resign-immediately?rc=kfcki8\">demanded that the CEO of Intel resign</a>, although Trump later changed his mind about the Intel CEO.</p>",
+            "published_at": "2025-10-03T14:47:00.015Z",
+            "url": "https://www.theinformation.com/briefings/apple-removes-ice-tracking-app-pressure-doj?unlock=6d6e13&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-removes-ice-tracking-app-pressure-doj?unlock=6d6e13&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16019,
+            "guid": "536af1",
+            "headline": "BlackRock-Owned GIP in Talks to Buy Data Center Firm for $40 Billion",
+            "dek": "MGX, an investment firm formed by Mubadala, is also involved in the talks.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-03/gip-nears-deal-to-buy-aligned-data-centers-for-about-40-billion",
+            "source_label": "Bloomberg",
+            "body": "<p>BlackRock-owned investment firm Global Infrastructure Partners is in advanced talks to buy Aligned Data Centers, a privately held data center firm, in a deal that could be worth around $40 billion, according to a report in Bloomberg.</p>\n\n<p>Earlier this year, Texas-based Aligned raised more than $12 billion in equity and debt in a round led by Macquarie Asset Management to build out 5 gigawatts of data center capacity.</p>\n\n<p>The deal is not finalized and MGX, an investment firm formed by Mubadala, is also involved in the talks, according to the Bloomberg report. Mubalada has invested in Aligned. GIP owns other data center firms and power firms, including CyrusOne.</p>\n\n<p>The firms involved in the potential deal to buy Aligned are part of a consortium that planned to raise an initial $30 billion to build AI data centers last year. The consortium consisted of GIP, BlackRock, Microsoft and MGX.</p>",
+            "published_at": "2025-10-03T05:31:47.244Z",
+            "url": "https://www.theinformation.com/briefings/blackrock-owned-gip-talks-buy-data-center-firm-40-billion?unlock=536af1&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blackrock-owned-gip-talks-buy-data-center-firm-40-billion?unlock=536af1&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16018,
+            "guid": "ad4d13",
+            "headline": "Uber Buys Data Labeling Startup Segments AI",
+            "dek": "The deal comes as Uber expands into data labeling.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Uber said on Thursday that it is buying data labeling startup Segments.ai to expand its software for labeling lidar data. The two companies didn’t disclose terms of the deal.</p>\n\n<p>Uber has expanded into data labeling and annotation services over the past year, providing data for language models, as well as physical AI data, such as identifying items in scenes for self-driving cars.</p>\n\n<p>Segments is one of <a href=\"https://www.theinformation.com/articles/the-startups-taking-on-scale-ai-in-robotics\">several startups</a> that offer customized software for labeling physical data recorded by cameras and lidar sensors. Dexterity, for example, which develops robots for unloading trucks, switched from Scale AI’s data services to Segments’ services a couple of years ago. Segments farms out much labeling work to smaller companies and offers software that Dexterity’s employees can use to label images themselves.</p>",
+            "published_at": "2025-10-02T23:23:53.132Z",
+            "url": "https://www.theinformation.com/briefings/uber-buys-data-labeling-startup-segments-ai?unlock=ad4d13&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/uber-buys-data-labeling-startup-segments-ai?unlock=ad4d13&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 14527,
+                    "name": "uber/lyft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16017,
+            "guid": "35f22b",
+            "headline": "MGX, SoftBank Back OpenAI Tender at $500 billion Valuation",
+            "dek": "The share sale price is nearly double OpenAI’s $260 billion valuation from a separate $40 billion round of funding it’s raising.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SoftBank, Abu Dhabi’s MGX and others funded a $6.6 billion OpenAI employee share sale that valued the company at $500 billion, said a person with knowledge of the deal.</p>\n\n<p>The share sale price is nearly double OpenAI’s $260 billion valuation from a separate $40 billion round of funding it’s raising from investors led by SoftBank. Dragoneer, Thrive Capital and T. Rowe Price also invested in the employee tender, said the person with knowledge of the deal.</p>\n\n<p>OpenAI considered allowing a tender as large as $8 billion, with the final size depending on how much stock current and former employees decided to sell, The Information <a href=\"https://www.theinformation.com/articles/openai-employee-stock-sale-rise-8-billion\">previously reported</a>.</p>",
+            "published_at": "2025-10-02T19:04:18.395Z",
+            "url": "https://www.theinformation.com/briefings/mgx-softbank-back-openai-tender-500-billion-valuation?unlock=35f22b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/mgx-softbank-back-openai-tender-500-billion-valuation?unlock=35f22b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16016,
+            "guid": "a10101",
+            "headline": "Salesforce Targets AI Developers With New Vibe Coding Service",
+            "dek": "Salesforce has seen sluggish adoption for its agent-building service since launching it a year ago, so now it is targeting the hottest part of the AI market. ",
+            "source_url": "https://developer.salesforce.com/blogs/2025/10/unleash-your-innovation-with-agentforce-vibes-vibe-coding-for-the-enterprise",
+            "source_label": "The Information",
+            "body": "<p>Salesforce is jumping aboard the vibe coding trend, <a href=\"https://developer.salesforce.com/blogs/2025/10/unleash-your-innovation-with-agentforce-vibes-vibe-coding-for-the-enterprise\">launching a new service</a> that lets developers create applications by describing the features and functionality they want using simple text prompts.</p>\n\n<p>The cloud software provider&nbsp;says the new service, part of its Agentforce product, will include stronger security and management features than other vibe coding tools that are designed for independent developers. That echoes the messaging that rivals like Microsoft and Amazon are using to convince customers that their AI is accurate enough to use in critical business functions.</p>\n\n<p>Agentforce <a href=\"https://www.theinformation.com/articles/marc-benioff-said-ai-easy-crazy-team-salesforce-proved-wrong?rc=eqgjah\">has seen slow adoption</a> since its launch last October, in part because many Salesforce customers <a href=\"https://www.theinformation.com/articles/ai-giving-salesforce-boost?rc=eqgjah\">haven’t taken the necessary steps</a> to use the product, like organizing their data. By offering a vibe coding service, Salesforce is now going after a part of the AI market that is already seeing rapid adoption.</p>",
+            "published_at": "2025-10-02T17:49:34.906Z",
+            "url": "https://www.theinformation.com/briefings/salesforce-targets-ai-developers-new-vibe-coding-service?unlock=a10101&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/salesforce-targets-ai-developers-new-vibe-coding-service?unlock=a10101&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16015,
+            "guid": "8b66f2",
+            "headline": "Tesla Deliveries Spiked 7% In Third Quarter Ahead of Tax Credit Expiry  ",
+            "dek": "The impending end of a $7,500 U.S. federal tax credit for electric vehicles at the end of September contributed to a surge in sales. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla delivered 497,000 vehicles in the third quarter of 2025, up 7% year-over-year, as the impending end of a U.S. federal tax credit for electric vehicles at the end of September contributed to a surge in sales.</p>\n\n<p>While sales were up, Tesla produced 447,000 vehicles in the July-to-September quarter, down about 5% from the same period last year. The lower production rate indicates the company expects sales to slow in the fourth quarter since the $7,500 federal tax credit for electric vehicle purchases has now expired. Tesla also <a href=\"https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments\">said</a> it installed 12.5 GWh of energy storage products in the third quarter, some of which went to Elon Musk’s xAI, which is <a href=\"https://www.theinformation.com/articles/ex-oilman-became-face-elon-musks-supercomputers\">using the batteries at its supersized data centers</a>. Both the vehicle and energy storage delivery figures were records, according to Tesla.</p>\n\n<p>Tesla shares were roughly flat early Thursday but have rallied 39% over the past month as CEO Elon Musk has said he’s becoming more involved at the company and spending less time on politics. Musk <a href=\"https://www.theinformation.com/briefings/elon-musk-buys-1-billion-tesla-stock\">purchased $1 billion in Tesla shares</a> in September, his first significant investment in more than five years. In November, Tesla shareholders will vote on whether to approve an <a href=\"https://www.theinformation.com/briefings/tesla-proposes-elon-musk-pay-package-worth-1-trillion\">unprecedented pay package for Musk</a> proposed by the Tesla board, which will grant him up to $1 trillion in stock if he meets several ambitious goals including increasing the company’s market capitalization to $8.5 trillion, up from less than $1.5 trillion today.</p>",
+            "published_at": "2025-10-02T14:03:00.962Z",
+            "url": "https://www.theinformation.com/briefings/tesla-deliveries-spiked-7-third-quarter-ahead-tax-credit-expiry?unlock=8b66f2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-deliveries-spiked-7-third-quarter-ahead-tax-credit-expiry?unlock=8b66f2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16014,
+            "guid": "2bf325",
+            "headline": "OpenAI Taps Samsung, SK Hynix for Massive AI Infrastructure Project",
+            "dek": "OpenAI’s demand may reach 900,000 wafers per month, more than doubling the current global memory production capacity.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI signed preliminary agreements with South Korea’s largest memory chip makers to supply its ambitious Stargate datacenter project.</p>\n\n<p>The deals were announced during a trip by OpenAI CEO Sam Altman to Seoul. The operator of ChatGPT is leading a sweeping global push to build massive new data centers for AI — a project likely to cost trillions of dollars and consume vast amounts of chips, servers, cooling systems and electricity.</p>\n\n<p>OpenAI said in a <a href=\"https://openai.com/index/samsung-and-sk-join-stargate/\">statement</a> that its demand for high-bandwidth memory could reach as much as 900,000 wafers per month. SK Hynix said in a <a href=\"https://eng.sk.com/news/sk-group-partners-with-openai-to-advance-global-ai-infrastructure\">separate statement</a> that this would be more than double the industry’s current production capacity.</p>\n\n<p>SK Hynix is the worldwide leader in supplying high-bandwidth memory, which is critical for Nvidia’s chips, while Samsung is working to take a larger share of the fast-growing market. The companies are the latest to support OpenAI’s global AI infrastructure buildout alongside Nvidia and Oracle.</p>\n\n<p>After Seoul, Altman was set to visit Taipei for meetings with Taiwan Semiconductor Manufacturing Company and Hon Hai Precision Industry, also known as Foxconn, major partners in the AI server supply chain, local Taiwanese reports said.</p>",
+            "published_at": "2025-10-02T04:59:36.345Z",
+            "url": "https://www.theinformation.com/briefings/openai-taps-samsung-sk-hynix-massive-ai-infrastructure-project?unlock=2bf325&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-taps-samsung-sk-hynix-massive-ai-infrastructure-project?unlock=2bf325&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16013,
+            "guid": "e12677",
+            "headline": "Snyk Fields PE Interest as Growth Slows",
+            "dek": "The cybersecurity startup still plans to go public next year if it doesn't accept a buyout offer.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Snyk’s revenue growth slowed to 12% in the second quarter, <a href=\"https://www.theinformation.com/articles/cybersecurity-startup-snyk-considers-buyout-interest-ipo-plans-stall?rc=zjctrx\">The Information reported</a>, from 26% for all of 2024 and 50% in 2023 as the decade-old startup faced mounting competition from younger cybersecurity startups&nbsp;as well as AI products that incorporated similar features.</p>\n\n<p>The Boston-based startup, founded by two former members of Israel’s elite 8200 unit, has fielded acquisition interest from private equity firms. These included one proposal worth less $3 billion, a steep drop from its last valuation of around $7.4 billion. The company still has $400 million in cash and plans to do acquisition to buttress new AI products, the report said.&nbsp;&nbsp;It plans to take advantage of renewed market conditions and go public next year if it does not receive an acquisition offer to its liking.</p>",
+            "published_at": "2025-10-02T00:07:35.646Z",
+            "url": "https://www.theinformation.com/briefings/snyk-fields-pe-interest-growth-slows?unlock=e12677&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snyk-fields-pe-interest-growth-slows?unlock=e12677&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15841,
+                    "guid": "b4725b2336",
+                    "title": "Cybersecurity Startup Snyk Considers Buyout Interest as IPO Plans Stall",
+                    "url": "https://www.theinformation.com/articles/cybersecurity-startup-snyk-considers-buyout-interest-ipo-plans-stall?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16012,
+            "guid": "f68765",
+            "headline": "Fermi Soars to Nearly $22 billion Valuation in Trading Debut",
+            "dek": "Fermi, which was founded this year, is building a data center site connected to natural gas and nuclear power in Amarillo, Texas.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares in Fermi America rose more than 50% to almost $33 a piece following its listing on the Nasdaq exchange, a sign of investor exuberance for companies building data centers for artificial intelligence.</p>\n\n<p>Fermi, which was founded this year, is building a data center site connected to natural gas and nuclear power in Amarillo, Texas, on a more than 5,000 acre plot of land leased from the Texas Tech University System. It hasn’t made any revenue so far, though it’s signed a non-binding agreement with an unnamed tech company interested in being a tenant for the site.</p>\n\n<p>Fermi’s trading debut gave it a valuation of about $21.5 billion, according to the fully diluted share count it outlined in an initial public offering prospectus.</p>",
+            "published_at": "2025-10-02T00:06:02.280Z",
+            "url": "https://www.theinformation.com/briefings/fermi-soars-nearly-22-billion-valuation-trading-debut?unlock=f68765&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/fermi-soars-nearly-22-billion-valuation-trading-debut?unlock=f68765&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16010,
+            "guid": "4321ff",
+            "headline": "Exclusive: Crypto Treasury Stock Launches Stablecoins",
+            "dek": "Nasdaq-listed SUI Group is the first digital asset treasury firm to launch stablecoins, adding competition for Circle and Tether. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SUI Group, a Nasdaq-listed firm dedicated to buying and holding Sui cryptocurrency, said it is launching two stablecoins for the Sui blockchain, making it the first digital-asset vehicle stock to enter the highly competitive stablecoin business.</p>\n\n<p>The move adds to the competition facing Circle and Tether, the two biggest stablecoin issuers, as more crypto companies and platforms launch their own stablecoins after the passage of U.S. stablecoin legislation. Stablecoins are cryptocurrencies typically pegged to the dollar and used by crypto traders as cash. Circle’s USDC is currently the most popular stablecoin on the Sui blockchain, with $447 million circulating there.</p>\n\n<p>SUI Group, a non-bank lender formerly named Mill City Ventures III, in July raised $450 million from crypto investors including Galaxy Digital and Pantera Capital to start buying Sui tokens. It is launching two stablecoins: suiUSDe, which will provide yield to holders, and USDi, which will not pay yield to holders. It is partnering with stablecoin startup Ethena to issue the two tokens, which will go live by the end of this year.</p>",
+            "published_at": "2025-10-01T20:00:11.024Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-crypto-treasury-stock-launches-stablecoins?unlock=4321ff&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-crypto-treasury-stock-launches-stablecoins?unlock=4321ff&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16011,
+            "guid": "7e7895",
+            "headline": "Mira Murati’s Thinking Machines Lab Launches First Finetuning Product",
+            "dek": "The product, called Tinker, allows developers to customize models on their own datasets.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Thinking Machines Lab, the AI startup cofounded by former OpenAI Chief Technology Officer Mira Murati, announced its first product, an application programming interface that allows developers to finetune, or tweak, open-source models.</p>\n\n<p>The product, called Tinker, allows developers to customize models on their own datasets, while Thinking Machines handles the infrastructure work like keeping chips up and running in the background, the company said in a blog post on Wednesday. The Information first <a href=\"https://www.theinformation.com/articles/ex-openai-cto-muratis-startup-plans-compete-openai-others\">reported</a> on Thinking Machines’ efforts to make such model customization more accessible.</p>\n\n<p>Murati publicly launched Thinking Machines in February this year, after a number of OpenAI researchers left the ChatGPT-maker to work with her and other top researchers. Since then, though, it’s <a href=\"https://www.theinformation.com/articles/10-billion-enigma-mira-murati\">been unclear to people outside the company</a>, even its own investors, what its long-term product goals are.</p>",
+            "published_at": "2025-10-01T18:56:48.373Z",
+            "url": "https://www.theinformation.com/briefings/mira-muratis-thinking-machines-lab-launches-first-finetuning-product?unlock=7e7895&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/mira-muratis-thinking-machines-lab-launches-first-finetuning-product?unlock=7e7895&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15820,
+                    "guid": "7488b22e59",
+                    "title": "The $10 Billion Enigma of Mira Murati",
+                    "url": "https://www.theinformation.com/articles/10-billion-enigma-mira-murati?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16008,
+            "guid": "1cd6d3",
+            "headline": "Microsoft CEO Relinquishes Some Duties to Focus on Technology ",
+            "dek": "Satya Nadella will offload business responsibilities to Judson Althoff.",
+            "source_url": "https://blogs.microsoft.com/blog/2025/10/01/accelerating-our-commercial-growth/",
+            "source_label": "The Information",
+            "body": "<p>Microsoft CEO Satya Nadella is handing off some of his business responsibilities so he can redouble his focus on the company’s biggest technical challenges.</p>\n\n<p>In a message to Microsoft employees on Wednesday, Nadella said that the changes will result in Judson Althoff, who has been Microsoft’s chief commercial officer, becoming CEO of Microsoft’s commercial business. Oversight of Microsoft’s marketing and operations organizations will move from Nadella to Althoff.</p>\n\n<p>“This will also allow our engineering leaders and me to be laser focused on our highest ambition technical work—across our datacenter buildout, systems architecture, AI science, and product innovation—to lead with intensity and pace in this generational platform shift,” Nadella said in his message.</p>\n\n<p>Some things will not change though. Takeshi Numoto, Microsoft’s chief marketing officer, will still report to Nadella, in addition to reporting to Althoff. And Carolina Dybeck Happe, Microsoft’s chief operations officer, will continue to report to Nadella.</p>",
+            "published_at": "2025-10-01T15:00:10.022Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-ceo-relinquishes-duties-focus-technology?unlock=1cd6d3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-ceo-relinquishes-duties-focus-technology?unlock=1cd6d3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16009,
+            "guid": "84bd6e",
+            "headline": "Apple, OpenAI Seek to Throw Out Elon Musk’s xAI Antitrust Lawsuit",
+            "dek": "OpenAI said: \"Elon Musk is waging a campaign of lawfare against the leading artificial intelligence company.\" ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple and OpenAI asked a federal judge to dismiss an antitrust <a href=\"https://www.theinformation.com/briefings/elon-musks-xai-sues-apple-openai-hurting-ai-competition\">lawsuit brought by Elon Musk’s xAI</a> that alleged the two companies squashed competition in artificial intelligence by steering users toward ChatGPT instead of competitors like xAI’s Grok.</p>\n\n<p>In a court filing late Tuesday, Apple called xAI’s suit a “multi-step chain of speculation on top of speculation” that failed to prove actual injury. In a separate filing, OpenAI said: “Elon Musk is waging a campaign of lawfare against the leading artificial intelligence company, OpenAI.”</p>\n\n<p>xAI’s original suit, which was filed in August in Texas, alleged that a deal Apple announced in 2024 to integrate ChatGPT into iOS was anticompetitive. Apple said in its response that its deal with OpenAI is “expressly not exclusive,” and <a href=\"https://www.theinformation.com/articles/apple-losing-ground-ai-talent-war-just-money\">The Information reported</a> in May that Apple is evaluating models from other companies including Anthropic and Google to power the next iteration of Siri. In addition to xAI’s antitrust suit, the company sued OpenAI last week for allegedly <a href=\"https://www.theinformation.com/briefings/xai-sues-openai-allegedly-stealing-trade-secrets\">stealing trade secrets</a> by poaching employees. Musk is also <a href=\"https://www.theinformation.com/articles/musks-legal-battle-openais-structure-total-long-shot\">personally suing OpenAI</a> in a bid to stop it from converting to a for-profit company.</p>",
+            "published_at": "2025-10-01T14:26:39.881Z",
+            "url": "https://www.theinformation.com/briefings/apple-openai-seek-throw-elon-musks-xai-antitrust-lawsuit?unlock=84bd6e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-openai-seek-throw-elon-musks-xai-antitrust-lawsuit?unlock=84bd6e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        }
+    ]
+}
