@@ -1,0 +1,675 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16048,
+            "guid": "43f94f",
+            "headline": "China Tightens Rare Earth Export Controls ",
+            "dek": "Beijing’s new rules for the export of rare earths for semiconductor uses could affect Nvidia’s supply chain. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>China on Thursday announced additional export controls on rare earths, expanding restrictions on critical minerals that are used in the manufacturing of everything from gadgets to electric vehicles to defense systems.</p>\n\n<p>Under the new rules, exports for overseas military applications won’t be allowed, while exports for uses in semiconductors and chip manufacturing equipment will require approval on a case-by-case basis, China’s Ministry of Commerce said. The new rules, which expanded from earlier restrictions announced in April, also limit&nbsp;the export of technologies used for rare earth production and recycling.</p>\n\n<p>The new rules could affect chip giants like Nvidia, if the company’s suppliers need to apply for Beijing’s licenses in order to purchase large quantities of rare earths from China. Rare earths are used in several components for Nvidia chips and servers, such as those&nbsp;in the cooling system.</p>\n\n<p>China produces the vast majority of the world’s rare earths. As U.S.-China geopolitical tensions have escalated in recent years, China’s control of rare earths has given Beijing leverage in its trade negotiations with Washington.</p>",
+            "published_at": "2025-10-09T08:04:56.793Z",
+            "url": "https://www.theinformation.com/briefings/china-tightens-rare-earth-export-controls?unlock=43f94f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-tightens-rare-earth-export-controls?unlock=43f94f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                },
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16047,
+            "guid": "2e6a9b",
+            "headline": "Elon Musk and X Settle Unpaid Severance Lawsuit from Ex-Twitter Executives ",
+            "dek": "The four executives sued Musk last year over what they said was $128 million in unpaid severance. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk and his social media site X, formerly known as Twitter, have settled a lawsuit from four top Twitter executives that Musk fired after acquiring the company in 2022.</p>\n\n<p>Former Twitter CEO Parag Agrawal, chief financial officer Ned Segal, chief legal officer Vijaya Gadde and general counsel Sean Edgett reached a settlement with Musk and X, according to California federal court filings. The four executives <a href=\"https://www.theinformation.com/briefings/former-twitter-executives-sue-elon-musk-for-128-million\">sued Musk last year</a> over what they said was $128 million in unpaid severance, including a nearly $60 million Agrawal said he was owed. The value and terms of the settlement were not disclosed in the new court filings.</p>\n\n<p>The executives’ initial lawsuit claimed that Musk fired them “for cause” in “sham designed to deprive Plaintiffs of their severance benefits.” Musk had repeatedly criticized Twitter’s former leadership before and after taking over the company.</p>",
+            "published_at": "2025-10-08T19:06:14.429Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-x-settle-unpaid-severance-lawsuit-ex-twitter-executives?unlock=2e6a9b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-x-settle-unpaid-severance-lawsuit-ex-twitter-executives?unlock=2e6a9b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16046,
+            "guid": "c686cf",
+            "headline": "Apple and Meta Poised to Settle Antitrust Issues in Europe",
+            "dek": "The two U.S. tech companies will change business practices ",
+            "source_url": "https://www.ft.com/content/74a31a0f-d4d2-4681-9ce8-3a1b5a7632dc",
+            "source_label": "Financial Times",
+            "body": "<p>Apple and Meta are on the verge of settling antitrust cases with European Union regulators over alleged violations of the bloc’s Digital Markets Act, the Financial Times reported.</p>\n\n<p>The EU had already fined the two companies a combined €700 million over alleged violations of parts of the law, which the EU passed in 2022 to open the door to smaller companies seeking to compete against large tech giants.</p>\n\n<p>Apple was making it difficult for consumers to download software for Apple devices outside of its App Store, which the law requires, European regulators claimed. For Meta, regulators sought changes to the company’s new “pay or consent” system, which gives European consumers the option to either permit data tracking to use its social media apps or pay a subscription fee.</p>\n\n<p>As part of the settlement, the two companies will change their business practices, the outlet reported. In the case of Apple, it could mean a viable option for consumers to download apps outside of the App Store and spur the emergence of viable alternative digital app stores on the iPhone.</p>",
+            "published_at": "2025-10-08T17:27:12.498Z",
+            "url": "https://www.theinformation.com/briefings/apple-meta-poised-settle-antitrust-issues-europe?unlock=c686cf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-meta-poised-settle-antitrust-issues-europe?unlock=c686cf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16045,
+            "guid": "f3c0e6",
+            "headline": "SoftBank Buys ABB’s Struggling Robotics Unit for $5.4 Billion",
+            "dek": "SoftBank will have to turn around the division. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SoftBank Group said Wednesday it had purchased the robotics division of Swiss industrial conglomerate ABB for $5.4 billion, the latest big push for the Japanese firm into robotics.</p>\n\n<p>SoftBank will have to turn around the division. ABB said last quarter it generated about $813 million in revenue from “robotics and discrete automation” last quarter, down about 2% a year due to tariff uncertainty “and declines in most end markets excluding consumer electronics.”</p>\n\n<p>SoftBank said in a press&nbsp;release it hoped to “reignite the robotics business’s growth, particularly through investment in cutting-edge technologies such as AI.”</p>\n\n<p>SoftBank has about 20 robotics-related investments, including startup Skid AI, which is building a foundation model for robotics, and publicly traded AutoStore, which makes robots for warehouse storage.</p>",
+            "published_at": "2025-10-08T16:02:18.976Z",
+            "url": "https://www.theinformation.com/briefings/softbank-buys-abbs-struggling-robotics-unit-5-4-billion?unlock=f3c0e6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-buys-abbs-struggling-robotics-unit-5-4-billion?unlock=f3c0e6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15662,
+                    "guid": "7b957bbca1",
+                    "title": "SoftBank’s Heavy Spending on Chip Deals Eyed By Investors",
+                    "url": "https://www.theinformation.com/articles/softbanks-heavy-spending-chip-deals-eyed-investors?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16044,
+            "guid": "24d0d6",
+            "headline": "Data Streaming Firm Confluent Explores Sale",
+            "dek": "The company attracts takeover interests after losing one-third of its market value in July. ",
+            "source_url": "https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/",
+            "source_label": "Reuters",
+            "body": "<p>Data streaming platform Confluent is exploring a sale after receiving takeover interest, Reuters <a href=\"https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/\">reported</a>. Shares of Confluent jumped more than 11% on Wednesday morning.</p>\n\n<p>The Mountain View, Calif.-based Confluent helps companies to process real-time, massive data based on the open-source Apache Kafka technology it commercializes.</p>\n\n<p>Shares of Confluent have been sliding the past year. The company lost one-third of its market value in July after CEO Jay Kreps said in an earnings call that sales growth of their cloud products was declining and the company is losing business from a large AI customer.</p>",
+            "published_at": "2025-10-08T15:28:32.281Z",
+            "url": "https://www.theinformation.com/briefings/data-streaming-firm-confluent-explores-sale?unlock=24d0d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/data-streaming-firm-confluent-explores-sale?unlock=24d0d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16043,
+            "guid": "a3056d",
+            "headline": "Anthropic to Open India Office Next Year as Local Demand Grows",
+            "dek": "Competition between OpenAI and Anthropic is heating up in Asia, as both companies accelerate their international expansion. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic, the startup known for its Claude AI models, is accelerating international expansion with a plan to open an office in India by next year, the second in Asia after Tokyo.</p>\n\n<p>Anthropic CEO Dario Amodei is visiting India this week to meet with public officials and enterprise partners, the company said in a <a href=\"https://www.anthropic.com/news/expanding-global-operations-to-india\">blog post</a> on Wednesday. India ranks second only after the U.S. in terms of Claude usage, predominantly in technical and computer programming-related tasks, the company said.</p>\n\n<p>The India office, to be located in the tech hub of Bangalaru, will focus on education, healthcare and agriculture. It added that the build out could accelerate growth in India’s information technology industry.</p>\n\n<p>Anthropic last month hired Chris Ciauri, a former Google Cloud executive, to lead its international expansion. The company and its rival OpenAI are racing to sell to customers outside the U.S. OpenAI, which already has offices in Tokyo, Singapore and Seoul in the Asia Pacific region, said in August it would open Delhi and Sydney offices.</p>",
+            "published_at": "2025-10-08T06:49:33.662Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-open-india-office-next-year-local-demand-grows?unlock=a3056d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-open-india-office-next-year-local-demand-grows?unlock=a3056d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16042,
+            "guid": "82901a",
+            "headline": "CoreWeave CEO Says It Won’t Change Core Scientific Bid ",
+            "dek": "A shareholder vote on the all-stock deal is scheduled for October 30. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-07/coreweave-pushes-back-on-idea-of-changing-core-scientific-bid",
+            "source_label": "Bloomberg",
+            "body": "<p>CoreWeave CEO Michael Intrator <a href=\"https://www.bloomberg.com/news/articles/2025-10-07/coreweave-pushes-back-on-idea-of-changing-core-scientific-bid\">said</a> Tuesday that the cloud provider will not change its $9 billion bid for Core Scientific ahead of a shareholder vote scheduled for October 30.</p>\n\n<p>Two Seas Capital said last month it would vote against the deal and urged other shareholders to do so. The hedge fund, which owns more than 6% of Core Scientific, <a href=\"https://www.prnewswire.com/news-releases/two-seas-capital-files-definitive-proxy-statement-and-issues-letter-to-core-scientific-shareholders-urging-them-to-vote-against-companys-proposed-sale-to-coreweave-302569499.html\">said</a> the offer was “extremely low” and exposes shareholders to CoreWeave’s “highly volatile stock.”</p>\n\n<p>Shares of Core Scientific fell 8% Tuesday on Intrator’s comments.</p>\n\n<p>CoreWeave’s proposed all-stock takeover of Core Scientific would eliminate $10 billion leasing cost for the cloud provider as it leases computing power from the data center landlord. Intrator said the two companies will continue to partner, whether the deal goes through or not.</p>",
+            "published_at": "2025-10-08T01:55:15.569Z",
+            "url": "https://www.theinformation.com/briefings/coreweave-ceo-says-change-core-scientific-bid?unlock=82901a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coreweave-ceo-says-change-core-scientific-bid?unlock=82901a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16041,
+            "guid": "a5f2db",
+            "headline": "Nvidia CEO Says Oracle’s AI Cloud Will Be ‘Wonderfully Profitable’",
+            "dek": "Jensen Huang was responding to a story in The Information, which detailed Oracle’s current margins on GPUs.\r\n",
+            "source_url": "",
+            "source_label": "CNBC",
+            "body": "<p>Nvidia CEO Jensen Huang said Tuesday that Oracle, one of its largest customers, is going to be “wonderfully profitable” from renting out Nvidia artificial intelligence chips to cloud customers. Huang’s comments, made during an interview with Jim Cramer on CNBC’s Investing Club, were in response to <a href=\"https://www.theinformation.com/articles/internal-oracle-data-show-financial-challenge-renting-nvidia-chips\">The Information, which reported Tuesda</a>y that Oracle’s gross margin from the Nvidia-powered cloud business was around 16% in recent quarters.</p>\n\n<p>“When you first ramp up a new technology, there’s every possibility that you might not make money in the beginning, but over the life of the system, they’ll be wonderfully profitable,” Huang said.</p>\n\n<p>The Information reported that in the three months that ended in August, Oracle lost nearly $100 million from rentals of Nvidia’s Blackwell chips, which arrived this year. That’s partly because there is a period between when Oracle gets its data centers ready for customers and when customers start using and paying for them.</p>",
+            "published_at": "2025-10-08T01:10:11.661Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-says-oracles-ai-cloud-will-wonderfully-profitable?unlock=a5f2db&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-says-oracles-ai-cloud-will-wonderfully-profitable?unlock=a5f2db&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15862,
+                    "guid": "fc93e6518e",
+                    "title": "Internal Oracle Data Show Financial Challenge of Renting Out Nvidia Chips",
+                    "url": "https://www.theinformation.com/articles/internal-oracle-data-show-financial-challenge-renting-nvidia-chips?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16040,
+            "guid": "d783fc",
+            "headline": "Goldman Sachs, JPMorgan Flag Rising Debt Levels at AI Companies",
+            "dek": "AI-related companies have issued a record $141 billion of debt this year, more than the entire technology, media and telecommunications industry issued in 2024.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Soaring debt levels at companies funding the artificial intelligence boom have passed notable benchmarks, Goldman Sachs and JPMorgan Chase both said this week, marking a note of caution as tech companies increasingly turn to the credit markets to support the costs of developing AI.</p>\n\n<p>AI-related companies have issued a record $141 billion of debt this year, more than the entire technology, media and telecommunications industry issued in 2024, according to Goldman Sachs research. That includes $25.8 billion in total debt issued by Oracle, which is rapidly building computing capacity for OpenAI.</p>\n\n<p>“While not yet a cause for alarm, given both the high cashflow generation and low leverage among large tech companies, the shifting funding mix of capex beyond cash is worth monitoring,” Goldman Sachs analysts wrote.</p>\n\n<p>Separately, JPMorgan this week said investment grade debt issued by AI-related companies had risen to $1.2 trillion, making that grouping of companies a bigger component of the broader investment grade index than U.S. banks. JPMorgan analysts said large tech companies are still relatively cash rich, but debt levels at traditional utilities tied to the AI boom are elevated by high-grade credit standards.</p>",
+            "published_at": "2025-10-07T20:06:28.188Z",
+            "url": "https://www.theinformation.com/briefings/goldman-sachs-jpmorgan-flag-rising-debt-levels-ai-companies?unlock=d783fc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/goldman-sachs-jpmorgan-flag-rising-debt-levels-ai-companies?unlock=d783fc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16039,
+            "guid": "99a8d0",
+            "headline": "Tesla Announces Less Expensive Version of SUV",
+            "dek": "In 2024, Musk abandoned plans for Tesla to make a $25,000 SUV. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla announced a downgraded version of its Model Y sports utility vehicle on Tuesday that will sell for $40,000 in the U.S., $5,000 less than the cheapest version of the existing Model Y. The new model represents a bid by Tesla to juice sales following the expiration of a $7,500 U.S. tax credit for electric vehicles which effectively raised the costs of buying a Tesla.</p>\n\n<p>The new edition of the Model Y, called the Standard edition, will have a range of 321 miles, compared to a 357 mile range for the pricier Premium edition. The Model Y Standard also has fewer premium touches than the Premium version, including fewer premium interior finishes, a less-expensive sound system, and seats that are heated exclusively in the front rather than the entire vehicle. Tesla also announced a cheaper version of its Model 3 sedan on Tuesday, priced at $37,000, which is $5,500 less than the Premium version.</p>\n\n<p>In 2024, Musk abandoned plans for Tesla to make a $25,000 SUV, <a href=\"https://www.theinformation.com/articles/elon-musk-stopped-loving-cars-left-tesla-lurch\">The Information previously reported</a>, opting instead to focus on more futuristic bets like the robotaxi and <a href=\"https://www.theinformation.com/articles/elon-musk-preps-teslas-optimus-prime-time-big-hurdles-remain\">Optimus humanoid robot</a>.</p>",
+            "published_at": "2025-10-07T19:11:24.165Z",
+            "url": "https://www.theinformation.com/briefings/tesla-announces-less-expensive-version-suv?unlock=99a8d0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-announces-less-expensive-version-suv?unlock=99a8d0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16038,
+            "guid": "e13645",
+            "headline": "Qualcomm to Buy Circuit-Board Designer Arduino",
+            "dek": "The companies announced the new Uno Q circuit board.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Semiconductor giant Qualcomm announced Tuesday that it will acquire Arduino, the Italian electronics company known for its affordable circuit boards that are popular with hobbyists. The price of the deal was not announced.</p>\n\n<p>The companies also announced the Uno Q, a new circuit board that includes a Qualcomm Dragonwing chip. The Uno Q is intended to power AI vision and sound software, such as for smart home devices or industrial robots, according to Qualcomm. It is currently available for pre-orders for $44.</p>\n\n<p>The Uno Q will use Arduino’s new open source App Lab software, which allows developers to program the circuit boards, including to customize AI models for tasks such as classifying images or recognizing sounds</p>",
+            "published_at": "2025-10-07T17:40:19.466Z",
+            "url": "https://www.theinformation.com/briefings/qualcomm-buy-circuit-board-designer-arduino?unlock=e13645&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/qualcomm-buy-circuit-board-designer-arduino?unlock=e13645&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16037,
+            "guid": "49dbc2",
+            "headline": "Stock Market Falls on The Information’s Report on Oracle AI Cloud Margins",
+            "dek": "The data show the industrywide challenge of renting out Nvidia chips to cloud customers.",
+            "source_url": "https://www.theinformation.com/articles/internal-oracle-data-show-financial-challenge-renting-nvidia-chips?rc=c48ukx",
+            "source_label": "The Information",
+            "body": "<p>Major stock indices dipped more than half a percent&nbsp;and shares of artificial intelligence cloud providers Oracle, Nebius and CoreWeave fell 3% to 5% following <a href=\"https://www.theinformation.com/articles/internal-oracle-data-show-financial-challenge-renting-nvidia-chips?rc=c48ukx\">The Information’s report on challenges Oracle faces</a> generating a profit from renting out Nvidia chip servers. Nvidia shares also sank into the red after trading up 2% before the report.</p>\n\n<p>According to the report, internal Oracle documents showed that renting out Nvidia chips to AI developers such as OpenAI generated a gross profit margin of 16% on average over the past year or so, lower than analysts had estimated and lower than many nontech businesses. The report showed Oracle is losing considerable sums on the newest Nvidia hardware, underscoring the lag between when new chips come online and when customers use them en masse.</p>",
+            "published_at": "2025-10-07T16:17:52.161Z",
+            "url": "https://www.theinformation.com/briefings/oracles-ai-cloud-business-razor-thin-16-gross-profit-margin-new-data-show?unlock=49dbc2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracles-ai-cloud-business-razor-thin-16-gross-profit-margin-new-data-show?unlock=49dbc2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15862,
+                    "guid": "fc93e6518e",
+                    "title": "Internal Oracle Data Show Financial Challenge of Renting Out Nvidia Chips",
+                    "url": "https://www.theinformation.com/articles/internal-oracle-data-show-financial-challenge-renting-nvidia-chips?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16036,
+            "guid": "beaa0d",
+            "headline": "Dell Doubles Long Term Revenue Growth Forecast",
+            "dek": "Dell is a key distributor of servers powered by Nvidia chips.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Dell doubled its forecast annual revenue growth rate, to between 7% and 9%, and doubling its earnings growth rate to at least 15%, as it cashes in on the demand for AI chip-powered servers. Dell shares were trading up 2.7% on Tuesday morning.</p>\n\n<p>Dell is one of a few server makers that package Nvidia AI chips and sell them to cloud providers and other businesses, as Nvidia generally doesn’t sell its chips to customers directly. At an investor presentation on Tuesday, Dell executives talked about the huge increase in capital expenditures underway in the past year or two as big tech companies invest in new servers and data centers for AI development. Those changes, executives said, worked in Dell’s favor.</p>\n\n<p>Dell showed&nbsp;the impact of increased demand for AI servers in its fiscal 2025, ending Jan. 31, when servers and networking revenue rose 54% after decliing in fiscal 2023. But the impact was diluted by flat revenue from its storage business, which in fiscal 2024 was about the same size as servers and networking. Meanwhile, the division which sells laptops, displays, keyboards and other consumer hardware showed a slight dip in revenue. Long term, Dell is projecting the consumer hardware group will grow revenue just 2-3% a year while the segment which sells servers and storage will grow 11% to 14%.</p>",
+            "published_at": "2025-10-07T14:28:51.940Z",
+            "url": "https://www.theinformation.com/briefings/dell-doubles-long-term-revenue-growth-forecast?unlock=beaa0d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/dell-doubles-long-term-revenue-growth-forecast?unlock=beaa0d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16035,
+            "guid": "947750",
+            "headline": "NYSE Owner to Invest up to $2 billion in Polymarket",
+            "dek": "Deal values prediction market at $8 billion as it seeks to return to the U.S. ",
+            "source_url": "https://ir.theice.com/press/news-details/2025/ICE-Announces-Strategic-Investment-in-Polymarket/default.aspx",
+            "source_label": "The Information",
+            "body": "<p>Intercontinental Exchange, the owner of the New York Stock Exchange, will invest up to $2 billion in Polymarket, the prediction market that is aiming to return to the U.S.</p>\n\n<p>The investment values Polymarket at $8 billion before the new money and gives it the backing of one of the world’s biggest exchange operators. Polymarket allows people to bet on everything from elections to the length of the government shutdown.</p>\n\n<p>ICE said it will distribute Polymarket’s data, which can serve as sentiment indicators on events for its clients.</p>\n\n<p>Polymarket has been seeking to raise capital, <a href=\"https://www.theinformation.com/articles/prediction-startup-polymarket-fields-offer-9-billion-valuation-kalshi-nears-5-billion-financing\">The Information reported</a> last month. Polymarket raised funds at a valuation over $1 billion earlier in the summer.</p>\n\n<p>The boost in valuation came after Polymarket said last month that regulators had given it the go-ahead to serve U.S.-based users. The agency had barred it from accepting U.S.-based trades three years ago, saying it was running an unregistered derivatives exchange.</p>",
+            "published_at": "2025-10-07T14:24:18.455Z",
+            "url": "https://www.theinformation.com/briefings/nyse-owner-invest-2-billion-polymarket?unlock=947750&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nyse-owner-invest-2-billion-polymarket?unlock=947750&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2326614,
+                    "display_name": "Ken Brown"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15753,
+                    "guid": "761fc31758",
+                    "title": "Polymarket Fields Offer for $9 Billion Valuation; Kalshi Nears $5 Billion Valuation",
+                    "url": "https://www.theinformation.com/articles/prediction-startup-polymarket-fields-offer-9-billion-valuation-kalshi-nears-5-billion-financing?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16034,
+            "guid": "24439d",
+            "headline": "Musk’s XAI Said to Name Ex-Morgan Stanley Banker as CFO",
+            "dek": "XAI's former CFO quit to join OpenAI. ",
+            "source_url": "https://www.ft.com/content/79b53db3-3411-454c-814d-d86f3c800abd?desktop=true&segmentId=d8d3e364-5197-20eb-17cf-2437841d178a#myft:notification:instant-email:content",
+            "source_label": "Financial Times",
+            "body": "<p>Elon Musk’s XAI has hired Anthony Armstrong, a former Morgan Stanley banker, as the artificial intelligence startup’s new CFO, according to the Financial Times. Armstrong replaces Michael Liberatore, who had left <a href=\"https://www.theinformation.com/briefings/xai-cfo-leaves-months-job?rc=zjctrx\">xAI for OpenAI</a> amid an exodus of senior staff.</p>\n\n<p>Armstrong had advised on Musk’s $44 billion takeover of Twitter, now called X, in 2022. He will oversee finance functions for both xAI and X, which merged earlier this year.&nbsp;X’s chief financial officer Mahmoud Reza Banki is also leaving the company, the FT reported.</p>",
+            "published_at": "2025-10-07T04:26:43.810Z",
+            "url": "https://www.theinformation.com/briefings/musks-xai-said-name-ex-morgan-stanley-banker-cfo?unlock=24439d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musks-xai-said-name-ex-morgan-stanley-banker-cfo?unlock=24439d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16033,
+            "guid": "27d010",
+            "headline": "OpenAI Adds Outside Apps to ChatGPT",
+            "dek": "OpenAI’s developer event focused on pragmatic software features to enable more use of OpenAI’s models.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI on Monday announced new features to allow users to access external apps, such as Zillow or Spotify, through ChatGPT.&nbsp; That paves the way for ChatGPT to become a “super app” that allows users to complete a range of tasks without leaving the app.</p>\n\n<p>At the company’s developer event, which was livestreamed, OpenAI also announced software to help companies develop AI agents that can take virtual actions, including software to evaluate the capabilities of agents and block inappropriate content.</p>\n\n<p>OpenAI previously announced a similar apps feature called “ChatGPT plugins” that was launched in March 2023 but deprecated in April 2024. While those plugins were mostly limited to text, the new apps feature is designed to work with other kinds of media, such as virtual maps.</p>",
+            "published_at": "2025-10-06T23:14:51.833Z",
+            "url": "https://www.theinformation.com/briefings/openai-adds-outside-apps-chatgpt?unlock=27d010&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-adds-outside-apps-chatgpt?unlock=27d010&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16032,
+            "guid": "903a02",
+            "headline": "CoreWeave Extends Deal Streak With Monolith AI Purchase",
+            "dek": "Monolith AI, founded in 2016, sells software used by teams of engineers at companies including Nissan, BMW and Honeywell.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>CoreWeave said Monday it had bought startup Monolith AI for an undisclosed price, adding to the cloud provider’s software company acquisitions as it tries to expand beyond its core server rental business.</p>\n\n<p>Monolith AI, founded in 2016, sells software used by teams of engineers at companies including Nissan, BMW and Honeywell to develop and test new products. It previously raised an £8.5 million ($11.5 million) round of funding in 2021 led by Insight Partners.</p>\n\n<p>CoreWeave last month acquired reinforcement learning startup OpenPipe and in March paid about $1.7 billion to buy AI developer tools provider Weights &amp; Biases. CoreWeave shares rose slightly in after-hours trading.</p>",
+            "published_at": "2025-10-06T23:02:59.114Z",
+            "url": "https://www.theinformation.com/briefings/coreweave-extends-deal-streak-monolith-ai-purchase?unlock=903a02&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coreweave-extends-deal-streak-monolith-ai-purchase?unlock=903a02&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16031,
+            "guid": "d9cc6c",
+            "headline": "SEC investigates AppLovin’s data collection practices",
+            "dek": "The mobile ad tech company is under review following reports of short sellers, whistleblower\r\n",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-06/applovin-has-been-probed-by-sec-over-data-collection-practices?srnd=undefined",
+            "source_label": "Bloomberg",
+            "body": "<p>The Securities and Exchange Commission is investigating mobile ad technology company AppLovin’s data collection practices, Bloomberg reported on Monday.</p>\n\n<p>The regulator is looking into whether AppLovin violated the terms of companies it partners with in its approach to targeted advertising, according to the report. AppLovin helps mobile apps sell and buy ads. Several short sellers have accused AppLovin of shady data collection practices, and also of charging advertisers for results it didn’t achieve. Those reports, and a whistleblower complaint, form the basis of the SEC’s probe, according to Bloomberg.</p>\n\n<p>AppLovin’s revenue and market capitalization have skyrocketed in the past year, fueled in part by besting competitors in the mobile advertising technology space, including Google, as <a href=\"https://www.theinformation.com/articles/applovin-scared-google\">reported</a> earlier this year. AppLovin’s stock was down more than 14% in after hours training, though the company still has a market cap of nearly $200 billion.</p>\n\n<p>“We regularly engage with regulators and if we get inquiries we address them in the ordinary course,” an AppLovin spokesperson said, noting material developments would be disclosed publicly. A SEC spokesperson said that the agency could not respond to many press inquiries due to the government shutdown.</p>",
+            "published_at": "2025-10-06T20:28:39.468Z",
+            "url": "https://www.theinformation.com/briefings/sec-investigates-applovins-data-collection-practices?unlock=d9cc6c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/sec-investigates-applovins-data-collection-practices?unlock=d9cc6c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16030,
+            "guid": "a875ab",
+            "headline": "Verizon Appoints Former PayPal CEO Schulman as CEO",
+            "dek": "The appointment is a sign the telecom giant is hoping to shake up its stalled business.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Verizon abruptly replaced its CEO, Hans Vestberg, with PayPal’s former CEO Daniel Schulman, in a sign the cellular giant is hoping to shake up its stalled business.</p>\n\n<p>Schulman, who is in his late 60s, had been a director of Verizon since 2018 and the lead independent director since last December. He ran PayPal from 2015 to 2023. But he also has a history in telecomm, having spent&nbsp;many years as an executive at AT&amp;T as well as briefer stints at Sprint Nextel and as the founding CEO of Virgin Mobile USA.</p>\n\n<p>Schulman takes the reins at Verizon at a challenging time for the cellular firm. Long the market leader, regarded as operating the best cellular network, it has stalled in recent years as T-Mobile has emerged as the industry leader. Verizon lost contract-based subscribers in the past two quarters, while its stock has been flat for the past couple of years. On Monday, Verizon shares were down 4%..</p>",
+            "published_at": "2025-10-06T16:09:02.898Z",
+            "url": "https://www.theinformation.com/briefings/verizon-appoints-former-paypal-ceo-schulman-ceo?unlock=a875ab&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/verizon-appoints-former-paypal-ceo-schulman-ceo?unlock=a875ab&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16029,
+            "guid": "36f2c8",
+            "headline": "OpenAI Strikes Six Gigawatt Compute Deal With AMD",
+            "dek": "As part of the deal, OpenAI will receive the option to purchase up to 10% of AMD stock if it hits certain milestones.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI and Advanced Micro Devices announced on Monday a new partnership that would see OpenAI deploy six gigawatts of AMD’s chips over multiple years, starting in the second half of next year. That deal is larger than the $300 billion, 4.5 gigawatt cloud deal OpenAI struck with Oracle earlier this year.</p>\n\n<p>As part of the deal, OpenAI will receive the option to purchase up to 10% of AMD stock if it hits certain milestones. The deal is yet another sign of OpenAI’s insatiable appetite for computational power, as it looks to power its popular chatbot to over 700 million weekly active users, build new products like agents and develop new advanced models.</p>\n\n<p>The deal is also a major win for AMD, as it looks to take on Nvidia’s dominance in the AI chip market. However, it’s still smaller than the deal OpenAI and Nvidia announced last month to deploy 10 gigawatts worth of Nvidia chips. AMD’s stock rose 35% during premarket trading on the news.</p>",
+            "published_at": "2025-10-06T13:23:05.673Z",
+            "url": "https://www.theinformation.com/briefings/openai-strikes-six-gigawatt-compute-deal-amd?unlock=36f2c8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-strikes-six-gigawatt-compute-deal-amd?unlock=36f2c8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        }
+    ]
+}
