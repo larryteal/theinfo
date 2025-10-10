@@ -11,7 +11,7 @@ def main(refresh_token: str, install_id: str, user_agent: str, login_url: str, b
         "refresh_token": refresh_token,
         "platform": "android",
         "install_id": install_id,
-        "app_version": "2.5.13.2025"
+        "app_version": "2.7.9.2042"
     }
     headers = {
         "user-agent": user_agent,
