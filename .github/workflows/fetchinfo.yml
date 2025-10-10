@@ -37,10 +37,11 @@ jobs:
       - name: Run task
         run: |
           mkdir -p briefings
-          docker run --rm --network=container:${{ job.services.vpn.id }} -v $PWD:/app -w /app larryteal/curlpy:latest python main.py $REFRESH_TOKEN $INSTALL_ID $LOGIN_URL $BRIEFINGS_URL
+          docker run --rm --network=container:${{ job.services.vpn.id }} -v $PWD:/app -w /app larryteal/curlpy:latest python main.py $REFRESH_TOKEN $INSTALL_ID $USER_AGENT $LOGIN_URL $BRIEFINGS_URL
         env:
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           INSTALL_ID: ${{ secrets.INSTALL_ID }}
+          USER_AGENT: ${{ secrets.USER_AGENT }}
           LOGIN_URL: ${{ secrets.LOGIN_URL }}
           BRIEFINGS_URL: ${{ secrets.BRIEFINGS_URL }}
       
