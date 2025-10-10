@@ -47,13 +47,14 @@ def main(refresh_token: str, install_id: str, user_agent: str, login_url: str, b
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 5:
+    if len(sys.argv) != 6:
         print("用法: python main.py [refresh_token] [install_id] [user_agent] [login_url] [briefings_url]")
         sys.exit(1)
 
     refresh_token = sys.argv[1]
     install_id = sys.argv[2]
-    login_url = sys.argv[3]
-    briefings_url = sys.argv[4]
+    user_agent = sys.argv[3]
+    login_url = sys.argv[4]
+    briefings_url = sys.argv[5]
 
     main(refresh_token, install_id, user_agent, login_url, briefings_url)
