@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 import curl_cffi
 
 
-def main(refresh_token: str, install_id: str, login_url: str, briefings_url: str):
+def main(refresh_token: str, install_id: str, user_agent: str, login_url: str, briefings_url: str):
     # 构造登录请求 payload
     json_payload = {
         "refresh_token": refresh_token,
@@ -13,19 +13,26 @@ def main(refresh_token: str, install_id: str, login_url: str, briefings_url: str
         "install_id": install_id,
         "app_version": "2.5.13.2025"
     }
-
+    headers = {
+        "user-agent": user_agent,
+        "ti-install-id": install_id,
+        "content-type": "application/json",
+        "accept-encoding": "gzip",
+    }
     # 登录获取 JWT
-    r = curl_cffi.post(login_url, json=json_payload, impersonate="chrome_android")
+    r = curl_cffi.post(login_url, json=json_payload, headers=headers, impersonate="chrome_android", default_headers=False)
     r.raise_for_status()
     rjson = r.json()
     jwt = rjson["jwt"]
 
     headers = {
-        "Authorization": f"Bearer {jwt}"
+        **headers,
+        "Authorization": f"Bearer {jwt}",
+        "if-none-match": "",
     }
 
     # 获取 briefings 数据
-    r = curl_cffi.get(briefings_url, headers=headers, impersonate="chrome_android")
+    r = curl_cffi.get(briefings_url, headers=headers, impersonate="chrome_android", default_headers=False)
     r.raise_for_status()
     data = r.json()
 
@@ -41,7 +48,7 @@ def main(refresh_token: str, install_id: str, login_url: str, briefings_url: str
 
 if __name__ == "__main__":
     if len(sys.argv) != 5:
-        print("用法: python main.py [refresh_token] [install_id] [login_url] [briefings_url]")
+        print("用法: python main.py [refresh_token] [install_id] [user_agent] [login_url] [briefings_url]")
         sys.exit(1)
 
     refresh_token = sys.argv[1]
@@ -49,4 +56,4 @@ if __name__ == "__main__":
     login_url = sys.argv[3]
     briefings_url = sys.argv[4]
 
-    main(refresh_token, install_id, login_url, briefings_url)
+    main(refresh_token, install_id, user_agent, login_url, briefings_url)
