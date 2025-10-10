@@ -1,4 +1,4 @@
-name: Fetch Info
+name: Fetch Info Auto
 
 permissions:
   contents: write
