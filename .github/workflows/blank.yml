@@ -39,10 +39,11 @@ jobs:
       - name: Fetch informations
         run: |
           mkdir -p briefings
-          python main.py $REFRESH_TOKEN $INSTALL_ID $LOGIN_URL $BRIEFINGS_URL
+          python main.py $REFRESH_TOKEN $INSTALL_ID $USER_AGENT $LOGIN_URL $BRIEFINGS_URL
         env:
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           INSTALL_ID: ${{ secrets.INSTALL_ID }}
+          USER_AGENT: ${{ secrets.USER_AGENT }}
           LOGIN_URL: ${{ secrets.LOGIN_URL }}
           BRIEFINGS_URL: ${{ secrets.BRIEFINGS_URL }}
       - name: Commit and push new info file
