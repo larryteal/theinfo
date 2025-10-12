@@ -1,0 +1,633 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16063,
+            "guid": "d442fa",
+            "headline": "Thinking Machines Co-Founder Leaves for Meta",
+            "dek": "The departure marks the newest star arrival at the tech giant.",
+            "source_url": "https://www.wsj.com/tech/ai/thinking-machines-lab-co-founder-departs-for-meta-442d7461?gaa_at=eafs&gaa_n=ASWzDAi_sFV723FGgHk8nzqVfOcdtrZEqIm_8wICSeJ_ixYDoBAl_OVtFKOktGfDGv8%3D&gaa_ts=68eae488&gaa_sig=miXU86EtFBTAVxVgXyNpVgLDcaYnSNn6YD0omQzvj6ps-u6kbV_XEYpeXZ9fD7xDbUPUh4LSxPVCEqJQiL2Ttw%3D%3D",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>A co-founder of <a href=\"http://theinformation.com/articles/10-billion-enigma-mira-murati\">Mira Murati’s Thinking Machines Labs</a> is headed to Meta Platforms, the latest high-profile hire by Meta amid <a href=\"https://www.theinformation.com/articles/inside-great-ai-talent-auction-deals-free-agents-egos?rc=sslhyj\">a heated frenzy</a> for AI talent.</p>\n\n<p>The Thinking Machines co-founder, Andrew Tulloch, had previously worked at Meta for 13 years before departing in 2023 for OpenAI, where Murati was chief technology officer.&nbsp;He and Murati then&nbsp;left OpenAI and founded Thinking Machines earlier this year.</p>\n\n<p>Thanks partly to Murati’s profile, Thinking Machines quickly accumulated <a href=\"https://www.theinformation.com/briefings/thinking-machines-lab-raises-2-billion-10-billion-valuation?rc=sslhyj\">an enormous amount</a> of venture capital, but it <a href=\"https://www.theinformation.com/briefings/mira-muratis-thinking-machines-lab-launches-first-finetuning-product?rc=sslhyj\">has been slow</a> to reveal how it intends to commercialize AI. Tulloch returns to a Meta that CEO Mark Zuckerberg has sought to turn into an AI powerhouse by&nbsp;recruiting <a href=\"https://www.theinformation.com/articles/zuckerbergs-new-ai-team-good?rc=sslhyj\">a string of star researchers</a> to jump ship from OpenAI and other companies.</p>",
+            "published_at": "2025-10-11T23:10:16.443Z",
+            "url": "https://www.theinformation.com/briefings/thinking-machines-co-founder-leaves-meta?unlock=d442fa&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/thinking-machines-co-founder-leaves-meta?unlock=d442fa&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1295534,
+                    "display_name": "Abram Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16062,
+            "guid": "aff736",
+            "headline": "Benioff Says Trump Should Deploy Troops in San Francisco",
+            "dek": "The Salesforce CEO’s comments come amid a broad change in attitude toward President Donald Trump among tech CEOs. ",
+            "source_url": "https://www.nytimes.com/2025/10/10/us/marc-benioff-san-francisco-guard.html",
+            "source_label": "The New York Times",
+            "body": "<p>Salesforce CEO Marc Benioff, who <a href=\"https://www.politico.com/news/2019/11/20/marc-benioff-salesforce-industry-washington-leaders-071803\">was once seen</a> as a leading voice for liberal politics in the Bay Area, voiced strong support for President Donald Trump <a href=\"http://cms.theinformation.com\">in a new interview</a> with the New York Times and advocated for Trump to send National Guard troops to San Francisco.</p>\n\n<p>“We don’t have enough cops, so if they can be cops, I’m all for it,” Benioff told the Times.</p>\n\n<p>Since Trump won reelection last year, tech and politics have become increasingly intertwined, and many among the Silicon Valley elite <a href=\"https://www.theinformation.com/articles/can-microsoft-resist-trumps-call-execs-firing-tech-bends-will?rc=sslhyj\">have worked to shore up</a> their relationship with the Republican president. Meanwhile, Trump has made crime and public safety a hot-button issue in America: He <a href=\"https://www.pbs.org/newshour/nation/what-to-know-about-trumps-national-guard-deployments-in-chicago-and-portland\">has sent</a> National Guard troops into Washington D.C., Chicago and Portland—and <a href=\"https://www.npr.org/2025/10/10/nx-s1-5567177/national-guard-map-chicago-california-oregon\">has said</a> he might deploy more forces, including to San Francisco.</p>",
+            "published_at": "2025-10-11T12:09:07.378Z",
+            "url": "https://www.theinformation.com/briefings/benioff-says-trump-deploy-troops-san-francisco?unlock=aff736&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/benioff-says-trump-deploy-troops-san-francisco?unlock=aff736&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1295534,
+                    "display_name": "Abram Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16061,
+            "guid": "b1698c",
+            "headline": "Apple Acquires Small AI Startup Focused on Home Security Cameras",
+            "dek": "The deal could bolster Apple’s smart home camera project",
+            "source_url": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
+            "source_label": "CNBC",
+            "body": "<p>Apple is in talks to acquire computer vision startup Prompt AI, CNBC reported.</p>\n\n<p>The 11-person company offers an app called Seemour that adds artificial intelligence capabilities to home security cameras. Apple has acquired several AI-based security camera companies over the years, including <a href=\"https://www.theinformation.com/articles/apple-acquires-ai-device-startup-silk-labs\">Silk Labs</a> in 2018 and <a href=\"https://www.theinformation.com/briefings/dde4fe\">Lighthouse AI</a> in 2019. Apple has been working on its own smart home camera for years and is expected to release the product next year, according to analysts and Bloomberg.</p>\n\n<p>The Prompt deal was likely very small, with the startup having only raised a $5 million seed round. The deal continues Apple’s tradition of absorbing smaller technology firms primarily for talent, rather than buying up larger companies. Apple is often wary of larger acquisitions due, in part, to the complexity of integrating big teams into Apple’s unique corporate culture, The Information has previously <a href=\"https://www.theinformation.com/articles/apples-aversion-big-deals-thwart-ai-push\">reported</a>.</p>",
+            "published_at": "2025-10-10T23:27:38.719Z",
+            "url": "https://www.theinformation.com/briefings/apple-acquires-small-ai-startup-focused-home-security-cameras?unlock=b1698c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-acquires-small-ai-startup-focused-home-security-cameras?unlock=b1698c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15653,
+                    "guid": "c57eab6784",
+                    "title": "Apple’s Aversion to Big Deals Could Thwart Its AI Push",
+                    "url": "https://www.theinformation.com/articles/apples-aversion-big-deals-thwart-ai-push?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16060,
+            "guid": "fd1ea3",
+            "headline": "Tech Stocks Fall Across the Board After Trump Issues Tariff Threat",
+            "dek": "President Trump threatened to impose a \"massive increase\" in tariffs on Chinese imports, in the wake of new Chinese restrictions on the export of rare earths. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tech stocks fell across the board, as investors responded to President Trump’s threat to impose a “massive increase” in tariffs on Chinese imports, in the wake of new Chinese restrictions on the export of rare earths. Trump also said there was “no reason” for him to meet with Chinese president Xi Jinping, as he is scheduled to do in two weeks.</p>\n\n<p>Among the worst hit was shares of chip designer Nvidia, which fell 4.5%,&nbsp;and AMD, which fell 7.7%. Big tech stocks such as Amazon, Alphabet, Meta Platforms and Apple fell between 2% and 5%. The Nasdaq&nbsp;fell 3.6%, while the S&amp;P 500 dropped 2.7%.</p>\n\n<p>Oracle, whose stock had rebounded after a selloff earlier this week sparked by The Information’s report on its cloud business’ gross margins, fell 1.3% to just below $293. Even despite the drop, Oracle shares have recovered all the ground it lost earlier this week.</p>",
+            "published_at": "2025-10-10T20:07:52.257Z",
+            "url": "https://www.theinformation.com/briefings/tech-stocks-fall-across-board-trump-issues-tariff-threat?unlock=fd1ea3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tech-stocks-fall-across-board-trump-issues-tariff-threat?unlock=fd1ea3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16059,
+            "guid": "6a656a",
+            "headline": "Kalshi Raises at $5 Billion Valuation Led by Sequoia, a16z",
+            "dek": "Kalshi and Polymarket each raised fresh funding this month as rivalry heats up. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Kalshi, a U.S.-regulated prediction market, <a href=\"https://news.kalshi.com/p/kalshi-hits-5-billion-valuation-amid-international-expansion?utm_source=news.kalshi.com&utm_medium=newsletter&utm_campaign=kalshi-hits-5-billion-valuation-amid-international-expansion&_bhlid=f921019bb6735e6822fda51206df357ee7a40fe2&last_resource_guid=Post%3A675f1af0-e234-40ab-aa36-88a5896515e2&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiY2UzNzZlMzctZDU1OS00M2NlLWEyZWQtMTJkNGZlODY1ZjFlIiwicHVibGljYXRpb25faWQiOiI2MTMxZDQyMi0yYzllLTRkNjYtYmRiYi0yNjRiZjFkNDBhMGYiLCJleHAiOjE3NjAyODIzMTksImlzcyI6Imh0dHBzOi8vYXBwLmJlZWhpaXYuY29tIiwiaWF0IjoxNzYwMTA5NTE5fQ.iYHeFqAl41iVazX6zzFXbmvAMxXVw6_bc_X-lUyDHSs\">said</a> it raised more than $300 million at a $5 billion valuation led by Sequoia and Andreessen Horowitz. The company will face new competition with the return of rival Polymarket to the U.S. market.</p>\n\n<p>Kalshi and Polymarket are the two biggest prediction markets, which allow people to bet on everything from elections to the length of the government shutdown. Polymarket <a href=\"https://www.theinformation.com/briefings/nyse-owner-invest-2-billion-polymarket\">said</a> Tuesday it will raise up to $2 billion from Intercontinental Exchange, the owner of the New York Stock exchange, at an $8 billion valuation. Polymarket recently gained approval from U.S. regulators to re-enter the country after barring U.S.-based users under a settlement in 2022.</p>\n\n<p>Kalshi said existing investor Paradigm, which led its June round at a $2 billion valuation, also made a significant investment. Other investors included CapitalG, Coinbase Ventures, General Catalyst, and Spark Capital. The company plans to use the funding to launch more types of bets and integrate with more brokerages.</p>",
+            "published_at": "2025-10-10T17:25:17.256Z",
+            "url": "https://www.theinformation.com/briefings/kalshi-raises-5-billion-valuation-led-sequoia-a16z?unlock=6a656a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/kalshi-raises-5-billion-valuation-led-sequoia-a16z?unlock=6a656a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15753,
+                    "guid": "761fc31758",
+                    "title": "Polymarket Fields Offer for $9 Billion Valuation; Kalshi Nears $5 Billion Valuation",
+                    "url": "https://www.theinformation.com/articles/prediction-startup-polymarket-fields-offer-9-billion-valuation-kalshi-nears-5-billion-financing?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16058,
+            "guid": "20d71b",
+            "headline": "China Opens Antitrust Investigation Into Qualcomm",
+            "dek": "The probe follows several antitrust cases against other U.S. tech firms including Nvidia and Google.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>China has launched an antitrust investigation into Qualcomm over its acquisition of Israeli startup Autotalks, in another salvo at the U.S. weeks ahead of a planned meeting between President Trump and Chinese leader Xi Jinping.</p>\n\n<p>The State Administration for Market Regulation, which oversees antitrust and other issues, said Qualcomm failed to file for regulatory review of the Autotalks deal in accordance with Chinese antitrust law, according to a brief statement on Friday by the agency. Qualcomm bought Autotalks, which provides technology that enables communication between vehicles and their surroundings, in June.</p>\n\n<p>The Qualcomm investigation followed earlier antitrust probes into other U.S. tech firms including Nvidia and Google. Earlier this week, China tightened export restrictions on rare earth. The two countries’ leaders are expected to meet in person on the sidelines of the Asia-Pacific Economic Cooperation Summit in South Korea in November.</p>",
+            "published_at": "2025-10-10T12:10:10.946Z",
+            "url": "https://www.theinformation.com/briefings/china-opens-antitrust-investigation-qualcomm?unlock=20d71b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-opens-antitrust-investigation-qualcomm?unlock=20d71b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16057,
+            "guid": "656e38",
+            "headline": "Reflection AI Raises $2 Billion From Nvidia and Others at $8 Billion Valuation",
+            "dek": "The deal is a dramatic markup from Reflection’s last private market valuation of $545 million in March.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Reflection AI, a New York-based startup building open-source models to rival labs like China’s Deepseek, said it has raised $2 billion in venture capital at an $8 billion valuation including the investment. The Information first reported the <a href=\"https://www.theinformation.com/articles/reflection-ai-targets-1-billion-take-meta-deepseek-open-source?rc=cmz1ru\">deal talks.</a></p>\n\n<p>Nvidia invested about $800 million into the round, according to the New York Times. The deal is a dramatic markup from Reflection’s last private market valuation of $545 million in March. Other investors in the company include Lightspeed Venture Partners, Sequoia Capital and 1789 Capital, which is linked to Donald Trump, Jr.</p>\n\n<p>Reflection will use the money to develop new technology as the founders, Misha Laskin and Ioannis Antonoglou, try to build Reflection as the U.S.-based provider of open-source AI models, which is a capital intensive endeavor</p>",
+            "published_at": "2025-10-10T05:37:09.589Z",
+            "url": "https://www.theinformation.com/briefings/reflection-ai-raises-2-billion-nvidia-others-8-billion-valuation?unlock=656e38&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/reflection-ai-raises-2-billion-nvidia-others-8-billion-valuation?unlock=656e38&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16056,
+            "guid": "3032d2",
+            "headline": "Coinbase, Mastercard in Talks to Buy Stablecoin Startup BVNK",
+            "dek": "The sale price for a deal, if it happens, could be between $1.5 billion and $2.5 billion, Fortune reported. ",
+            "source_url": "https://fortune.com/crypto/2025/10/09/bvnk-acquisition-coinbase-mastercard-stablecoins/",
+            "source_label": "Fortune",
+            "body": "<p>Coinbase and Mastercard have each held advanced talks to buy BVNK, a London-based stablecoin infrastructure firm, in a deal that could value the startup at between $1.5 billion and $2.5 billion, Fortune reported, citing people familiar with the deal.</p>\n\n<p>The talks are not finalized and may not result in a deal, but Coinbase appears to have a lead over Mastercard in the bid, the publication said.&nbsp;Founded in 2021, BVNK helps enterprises such as Deel and Worldpay process stablecoin payments. It is a competitor to Bridge, the stablecoin infrastructure firm acquired by Stripe for $1.1 billion this year. BVNK, which is backed by Haun Ventures, Coinbase Ventures, Visa, and Citi Ventures, raised $50 million at a $750 million valuation in January.</p>\n\n<p>A Coinbase spokesperson said the company doesn’t comment on rumors or speculation. Mastercard and BVNK&nbsp;didn’t immediately respond to inquiries.</p>",
+            "published_at": "2025-10-09T23:56:26.511Z",
+            "url": "https://www.theinformation.com/briefings/coinbase-mastercard-talks-buy-stablecoin-startup-bvnk?unlock=3032d2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coinbase-mastercard-talks-buy-stablecoin-startup-bvnk?unlock=3032d2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16055,
+            "guid": "452b20",
+            "headline": "Google, Amazon Launch New Suites in Battle for AI Spending",
+            "dek": "Google and Amazon are both rebranding AI search and agent-building products in the hopes of getting more of their customers to increase their spending. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google and Amazon, as part of their competition for corporate AI spending, both announced new suites of products that make it easier for employees to find corporate data and automate multi-step work tasks.</p>\n\n<p>Both companies are essentially giving their existing AI search and agent-building products a fresh coat of paint by adding new features and more connections to third-party apps. Their goal is to make AI accessible to non-technical users and boost productivity, delivering the kind of return on investment that could convince companies to spend more on AI.</p>\n\n<p>Google and Amazon are both well-equipped to succeed in AI, as they both have thousands of customers that already store their data on their clouds. But Glean, a startup led by a former Google engineer, has attracted considerable buzz by being the first to show how AI could help workers find data and files scattered across business applications and databases.</p>",
+            "published_at": "2025-10-09T23:43:44.939Z",
+            "url": "https://www.theinformation.com/briefings/google-amazon-launch-new-suites-battle-ai-spending?unlock=452b20&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-amazon-launch-new-suites-battle-ai-spending?unlock=452b20&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16054,
+            "guid": "7bfa5e",
+            "headline": "OpenAI Tells EU That Big Tech Commpanies Could Stifle Competition",
+            "dek": "OpenAI reportedly said it faced “difficulties” competing with those companies because of “the lock-in of customers by large platforms.\"",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-09/openai-warns-eu-antitrust-watchdogs-of-big-tech-s-data-dominance",
+            "source_label": "Bloomberg",
+            "body": "<p>OpenAI told Europe’s top antitrust regulator that big tech firms including Microsoft, Google, and Apple could be difficult for the startup to compete against, Bloomberg reported Thursday.</p>\n\n<p>During a Sept. 24 meeting with EU antitrust chief Teresa Ribaldi, OpenAI said it faced “difficulties” competing with those companies because of “the lock-in of customers by large platforms,” according to the report. OpenAI has business relationships with those companies, but it increasingly competes with Google in selling AI software to consumers and businesses, and plans to compete against Apple in AI-powered consumer devices.</p>\n\n<p>Despite the apparent difficulties, OpenAI said this week its chatbot has 800 million weekly users. The company has generated unprecedented revenue growth from subscriptions to the chatbot along with unprecedented cash burn from its spending on servers to power its artificial intelligence.</p>",
+            "published_at": "2025-10-09T23:33:14.105Z",
+            "url": "https://www.theinformation.com/briefings/openai-tells-eu-google-apple-microsoft-stifle-competition?unlock=7bfa5e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-tells-eu-google-apple-microsoft-stifle-competition?unlock=7bfa5e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16053,
+            "guid": "2fe923",
+            "headline": "Murati to Be Deposed, Musk Seeks ‘Brockman Memo’ From Sutskever",
+            "dek": "Both former OpenAI executives could have information relevant to Musk’s lawsuit against OpenAI.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The court overseeing Elon Musk’s breach of charitable trust lawsuit against OpenAI has ordered the company’s former CTO Mira Murati to be deposed, seeking information such as “the extent to which [OpenAI CEO] Altman was sidelining safety procedures in the pursuit of commercial interests,” according to a legal filing from Musk’s lawyers. The court’s decision follows a deposition of OpenAI co-founder and former chief scientist Ilya Sutskever last week.</p>\n\n<p>Musk’s lawyers are seeking further information from Sutskever concerning his financial interests in OpenAI, which could include rights to OpenAI’s future profits, and a document called the “Brockman Memo,” an apparent reference to OpenAI’s president and co-founder Greg Brockman.&nbsp;Sutskever’s lawyers say that details of his financial interests are “a constitutionally protected privacy interest.”&nbsp;The court has initially denied Musk’s request because his lawyers filed the document after midnight on the deadline. Musk’s lawyers contend that they encountered a technical difficulty that delayed the filing to 12:08 a.m. The court has asked Musk’s lawyers whether their attempts to submit the filing meet the court’s criteria for a deadline extension.</p>\n\n<p>Lawyers for OpenAI and Microsoft opposed the request to depose Murati, saying Musk missed the deadline and the timing would give Musk an unfair advantage. Musk’s lawyers said they attempted to serve Murati a deposition subpoena eleven times with no success. The court found that “OpenAI is mistaken” about the timing issue and “Musk’s motion has merit.”</p>\n\n<p>These are just the latest conflicts over evidence discovery in the Musk-Altman lawsuit, in which lawyers for both sides have frequently asked the court to intervene to force the other side to produce more documents. Musk, a co-founder and early donor to OpenAI, is suing the ChatGPT maker <a href=\"https://www.theinformation.com/articles/musks-legal-battle-openais-structure-total-long-shot\">for a variety of claims</a>, including that OpenAI has allegedly violated its charitable mission by acting as a for-profit company.</p>\n\n<p><em>This story has been updated to reflect the latest filings concerning Sutskever.</em></p>",
+            "published_at": "2025-10-09T22:32:29.142Z",
+            "url": "https://www.theinformation.com/briefings/murati-deposed-musk-seeks-brockman-memo-sutskever?unlock=2fe923&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/murati-deposed-musk-seeks-brockman-memo-sutskever?unlock=2fe923&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16052,
+            "guid": "3125d4",
+            "headline": "Shopify General Counsel to Take Over COO Role, Revenue Chief Departs",
+            "dek": "Prior to joining Shopify, Jessica Hertz held roles in the Biden White House and at Meta.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Jessica Hertz will become Shopify’s chief operating officer, she said in a LinkedIn post on Thursday. Hertz joined Shopify as the e-commerce software maker’s general counsel in late 2021. Prior to joining Shopify, she worked in the Biden administration and at Meta. Shopify’s previous COO Kaz Nejatian left the company last month to become CEO at real estate tech firm Opendoor.</p>\n\n<p>“Jess has spent four years deeply understanding our business and rewiring how we operate, building systems in legal, talent, and across the company that scale,“ a Shopify spokesperson said in a statement.&nbsp;“She thinks from first principles, ships smart fixes, and combines public sector and technology experience with proven execution. As COO, she’ll help us move faster and deliver more for merchants.”</p>\n\n<p>Also on Thursday, Shopify’s chief revenue officer Bobby Morrison said in a LinkedIn post he was leaving the company. Morrison, who joined the company in mid-2022, helped oversee a push for Shopify to <a href=\"https://www.theinformation.com/articles/shopifys-trojan-horse-to-beat-salesforce?rc=d8mrkd\">sell more of its e-commerce software to larger enterprise customers</a> and win market share from larger competitors like Salesforce and Adobe. Morrison didn’t specify any future plans in his post.</p>",
+            "published_at": "2025-10-09T18:10:18.377Z",
+            "url": "https://www.theinformation.com/briefings/shopify-general-counsel-take-coo-role?unlock=3125d4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/shopify-general-counsel-take-coo-role?unlock=3125d4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14464,
+                    "guid": "06a40f5e94",
+                    "title": "Shopify’s ‘Trojan Horse’ to Beat Salesforce",
+                    "url": "https://www.theinformation.com/articles/shopifys-trojan-horse-to-beat-salesforce?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16051,
+            "guid": "359ada",
+            "headline": "SoftBank-Owned PayPay Takes 40% Stake in Binance Japan",
+            "dek": "Japanese mobile payment app PayPay is also gearing up to go public in the U.S. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SoftBank-owned PayPay, a major mobile payment app in Japan, <a href=\"https://www.prnewswire.com/news-releases/paypay-and-binance-japan-form-capital-and-business-alliance-302579363.html\">said</a> it has acquired a 40% equity stake in Binance Japan, a subsidiary of the world’s largest crypto exchange Binance.</p>\n\n<p>The deal could help Binance Japan gain ground in the country, where global crypto platforms have faced intense competition from local players. The companies will explore allowing Binance Japan users to buy and cash out of crypto using PayPay Money, its app for verified users. They did not disclose the terms of the transaction.</p>\n\n<p>In August, PayPay <a href=\"https://www.theinformation.com/briefings/softbank-owned-payments-app-paypay-files-listing\">said</a> it filed confidentially for a U.S. listing and will continue to be a subsidiary of SoftBank after going public. If the listing goes through, it could be the largest initial public offering for a Japanese company on a US stock exchange.</p>",
+            "published_at": "2025-10-09T18:05:44.668Z",
+            "url": "https://www.theinformation.com/briefings/softbank-owned-paypay-takes-40-stake-binance-japan?unlock=359ada&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-owned-paypay-takes-40-stake-binance-japan?unlock=359ada&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16050,
+            "guid": "791391",
+            "headline": "Andreessen Horowitz Hires Former VMware CEO as General Partner ",
+            "dek": "Raghuram will be a general partner investing in infrastructure and growth startups. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Andreessen Horowitz has hired Raghu Raghuram, former chief executive of VMware, as its newest general partner, according to firm’s co-founder Ben Horowitz. Raghuram will serve as a general partner investing in AI infrastructure and growth-stage companies.</p>\n\n<p>Raghuram worked at VMware for two decades. He left his role as chief executive after the business was sold to Broadcom in 2023 for over $60 billion. The hire comes after Scott Kupor, a former managing partner at Andreessen Horowitz, left the firm to join the Trump administration. Raghuram will help manage the firm’s day-to-day operations as a managing partner as well as invest, Horowitz said.</p>\n\n<p>In an interview, Raghuram said that he’ll be advising portfolio companies on getting access to compute capacity and infrastructure, including through Andreessen Horowitz’s Oxygen program, which connects startups in the portfolio to a stockpile of Nvidia chips. He’ll be looking at startups trying to find new breakthroughs in cloud infrastructure, from faster networking to more efficient storage and security approaches.</p>\n\n<p>“There are big time CEOs who run large companies, and then there are great technologists who run the whole infrastructure landscape and strategy – but there aren’t very many that can do both,” Horowitz said. “You can count them on one hand – it’s like Raghu, and Jensen [Huang].”</p>",
+            "published_at": "2025-10-09T14:17:43.223Z",
+            "url": "https://www.theinformation.com/briefings/andreessen-horowitz-hires-former-vmware-ceo-general-partner?unlock=791391&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/andreessen-horowitz-hires-former-vmware-ceo-general-partner?unlock=791391&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16049,
+            "guid": "cf0aa0",
+            "headline": "Tesla’s ‘Full Self-Driving’ Probed By U.S. Regulator ",
+            "dek": "Regulators said they’d identified 58 reports of vehicles using the software running red lights and violating other traffic laws",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla’s driver assistance technology known as “Full Self-Driving” is being probed by U.S. auto safety regulators, who said they’d identified 58 reports of vehicles using the software running red lights and violating other traffic laws.</p>\n\n<p>The National Highway Traffic Safety Administration’s new probe was disclosed in documents posted on its <a href=\"https://www.nhtsa.gov/?nhtsaId=PE25012\">website</a>. Last year, the agency <a href=\"https://www.theinformation.com/briefings/u-s-probes-tesla-self-driving-software-following-fatal-crash\">opened a separate probe</a> into the software over crashes in low visibility conditions such as sun glare and fog. Last year it also closed an investigation that it had opened in 2021 into Autopilot, Tesla’s less advanced driver assistance system.</p>\n\n<p>The new Tesla probe could force the company to recall and make changes to its software. The agency announced the probe days after Tesla released the latest version of the Full Self-Driving software, known as version 14, which CEO Elon Musk has hyped as a major upgrade over the previous iteration. Tesla shares were down 2% early Thursday.</p>",
+            "published_at": "2025-10-09T13:45:48.755Z",
+            "url": "https://www.theinformation.com/briefings/teslas-full-self-driving-probed-u-s-regulator?unlock=cf0aa0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/teslas-full-self-driving-probed-u-s-regulator?unlock=cf0aa0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16048,
+            "guid": "43f94f",
+            "headline": "China Tightens Rare Earth Export Controls ",
+            "dek": "Beijing’s new rules for the export of rare earths for semiconductor uses could affect Nvidia’s supply chain. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>China on Thursday announced additional export controls on rare earths, expanding restrictions on critical minerals that are used in the manufacturing of everything from gadgets to electric vehicles to defense systems.</p>\n\n<p>Under the new rules, exports for overseas military applications won’t be allowed, while exports for uses in semiconductors and chip manufacturing equipment will require approval on a case-by-case basis, China’s Ministry of Commerce said. The new rules, which expanded from earlier restrictions announced in April, also limit&nbsp;the export of technologies used for rare earth production and recycling.</p>\n\n<p>The new rules could affect chip giants like Nvidia, if the company’s suppliers need to apply for Beijing’s licenses in order to purchase large quantities of rare earths from China. Rare earths are used in several components for Nvidia chips and servers, such as those&nbsp;in the cooling system.</p>\n\n<p>China produces the vast majority of the world’s rare earths. As U.S.-China geopolitical tensions have escalated in recent years, China’s control of rare earths has given Beijing leverage in its trade negotiations with Washington.</p>",
+            "published_at": "2025-10-09T08:04:56.793Z",
+            "url": "https://www.theinformation.com/briefings/china-tightens-rare-earth-export-controls?unlock=43f94f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-tightens-rare-earth-export-controls?unlock=43f94f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                },
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16047,
+            "guid": "2e6a9b",
+            "headline": "Elon Musk and X Settle Unpaid Severance Lawsuit from Ex-Twitter Executives ",
+            "dek": "The four executives sued Musk last year over what they said was $128 million in unpaid severance. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk and his social media site X, formerly known as Twitter, have settled a lawsuit from four top Twitter executives that Musk fired after acquiring the company in 2022.</p>\n\n<p>Former Twitter CEO Parag Agrawal, chief financial officer Ned Segal, chief legal officer Vijaya Gadde and general counsel Sean Edgett reached a settlement with Musk and X, according to California federal court filings. The four executives <a href=\"https://www.theinformation.com/briefings/former-twitter-executives-sue-elon-musk-for-128-million\">sued Musk last year</a> over what they said was $128 million in unpaid severance, including a nearly $60 million Agrawal said he was owed. The value and terms of the settlement were not disclosed in the new court filings.</p>\n\n<p>The executives’ initial lawsuit claimed that Musk fired them “for cause” in “sham designed to deprive Plaintiffs of their severance benefits.” Musk had repeatedly criticized Twitter’s former leadership before and after taking over the company.</p>",
+            "published_at": "2025-10-08T19:06:14.429Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-x-settle-unpaid-severance-lawsuit-ex-twitter-executives?unlock=2e6a9b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-x-settle-unpaid-severance-lawsuit-ex-twitter-executives?unlock=2e6a9b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16046,
+            "guid": "c686cf",
+            "headline": "Apple and Meta Poised to Settle Antitrust Issues in Europe",
+            "dek": "The two U.S. tech companies will change business practices ",
+            "source_url": "https://www.ft.com/content/74a31a0f-d4d2-4681-9ce8-3a1b5a7632dc",
+            "source_label": "Financial Times",
+            "body": "<p>Apple and Meta are on the verge of settling antitrust cases with European Union regulators over alleged violations of the bloc’s Digital Markets Act, the Financial Times reported.</p>\n\n<p>The EU had already fined the two companies a combined €700 million over alleged violations of parts of the law, which the EU passed in 2022 to open the door to smaller companies seeking to compete against large tech giants.</p>\n\n<p>Apple was making it difficult for consumers to download software for Apple devices outside of its App Store, which the law requires, European regulators claimed. For Meta, regulators sought changes to the company’s new “pay or consent” system, which gives European consumers the option to either permit data tracking to use its social media apps or pay a subscription fee.</p>\n\n<p>As part of the settlement, the two companies will change their business practices, the outlet reported. In the case of Apple, it could mean a viable option for consumers to download apps outside of the App Store and spur the emergence of viable alternative digital app stores on the iPhone.</p>",
+            "published_at": "2025-10-08T17:27:12.498Z",
+            "url": "https://www.theinformation.com/briefings/apple-meta-poised-settle-antitrust-issues-europe?unlock=c686cf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-meta-poised-settle-antitrust-issues-europe?unlock=c686cf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16045,
+            "guid": "f3c0e6",
+            "headline": "SoftBank Buys ABB’s Struggling Robotics Unit for $5.4 Billion",
+            "dek": "SoftBank will have to turn around the division. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SoftBank Group said Wednesday it had purchased the robotics division of Swiss industrial conglomerate ABB for $5.4 billion, the latest big push for the Japanese firm into robotics.</p>\n\n<p>SoftBank will have to turn around the division. ABB said last quarter it generated about $813 million in revenue from “robotics and discrete automation” last quarter, down about 2% a year due to tariff uncertainty “and declines in most end markets excluding consumer electronics.”</p>\n\n<p>SoftBank said in a press&nbsp;release it hoped to “reignite the robotics business’s growth, particularly through investment in cutting-edge technologies such as AI.”</p>\n\n<p>SoftBank has about 20 robotics-related investments, including startup Skid AI, which is building a foundation model for robotics, and publicly traded AutoStore, which makes robots for warehouse storage.</p>",
+            "published_at": "2025-10-08T16:02:18.976Z",
+            "url": "https://www.theinformation.com/briefings/softbank-buys-abbs-struggling-robotics-unit-5-4-billion?unlock=f3c0e6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-buys-abbs-struggling-robotics-unit-5-4-billion?unlock=f3c0e6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15662,
+                    "guid": "7b957bbca1",
+                    "title": "SoftBank’s Heavy Spending on Chip Deals Eyed By Investors",
+                    "url": "https://www.theinformation.com/articles/softbanks-heavy-spending-chip-deals-eyed-investors?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16044,
+            "guid": "24d0d6",
+            "headline": "Data Streaming Firm Confluent Explores Sale",
+            "dek": "The company attracts takeover interests after losing one-third of its market value in July. ",
+            "source_url": "https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/",
+            "source_label": "Reuters",
+            "body": "<p>Data streaming platform Confluent is exploring a sale after receiving takeover interest, Reuters <a href=\"https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/\">reported</a>. Shares of Confluent jumped more than 11% on Wednesday morning.</p>\n\n<p>The Mountain View, Calif.-based Confluent helps companies to process real-time, massive data based on the open-source Apache Kafka technology it commercializes.</p>\n\n<p>Shares of Confluent have been sliding the past year. The company lost one-third of its market value in July after CEO Jay Kreps said in an earnings call that sales growth of their cloud products was declining and the company is losing business from a large AI customer.</p>",
+            "published_at": "2025-10-08T15:28:32.281Z",
+            "url": "https://www.theinformation.com/briefings/data-streaming-firm-confluent-explores-sale?unlock=24d0d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/data-streaming-firm-confluent-explores-sale?unlock=24d0d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        }
+    ]
+}
