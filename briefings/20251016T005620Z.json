@@ -1,0 +1,672 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16085,
+            "guid": "304cae",
+            "headline": "Anthropic Gets Ready for Startup M&A",
+            "dek": "Potential M&A targets could help boost Anthropic’s models, products and their underlying tech\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>In recent weeks, Anthropic has told investment bankers it seeks to do more acquisitions, <a href=\"https://www.theinformation.com/articles/anthropic-gets-ready-go-startup-shopping?rc=8tzurb\">The Information reported</a> Wednesday.&nbsp; The Claude developer is interested in potential M&amp;A opportunities that could enhance its artificial intelligence models and products as well as the technology underlying them.</p>\n\n<p>Potential M&amp;A targets could help Anthropic expand its capabilities beyond coding-related tasks, which makes up the majority of the company’s revenue. It could also use acquisitions to develop products in other industries, such as financial services, healthcare and cybersecurity.</p>\n\n<p>The company has also expanded its corporate development team, which reports to Chief Financial Officer Krishna Rao and is made up of former bankers and venture capitalists. Former SoftBank Vision Fund partner Andrew Zloto leads the corporate development team, which also includes former Morgan Stanley and Qatalyst Partners bankers Vu Bui, James Black, and Bryan Seethor.</p>",
+            "published_at": "2025-10-15T23:49:55.399Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-gets-ready-startup-m?unlock=304cae&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-gets-ready-startup-m?unlock=304cae&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16084,
+            "guid": "bd3b66",
+            "headline": "Anthropic Nears $7 Billion in Annualized Revenue",
+            "dek": "The company is reported to target as much as $26 billion in annualized revenue by the end of next year. ",
+            "source_url": "",
+            "source_label": "Reuters",
+            "body": "<p>Anthropic is nearing $7 billion in annualized revenue this month, according to a company spokesperson. That’s up from around $5&nbsp;billion in July.</p>\n\n<p>The maker of Claude has also projected annualized revenue will climbed to $9 billion by year-end and between $20 billion to $26 billion in annualized revenue by the end of 2026, according to Reuters.</p>\n\n<p>The projections appear higher than those Anthropic gave investors earlier this year. The maker of the Claude chatbot said it expected to generate between roughly $2 billion and $4 billion in revenue this year and between about $5 billion and $12 billion in total revenue in 2026.</p>\n\n<p>Annualized revenue, a measure of the last month’s revenue multiplied by 12, tends to be higher than aggregate revenue. Its latest projections for total revenue couldn’t be learned. A spokesperson declined to comment on the projections.</p>\n\n<p>Anthropic raised $13 billion in September at a $170 billion valuation before the investment. VC firm Iconiq, along with Lightspeed Venture Partners and Fidelity Management, co-led the round.</p>\n\n<p><em>The brief has been updated with a confirmation of Anthropic’s current revenue pace.</em></p>",
+            "published_at": "2025-10-15T22:52:59.961Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-said-target-26-billion-annualized-revenue-2026?unlock=bd3b66&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-said-target-26-billion-annualized-revenue-2026?unlock=bd3b66&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16083,
+            "guid": "4b6fa0",
+            "headline": "Exclusive: Poolside in Talks With CoreWeave-Backer Magnetar for New Funding",
+            "dek": "Poolside, a two-year-old startup that had been developing artificial intelligence coding assistants, is in talks to raise money.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Poolside, a two-year-old startup that had been developing artificial intelligence coding assistants, is in talks to raise money from Magnetar, a hedge fund that is a major backer of CoreWeave, for the first time, according to a person with direct knowledge of the fundraising discussions. Magnetar’s potential involvement hasn’t previously been reported.</p>\n\n<p>The startup is seeking to raise around $2 billion at a $12 billion valuation, not including the investment, according to a person familiar with the plans. The startup has been fundraising while it embarks on an ambitious shift in strategy to developing foundation models and the infrastructure to train them. On Wednesday it announced plans to build a data center in West Texas and said cloud computing company CoreWeave will be the anchor tenant for the first phase of the project, under a 15-year lease. The project will generate 250 megawatts of capacity, with room to expand by an additional 500 megawatts.</p>\n\n<p>Under terms of the partnership, CoreWeave will also give it access to more than 40,000 Nvidia graphic processing units. Poolside’s new funding plans will help it pay for those chips, Bloomberg reported.</p>\n\n<p>Poolside was co-founded by Jason Warner, one of the creators of GitHub’s Copilot coding assistant. Last year, Poolside raised $500 million at a $3 billion valuation. It’s not clear how much money its first products, launched a year ago, had generated. Last year it generated $10 million in revenue, <a href=\"https://www.theinformation.com/articles/openais-gpt-4-5-underwhelms-is-poolside-worth-5-billion?rc=zjctrx\">The Information previously reported</a>.</p>\n\n<p>The Wall Street Journal was first to report Poolside’s talks to raise money.</p>",
+            "published_at": "2025-10-15T22:05:22.668Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-poolside-talks-coreweave-backer-magnetar-new-funding?unlock=4b6fa0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-poolside-talks-coreweave-backer-magnetar-new-funding?unlock=4b6fa0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16082,
+            "guid": "ebee2a",
+            "headline": "Meta and Arm Announce New Partnership",
+            "dek": "Meta will use Arm’s data center platforms to power the ranking and recommendation systems for its social media apps.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms and semiconductor company Arm on Wednesday announced a partnership where Meta will use Arm’s data center platforms to power the ranking and recommendation systems for its social media apps, <a href=\"https://newsroom.arm.com/news/arm-meta-strategic-partnership\">according to a blog post</a>.</p>\n\n<p>The announcement comes after Meta CEO Mark Zuckerberg last month said his company planned to spend “something like at least $600 billion” through 2028 on data centers and other infrastructure in the U.S. Over the past year, Meta has ramped up its capital expenditures as it expands its computing capacity for its artificial intelligence efforts.</p>",
+            "published_at": "2025-10-15T19:14:59.987Z",
+            "url": "https://www.theinformation.com/briefings/meta-arm-announce-new-partnership?unlock=ebee2a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-arm-announce-new-partnership?unlock=ebee2a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1513375,
+                    "display_name": "Kalley Huang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16081,
+            "guid": "2624d1",
+            "headline": "BlackRock-Led Group Makes $40 Billion Data Center Acquisition",
+            "dek": "The acquisition, which is expected to be finalized by the first half of next year, would be the largest such sale on record.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>A group of investors including BlackRock and Abu Dhabi’s MGX acquired Aligned Data Centers in a roughly $40 billion deal, the latest big investment in companies building data centers for the tech giants.</p>\n\n<p>The acquisition, which is expected to be finalized by the first half of next year, would be the largest such sale on record and add significant firepower to BlackRock’s growing data center portfolio. BlackRock last year paid $12.5 billion to acquire fund manager Global Infrastructure Partners, which also owns a stake in data center company CyrusOne.</p>\n\n<p>BlackRock’s Artificial Intelligence Infrastructure Partnership–backed by MGX, Microsoft and Nvidia–will also invest in the transaction. The partnership is aiming to invest $30 billion of equity and up to $100 billion total, including debt, in data center and power assets.</p>\n\n<p>The investor group is buying Aligned from Macquarie Asset Management, which first invested in the business in 2018. Aligned’s roughly $40 billion enterprise value includes about $21 billion in equity, said one person with knowledge of the deal.</p>",
+            "published_at": "2025-10-15T17:31:10.229Z",
+            "url": "https://www.theinformation.com/briefings/blackrock-led-group-makes-40-billion-data-center-acquisition?unlock=2624d1&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blackrock-led-group-makes-40-billion-data-center-acquisition?unlock=2624d1&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16080,
+            "guid": "bf5696",
+            "headline": "Palmer Luckey’s Erebor Bank Conditionally Approved",
+            "dek": "The U.S government conditionally approved a bank charter application for Erebor Bank.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The U.S government conditionally approved a bank charter application for Erebor Bank, a cryptocurrency-focused bank co-founded earlier this year by Anduril co-founder Palmer Luckey and Palantir co-founder Joe Lonsdale.</p>\n\n<p>The Office of the Comptroller of the Currency on Wednesday said it granted conditional approval to the national bank charter application for Erebor. “Today’s decision is also proof that the OCC under my leadership does not impose blanket barriers to banks that want to engage in digital asset activities,” Comptroller of the Currency Jonathan Gould said in a statement. The bank is planning to serve technology companies and high-net-worth individuals that use cryptocurrencies, the OCC said.</p>\n\n<p>According to the conditional approval letter, Erebor is led by Owen Rapaport, the co-founder of crypto monitoring company Aer Compliance. Luckey is listed as the bank’s principal shareholder. Erebor must complete a number of compliance steps before it can receive final approval and operate, the OCC said. That process can typically take between 12 and 18 months.</p>",
+            "published_at": "2025-10-15T15:22:13.754Z",
+            "url": "https://www.theinformation.com/briefings/palmer-luckeys-erebor-bank-conditionally-approved?unlock=bf5696&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/palmer-luckeys-erebor-bank-conditionally-approved?unlock=bf5696&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16079,
+            "guid": "b940d0",
+            "headline": "Amazon Planning Fresh Layoffs in Consumer Division",
+            "dek": "The e-commerce giant previously cut large numbers of staff in 2022 and 2023.",
+            "source_url": "https://fortune.com/2025/10/14/amazon-layoffs-pxt-hr-andy-jassy/",
+            "source_label": "Fortune",
+            "body": "<p>Amazon is preparing to lay off as much as 15% of its human resources staffers, Fortune reported, along with cuts to other parts of the e-commerce giant’s consumer division. The report didn’t specify the total number of employees involved in the planned cuts or potential timing. Amazon didn’t immediately respond to a request for comment.</p>\n\n<p>Amazon’s HR department, known as the People Experience Team, or PXT, is expected to be hit hard by the cuts, the report said. PXT has more than 10,000 employees and includes recruiters and traditional HR employees. Amazon CEO Andy Jassy wrote in a memo earlier this year that as the company incorporates more AI into its work and improves productivity, it would likely cut corporate staff. “We expect that this will reduce our total corporate workforce as we get efficiency gains from using AI extensively across the company,” he <a href=\"https://www.theinformation.com/articles/amazons-andy-jassy-says-quiet-part-ai-loud?rc=d8mrkd\">wrote</a> of growing AI usage.</p>\n\n<p>Amazon previously made small cuts to its <a href=\"https://www.theinformation.com/briefings/amazon-lays-off-200-employees-in-north-america-stores-division?rc=d8mrkd\">North American stores division</a> and to <a href=\"https://www.theinformation.com/briefings/aws-lays-hundreds-staff-amid-increasing-ai-investment?rc=d8mrkd\">some Amazon Web Services teams</a> earlier this year. Earlier in Jassy’s tenure as CEO, he oversaw mass layoffs in 2022 and 2023 and embarked on an <a href=\"https://www.theinformation.com/articles/amazons-jassy-vows-to-fight-bureaucracy?rc=d8mrkd\">anti-bureaucracy push</a> last year.</p>",
+            "published_at": "2025-10-15T14:57:57.538Z",
+            "url": "https://www.theinformation.com/briefings/amazon-planning-fresh-layoffs-consumer-division?unlock=b940d0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-planning-fresh-layoffs-consumer-division?unlock=b940d0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16078,
+            "guid": "9246fd",
+            "headline": "European Union Mulls Forced Tech Transfer for Chinese Firms",
+            "dek": "The discussions are part of the EU’s effort to counter the rapid growth of Chinese imports such as electric vehicles. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-14/eu-considers-forced-tech-transfers-for-new-chinese-investments",
+            "source_label": "Bloomberg",
+            "body": "<p>The European Union is discussing new rules that would force Chinese companies to transfer their technologies to European companies or form joint ventures with European partners when operating in the region, Bloomberg and other news outlets reported.</p>\n\n<p>Such rules would apply to Chinese firms in key industries including cars and batteries, according to Bloomberg, which cited people familiar with the plans. China maintained similar rules on foreign companies seeking to expand into the country in manufacturing and other sectors, and only scrapped or loosened such requirements in recent years, after Chinese companies had become strong enough to compete against their foreign partners.</p>\n\n<p>The EU’s discussions are part of the region’s broader effort in recent years to counter the rapid growth of Chinese imports. Earlier this month, the EU proposed higher tariffs on steel imports in a move targeted at Chinese imports.</p>\n\n<p>After a meeting of EU ministers in Denmark on Tuesday, Danish foreign minister Lars Rasmussen said at a news conference that Chinese investments in Europe “must come with the precondition that we also have some kind of technology transfer,“ according to Reuters.</p>",
+            "published_at": "2025-10-15T07:11:59.825Z",
+            "url": "https://www.theinformation.com/briefings/european-union-mulls-forced-tech-transfer-chinese-firms?unlock=9246fd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/european-union-mulls-forced-tech-transfer-chinese-firms?unlock=9246fd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16077,
+            "guid": "258c30",
+            "headline": "Ad agency WPP Commits to Spend $400 million on Google AI ",
+            "dek": "The renewed arrangement allows the two companies to co-develop products together and then take them to market\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google and ad agency giant WPP announced a five year extension of a previously announced marketing partnership. Under the renewed deal, WPP will spend $400 million on Google’s technologies. WPP uses Google’s AI particularly in its WPP Open product, an AI platform for marketers.</p>\n\n<p>WPP and Google first announced a partnership in April 2024. The renewed arrangement allows the two companies to co-develop products together and then take them to market, said Stephan Pretorius, chief technology officer at WPP. WPP can also get early access to Google DeepMind’s research.</p>\n\n<p>“I think a year and a half ago, the stuff that we were doing with generative AI models was all ideation,” Pretorius said. “We now are creating an enormous amount of content that is actually being used in market with AI.”</p>\n\n<p>Pretorius said that their staff is using generative AI regularly. Earlier this year, when Google released its Veo2 video generation model, WPP staff had generated four times the expected number of videos.</p>",
+            "published_at": "2025-10-14T21:43:00.454Z",
+            "url": "https://www.theinformation.com/briefings/ad-agency-wpp-commits-spend-400-million-google-ai?unlock=258c30&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ad-agency-wpp-commits-spend-400-million-google-ai?unlock=258c30&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16076,
+            "guid": "811708",
+            "headline": "OpenAI Plans to Allow Erotica for Verified Adult ChatGPT Users",
+            "dek": "The company seeks to fully roll out age verification features by December \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CEO Sam Altman said Tuesday that the company plans to relax restrictions for adult users of its chatbot. The company will fully roll out “age-gating,” or age verification features, by December, at which point verified adults can interact with more mature content, including erotica, Altman said in a post on X.</p>\n\n<p>“We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues,” said Altman. “As we roll out age-gating more fully and as part of our ‘treat adult users like adults’ principle, we will allow even more, like erotica for verified adults.”</p>\n\n<p>OpenAI in September introduced parental controls that restricted content for users under 18. The safeguards followed August news reports about a teen who killed himself in April after asking ChatGPT for instructions on suicide. The attorneys general of California and Delaware sent a letter to the company in September, criticizing it for failing to protect teen ChatGPT users.</p>\n\n<p>Altman also said that the company plans to update ChatGPT, which could allow the chatbot to respond with more personality, such as using emojis or being more friendly, if users want it to.</p>",
+            "published_at": "2025-10-14T19:40:39.971Z",
+            "url": "https://www.theinformation.com/briefings/openai-plans-allow-erotica-verified-adult-chatgpt-users?unlock=811708&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-plans-allow-erotica-verified-adult-chatgpt-users?unlock=811708&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16075,
+            "guid": "08dd47",
+            "headline": "Salesforce Touts Deeper Ties with OpenAI, Anthropic ",
+            "dek": "At Salesforce's annual customer conference, Dreamforce, CEO Marc Benioff talked about how deeper partnerships with the top AI labs will help customers. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Salesforce CEO and co-founder Marc Benioff, speaking at Salesforce’s annual Dreamforce conference, announced expansions of existing partnerships with OpenAI and Anthropic aimed at making it easier for customers to build agents using those startups’ models. In doing so, Benioff made clear that Salesforce is on good terms with OpenAI again.</p>\n\n<p>While OpenAI co-founder and CEO Sam Altman joined Benioff onstage at Dreamforce in 2023 to announce their partnership, OpenAI representatives were nowhere to be found at last year’s conference, where Benioff said many of his customers were having trouble getting OpenAI models to produce accurate results.&nbsp; This year, Brad Lightcap, OpenAI’s chief operating officer, made a brief appearance during the Dreamforce keynote.</p>\n\n<p>And the companies revealed deeper integrations between their products, which will soon let ChatGPT users pull up Salesforce customer records and build charts and graphs using simple text prompts. Salesforce customers will also be able to access Anthropic’s Claude models in a more secure way than they’ve been able to do previously.</p>\n\n<p>Salesforce has had a tough time <a href=\"https://www.theinformation.com/articles/ai-giving-salesforce-boost?rc=eqgjah\">getting customers to buy its main AI product</a>, Agentforce. But teaming up with OpenAI and Anthropic at least shows customers that Salesforce is close to where the action is happening in AI. While Benioff would likely prefer not to share the spotlight for his AI products, the association could convince customers that Salesforce is on the right track.</p>",
+            "published_at": "2025-10-14T19:03:08.058Z",
+            "url": "https://www.theinformation.com/briefings/salesforce-touts-deeper-ties-openai-anthropic?unlock=08dd47&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/salesforce-touts-deeper-ties-openai-anthropic?unlock=08dd47&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16074,
+            "guid": "241358",
+            "headline": "Goldman Sachs Warns Of Job Cuts Amid AI Push",
+            "dek": "Goldman Sachs reported strong earnings and said it was on track for a record year in its investment banking and markets division.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Goldman Sachs reported strong earnings and said it was on track for a record year in its investment banking and markets division. At the same time, it warned employees of potential job cuts amid a push to use artificial intelligence to overhaul the bank’s operations in areas such as lending, regulatory reporting and supplier management.</p>\n\n<p>The investment bank’s CEO David Solomon on Tuesday unveiled a program, One Goldman Sachs 3.0, which he said will use AI technology to “drive efficiencies and create capacity for future growth” in a range of operations that also includes sales and customer onboarding. The bank reported record revenue of $15.2 billion in the third quarter, a 20% increase, driven by surging investment banking fees amid rallying stock markets and a more favourable mergers and acquisitions landscape. Goldman Sachs profit rose 37% to $4.1 billion in the quarter.</p>\n\n<p>JPMorgan, which also reported results on Tuesday, reported a 9% increase in third quarter revenues to $46.4 billion. The bank, the largest in the U.S., said net income rose to $14.4 billion, up 12% compared to the same period a year earlier. Citi reported net income rose 15% to $3.8 billion, as revenues rose 9% in the third quarter. Wells Fargo profit increased 9% during the same period to $5.6 billion. Revenues rose 5% to $21.4 billion.</p>",
+            "published_at": "2025-10-14T18:00:49.212Z",
+            "url": "https://www.theinformation.com/briefings/goldman-sachs-warns-job-cuts-amid-ai-push?unlock=241358&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/goldman-sachs-warns-job-cuts-amid-ai-push?unlock=241358&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16073,
+            "guid": "9c7f60",
+            "headline": "Oracle and AMD Strike New AI Chip Pact",
+            "dek": "The deal could eventually help the cloud provider negotiate better prices with AMD rival Nvidia.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Oracle <a href=\"https://www.oracle.com/news/announcement/ai-world-oracle-and-amd-expand-partnership-to-help-customers-achieve-next-generation-ai-scale-2025-10-14/\">said</a> Tuesday it will be the first cloud provider to offer a large cluster of Advanced Micro Devices’ next-generation artificial intelligence server chips next fall. The deal involves 50,000 of the AMD chips, MI450 graphics processing units, the companies said. It isn’t clear how much data center power capacity that cluster would require, but it is likely to be a small fraction of a gigawatt.</p>\n\n<p>Last week OpenAI said it would eventually use 6 GW of AMD AI chips to power its technology, and that those chips could be run in cloud providers like Oracle that rent out servers to the ChatGPT maker. (OpenAI will use a little more than 2 GW of capacity from cloud providers like Microsoft, Google and Oracle as of the end of this year.)</p>\n\n<p>For such cloud providers and for customers like OpenAI, using AMD could eventually help them negotiate better prices with Nvidia, which dominates the market for AI chips; prices for those chips <a href=\"https://www.theinformation.com/articles/internal-oracle-data-show-financial-challenge-renting-nvidia-chips?rc=c48ukx\">make it hard for Oracle to generate a profit from renting them out</a> to customers like OpenAI. Nearly all of Oracle’s AI server rental revenue comes from Nvidia chip-powered servers.</p>\n\n<p>OpenAI’s recent deal with AMD could result in the AI developer owning 10% of the chip designer. At the same time, OpenAI is already one of the world’s biggest users of Nvidia GPUs and said it plans to oversee its own data centers filled with Nvidia chips.</p>",
+            "published_at": "2025-10-14T15:52:25.704Z",
+            "url": "https://www.theinformation.com/briefings/oracle-amd-strike-new-ai-chip-pact?unlock=9c7f60&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-amd-strike-new-ai-chip-pact?unlock=9c7f60&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16072,
+            "guid": "f962eb",
+            "headline": "Walmart Announces It Will Sell Products Through ChatGPT’s Instant Checkout",
+            "dek": "OpenAI announced partnerships with Etsy and Shopify last month.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Walmart <a href=\"https://www.businesswire.com/news/home/20251014984151/en/Walmart-Partners-with-OpenAI-to-Create-AI-First-Shopping-Experiences\">said</a> Tuesday that it would soon start selling products through ChatGPT’s Instant Checkout feature, marking the first major retailer to strike an e-commerce partnership with the AI firm.</p>\n\n<p>Shoppers will be able to buy most Walmart and Sam’s Club products directly in ChatGPT conversations, including items from Walmart’s third-party marketplace, Daniel Danker, Walmart’s executive vice president of AI, product and design, said in an interview with <a href=\"https://www.bloomberg.com/news/articles/2025-10-14/walmart-partners-with-openai-to-offer-shopping-on-chatgpt?srnd=phx-industries\">Bloomberg</a>, though fresh food won’t be available via the feature.</p>\n\n<p>OpenAI last month announced the launch of Instant Checkout, starting with merchants who sell on Etsy or who use Shopify software. Walmart executives <a href=\"https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents?\">said</a> earlier this year they wanted to keep Walmart’s e-commerce technology open-ended so that the retailer could pursue partnerships with AI companies.</p>",
+            "published_at": "2025-10-14T13:55:34.044Z",
+            "url": "https://www.theinformation.com/briefings/walmart-announces-will-sell-products-chatgpts-instant-checkout?unlock=f962eb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/walmart-announces-will-sell-products-chatgpts-instant-checkout?unlock=f962eb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15470,
+                    "guid": "f32df7c9e5",
+                    "title": "Amazon Locks Down Against Google’s AI Shopping Agents",
+                    "url": "https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16071,
+            "guid": "6121ad",
+            "headline": "Exclusive: Cursor-Maker Anysphere in Talks to Raise $1 Billion at $27 Billion Valuation",
+            "dek": "Coatue Management and Accel have been in talks to make major investments in Anysphere.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Coatue Management and Accel have been in talks to make major investments in Anysphere, which makes popular coding assistant Cursor, according to two people with direct knowledge of the discussions. Anysphere is planning to raise at least $1 billion in new capital at a $27 billion valuation before the investment, according to one of those people.</p>\n\n<p>The deal, if closed, would be Coatue Management’s first known investment into the coding assistant startup. Accel, which has also backed Swedish coding startup Lovable, first invested in Anysphere at a $9.9 billion valuation in June. The deal would continue Accel’s strategy of doubling down on some of its growth-stage bets, as it has done with data labeling startup Scale AI and cloud cybersecurity firm Cyera. Details of the financing haven’t previously been reported.</p>\n\n<p>The Information was first to report that <a href=\"https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation\">investors have offered to finance Anysphere</a> at roughly three times the valuation in its last round. The new funding would add to the approximately $800 million Anysphere has on its balance sheet, according to one of the people. The firm has been training its own models to power its assistant, driving up costs.</p>",
+            "published_at": "2025-10-14T00:06:19.231Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-cursor-maker-anysphere-talks-raise-1-billion-27-billion-valuation?unlock=6121ad&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-cursor-maker-anysphere-talks-raise-1-billion-27-billion-valuation?unlock=6121ad&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                },
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                },
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16070,
+            "guid": "7c07df",
+            "headline": "Goldman Sachs Agrees To Buy  Industry Ventures for Up to $965 Million",
+            "dek": "Goldman Sachs said Monday it had agreed to buy Industry Ventures, an investor in private startups and venture funds, in a transaction worth up to $965 million.",
+            "source_url": "https://www.goldmansachs.com/pressroom/press-releases/2025/goldman-sachs-announces-acquisition-of-industry-ventures",
+            "source_label": "Goldman Sachs",
+            "body": "<p>Goldman Sachs said Monday it had agreed to buy Industry Ventures, an investor in private startups and venture funds, in a transaction worth up to $965 million. The investment bank said it planned to make an upfront payment of $665 million with an additional $300 million payable over the next five years, depending on performance.</p>\n\n<p>Goldman said the purchase of 25-year-old Industry Ventures will strengthen its ties to technology entrepreneurs. The San Francisco firm Industry Ventures has about $7 billion in assets under management and acts as a limited partner in 800 investment firms as well as an investor in private startups, largely through purchases of shares from other investors.&nbsp; All 45 employees of the firm are expected to join Goldman Sachs.</p>\n\n<p>“Industry Ventures pioneered venture secondary investing and early-stage hybrid funds, areas that are rapidly expanding as companies stay private longer and investors seek new forms of liquidity,” said Goldman Sachs CEO David Solomon in a&nbsp; statement.</p>\n\n<p>Industry Ventures has achieved a net internal rate of return 18% since 2000 and averages a multiple on its invested capital of more than double since its inception.</p>\n\n<p>Swildens said that he was open to a sale because they already worked closely with Goldman Sachs. “It’s really us expanding our relationship more and becoming partners with one of our larger and trusted LPs.”</p>\n\n<p>Goldman advised itself on the deal.</p>",
+            "published_at": "2025-10-13T23:53:54.446Z",
+            "url": "https://www.theinformation.com/briefings/goldman-sachs-agrees-buy-industry-ventures-965-million?unlock=7c07df&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/goldman-sachs-agrees-buy-industry-ventures-965-million?unlock=7c07df&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16069,
+            "guid": "d457b5",
+            "headline": "AWS’ Custom Chip Now Powers Most of Its Key AI Cloud Service",
+            "dek": "Amazon Bedrock, a cloud service that Amazon Web Service launched two years ago, is now becoming a showcase for the company's custom chip design efforts. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>More than half of a key Amazon Web Services cloud service for accessing artificial intelligence&nbsp; is running on the company’s custom-designed AI chips, said Julia White, AWS’s chief marketing officer, in an interview on The Information’s TITV.</p>\n\n<p>Amazon executives haven’t previously shared such details about usage of the custom AI chips, Trainium, in running the Bedrock cloud service, which also runs on graphics processing units from Nvidia. Cloud customers use Bedrock to access AI models from Anthropic and other providers.</p>\n\n<p>White’s revelation is significant because it shows the extent to which Amazon is relying on in-house technology to potentially get better gross profit margins from AI, as Trainium chips are less expensive than Nvidia GPUs. (Trainium isn’t a GPU but is designed to speed up AI model training and inference). AWS also sells Trainium-powered cloud servers at a steep discount to Nvidia chip-powered cloud servers, as we’ve <a href=\"https://www.theinformation.com/articles/amazon-undercuts-nvidia-aggressive-ai-chip-discounts?rc=eqgjah\">reported</a>.</p>",
+            "published_at": "2025-10-13T22:26:36.505Z",
+            "url": "https://www.theinformation.com/briefings/aws-custom-chip-now-powers-key-ai-cloud-service?unlock=d457b5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-custom-chip-now-powers-key-ai-cloud-service?unlock=d457b5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16068,
+            "guid": "cad86a",
+            "headline": "Apple Rebrands Streaming Service to Apple TV",
+            "dek": "Apple said the rebrand was part of “a vibrant new identity”",
+            "source_url": "https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/",
+            "source_label": "The Information",
+            "body": "<p>Apple is slightly tweaking the name of its streaming media service by shedding the plus-symbol at the end of its previous name, Apple TV+.</p>\n\n<p>The company tucked the news away at the end of a <a href=\"https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/\">press release</a> announcing that its blockbuster sports movie “F1 The Movie” would arrive on the streaming service December 12th. “Apple TV+ is now simply Apple TV, with a vibrant new identity,” the press release reads.</p>\n\n<p>The rebranding could cause some confusion. The Apple TV service now shares a name with the company’s streaming media hardware, a low-selling product that is one of the minor parts of Apple’s product line. Apple infrequently releases new updates to the product, the last model of which came out in 2022.</p>\n\n<p>Although F1 performed well, making more than $629 million in global box office sales, the streaming service has been a money-loser in the company’s service portfolio. At the end of last year, Apple was losing $1 billion a year on the service, even with subscribers growing to 45 million, The Information previously <a href=\"https://www.theinformation.com/articles/apple-streaming-losses-top-1-billion-year\">reported</a>. The company trimmed Apple TV’s budget around $500 million last year as executives upped scrutiny of spending.</p>",
+            "published_at": "2025-10-13T20:07:07.816Z",
+            "url": "https://www.theinformation.com/briefings/apple-rebrands-streaming-service-apple-tv?unlock=cad86a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-rebrands-streaming-service-apple-tv?unlock=cad86a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14719,
+                    "guid": "c3c93824b4",
+                    "title": "Apple is Losing Over $1 Billion a Year on Streaming Service",
+                    "url": "https://www.theinformation.com/articles/apple-streaming-losses-top-1-billion-year?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16067,
+            "guid": "f51daa",
+            "headline": "JPMorgan Commits $10 Billion to Strategic US Tech Investments",
+            "dek": "The bank recently worked with MP Materials on a deal with the Department of Defense to increase domestic production of rare earth magnets.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>JPMorgan Chase will invest $10 billion in mostly US-based tech companies working in areas aligned with strategic government interests. The investments are part of a broader pledge by the bank to facilitate $1.5 trillion of transactions in areas including domestic manufacturing and artificial intelligence.</p>\n\n<p>The bank said it’s targeting four sectors for investment–supply chain and advanced manufacturing; defense and aerospace; energy independence and resilience; and frontier and strategic technologies. The pledge to facilitate or finance $1.5 trillion of deals in those areas is a 50% increase from the bank’s previous plans, it said.</p>\n\n<p>JPMorgan CEO Jamie Dimon twice pointed to critical minerals as an area of focus in a Monday statement. The bank recently worked with MP Materials on a deal with the Department of Defense to increase domestic production of rare earth magnets used in everything from iPhones to fighter jets.</p>",
+            "published_at": "2025-10-13T18:22:39.041Z",
+            "url": "https://www.theinformation.com/briefings/jpmorgan-commits-10-billion-strategic-tech-investments?unlock=f51daa&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/jpmorgan-commits-10-billion-strategic-tech-investments?unlock=f51daa&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16066,
+            "guid": "e11b85",
+            "headline": "Data Startups Fivetran and Dbt Labs Agree to Merge",
+            "dek": "A merger of equal between Fivetran and dbt Labs would have close to $600 million in annualized recurring revenue under one combined entity. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Data startup Fivetran will merge with data management company dbt Labs in an all-stock deal, the companies <a href=\"https://www.businesswire.com/news/home/20251013172495/en/Fivetran-and-dbt-Labs-Unite-to-Set-the-Standard-for-Open-Data-Infrastructure\">announced</a> Monday, confirming an earlier <a href=\"https://www.theinformation.com/articles/data-startup-fivetran-talks-buy-dbt-labs-multibillion-dollar-deal\">report</a> by The Information.</p>\n\n<p>Fivetran CEO George Fraser will lead the combined company and dbt Labs CEO Tristan Handy will become president and co-founder. Terms of the transaction were not disclosed but the companies said the merged entity has close to $600 million in annualized recurring revenue.</p>\n\n<p>Fivetran, founded in 2012, was last valued at $5.6 billion in 2021 and dbt Labs, founded in 2016, was valued at $4.2 billion in 2022. Andreessen Horowitz has backed both companies and holds a board seat on both.</p>\n\n<p>Fivetran replicates business data from applications like Salesforce to data warehouses like Snowflake while dbt Labs develops an open-source analytics tool for transforming raw data into a usable format for analytics and AI projects. The two companies, which have complementary offerings, could be a single provider that brings extracting, loading and transforming the data into one platform.</p>",
+            "published_at": "2025-10-13T17:20:57.363Z",
+            "url": "https://www.theinformation.com/briefings/data-startups-fivetran-dbt-labs-announced-merger?unlock=e11b85&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/data-startups-fivetran-dbt-labs-announced-merger?unlock=e11b85&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15826,
+                    "guid": "0bbfd8f03a",
+                    "title": "Data Startup Fivetran In Talks to Buy Dbt Labs in Multibillion Dollar Deal",
+                    "url": "https://www.theinformation.com/articles/data-startup-fivetran-talks-buy-dbt-labs-multibillion-dollar-deal?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        }
+    ]
+}
