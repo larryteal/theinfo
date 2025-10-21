@@ -1,0 +1,684 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16108,
+            "guid": "22abd6",
+            "headline": "Japan’s Sakana AI in Talks to Raise Capital at $2.5 Billion Valuation",
+            "dek": "The fundraising comes as the startup ramps up its effort to generate revenue from business deals with major Japanese corporate customers.",
+            "source_url": "https://www.theinformation.com/articles/openais-japanese-rival-sakana-talks-raise-capital-2-5-billion-valuation?rc=jnr9wn",
+            "source_label": "The Information",
+            "body": "<p>Sakana AI, a Tokyo-based developer of artificial intelligence, is in talks with U.S. and Japanese investors to raise $100 million at a valuation of $2.5 billion, up 66% from a financing a year ago, The Information reported.</p>\n\n<p>The startup, founded in 2023 by former Google researchers,&nbsp;plans to use&nbsp;the new capital to expand its workforce for engineering as well as sales and distribution. The fundraising talks come months after CEO David Ha said that the company would operate profitably within a year. This year Sakana&nbsp;has announced deals to develop AI for some of Japan’s largest financial institutions.</p>\n\n<p>Sakana’s investors include many of Japan’s biggest corporations, as well as U.S. venture capital firms New Enterprise Associates, Khosla Ventures and Lux Capital. Nvidia is also an existing investor.</p>",
+            "published_at": "2025-10-21T10:14:48.125Z",
+            "url": "https://www.theinformation.com/briefings/japans-sakana-ai-talks-raise-capital-2-5-billion-valuation?unlock=22abd6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/japans-sakana-ai-talks-raise-capital-2-5-billion-valuation?unlock=22abd6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16107,
+            "guid": "aec4f0",
+            "headline": "Nvidia Discusses Loan Guarantee for OpenAI ",
+            "dek": "The talks are part of the two companies’ data center partnership in which OpenAI will lease Nvidia’s chips. ",
+            "source_url": "https://www.wsj.com/tech/ai/sam-altman-open-ai-nvidia-deals-d10a6525",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Nvidia is discussing guaranteeing some of the loans that OpenAI is planning to take out in order to build its own data centers, The Wall Street Journal reported, citing people familiar with the matter.</p>\n\n<p>Such a move would involve risks for Nvidia, as the chip giant could face hefty debt obligations if OpenAI fails to repay the loans, according to the Journal. The loan guarantee discussion is part of Nvidia’s broader data center partnership with OpenAI, in which OpenAI will lease Nvidia’s chips rather than buying them.</p>\n\n<p>The chip leasing partnership shows how Nvidia is seeking new ways to do business with key AI developers that, unlike deep-pocketed cloud providers, would struggle to finance chip purchases on their own. Last month, the two companies announced that Nvidia will provide up to $100 billion in funding to help OpenAI build its own data centers, starting with a $10 billion cash infusion next year.</p>\n\n<p>OpenAI has also explored ways to reduce its dependence on Nvidia. In June, The Information <a href=\"https://www.theinformation.com/articles/google-convinces-openai-use-tpu-chips-win-nvidia?rc=jnr9wn\">reported</a> OpenAI had started renting Google’s AI chips to power ChatGPT and other products. After that article came out, Nvidia CEO Jensen Huang called OpenAI CEO Sam Altman, asking if it was true, and expressed his willingness to get their partnership discussions back on track, according to the Journal.</p>",
+            "published_at": "2025-10-21T08:36:51.691Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-discusses-loan-guarantee-openai?unlock=aec4f0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-discusses-loan-guarantee-openai?unlock=aec4f0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15313,
+                    "guid": "04f80c7cfa",
+                    "title": "Google Convinces OpenAI to Use TPU Chips in Win Against Nvidia",
+                    "url": "https://www.theinformation.com/articles/google-convinces-openai-use-tpu-chips-win-nvidia?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16106,
+            "guid": "193c77",
+            "headline": "Benchmark Names Everett Randle as New General Partner ",
+            "dek": "Everett Randle, a former partner at Kleiner Perkins investing out of its growth-stage funds, has joined Benchmark as the firm’s newest general partner.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Everett Randle, a former partner at Kleiner Perkins investing out of its growth-stage funds, has joined Benchmark as the firm’s newest general partner, the early-stage firm announced Monday. At Kleiner, Randle worked on investments including enterprise search startup Glean and&nbsp;legal AI startup Harvey, earning him a top spot on <a href=\"https://www.theinformation.com/projects/general-partners-venture-firms-2024?rc=zjctrx\">The Information’s Next General Partners</a> list in 2024.</p>\n\n<p>The hiring follows a slew of personnel departures at Benchmark, the blue-chip firm behind companies like Uber. This year, consumer-focused general partner Sarah Tavel stepped back into a venture partner role, and Victor Lazarte, who led investments for the firm in AI startups Mercor and HeyGen, left the firm to raise his own fund, <a href=\"https://www.theinformation.com/briefings/benchmark-general-partner-victor-lazarte-start-fund?rc=zjctrx\">The Information previously reported</a>. Last year, general partner Miles Grimshaw left to rejoin his prior firm, Thrive Capital. With the addition of Randle, the general partners at the firm—which usually total five—number four, including Peter Fenton, Eric Vishria and Chetan Puttagunta.</p>\n\n<p>Benchmark declined to comment beyond its announcement. Kleiner Perkins spokesperson said in a statement to The Information that “we’re grateful for Ev’s contributions and wish him the very best.”</p>",
+            "published_at": "2025-10-20T22:47:45.435Z",
+            "url": "https://www.theinformation.com/briefings/benchmark-names-everett-randle-new-general-partner?unlock=193c77&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/benchmark-names-everett-randle-new-general-partner?unlock=193c77&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16105,
+            "guid": "9a1d93",
+            "headline": "AWS Taps 15-Year Veteran to Lead Startups and VC Sales Unit",
+            "dek": "The cloud provider fills a role that was previously handled by Jon Jones, who recently joined CoreWeave as its first chief revenue officer. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon Web Services has named Jason Bennett, a 15-year veteran of the cloud provider’s sales ranks, as its new vice president of global startups and venture capital, according to two people with direct knowledge of the appointment.</p>\n\n<p>Bennett, who has spent the past year as vice president of enterprise customers in the U.S., takes over a role previously held by former AWS executive Jon Jones, who departed last month. Jones&nbsp;<a href=\"https://www.theinformation.com/briefings/007009\">recently joined AI cloud provider CoreWeave</a> as its first chief revenue officer, as The Information was first to report last week.</p>\n\n<p>Startups have long been a key business driver for AWS, the world’s largest cloud provider, but the sales unit that focuses on them has arguably never been more strategically important than it is now. That’s because Google has used its AI products, such as Gemini models, <a href=\"https://www.theinformation.com/articles/google-finds-crack-amazons-cloud-dominance?rc=eqgjah\">to make inroads</a> with startups that are running on AWS.</p>",
+            "published_at": "2025-10-20T18:42:59.061Z",
+            "url": "https://www.theinformation.com/briefings/aws-taps-15-year-veteran-lead-startups-vc-sales-unit?unlock=9a1d93&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-taps-15-year-veteran-lead-startups-vc-sales-unit?unlock=9a1d93&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16104,
+            "guid": "fad53f",
+            "headline": "Global AWS Cloud Outage Takes Down Major Websites, Internet Services",
+            "dek": "Amazon Web Services says it has fixed some of the issues with networking connectivity, but it is still trying to deal with others. ",
+            "source_url": "https://health.aws.amazon.com/health/status",
+            "source_label": "The Information",
+            "body": "<p>Amazon Web Services says it is <a href=\"https://health.aws.amazon.com/health/status\">continuing to work on restoring access</a> to cloud servers and other products after an outage that began overnight in its data centers in northern Virginia, which handle a majority of its web traffic in North America.</p>\n\n<p>The outage, which affects the AWS US-East-1 data center region, began around midnight Pacific time. AWS initially flagged issues with the Domain Name System (DNS) configuration on its servers, which translates website names into numerical IP addresses, and said they were “mitigated” around 3:30 a.m. Pacific time.</p>\n\n<p>But while AWS said around 10 a.m. Pacific time that it had restored networking connectivity for most services, it acknowledged that some customers were having problems launching new cloud servers.</p>\n\n<p>The AWS outage has affected a number of major internet websites and services, including Snapchat, the gaming service Roblox and Amazon’s own Ring doorbell cameras, to name just a few.</p>",
+            "published_at": "2025-10-20T17:54:01.389Z",
+            "url": "https://www.theinformation.com/briefings/global-aws-cloud-outage-takes-major-websites-internet-services?unlock=fad53f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/global-aws-cloud-outage-takes-major-websites-internet-services?unlock=fad53f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16103,
+            "guid": "089680",
+            "headline": "NASA Open to SpaceX Alternatives for ‘Behind Schedule’ Moon Mission ",
+            "dek": "NASA is seeking bids from other companies including Jeff Bezos’ Blue Origin, NASA's acting administrator said. ",
+            "source_url": "https://www.foxnews.com/video/6383358331112",
+            "source_label": "Fox News",
+            "body": "<p>Elon Musk’s SpaceX is “behind schedule” preparing its Starship launch vehicle for a U.S. mission to the Moon, so NASA is seeking alternative bids from other companies including Jeff Bezos’ Blue Origin, the space agency’s head said Monday.</p>\n\n<p>NASA acting administrator Sean Duffy made the comments in reference to the space agency’s Artemis III mission to the&nbsp;moon, which aims to be the first human landing on the moon since 1972. NASA selected SpaceX in 2021 for the mission, which is due to launch in 2027.</p>\n\n<p>“They are behind schedule, and so the President wants to make sure we beat the Chinese,” Duffy <a href=\"https://www.foxnews.com/video/6383358331112\">said</a> on Fox News in reference to SpaceX. “I’m in the process of opening that contract up. I think we’ll see companies like Blue [Origin] get involved, and maybe others. We’re going to have a space race in regard to American companies competing to see who can actually get us back to the moon first.” Musk and President Donald Trump, once close allies, had a falling-out over the summer before publicly reuniting in September. Bezos and Blue Origin CEO Dave Limp have both met with Trump.</p>",
+            "published_at": "2025-10-20T14:18:41.927Z",
+            "url": "https://www.theinformation.com/briefings/nasa-open-spacex-alternatives-behind-schedule-moon-mission?unlock=089680&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nasa-open-spacex-alternatives-behind-schedule-moon-mission?unlock=089680&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16102,
+            "guid": "9225af",
+            "headline": "China Says the U.S. Conducted Cyber Attacks on Its Agency",
+            "dek": "China alleges that the National Security Agency took control of the mobile services of government employees in key sectors. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>China says it recently uncovered evidence of cyber attacks by the U.S. on a Chinese government agency between 2022 and 2024.</p>\n\n<p>The U.S. National Security Agency exploited vulnerabilities in the text-messaging system, staged attacks and took control of mobile devices belonging to several staff members of a Chinese government agency responsible for high-precision time services for such sectors as telecommunications, finance, electricity, transportation and national defense, the Chinese Ministry of State Security said in a statement on Sunday.</p>\n\n<p>The NSA infiltrated the Chinese agency’s computer systmen usuing stolen credentials and later on “launched high-intensity attacks using 42 specialized cyber weapons,” the statement added.</p>\n\n<p>The allegation follows years of accusations that China has waged state-sponsored cyber attacks against governments and companies in the U.S and other Western countries and worsening trade tensions between Beijing and Washington.</p>",
+            "published_at": "2025-10-20T09:08:46.608Z",
+            "url": "https://www.theinformation.com/briefings/china-says-u-s-conducted-cyber-attacks-agency?unlock=9225af&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-says-u-s-conducted-cyber-attacks-agency?unlock=9225af&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16101,
+            "guid": "a3955b",
+            "headline": "Sutskever to Disclose ‘Brockman Memo’ and OpenAI Stake in Musk Suit",
+            "dek": "The court determined that the memo is relevant to the case.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The court overseeing Elon Musk’s breach of charitable trust lawsuit against OpenAI on Friday ordered OpenAI co-founder and former chief scientist Ilya Sutskever to provide information about his financial stake in OpenAI and a document called the “Brockman Memo,” an apparent reference to OpenAI’s president and co-founder Greg Brockman.</p>\n\n<p>The court <a href=\"https://www.theinformation.com/briefings/murati-deposed-musk-seeks-brockman-memo-sutskever\">initially declined to intervene</a> on the matter because Musk’s lawyers filed their request eight minutes after the deadline. But those lawyers argued that the delay was due to technical difficulties, and the court allowed their request to proceed.</p>\n\n<p>Sutskever’s lawyers opposed Musk’s request for further information, arguing that Sutskever’s financial interests are protected by a Constitutional right to privacy, and the Brockman memo did not fall into the categories of evidence the lawyers had agreed to produce.</p>\n\n<p>The court wrote that “the value of Sutskever’s interest in OpenAI is relevant to his interest in the outcome of the case because if Plaintiffs win, he stands to lose a substantial amount of money.” (Musk is seeking to block OpenAI’s corporate restructuring, which could interfere with OpenAI’s plans to eventually go public, allowing Sutskever and others to sell their financial stakes.) Sutskever could still appeal the ruling.</p>\n\n<p>The court also said that Musk’s lawyers could not have known that the Brockman Memo was available, since it was previously thought that it was “self-deleting,” and the court agreed with Musk’s lawyers that it is relevant to the lawsuit.</p>\n\n<p>Separately, OpenAI’s lawyers asked the court to reject Musk’s claims of breach of charitable trust, fraud and unjust enrichment before they go to trial. They argued that Musk lacks the legal right to bring the charitable trust claim because he made his early donations to OpenAI through donor-advised funds, which “severed Musk’s legal interest in the funds.”</p>\n\n<p><em>This story has been updated to reflect the latest filings from OpenAI and Sutskever’s option to appeal.</em></p>",
+            "published_at": "2025-10-18T16:07:16.867Z",
+            "url": "https://www.theinformation.com/briefings/sutskever-disclose-brockman-memo-openai-stake-musk-suit?unlock=a3955b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/sutskever-disclose-brockman-memo-openai-stake-musk-suit?unlock=a3955b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16100,
+            "guid": "57f175",
+            "headline": "PIMCO Anchors $27 Billion in Debt For Louisiana Meta Data Center",
+            "dek": "Lenders to the SPV will get a roughly 6.8% interest rate, based on the current 30-year Treasury yield.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>An entity being used to fund Meta Platforms’ large-scale data center in Louisiana sold more than $27 billion in debt with an interest rate about 2.25 percentage points above the U.S. Treasury yield.</p>\n\n<p>The&nbsp;debt, maturing in 2049, is being raised for a roughly $30 billion special-purpose vehicle the company is using to fund the construction of a data center called Hyperion, which could eventually use as much as five gigawatts of power. Bond giant PIMCO is the lead debt investor in the offering, which is being sold to a wider group of investors with the help of Morgan Stanley.</p>\n\n<p>Lenders to the SPV will get a roughly 6.8% interest rate, based on the current 30-year Treasury yield. Meta’s publicly-traded bonds maturing in 2054 carry yields of about 5.4%.</p>\n\n<p>Meta will share ownership of the SPV with investment firm Blue Owl, an arrangement that is designed to shift the costs of building the data center off the company’s balance sheet. A Meta spokesperson didn’t respond to a request for comment on the bond pricing, which was first reported by Bloomberg.</p>",
+            "published_at": "2025-10-17T22:34:26.770Z",
+            "url": "https://www.theinformation.com/briefings/meta-entity-sells-27-billion-debt-louisiana-data-center?unlock=57f175&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-entity-sells-27-billion-debt-louisiana-data-center?unlock=57f175&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16099,
+            "guid": "cd4656",
+            "headline": "Google Ends Privacy Sandbox Initiative ",
+            "dek": "Google’s five-year effort to make web advertising more private is now fully abandoned \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google formally ended on Friday its six-year old effort aimed at ending the use of cookies in its Chrome browser. In a blog post, Google said it would retire a suite of technologies called the Privacy Sandbox that were originally designed to replace cookies. Advertisers use cookies to help track people’s Web surfing and figure out who is seeing their ads.</p>\n\n<p>Google first announced launche suite of private adveritising solutions known as the privacy sandbox in 2019, and then said it was killing cookies a few months later in January 2020.&nbsp;At that point, Apple was already eliminating trackers on its Safari browser, and the following year would make it much harder for advertisers to track iPhone users. But Google’s efforts struggled to gain momentum. The advertising community was skeptical Google could eliminate cookies without disproportionately benefiting its own ad business, and British regulators started supervising the effort to make sure Google did not behave anti-competitively.</p>\n\n<p>Last year, Google reversed its position and said it would keep third-party cookies but give Chrome users an Apple-style prompt asking them not to be tracked. Then in April, Google said it would offer no prompt at all and <a href=\"https://www.theinformation.com/articles/meta-renews-work-facial-recognition-tech-privacy-worries-fade\">laid off</a> 10% of Privacy Sandbox staff.</p>",
+            "published_at": "2025-10-17T21:59:45.926Z",
+            "url": "https://www.theinformation.com/briefings/google-ends-privacy-sandbox-initiative?unlock=cd4656&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-ends-privacy-sandbox-initiative?unlock=cd4656&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16098,
+            "guid": "5a6150",
+            "headline": "Benioff Changes Tune on Sending National Guard to San Francisco, Apologizes",
+            "dek": "Salesforce's chief backtracks on comments he made earlier this week just before Dreamforce, the company's annual customer conference. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>In an abrupt reversal from the stance he communicated earlier this week, Salesforce co-founder and CEO Marc Benioff said he no longer thinks President Trump should send National Guard troops into San Francisco to help fight crime in the city.</p>\n\n<p>“My earlier comment came from an abundance of caution around [Dreamforce, Salesforce’s annual customer conference], and I sincerely apologize for the concern it caused,” he <a href=\"https://x.com/Benioff/status/1979276817396830411\">said</a> on X.</p>\n\n<p>Benioff sparked controversy at the outset of Dreamforce by telling the New York Times he supported the idea of using the military to restore order in San Francisco.&nbsp;He declined to discuss his comments during a press conference at Dreamforce, saying he preferred to focus on Salesforce’s AI products and the event.</p>\n\n<p>The New York Times subsequently reported that Salesforce has been making a concerted push&nbsp;to sign up Immigration and Customs Enforcement as a customer for its AI software.</p>",
+            "published_at": "2025-10-17T21:37:08.038Z",
+            "url": "https://www.theinformation.com/briefings/benioff-changes-tune-sending-national-guard-san-francisco-apologizes?unlock=5a6150&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/benioff-changes-tune-sending-national-guard-san-francisco-apologizes?unlock=5a6150&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16097,
+            "guid": "a8d327",
+            "headline": "Tesla Shareholders Should Reject Musk Pay Package, Proxy Firm ISS Says ",
+            "dek": "ISS also urged Tesla shareholders to reject a proposal that Tesla invest in Musk’s artificial intelligence startup xAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Proxy adviser Institutional Shareholder Services on Friday urged Tesla shareholders to reject a proposed pay package for CEO Elon Musk that <a href=\"https://www.theinformation.com/articles/musks-money\">could be worth up to $1 trillion</a>.</p>\n\n<p>ISS, which makes recommendations to large investment funds, also urged Tesla shareholders to reject a nonbinding shareholder proposal that Tesla invest in Musk’s <a href=\"https://www.theinformation.com/articles/xais-unusual-dealmaking-fund-musks-colossus-2\">artificial intelligence startup xAI</a> and to vote against re-electing board member Ira Ehrenpreis. Tesla’s board has urged shareholders to approve the pay package and board nominations, though they haven’t endorsed or rejected the xAI proposal. Tesla said in a <a href=\"https://x.com/Tesla/status/1979268933707534805\">post on X</a> that ISS “once again completely misses fundamental points of investing and governance.”</p>\n\n<p>Tesla is due to report third-quarter earnings next Wednesday and hold its shareholder meeting on Nov. 6.</p>",
+            "published_at": "2025-10-17T21:06:12.488Z",
+            "url": "https://www.theinformation.com/briefings/tesla-shareholders-reject-musk-pay-package-proxy-firm-iss-says?unlock=a8d327&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-shareholders-reject-musk-pay-package-proxy-firm-iss-says?unlock=a8d327&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16096,
+            "guid": "f66163",
+            "headline": "Apple CEO Wraps Up China Visit as iPhone Air Preorders Start",
+            "dek": "The iPhone Air’s release in China had been delayed due to regulatory approvals. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple’s iPhone Air became available for preorders in China Friday, after a delay due to regulatory approvals. The iPhone Air’s China debut, about a month after the phone’s U.S. launch, comes just after CEO Tim Cook visited the country earlier this week.</p>\n\n<p>During his China trip, Cook met with senior officials at the Ministry of Industry and Information Technology, which oversees telecom operators, and the Ministry of Commerce, according to the <a href=\"https://english.news.cn/20251017/ee58749f657f45b7b93768bc6ff054cc/c.html\">Xinhua news agency</a>. The visit coincided with Apple’s announcement that it finally received approval to release iPhone Air in the country.</p>\n\n<p>Cook <a href=\"https://english.news.cn/20251015/7f968d9d1a8d4c57830c51c85d9acefb/c.html\">pledged</a> in meetings with Chinese officials that Apple would continue to invest in China and help accelerate the country’s economic development. His visit comes as Apple shifts iPhone production out of China to India to avoid being caught in the middle of an escalating trade war between the U.S. and China.</p>\n\n<p>Separately, Apple COO Sabih Khan visited several Chinese-owned Apple suppliers including Lens Technology, which makes the iPhone’s glass screens, the Chinese financial news outlet Yicai <a href=\"https://www.yicaiglobal.com/news/apples-suppliers-in-china-set-up-usd140-million-clean-energy-fund\">reported</a>.</p>",
+            "published_at": "2025-10-17T06:38:49.020Z",
+            "url": "https://www.theinformation.com/briefings/apple-ceo-wraps-china-visit-iphone-air-preorders-start?unlock=f66163&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-ceo-wraps-china-visit-iphone-air-preorders-start?unlock=f66163&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14058,
+                    "guid": "80a017f8a3",
+                    "title": "Apple’s Thin iPhone Has No Physical SIMs—That Could Dampen China Sales",
+                    "url": "https://www.theinformation.com/articles/apples-thin-iphone-has-no-physical-sims-that-could-dampen-china-sales?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16095,
+            "guid": "d496d9",
+            "headline": "OpenAI Stops Sora Depictions of MLK",
+            "dek": "OpenAI said public figures should have control over their likenesses.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI said Thursday it has blocked users from using its Sora AI video app from generating videos of Dr. Martin Luther King, Jr. while it “strengthens guardrails for historical figures.”</p>\n\n<p>In a joint statement on X with King’s estate, OpenAI acknowledged that some users had generated “disrespectful” videos of him.</p>\n\n<p>“While there are strong free speech interests in depicting historical figures, OpenAI believes public figures and their families should ultimately have control over how their likeness is used,” the statement said. “Authorized representatives or estate owners can request that their likeness not be used in Sora cameos.”</p>\n\n<p>AI products have previously faced criticism for their depictions of public figures. For instance, xAI’s Grok has <a href=\"https://www.theinformation.com/briefings/new-xai-model-grok-2-produces-inappropriate-images\">depicted politicians</a> in violent or sexual situations, and Google’s Gemini generated images of U.S. founding fathers as Black, which Google then corrected.</p>",
+            "published_at": "2025-10-17T05:28:33.655Z",
+            "url": "https://www.theinformation.com/briefings/openai-stops-sora-depictions-mlk?unlock=d496d9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-stops-sora-depictions-mlk?unlock=d496d9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16094,
+            "guid": "ff02ea",
+            "headline": "Oracle Raises AI Cloud Revenue Projection, Struggles to Profit From Older Nvidia Chips",
+            "dek": "The company said it will lose money in a \"ramp up\" period before generating revenue from cloud customers.",
+            "source_url": "https://www.theinformation.com/articles/oracle-assures-investors-ai-cloud-margins-struggles-profit-older-nvidia-chips?rc=c48ukx",
+            "source_label": "The Information",
+            "body": "<p>Oracle has struggled to generate gross profit margins higher than 25% from renting out one- to two-year old Nvidia server chips to artificial intelligence developers, <a href=\"https://www.theinformation.com/articles/oracle-assures-investors-ai-cloud-margins-struggles-profit-older-nvidia-chips?rc=c48ukx\">The Information reported Thursday</a>. The previously unreported data show Oracle has a wide gap to fill to reach what co-CEO Clay Magouyrk said Thursday would be 30% to 40% gross margins from the AI cloud business in the coming years.</p>\n\n<p>The company also increased its revenue projection for its cloud business in fiscal 2030 to an astounding $166&nbsp;billion, up 15% from a projection it made a month ago. The company is reinventing itself as a cloud provider, and its margin projections suggest it will find ways to lower the cost of chips it buys from Nvidia or will be able to charge customers such as OpenAI more to rent the chips. Internal data also show the company is losing money on rentals of the newest Nvidia chips, Blackwell, as well as on chips from AMD that came out last year, <a href=\"https://www.theinformation.com/articles/oracle-assures-investors-ai-cloud-margins-struggles-profit-older-nvidia-chips?rc=c48ukx\">the report said</a>.</p>",
+            "published_at": "2025-10-17T03:54:38.209Z",
+            "url": "https://www.theinformation.com/briefings/oracle-raises-ai-cloud-revenue-projection-struggles-profit-older-nvidia-chips?unlock=ff02ea&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-raises-ai-cloud-revenue-projection-struggles-profit-older-nvidia-chips?unlock=ff02ea&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16093,
+            "guid": "5193d9",
+            "headline": "Exclusive: Brazilian Fintech CloudWalk Hits $1.2 Billion Annualized Revenue",
+            "dek": "The company, backed by DST Global and Coatue Management, recently completed a tender offer valuing it at $3 billion.",
+            "source_url": "https://www.theinformation.com/articles/bessemer-bets-war-worries-europe?rc=khe6an",
+            "source_label": "The Information",
+            "body": "<p>Brazilian fintech CloudWalk, a business payments startup, passed $1.2 billion in annualized revenue in September, about double the revenue pace from the same time last year, the company said. It was also on pace for $128 million in net income.</p>\n\n<p>The company, backed by DST Global and Coatue Management,&nbsp;recently completed a tender offer valuing it at $3 billion, another person said. &nbsp;Investors&nbsp;included Marathon Management Partners, StepStone Group, NewView Capital and Massachusetts Institute of Technology. A CloudWalk spokesperson wouldn’t comment on the transaction but said the price wouldn’t reflect its true valuation.</p>\n\n<p>CloudWalk CEO Luis Silva said in an interview hat the company didn’t have an “official timeline” to go public but said it would “definitely consider” the move “if there is a really nice window” for public offerings.</p>",
+            "published_at": "2025-10-16T22:09:07.735Z",
+            "url": "https://www.theinformation.com/briefings/cloudwalk-hits-1-2-billion-annualized-revenue?unlock=5193d9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/cloudwalk-hits-1-2-billion-annualized-revenue?unlock=5193d9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16092,
+            "guid": "007009",
+            "headline": "Exclusive: CoreWeave Hires Ex-AWS Executive as Chief Revenue Officer",
+            "dek": "The Information first reported Jones’ departure from AWS last month. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>CoreWeave has hired Jon Jones, the former head of Amazon Web Services’ global startups and venture capital business, as its first chief revenue officer, the company confirmed Thursday.</p>\n\n<p>The Information <a href=\"https://www.theinformation.com/briefings/amazon-web-services-head-startups-departs\">first reported</a> Jones’ departure from AWS last month. He had been in the role for just one year and had mostly focused on landing business from AI startups.</p>\n\n<p>Coreweave, which rents artificial intelligence cloud computing services to companies like OpenAI, went public this March.</p>",
+            "published_at": "2025-10-16T19:57:23.290Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-coreweave-hires-ex-aws-executive-chief-revenue-officer?unlock=007009&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-coreweave-hires-ex-aws-executive-chief-revenue-officer?unlock=007009&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                },
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16091,
+            "guid": "56b127",
+            "headline": "Ron Conway Criticizes Benioff’s Trump Support, Quits Salesforce Nonprofit",
+            "dek": "‘I now barely recognize the person I have so long admired,’ the investor wrote in an email to the Salesforce CEO.",
+            "source_url": "https://www.nytimes.com/2025/10/16/us/salesforce-resign-benioff-ron-conway.html?smid=nytcore-ios-share&referringSource=articleShare",
+            "source_label": "The New York Times",
+            "body": "<p>Ron Conway, the venture capitalist and <a href=\"http://google.com/search?q=ron+conway+site%3Atheinformation.com&rlz=1C5GCEM_enUS1146US1146&oq=ron+conway+site%3Atheinformation.com&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUwODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8\">major Democratic party donor</a>, has left the board of the Salesforce Foundation and criticized Salesforce CEO Marc Benioff’s recent cheerleading of President Donald Trump.</p>\n\n<p>A week ago, Benioff told The New York Times that he <a href=\"https://www.theinformation.com/briefings/benioff-says-trump-deploy-troops-san-francisco?rc=sslhyj\">supports Trump sending troops</a> into San Francisco to combat crime, a comment that has sparked outrage within the cities’ liberal circles.</p>\n\n<p>“It saddens me immensely to say that with your recent comments, and failure to understand their impact, I now barely recognize the person I have so long admired,” Conway wrote in an email to Benioff. Conway had served on the Salesforce for a decade, and his friendship with Benioff, who was once seen as a leader for left-wing ideas in San Francisco, dates back even further.</p>",
+            "published_at": "2025-10-16T19:24:59.133Z",
+            "url": "https://www.theinformation.com/briefings/ron-conway-criticizes-benioffs-trump-support-quits-salesforce-nonprofit?unlock=56b127&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ron-conway-criticizes-benioffs-trump-support-quits-salesforce-nonprofit?unlock=56b127&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1295534,
+                    "display_name": "Abram Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16090,
+            "guid": "8f0320",
+            "headline": "Deel’s Valuation Rises to $17 Billion in $300m Fundraise",
+            "dek": "Human resources and payroll startup Deel has raised $300 million at a $17.3 billion valuation.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Human resources and payroll startup Deel has raised $300 million at a $17.3 billion valuation, bringing in a new investor that led the fundraising round, Ribbit Capital.</p>\n\n<p>The startup, which is battling a high-profile lawsuit from arch-rival Rippling over allegations Deel’s top brass recruited and paid a now-former Rippling employee to spy on behalf of the firm, announced the round on Wednesday. Deel has denied the accusations and has counter-sued Rippling for defamation.</p>\n\n<p>In a statement, Deel CEO Alex Bouaziz said the fundraising represented a “doubling down” on the company’s global payroll infrastructure the firm had built. Bouaziz said the cash&nbsp;would help fund strategic acquisitions as the firm aims&nbsp;to supply payroll services to more than 100 countries over the next four years. Existing Deel investors, Andreessen Horowitz, Coatue Management and General Catalyst also contributed to the round, the company said. “We have been fans of Deel for a long time, it’s a brand companies trust and we’re excited to invest,” said Micky Malka, founder at Ribbit Capital.</p>",
+            "published_at": "2025-10-16T15:18:26.917Z",
+            "url": "https://www.theinformation.com/briefings/deels-valuation-rises-17-billion-300m-fundraise?unlock=8f0320&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/deels-valuation-rises-17-billion-300m-fundraise?unlock=8f0320&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16089,
+            "guid": "cebe02",
+            "headline": "Microsoft Adds New AI Tools to Windows ",
+            "dek": "The new push comes as Microsoft aims to convince more consumers to use its AI Copilot features.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft is adding new AI features to its forthcoming Windows 11 operating system that will let users speak to their computer to automate tasks like locating and editing files, organizing tabs, or managing calendar events, the company announced on Thursday.</p>\n\n<p>The new push comes as Microsoft aims to convince more consumers to use its AI Copilot features, which are primarily powered by models from OpenAI. Microsoft previously only offered most of the AI features to people who bought one of its so-called Copilot+ PCs built with more heavy-duty chips meant for running AI, but the new Windows 11 update will make the features available for all users in the coming months. Microsoft is ending support for Windows 10 this month, which will lead to a surge of people upgrading to the new operating system.</p>\n\n<p>With the new update, users will be able to “wake” the AI by saying “Hey, Copilot” out loud, or by typing prompts into a Copilot tab at the bottom of their screen, just as people wake virtual assistants from Google, Amazon and Apple. In addition to acting as a general-purpose chatbot similar to ChatGPT, Copilot can automatically take actions on people’s PCs, such as closing applications that are using up a lot of memory, adjusting system settings, or searching through files.</p>\n\n<p>Microsoft isn’t the only software firm trying to make AI features stick on people’s computer operating systems—Apple recently announced similar AI features earlier this year, but most of those have yet to arrive in its latest MacOS update, and the company’s development of AI features has been <a href=\"https://www.theinformation.com/articles/apple-losing-ground-ai-talent-war-just-money?rc=geicgp\">plagued by setbacks</a>.</p>",
+            "published_at": "2025-10-16T15:11:25.574Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-adds-new-ai-tools-windows?unlock=cebe02&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-adds-new-ai-tools-windows?unlock=cebe02&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        }
+    ]
+}
