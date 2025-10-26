@@ -1,0 +1,679 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16146,
+            "guid": "2c4bad",
+            "headline": "U.S. Regulator Asks Tesla for Info About New ‘Mad Max’ Driving Mode ",
+            "dek": "Videos posted by drivers on social media purport to show the software driving well above speed limits, such as going 65 miles per hour in a 45 mile per hour zone. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The U.S. National Highway Safety Administration says it has contacted Tesla to gather more information about a new setting on its driver assistance software that makes its vehicles move faster and more aggressively.</p>\n\n<p>Tesla added the setting, called “Mad Max,” in an update for users of its “Full Self-Driving” software earlier this month. In a note to users accompanying the update, Tesla said the setting “comes with higher speeds and more frequent lane changes” than other settings. Videos <a href=\"https://x.com/TannenXTesla/status/1980637103206875271/video/1\">posted</a> by drivers on social media purport to show the software driving well above speed limits, such as going 65 miles per hour in a 45 mile per hour zone. A NHTSA spokesperson said in a statement on Friday that the agency had contacted Tesla and noted that “the human behind the wheel is fully responsible for driving the vehicle and complying with all traffic safety laws.”</p>\n\n<p>The news comes after the NHTSA <a href=\"https://www.theinformation.com/briefings/teslas-full-self-driving-probed-u-s-regulator\">opened an investigation into Tesla’s FSD software</a> earlier in October prior to the release of the “Mad Max” update. The agency, which is part of the U.S. Department of Transportation, said at the time that it had identified 58 reports of vehicles using the software running red lights and violating other traffic laws. The Washington Post first <a href=\"https://www.washingtonpost.com/technology/2025/10/23/elon-musk-sean-duffy-washington/\">reported</a> the NHTSA’s most recent request for information. Tesla did not respond to a request for comment.</p>",
+            "published_at": "2025-10-24T18:35:58.722Z",
+            "url": "https://www.theinformation.com/briefings/u-s-regulator-asks-tesla-info-new-mad-max-driving-mode?unlock=2c4bad&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-s-regulator-asks-tesla-info-new-mad-max-driving-mode?unlock=2c4bad&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16145,
+            "guid": "3d00a5",
+            "headline": "JPMorgan Poaches BofA’s Veteran Tech Banker Kevin Brunner",
+            "dek": "It's the latest JPMorgan's hire from rivals to boost its technology banking practice.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>JPMorgan hired veteran technology banker Kevin Brunner from Bank of America as a global chair of investment banking and mergers and acquisitions, according to a memo viewed by The Information.</p>\n\n<p>Brunner spent all his career at Bank of America and was most recently chair of global M&amp;A. He advised on large deals such as Google’s $32 billion acquisition of cybersecurity startup Wiz and Broadcom on its $69 billion acquisition of VMware.</p>\n\n<p>JPMorgan has been hiring from rivals to boost its technology banking practice. In May, it hired four senior bankers from Goldman Sachs, Bank of America and Lazard.</p>\n\n<p>A spokesperson for JPMorgan confirmed the content of the memo. A spokesperson for Bank of America declined to comment.</p>",
+            "published_at": "2025-10-24T15:02:05.259Z",
+            "url": "https://www.theinformation.com/briefings/jpmorgan-poaches-bofas-veteran-tech-banker-kevin-brunner?unlock=3d00a5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/jpmorgan-poaches-bofas-veteran-tech-banker-kevin-brunner?unlock=3d00a5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16144,
+            "guid": "ccf2c2",
+            "headline": "Chinese Humanoid Startup AgiBot Unveils Robot Content Platform",
+            "dek": "The startup says the new platform automatically converts uploaded videos of human movements into robots’ actions. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese humanoid robot maker AgiBot on Friday unveiled a “robot content creation platform” that allows users to upload videos of human movements so a humanoid can accurately mimic them.</p>\n\n<p>The Shanghai-based startup said that the platform, LinkCraft, will allow end-users with no expertise in programming or robots to casually participate in the process of developing specific actions for humanoids, a process that traditionally requires a lot of resources like specialized equipment, algorithmic modeling and extensive fine-tuning.</p>\n\n<p>LinkCraft automatically converts human movements into humanoid actions using technologies such as AI motion capture and imitation learning, a technique that makes robots learn to perform tasks by mimicking human demonstrations, the company said.</p>\n\n<p>AgiBot was founded in 2023 by Zhihui Peng, a former member of Huawei Technologies’ “Genius Youth” program. It is one of a growing number of Chinese startups that are racing to develop more capable humanoids by taking advantage of the country’s vast hardware supply chain and deep talent pool in AI and advanced robotics. The startup’s backers include tech giant Tencent Holdings and Chinese venture capital firm HongShan, according to PitchBook.</p>",
+            "published_at": "2025-10-24T10:47:26.351Z",
+            "url": "https://www.theinformation.com/briefings/chinese-humanoid-startup-agibot-unveils-robot-content-platform?unlock=ccf2c2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinese-humanoid-startup-agibot-unveils-robot-content-platform?unlock=ccf2c2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16143,
+            "guid": "45d300",
+            "headline": "Commerce Dept. Denies Talks for Quantum Investments",
+            "dek": "Quantum stocks jumped earlier in the day on a report of the talks.",
+            "source_url": "https://www.wsj.com/business/entrepreneurship/trump-administration-in-talks-to-take-equity-stakes-in-quantum-computing-firms-60ee5143?st=YH9wbd&",
+            "source_label": "Wall Street Journal",
+            "body": "<p>The U.S. Commerce Depart. denied that it is “currently negotiating equity stakes with quantum computing companies,” according to CNBC, countering a news report earlier in the day that sent shares of several stocks soaring.</p>\n\n<p>Earlier Thursday, The Wall Street Journal reported that the department is considering equity investments worth at least $10 million in several quantum computing companies.</p>\n\n<p>IonQ, Rigetti Computing, D-Wave Quantum, Quantum Computing and startup Atom Computing are discussing the arrangement, according to the report. Share prices of each of the public companies rose at least 7% during the day.</p>\n\n<p>There is precedent for the Trump administration to make investments in U.S. companies it considers strategic assets. In August, the U.S. government agreed to buy 9.9% of Intel for $8.9 billion. In July, the government said it would invest $400 million in MP Materials, which operates a rare earth mine.</p>\n\n<p>On Wednesday, Google published new research on quantum computing, showing that the frontier technology can be used to understand the structures of molecules such as proteins or materials such as phone batteries.</p>",
+            "published_at": "2025-10-24T05:26:45.059Z",
+            "url": "https://www.theinformation.com/briefings/commerce-dept-denies-talks-quantum-investments?unlock=45d300&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/commerce-dept-denies-talks-quantum-investments?unlock=45d300&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16142,
+            "guid": "3c7b1d",
+            "headline": "Intel Expects to Benefit as More Companies Adopt AI Apps",
+            "dek": "Intel's turnaround appears to be continuing after the chipmaker beat its quarterly sales forecast, while its senior leaders struck a positive tone on AI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>On Intel’s third-quarter earnings call, CEO Lip-Bu Tan and CFO David Zinsner said the chipmaker is expecting a boost as more companies shift their spending from training AI models to inference, the process of using trained models to power AI applications.</p>\n\n<p>That’s because Intel expects that many companies will use server CPU chips for inference as opposed to graphics processing units from Nvidia and AMD.</p>\n\n<p>“It is increasingly clear that CPUs play a critical role today and will going forward within the AI data center as AI usage expands, and especially as inference workloads outpace that of training,” Zinsner said on the call.</p>\n\n<p>There were other signs that Intel’s turnaround is underway: Revenue jumped 6% to $13.7 billion, or $100 million more than the high end of its forecast. Net income, excluding items, was $4.1 billion, breaking a string of six consecutive quarterly losses.</p>\n\n<p>The optimistic tone was a contrast to Intel’s earnings calls over the past few years, which have been mostly downbeat. Shares rose 3% after the earnings report. While Intel still has a long way to go, it’s in a much better spot than it was a year ago.</p>",
+            "published_at": "2025-10-24T04:54:27.040Z",
+            "url": "https://www.theinformation.com/briefings/intel-expects-benefit-companies-adopt-ai-apps?unlock=3c7b1d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/intel-expects-benefit-companies-adopt-ai-apps?unlock=3c7b1d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16140,
+            "guid": "94f484",
+            "headline": "Anthropic Says It Will Use Up to 1 Million Google TPU Chips",
+            "dek": "Google's AI chip is challenging Nvidia's GPUs.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic on Thursday said it plans to use up to 1 million Google Tensor processing units to power its artificial intelligence, implying the startup would spend tens of billions of dollars renting TPU servers. The announcement is a show of confidence in Google’s chip as an alternative to Nvidia’s graphics processing unit, which dominates the AI server market.</p>\n\n<p>Anthropic didn’t provide more details except to say that next year, the TPUs in its deal with Google will power a gigawatt of data center capacity. Developing a 1 GW data center costs tens of billions of dollars.</p>\n\n<p>It isn’t clear whether the TPUs for Anthropic would be run by Google Cloud or at data centers operated by other cloud providers. Recently, Google struck a deal to put a large number of TPUs in a New York data center run by cloud provider Fluidstack, The Information reported, but it wasn’t clear who would use the TPUs.</p>\n\n<p>TPUs historically only ran inside Google Cloud, and the most advanced version of the chip was restricted to Google’s in-house AI teams. Google offers servers powered by the chip as an alternative to Nvidia’s GPUs, though Google Cloud is also one of the biggest buyers of GPUs, as many cloud customers prefer using those chips. Anthropic says it uses a mix of TPUs, GPUs, and Amazon’s Trainium AI chips. OpenAI at one point was testing TPUs but later said it didn’t have plans to use them at scale.</p>\n\n<p>Both Google and Amazon own significant stakes in Anthropic and have invested billions of dollars in the company. Anthropic spends billions of dollars a year renting servers from Google and Amazon’s cloud units.</p>",
+            "published_at": "2025-10-23T22:10:12.652Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-says-will-use-1-million-google-tpu-chips?unlock=94f484&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-says-will-use-1-million-google-tpu-chips?unlock=94f484&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16139,
+            "guid": "436a37",
+            "headline": "OpenAI Acquires AI Startup Software Applications Incorporated",
+            "dek": "The startup builds Sky, a “natural language interface” for Mac computers\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI on Thursday said it bought Software Applications Inc. for an undisclosed sum. The two-year-old artificial intelligence startup develops Sky, which allows Mac users to take action on their screens and within apps using text-based prompts.</p>\n\n<p>“With Sky, AI works alongside you, whether you’re writing, planning, coding, or managing your day,” OpenAI said in a <a href=\"https://openai.com/index/openai-acquires-software-applications-incorporated/\">blog post.</a></p>\n\n<p>All twelve of Software Applications’ employees, many of whom were former Apple employees, will join the company. The startup previously raised $6.5 million, including from an investment fund affiliated with OpenAI CEO Sam Altman, OpenAI has said.</p>\n\n<p>OpenAI has previously spent roughly $6.4 billion in stock to acquire Jony Ive’s hardware startup io, product analytics startup Statsig, and search and analytics database company Rockset. OpenAI has also hired top <a href=\"https://www.theinformation.com/articles/openai-raids-apple-hardware-talent-manufacturing-partners?rc=8tzurb\">researchers in hardware and AI</a> from Apple.</p>",
+            "published_at": "2025-10-23T20:36:20.566Z",
+            "url": "https://www.theinformation.com/briefings/openai-acquires-ai-startup-software-applications-incorporated?unlock=436a37&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-acquires-ai-startup-software-applications-incorporated?unlock=436a37&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16138,
+            "guid": "b38513",
+            "headline": "Trump Says He Won’t Send National Guard to SF After Calls From Tech ‘Friends’",
+            "dek": "Trump said he had received a call from Salesforce CEO Marc Benioff, who recently walked back his support for the plan.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump has called off plans to send the National Guard on Saturday into San Francisco, after he said friends who live in the area urged him not to go ahead with it.</p>\n\n<p>“Great people like Jensen Huang, Marc Benioff, and others have called saying that the future of San Francisco is great,” Trump said in a <a href=\"https://truthsocial.com/@realDonaldTrump/posts/115424560133045127\">post on Truth Socia</a>l. “They want to give it a “shot.” Therefore, we will not surge San Francisco on Saturday.”</p>\n\n<p>The mention of Benioff is notable. In a recent interview with The New York Times, Benioff praised Trump and said he supported deploying National Guard troops in San Francisco. The comments sparked backlash and led prominent Silicon Valley venture capitalist Ron Conway to <a href=\"https://www.nytimes.com/2025/10/16/us/salesforce-resign-benioff-ron-conway.html\">resign from the board of Salesforce’s philanthropic arm</a>. Benioff later <a href=\"https://www.nytimes.com/2025/10/17/us/benioff-apologizes-san-francisco.html\">apologized for the comments</a> but not before the Times published a separate report revealing that Salesforce had&nbsp;been&nbsp;<a href=\"https://www.nytimes.com/2025/10/16/us/salesforce-benioff-ice.html\">pitching</a>&nbsp;Immigration and Customs Enforcement (ICE) for government contracts.</p>",
+            "published_at": "2025-10-23T19:18:41.511Z",
+            "url": "https://www.theinformation.com/briefings/trump-says-send-national-guard-sf-calls-tech-friends?unlock=b38513&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-says-send-national-guard-sf-calls-tech-friends?unlock=b38513&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16137,
+            "guid": "00f2f1",
+            "headline": "Redwood Materials Raises $350 Million for Data Center Batteries",
+            "dek": "Nevada-based startup's valuation rises to $6 billion ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-23/redwood-materials-tops-6-billion-valuation-in-new-funding-round",
+            "source_label": "Bloomberg",
+            "body": "<p>Battery materials company Redwood Materials said Thursday it had raised $350 million&nbsp; to expand of its new line of business repurposing used batteries to power AI data centers. Its new valuation, of more than $6 billion, is 20% higher than its last fundraising in 2023.</p>\n\n<p>The funding, led by Palo Alto, Calif-based Eclipse Ventures and Nvidia venture arm NVentures, illustrates how stationary storage batteries have emerged as a bright spot as many Western Western battery startups are strapped for cash and some have <a href=\"https://www.theinformation.com/articles/the-electric-northvolts-blunt-message-to-fellow-battery-startups-dont-expect-a-bailout?utm_source=ti_app&rc=fd9gxc\">gone bankrupt</a>. The round comes two weeks after Texas residential stationary battery maker Base Power, co-founded by entrepreneur Zach Dell, <a href=\"https://www.theinformation.com/articles/home-battery-startup-base-power-plots-4-billion-valuation?rc=fd9gxc\">raised $1 billion</a>.</p>\n\n<p>Tesla co-founder JB Straubel founded Redwood in 2017 to recycle defective and dead lithium-ion batteries and sell the resulting metals back to customers like GM, Panasonic and Toyota to be turned again into batteries. With the electric vehicle industry taking off slowly, Redwood later broadened its business lines into making cathodes, the costliest component in a battery.</p>\n\n<p>Then, in July, Redwood said that many of the batteries it gathered had plenty of energy left in them, creating an opportunity to turn them into cheap power for energy-hungry data centers. It created a new subsidiary, Redwood Energy, <a href=\"https://www.theinformation.com/briefings/ai-data-center-powered-used-ev-batteries-launches-nevada?rc=fd9gxc\">as we reported</a>.</p>\n\n<p><a href=\"https://x.com/munster_gene/status/1981419310242230403\">In a tweet Thursday</a>, Gene Munster, co-founder of Deepwater Asset Management, said he expects stationary batteries eventually to be Redwood’s biggest business.</p>",
+            "published_at": "2025-10-23T18:57:14.344Z",
+            "url": "https://www.theinformation.com/briefings/redwood-materials-raises-350-million-data-center-batteries?unlock=00f2f1&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/redwood-materials-raises-350-million-data-center-batteries?unlock=00f2f1&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1053431,
+                    "display_name": "Steve LeVine"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16136,
+            "guid": "ffe13e",
+            "headline": "Globalstar’s Stock Moves Up 8% Following Report from The Information",
+            "dek": "The satellite provider’s top executive has told others he’s open to selling Globalstar for more than $10 billion.",
+            "source_url": "https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal",
+            "source_label": "The Information",
+            "body": "<p>Satellite company Globalstar shares surged nearly 8% on Thursday following The Information’s <a href=\"https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal\">report</a> that the company has been looking to sell itself for more than $10 billion.</p>\n\n<p>The company has been owned by investor James Monroe’s Thermo Companies since 2004 when he acquired the then beleaguered satellite company out of bankruptcy. After turning the company around and establishing a partnership with Apple, Monroe has been looking for a potential exit.</p>\n\n<p>Apple can be a tricky partner though. Globalstar’s interest in selling itself could be one of several developments that increase the likelihood of a satellite partnership between Apple and Elon Musk’s SpaceX, The Information also reported. In Globalstar’s most recent quarterly earnings filing, it wrote about Apple: “The loss of the Customer would likely have a material adverse impact on our financial condition, results of operations and cash flows.”</p>",
+            "published_at": "2025-10-23T17:53:52.368Z",
+            "url": "https://www.theinformation.com/briefings/globalstars-stock-moves-8-following-report-information?unlock=ffe13e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/globalstars-stock-moves-8-following-report-information?unlock=ffe13e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15130,
+                    "guid": "15647d09f6",
+                    "title": "Apple’s Satellite Ambitions Threatened by Elon Musk, Internal Resistance",
+                    "url": "https://www.theinformation.com/articles/apples-satellite-ambitions-threatened-elon-musk-internal-resistance?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16135,
+            "guid": "cebd91",
+            "headline": "Exclusive: Startup Synthesia Discusses GV-Led Fundraise at $4 Billion Valuation",
+            "dek": "Synthesia previously talked with Adobe and Meta about a potential sale. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Synthesia, a London-based maker of artificial intelligence software that generates video avatars of people, is in talks to raise a new round of funding led by early investor GV, an investment arm of Google-owner Alphabet, at a $4 billion valuation including the investment, according to two people with knowledge of the discussions.</p>\n\n<p>The startup recently passed $150 million in annual recurring revenue, up 50% from April. The fundraising discussions follow M&amp;A talks with Adobe, which considered buying the startup for $3 billion, as well as talks about a potential sale to Meta Platforms, The Information <a href=\"https://www.theinformation.com/articles/adobe-discussed-3-billion-acquisition-ai-video-startup-synthesia\">reported</a> Wednesday. Neither talks advanced. Synthesia last raised venture funding at the start of the year at a $2.1 billion valuation in a fundraising led by NEA.</p>\n\n<p>The current fundraise hasn’t closed and terms could still change.</p>",
+            "published_at": "2025-10-23T17:47:18.982Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-startup-synthesia-discusses-gv-led-fundraise-4-billion-valuation?unlock=cebd91&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-startup-synthesia-discusses-gv-led-fundraise-4-billion-valuation?unlock=cebd91&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                },
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15940,
+                    "guid": "2e9c3587f7",
+                    "title": "Adobe Discussed $3 Billion Acquisition of AI Video Startup Synthesia",
+                    "url": "https://www.theinformation.com/articles/adobe-discussed-3-billion-acquisition-ai-video-startup-synthesia?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16134,
+            "guid": "1c2925",
+            "headline": "NBA Coach and Player Ensnared in Sports Betting Indictments ",
+            "dek": "The NBA suspended a Portland Trailblazers coach and a Miami Heat guard following the indictments.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The current coach of the NBA’s Portland Trailblazers and a guard for the Miami Heat were among dozens of arrests Thursday morning as part of a sprawling nationwide probe by the FBI into illegal sports betting and gambling schemes, whereby the government alleges that current and former NBA players and coaches conspired with others to defraud major sports betting companies.</p>\n\n<p>In one of two indictments, both brought by the U.S. Attorney’s Office in the Eastern District of New York, <a href=\"https://www.nytimes.com/interactive/2025/10/23/nyregion/nba-illegal-poker-games-indictment.html\">accused Chauncey Billups</a>, the Trailblazers coach and a Hall of Fame former player, and others of participating in a Mafia-led scheme of rigging illegal poker games. A second indictment <a href=\"https://www.nytimes.com/interactive/2025/10/23/nyregion/nba-betting-scheme-indictment.html\">accused Terry Rozier</a>, the Heat guard, and others of orchestrating wagers on sports betting apps with insider information with respect to NBA games, such as player injuries and in-game performance.</p>\n\n<p>In a statement, the NBA said that Billups and Rozier have been placed on “immediate leave” and that the league is cooperating with authorities in the probe. “We take these allegations with the utmost seriousness, and the integrity of our game remains our top priority,” the league said.</p>\n\n<p>The indictment involving Rozier says the defendants conspired to defraud betting companies, including two unnamed entities that are co-official sports betting partners of the NBA. The NBA lists DraftKings and FanDuel as its official gaming partners on its website. “This is the insider trading saga for the NBA,” said FBI director Kash Patel on Thursday.</p>\n\n<p>In all, authorities said they arrested more than 30 individuals across 11 states in relation to the probe. The indictment involving Billups alleges a complex and elaborate scheme involving several prominent Italian crime families to rig poker games and defraud bettors out of tens or hundreds of thousands of dollars at a time. Three defendants—including Damon Jones, a former Cleveland Cavaliers player and coach—were charged in both indictments.</p>",
+            "published_at": "2025-10-23T17:28:24.100Z",
+            "url": "https://www.theinformation.com/briefings/nba-coach-player-ensnared-sports-betting-indictments?unlock=1c2925&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nba-coach-player-ensnared-sports-betting-indictments?unlock=1c2925&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2272625,
+                    "display_name": "Sara Germano"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1891,
+                    "name": "culture"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16133,
+            "guid": "bff6cf",
+            "headline": "Ellison’s Paramount Has Made Three Bids for WBD",
+            "dek": "Earlier this week WBD said it was reviewing its \"strategic alternatives,\" which is code for putting itself on the market. ",
+            "source_url": "https://www.nytimes.com/2025/10/22/business/dealbook/paramounts-secret-bids-warner-bros-discovery.html",
+            "source_label": "The New York Times",
+            "body": "<p>The Ellison family’s Paramount Skydance has made three offers for Warner Bros. Discovery in the past month, at steadily rising prices, <a href=\"https://www.nytimes.com/2025/10/22/business/dealbook/paramounts-secret-bids-warner-bros-discovery.html\">the New York Times reported on Thursday.</a> All the offers were rejected.</p>\n\n<p>Paramount’s offers for WBD began at $19 a share and rose to $23.50 a share. Before Paramount’s interest in buying WBD became public in mid-September, WBD stock was trading between $12 and $13. On Thursday it was up 3% at $21.17, giving the company a market capitalization of $52 billion. Including WBD’s debt, it has an enterprise value of about $81.5 billion.</p>\n\n<p>Earlier this week WBD said it was reviewing its “strategic alternatives,” which is code for putting itself on the market. The company had previously announcd it would split in two, carving its slowly-shrinking but profitable cable channels off from its streaming and film studio business. It will explore a range of options now,&nbsp; now, including a sale of the entire company or of the studio and/or the cable channels.</p>",
+            "published_at": "2025-10-23T15:49:31.353Z",
+            "url": "https://www.theinformation.com/briefings/ellisons-paramount-made-three-bids-wbd?unlock=bff6cf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ellisons-paramount-made-three-bids-wbd?unlock=bff6cf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16132,
+            "guid": "156b72",
+            "headline": "HongShan Leads Fundraising in AI Agent Genspark ",
+            "dek": "The funding round, which is still ongoing, elevates the startup’s valuation to the north of $1 billion.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>HongShan, the Chinese venture capital giant formerly known as Sequoia Capital China, is leading the funding round in artificial intelligence agent Genspark that will value the startup at more than $1 billion, according to two people with knowledge of the deal.</p>\n\n<p>Genspark has secured commitments from HongShan, led by prominent venture capitalist Neil Shen, as it continues to talk to other investors, according to the people. Forbes on Wednesday <a href=\"https://www.forbes.com/sites/annatong/2025/10/22/ai-startup-genspark-in-talks-to-raise-over-200-million-at-more-than-1-billion-valuation/\">reported</a> that Genspark is in talks to raise over $200 million in the round from investors including LG Technology Ventures and Japan’s SBI Investment. HongShan’s participation hasn’t previously been reported.</p>\n\n<p>AI agents become one of the most prominent tech trends of 2025. Genspark was valued at around $500 million in its last funding round earlier this year. The startup has more than 40 employees, mainly in the U.S. and Singapore, and opened an office in Japan this month. HongShan is also an investor in Manus, which competes with Genspark.</p>\n\n<p>Founded by former Baidu executives Eric Jing and Kay Zhu, Genspark launched a general-purpose AI agent called Super Agent in April and has since added many new functions to it. In September, the startup, which generates revenue from premium subscriptions, said it had surpassed $50 million in annualized run rate, just five months after the launch of Super Agent.</p>",
+            "published_at": "2025-10-23T13:56:11.255Z",
+            "url": "https://www.theinformation.com/briefings/hongshan-leads-fundraising-ai-agent-genspark?unlock=156b72&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/hongshan-leads-fundraising-ai-agent-genspark?unlock=156b72&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                },
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14936,
+                    "guid": "09d45664d5",
+                    "title": "Startup Behind Manus AI Agent Navigates U.S.-China Tensions After Benchmark Deal",
+                    "url": "https://www.theinformation.com/articles/startup-behind-manus-ai-agent-navigates-u-s-china-tensions-benchmark-deal?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16131,
+            "guid": "7d3728",
+            "headline": "Amazon Launches New AI Recommendation Feature To Help Shoppers Make Decisions",
+            "dek": "Amazon has been revamping its search and product listings using AI to better match them with shoppers’ queries.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon <a href=\"https://www.aboutamazon.com/news/retail/amazon-things-to-buy-help-me-decide-gen-ai\">launched</a> a new artificial intelligence-powered product recommendation feature Thursday, the e-commerce giant’s latest move to incorporate more AI features into both its consumer-facing shopping experience as well as the systems that power its search and recommendation features.</p>\n\n<p>The new feature, known as Help Me Decide, will analyze a users’ browsing activity, as well as search and shopping history, to recommend a product. It will appear on product pages if a user has been browsing items but hasn’t made a purchase. Help Me Decide is available in beta to U.S. users.</p>\n\n<p>Amazon says that Help Me Decide uses AI models, including one from Amazon’s cloud service Bedrock, to understand what users are searching for and why by looking at their shopping history and preferences. It then matches that information with product details and reviews to make a suggestion. Amazon has been using generative AI to refine and improve its search results more generally, The Information previously reported, and has been working to better understand the intent behind shoppers’ queries rather than just looking for key search terms they’re using. Amazon is also testing new metrics for sellers that better assess the detail and accuracy of product listings to improve them for AI search.</p>",
+            "published_at": "2025-10-23T13:46:48.252Z",
+            "url": "https://www.theinformation.com/briefings/amazon-launches-new-ai-recommendation-feature-help-shoppers-make-decisions?unlock=7d3728&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-launches-new-ai-recommendation-feature-help-shoppers-make-decisions?unlock=7d3728&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15882,
+                    "guid": "1d35ea8753",
+                    "title": "How Amazon Product Listings Are Evolving as AI Changes Search",
+                    "url": "https://www.theinformation.com/articles/amazon-product-listings-evolving-ai-changes-search?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16130,
+            "guid": "9fcd01",
+            "headline": "Trump Administration in Talks to Take Stakes in Quantum Computing Firms",
+            "dek": "The government, which agreed to take a 10% stake in Intel in August, is looking to deepen its involvement in key areas of technology. ",
+            "source_url": "https://www.wsj.com/business/entrepreneurship/trump-administration-in-talks-to-take-equity-stakes-in-quantum-computing-firms-60ee5143?st=YH9wbd&reflink=article_copyURL_share",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>The Trump administration is in talks to take equity stakes in quantum computing companies in exchange for federal funding for those firms, The Wall Street Journal reported.</p>\n\n<p>The Commerce Department is discussing such arrangements with several quantum computing firms, including IonQ, Rigatti Computing and D-Wave Quantum, according to the Journal. Deputy Commerce Secretary Paul Dabbar, a former quantum computing executive, is leading the funding discussions, the report said.</p>\n\n<p>The talks are the latest example of how Washington is looking to deepen its involvement in critical areas of technology. In August, President Donald Trump announced that the government would take a 10% stake in Intel to become the struggling chipmaker’s largest shareholder.</p>",
+            "published_at": "2025-10-23T07:18:15.302Z",
+            "url": "https://www.theinformation.com/briefings/trump-administration-talks-take-stakes-quantum-computing-firms?unlock=9fcd01&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-administration-talks-take-stakes-quantum-computing-firms?unlock=9fcd01&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16129,
+            "guid": "8f402a",
+            "headline": "Andreessen Horowitz Said to Seek $10 Billion in New Funds",
+            "dek": "It would spread the new money in follow-on, AI and manufacturing investments. ",
+            "source_url": "https://www.ft.com/content/92262343-b4e0-406e-8a01-2199d45d719e",
+            "source_label": "Financial Times ",
+            "body": "<p>Andreessen Horowitz is raising $10 billion for several funds that would give it more firepower to make&nbsp;investments in artificial intelligence startups and increase its stakes in startups it’s previously backed, the Financial Times reported.</p>\n\n<p>The firm, which has been <a href=\"https://www.theinformation.com/articles/venture-investors-exposed-ais-boom-bust?rc=zjctrx\">one of the most active investors in AI startups</a> over the last two years, is seeking to raise about $6 billion to invest in more mature companies, $1.5 billion each for AI applications and AI infrastructure funds and more than $1 billion for its “American Dynamism” defense and manufacturing focused fund, the report said. Last year, it raised $7.2 billion via several funds.</p>\n\n<p>The new target, if hit, would top the $9 billion raised in 2022 during the low-interest rate period.</p>\n\n<p>Andreessen Horowitz&nbsp;has led investments in open source model developer Mistral, coding assistant Anysphere and has invested in OpenAI’s SoftBank-led funding round <a href=\"https://www.theinformation.com/articles/openai-discussed-raising-money-saudi-arabia-indian-investors?rc=zjctrx\">that values the company at $260 billion before the investment</a>.</p>\n\n<p>A spokesperson couldn’t immediately be reached for comment.</p>",
+            "published_at": "2025-10-23T00:59:07.118Z",
+            "url": "https://www.theinformation.com/briefings/andreessen-horowitz-said-seek-10-billion-new-funds?unlock=8f402a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/andreessen-horowitz-said-seek-10-billion-new-funds?unlock=8f402a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16128,
+            "guid": "5e0840",
+            "headline": "Trump Crypto Partner Abruptly Suspends CEO",
+            "dek": "Alt5 Sigma, a Nasdaq-listed company amassing a digital store of a cryptocurrency backed by the Trump family, said on Wednesday it suspended its CEO with immediate effect. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Alt5 Sigma, a Nasdaq-listed company amassing a digital store of a cryptocurrency backed by the Trump family, said on Wednesday it suspended its CEO with immediate effect.</p>\n\n<p>The move represents further turbulence for <a href=\"https://www.theinformation.com/articles/trump-partner-crypto-venture-faces-sec-allegations\">the company</a> that in August struck a deal to raise $1.5 billion to buy tokens issued by World Liberty Financial, a crypto project founded by the Trump family and others. As part of the deal, Eric Trump, the son of President Donald Trump, was set to become a board director of Alt5 Sigma. A month later, Alt5 Sigma said Eric Trump would no longer join the board following a consultation with the market operator, Nasdaq.</p>\n\n<p>Alt5 Sigma said its suspended CEO Peter Tassiopoulos and replaced him on an interim basis with the firm’s CFO, Jonathan Hugh. The company did not say why it removed Tassiopoulos, who is continuing to be paid. Shares in Alt5 Sigma have fallen more than 70% to $1.86 since the deal with World Liberty Financial was announced.</p>\n\n<p>In late August, Alt5 Sigma said its Canadian subsidiary was found criminally liable by a Rwandan court for offenses including illicit enrichment and money laundering. The company said it was appealing the matter. At the time, Alt5 Sigma said it had appointed lawyers and advisors to conduct a review of other issues, including but “not limited to, potential misstatements or omissions in the financial statements of the company and omissions of material information by certain members of management and personnel of the company.”</p>",
+            "published_at": "2025-10-22T23:05:51.315Z",
+            "url": "https://www.theinformation.com/briefings/trump-crypto-partner-abruptly-suspends-ceo?unlock=5e0840&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-crypto-partner-abruptly-suspends-ceo?unlock=5e0840&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16127,
+            "guid": "bbb566",
+            "headline": "Khosla Says Robotics Valuations Are “Getting Bonkers”",
+            "dek": "Khosla also played down concerns about the circular financing deals that have become more common in AI, saying the key question is which company is taking on the risk.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Venture capitalist Vinod Khosla predicted that 2% to 3% of AI startups will account for 85% to 90% of the valuation of companies by 2035. In <a href=\"https://www.theinformation.com/titv\">an interview on The Information’s TITV</a>, Khosla also said that venture capital firms which don’t have early access to those companies but buy in later at&nbsp; higher prices will suffer lower returns. Khosla’s firm, Khosla Ventures, was an early investor in OpenAI, among other companies.</p>\n\n<p>Khosla’s comments follow an opinion article <a href=\"https://www.theinformation.com/articles/ai-valuations-bonkers?rc=9byxri\">he wrote for The Information</a> last month where he urged investors to be selective in buying into AI firms. On Wednesday on TITV, he said that some valuations in robotics were “getting bonkers,” adding that “95% of those startups will lose money.”</p>\n\n<p>Khosla also played down concerns about the circular financing deals that have become more common in AI, as companies like Nvidia invest money in companies buying its chips. He pointed out that financing companies is common in other industries, noting that GM finances purchases of its cars. The issue to watch for is “taking on what part of the risk,” which is a detail hidden in contracts that aren’t publicly available. That is the “key question before one can opine.”</p>",
+            "published_at": "2025-10-22T20:45:27.779Z",
+            "url": "https://www.theinformation.com/briefings/khosla-says-robotics-valuations-getting-bonkers?unlock=bbb566&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/khosla-says-robotics-valuations-getting-bonkers?unlock=bbb566&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16126,
+            "guid": "d9f4c4",
+            "headline": "Tesla Profit Fell 37% in Third Quarter Despite End of Tax Credit Boosting Sales ",
+            "dek": "Tesla also gave an update on its Optimus robot, which is falling behind on ambitious production goals set by Musk. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla’s net income fell 37% year-over-year to $1.4 billion in the third quarter, the company <a href=\"https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2025-Update.pdf\">said</a> Wednesday, attributing the decline to factors including tariffs and increased research and development spending.</p>\n\n<p>Meanwhile, revenue grew 12% year-over-year to $28.1 billion due in part to a <a href=\"https://www.theinformation.com/briefings/tesla-deliveries-spiked-7-third-quarter-ahead-tax-credit-expiry\">surge in vehicle</a> sales as buyers rushed to snap up cars before the $7,500 U.S. tax credit for electric vehicles expired at the end of September. Its automotive revenues grew 6%, while higher growth in Tesla’s battery business and services also boosted revenue, the company said. CEO Elon Musk’s artificial intelligence company xAI is a major Tesla battery customer. Tesla shares were down 2% in after-hours trading on Wednesday.</p>\n\n<p>Tesla also gave an update on its Optimus robot, which is falling behind on ambitious production goals set by Musk. Tesla had publicly set a goal of building 5,000 robots this year but abandoned plans to do so after encountering technical problems, <a href=\"https://www.theinformation.com/articles/elon-musk-preps-teslas-optimus-prime-time-big-hurdles-remain\">The Information has reported</a>. In a shareholder presentation on Wednesday, Tesla said “first generation production lines for Optimus are being installed in anticipation of volume production,” but did not say when volume production would begin. Tesla’s Cybercab, Tesla Semi and Megapack 3 battery will begin volume production in 2026, Tesla said.</p>",
+            "published_at": "2025-10-22T20:29:05.877Z",
+            "url": "https://www.theinformation.com/briefings/tesla-profit-fell-37-third-quarter-despite-end-tax-credit-boosting-sales?unlock=d9f4c4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-profit-fell-37-third-quarter-despite-end-tax-credit-boosting-sales?unlock=d9f4c4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
