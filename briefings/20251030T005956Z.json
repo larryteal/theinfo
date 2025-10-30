@@ -1,0 +1,576 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16180,
+            "guid": "6ef7de",
+            "headline": "YouTube Announces Voluntary Buyouts for Employees",
+            "dek": "Mohan also announced a reorganization that combines YouTube’s product teams into three umbrella organizations.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>YouTube announced a “voluntary exit program” allowing eligible employees in the U.S. to choose to leave the company with severance, Neal Mohan said in a memo to employees on Wednesday.</p>\n\n<p>Mohan also announced a reorganization that combines YouTube’s product teams into three umbrella organizations focused on viewer experience, creators and subscription products. Mohan’s memo was first reported by Sources, a newsletter by Alex Heath.</p>\n\n<p>YouTube ads brought in $10.3 billion in revenue in the third quarter, up from $8.9 billion over the same period last year, its parent company reported as part of its third quarter earnings on Wednesday. Google’s subscription revenue, which includes YouTube, increased to $12.9 billion from $10.7 billion.</p>",
+            "published_at": "2025-10-29T21:22:57.336Z",
+            "url": "https://www.theinformation.com/briefings/youtube-announces-voluntary-buyouts-employees?unlock=6ef7de&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/youtube-announces-voluntary-buyouts-employees?unlock=6ef7de&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16179,
+            "guid": "46b324",
+            "headline": "Meta Shares Sink on 32% Growth in Costs",
+            "dek": "Meta said it expected “notably larger” dollar growth in capital expenditures and \"significantly faster\" percentage growth in total expenses next year.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms reported a 26% increase in its third-quarter revenue that exceeded its own forecasts for the period. But the company also saw a 32% increase in its costs as it spent heavily to recruit superstar artificial intelligence researchers and operate its growing fleet of data centers.</p>\n\n<p>The huge growth in its costs—up from 12% the prior quarter—along with a warning from Meta to expect more of the same in the future rattled investors, sending its shares down more than 9% in after-hours trading.</p>\n\n<p>Meta reported third-quarter revenue of $51.2 billion, better than its own forecast of $47.5 billion to $50.5 billion, which showed the continued strength of its digital advertising business.</p>\n\n<p>At the same time, the parent company of Facebook, Instagram and WhatsApp raised its estimate for capital expenditures this year to between $70 billion and $72 billion, up from a previous forecast of $66 billion to $72 billion. Its capital expenditures last year were $39 billion.</p>\n\n<p>Meta said it expected “notably larger” dollar growth in capital expenditures next year, suggesting its capital expenditures could grow beyond $101 billion. The company attributed that growth to its plans to build more of its own artificial intelligence infrastructure and contract with cloud computing services. Meta also said it expected “significantly faster” percentage growth in total expenses next year due to infrastructure costs and employee compensation.</p>\n\n<p>Meta predicted that, in the fourth quarter, revenue growth could slow to 16%. The company said its augmented and virtual reality organization, Reality Labs, will see lower revenue compared to the previous year, when it introduced a new headset.</p>",
+            "published_at": "2025-10-29T20:57:55.069Z",
+            "url": "https://www.theinformation.com/briefings/meta-shares-sink-32-growth-costs?unlock=46b324&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-shares-sink-32-growth-costs?unlock=46b324&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1513375,
+                    "display_name": "Kalley Huang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16178,
+            "guid": "c29e73",
+            "headline": "Microsoft Revenue Growth Stays Flat in Third Quarter Despite Cloud Boost From OpenAI",
+            "dek": "Microsoft’s capital expenditures rose as it continues to spend heavily on data centers, but gross margins stayed flat.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft revenue grew 18% to $77.7 billion in the three months ending in September, the same rate of growth as the June quarter, the company said Wednesday. Revenue growth stayed flat despite Azure cloud-server rental revenue rising 40% during the September quarter—3 percentage points higher than the growth Microsoft had projected three months ago—driven largely by server spending from OpenAI, Microsoft said. Shares fell 1.5% in after-hours trading.</p>\n\n<p>The results didn’t include OpenAI’s recent commitment to spend $250 billion on Microsoft’s Azure cloud over an unspecified period, a deal the companies announced Tuesday. OpenAI has projected to spend $17 billion renting cloud servers this year, with the vast majority of that spending happening on Microsoft, but Microsoft can only recognize revenue from server rentals to power existing models and products rather than for the clusters of servers for training new AI. OpenAI projected $6.6 billion in such inference spending in 2025.</p>\n\n<p>Microsoft’s capital expenditures rose nearly 35% to $34.9 billion compared to the June quarter as it continues to spend heavily on data centers to power AI applications for OpenAI and others. Still, Microsoft’s gross margins were roughly unchanged at 65% compared to the same period a year prior, though free cash flow rose 33% to $25.7 billion.</p>\n\n<p>CEO Satya Nadella said in a statement that AI demand was driving the company’s growth and that it’s “why we continue to increase our investments in AI across both capital and talent to meet the massive opportunity ahead.“</p>\n\n<p>Microsoft didn’t break out how much revenue is coming from AI features in its Office 365 software, but said that corporate subscriptions from Office grew 17%, compared to 16% growth in the prior quarter. That growth was primarily driven by customers signing up for its E5 bundle, which combines Office 365 with security software and other products, and to a lesser extent from customers buying AI Copilot features in Office 365, the company said.</p>\n\n<p>Not including the new spending commitment from OpenAI, Microsoft said it had $392 billion in remaining performance obligations as of the end of September, also known as a revenue backlog, up from $368 billion in the June quarter. Those obligations take two years on average to become revenue, according to Microsoft investor relations director James Ambrose.</p>",
+            "published_at": "2025-10-29T20:55:57.577Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-revenue-growth-stays-flat-third-quarter-despite-cloud-boost-openai?unlock=c29e73&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-revenue-growth-stays-flat-third-quarter-despite-cloud-boost-openai?unlock=c29e73&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16177,
+            "guid": "a34e93",
+            "headline": "Google Cloud Boosted Alphabet Revenue Growth, Profits in Third Quarter",
+            "dek": "The company also said its Gemini chatbot growth was surging.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google’s revenue from renting out cloud servers rose 34% in the September quarter compared to the same period last year, powering faster revenue growth at its holding company, Alphabet. The result, in part due to its cloud sales to artificial intelligence developers, gives the company more cover to spend on its own AI as well as to build more data centers for customers such as Anthropic.</p>\n\n<p>The Google Cloud growth in the third quarter was more than 2 percentage points higher than the growth it experienced in the second quarter and the unit’s operating profit rose a remarkable 84% to $3.6 billion compared to the same period a year earlier. The company, citing its cloud growth, raised its capital expenditure projection to between $91 billion and $93 billion for the 2025 calendar year, 7% higher than its estimate three months ago. It spent roughly $24 billion on capex in the quarter compared to $33 billion of capex at Microsoft. Despite the increased spending, free cash flow rose 39% to $24.5 billion compared to the same period a year ago.</p>\n\n<p>While Google’s chatbot Gemini lags OpenAI, the company said the app had 650 million monthly active users, up from 400 million monthlies as of May, which suggests it also has hundreds of millions of weekly active users. OpenAI says ChatGPT has more than 800 million weekly active users and expects to generate tens of billions of dollars in revenue from the chatbot in the coming years.</p>\n\n<p>Overall, Alphabet revenue rose 16% in the September quarter, 2 percentage points higher than its growth in the prior two quarters. And operating profits from its core Google&nbsp;advertising business rose 20% from the same quarter a year ago, excluding a one-time fine by the European Commission, thanks in part to the expansion of generative AI results in Google Search. Google revenue chief Philipp Schindler said AI also boosted advertising products, including targeting ads to users and quickly generating ad materials. Overall gross margins rose 1.6 percentage points, excluding the EU fine.&nbsp;The results may have eased some concerns about OpenAI eating into Google’s core business. Shares rose 6% in after-hours trading.</p>",
+            "published_at": "2025-10-29T20:30:55.420Z",
+            "url": "https://www.theinformation.com/briefings/google-cloud-boosted-alphabet-revenue-growth-profits-third-quarter?unlock=a34e93&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-cloud-boosted-alphabet-revenue-growth-profits-third-quarter?unlock=a34e93&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16176,
+            "guid": "775ba5",
+            "headline": "Troubled Sheertex Tights Maker Weighs Potential Sale, CEO Steps Down",
+            "dek": "Founder Katherine Homuth left the company earlier this year as part of a deal to secure lifeline financing for the company.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Sophie Boulanger, the CEO of SRTX, the Canadian manufacturer of Sheertex tights, has stepped down after less than two months on the job, according to a company spokesperson. SRTX has begun a formal strategic review of its business that could lead to a sale or recapitalization, the spokesperson said.</p>\n\n<p>Boulanger, who previously founded and ran a direct-to-consumer eyewear brand in Canada, <a href=\"https://www.newswire.ca/news-releases/canadian-innovator-srtx-names-retail-pioneer-sophie-boulanger-chief-executive-officer-812561766.html\">took over the CEO role</a> in September, following the departure of founder Katherine Homuth earlier this year. The Information previously <a href=\"https://www.theinformation.com/briefings/founder-sheertex-tights-maker-steps-startup-looks-lifeline?rc=d8mrkd\">reported</a> that Homuth told staff she had stepped down from the CEO role as part of talks to secure lifeline financing for the brand. SRTX ran into financial difficulties following a costly buildout of its own manufacturing facilities and what Homuth said was increased financial pressure from the Trump administration’s proposed tariffs on Canada-made goods.</p>\n\n<p>In mid-May, the company <a href=\"https://www.newswire.ca/news-releases/srtx-finalizes-us-40m-new-equity-fundraising-transaction-led-by-bdc-edc-h-amp-m-group-iq-864290125.html\">said</a> it had “reached the first close” of a $40 million equity funding from investors including Canadian VC firm BDC Capital and H&amp;M Group. The spokesperson said that Boulanger “made the personal decision to step down after helping guide SRTX through a period of transition and operational evolution following her appointment.”</p>",
+            "published_at": "2025-10-29T20:00:52.623Z",
+            "url": "https://www.theinformation.com/briefings/troubled-sheertex-tights-maker-weighs-potential-sale-ceo-steps?unlock=775ba5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/troubled-sheertex-tights-maker-weighs-potential-sale-ceo-steps?unlock=775ba5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16175,
+            "guid": "18e934",
+            "headline": "Morgan Stanley Buys EquityZen To Extend Reach to Private Markets",
+            "dek": "The deal reflects the increasing appetite of Wall Street to invest in privately held companies. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Morgan Stanley has agreed to acquire EquityZen, a trading platform for buying and selling stakes in private companies. Terms of this transaction weren’t disclosed.</p>\n\n<p>The deal, the bank’s first acquisition under CEO Ted Pick, reflects the increasing appetite of Wall Street to invest in privately held companies. Many of the world’s largest companies, like OpenAI, Databricks and Stripe, are opting to stay private for longer and command huge valuations.</p>\n\n<p>Founded in 2013, EquityZen said it has more than 800,000 users and has processed transactions in more than 450 private companies. Morgan Stanley is one of the largest wealth managers in the world with more than $7 trillion under management.</p>",
+            "published_at": "2025-10-29T17:37:37.971Z",
+            "url": "https://www.theinformation.com/briefings/morgan-stanley-buys-equityzen-extend-reach-private-markets?unlock=18e934&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/morgan-stanley-buys-equityzen-extend-reach-private-markets?unlock=18e934&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16174,
+            "guid": "996e06",
+            "headline": "Nvidia’s Market Capitalization Passes $5 Trillion",
+            "dek": "Nvidia is $1 trillion more valuable than the next-most valuable company, Microsoft.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia’s market capitalization passed $5 trillion on Wednesday, about $1 trillion more than the next-most valuable company, the latest testament to Nvidia’s strong position in the AI sector. After Nvidia, the most valuable company is Microsoft, which is also benefiting from its exposure to AI.</p>\n\n<p>Nvidia shares were up 3% to slightly above $207, giving the company a market capitalization of $5.04 trillion. Possibly helping lift the stock was comments from President Trump <a href=\"https://www.cnbc.com/2025/10/29/trump-signals-he-plans-to-speak-to-chinas-xi-about-nvidias-super-duper-chips.html\">that he would discuss Nvidia’s advanced Blackwell</a> chips with China’s president Xi Jinping when he meets him tomorrow, implying the administration might be willing to reverse the export ban on sale of those chips to China.</p>\n\n<p>On Tuesday Nvidia CEO Jensen Huang had given a keynote address to the company’s regular GTC conference for developers and business partners, where he gave new details of revenue expectations through 2026 and talked up Nvidia’s hopes of expanding into autonomous vehicles.</p>",
+            "published_at": "2025-10-29T16:05:28.827Z",
+            "url": "https://www.theinformation.com/briefings/nvidias-market-capitalization-passes-5-trillion?unlock=996e06&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidias-market-capitalization-passes-5-trillion?unlock=996e06&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16173,
+            "guid": "a77668",
+            "headline": "Bending Spoons to Buy AOL",
+            "dek": "Bending Spoons CEO Luca Ferrari said AOL generates revenue both from advertising and subscriptions. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Italian tech conglomerate Bending Spoons struck a deal to buy once-powerful internet powerhouse AOL from Apollo-owned Yahoo for an undisclosed price, adding to a recent spate of purchases by the company of faded U.S. tech firms.</p>\n\n<p>Reuters had reported at the start of October that Bending Spoons was in talks to buy AOL for a price of $1.4 billion. Three weeks earlier, Bending Spoons had announced the $1.38 billion purchase of video tech firm Vimeo, while in February it acquired another video tech firm Brightcove. In 2023 Bending Spoons bought faded productivity software firm Evernote.</p>\n\n<p>AOL was an internet giant in the 1990s, worth well over $100 billion by 2000 when it merged with Time Warner. Consumers paid a monthly subscription price to get internet access and for email and other services. But the emergence of broadband internet, replacing dialup internet services, displaced AOL. Time Warner ended up spinning off AOL, which eventually merged with Yahoo, another once-great internet service, and was acquired by Apollo in 2021.</p>\n\n<p>In an interview, Bending Spoons CEO Luca Ferrari said AOL generates revenue both from advertising and subscriptions. Subscribers get cybersecurity, password management and other services. AOL’s revenue is roughly around $500 million annually, according to a person familiar with the finances.</p>",
+            "published_at": "2025-10-29T15:30:38.006Z",
+            "url": "https://www.theinformation.com/briefings/bending-spoons-buy-aol?unlock=a77668&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bending-spoons-buy-aol?unlock=a77668&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16170,
+            "guid": "c4af6f",
+            "headline": "Exclusive: Nvidia-Backed Data Center Power-Management Startup Raises $18 Million",
+            "dek": "Utilities have been cautious to approve data center connections to the power grid.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>A Washington D.C-based startup developing software for artificial intelligence data centers to connect to the power grid said it raised $18 million in new capital in a deal led by Lowercarbon Capital, with participation from Nvidia, Radical Ventures, and National Grid Partners.</p>\n\n<p>The startup, Emerald AI, is developing software that essentially sits between the power grid and data centers, aiming to manage power fluctuations from artificial intelligence servers in the facilities. Utilities have been cautious to approve data center connections to the power grid because they don’t want to run out of capacity for consumers. Emerald hopes to speed up approvals by showing how its software can reduce power draw from data centers during periods of peak power demand so utilities avoid brownouts and blackouts.</p>\n\n<p>Emerald AI was founded less than a year ago by Varun Sivaram, an energy industry veteran who was most recently the chief strategy officer of energy giant Orsted and has served as a senior U.S. diplomat. The new funding deal is an extension of a $25 million “seed” funding round the startup raised a few months ago.</p>",
+            "published_at": "2025-10-29T14:40:38.019Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-nvidia-backed-data-center-power-management-startup-raises-18-million-2?unlock=c4af6f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-nvidia-backed-data-center-power-management-startup-raises-18-million-2?unlock=c4af6f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16172,
+            "guid": "3a3739",
+            "headline": "Payments Firm Fiserv’s Stock Collapses 45% After 2025 Outlook Slashed",
+            "dek": "Fiserv CEO said the original growth assumptions were too optimistic.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Payments tech giant Fiserv’s stock collapsed 45% on Wednesday morning after the company slashed its revenue growth outlook for 2025 and announced a management shakeup.</p>\n\n<p>Fiserv, whose Clover payments service competes with companies such as Square, reported 1% revenue growth for the third quarter and revised its “organic revenue growth” forecast to between 3.5% and 4% from 10% in July. On an earnings call with analysts, CEO Michael Lyons said the revised guidance was “disappointing” but said the company was taking actions to allow for a “critical and necessary reset.”</p>\n\n<p>Lyons blamed a slowdown in Argentina, whose market had been a major driver of growth for Fiserv, for part of the revision. Lyons said Argentina had accounted for nearly half of Fiserve’s growth in 2023 and more than half last year. He also said the company had used “optimistic growth assumptions in the original guidance,” which were now being recalibrated. He added that he was deprioritizing “short term revenue and expense initiatives.”</p>",
+            "published_at": "2025-10-29T14:03:11.381Z",
+            "url": "https://www.theinformation.com/briefings/payments-firm-fiservs-stock-collapses-45-2025-outlook-slashed?unlock=3a3739&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/payments-firm-fiservs-stock-collapses-45-2025-outlook-slashed?unlock=3a3739&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16171,
+            "guid": "c540c0",
+            "headline": "Etsy Replaces CEO As It Continues Push To Revive Growth",
+            "dek": "Longtime executive Kruti Patel Goyal previously ran Depop, a much faster-growing piece of Etsy’s business.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Etsy said Wednesday that CEO Josh Silverman will&nbsp;become the executive chairman of the online marketplace’s board, as the company tries to revamp itself amid continually declining sales. He will be replaced by Kruti Patel Goyal, a longtime Etsy executive who was previously its president and chief growth officer. Prior to that, she was the CEO of secondhand and resale app Depop, which Etsy also owns.</p>\n\n<p>Etsy saw its sales boom in 2020 and 2021 as e-commerce companies surged during the pandemic, but growth on its core site has flatlined since then. On Wednesday, Etsy said that its gross merchandise sales for the third quarter were $2.7 billion, an increase of 0.9% from a year ago. That increase was largely driven by Depop, which grew sales nearly 40% from the same period last year to $292 million, but is significantly smaller than Etsy’s main site, which does billions in sales each quarter. The company’s revenue grew 6.1% to $678 million, and net income for the quarter was $75.5 million.</p>\n\n<p>During his time as CEO, Silverman <a href=\"https://www.theinformation.com/articles/how-etsy-is-trying-to-win-back-shoppers-amid-rise-of-temu-and-shein?rc=d8mrkd\">oversaw a range of initiatives</a> to try to bring shoppers back to Etsy’s site and fend off competition from newer bargain sites like Shein and Temu. More recently, Etsy has also leaned into the rise of AI search tools as a potential growth opportunity—it was the first marketplace to strike a partnership with OpenAI, announced last month, to allow its merchants to sell their products directly in ChatGPT. Etsy shares were down around 9% in premarket trading Wednesday.</p>",
+            "published_at": "2025-10-29T13:06:07.631Z",
+            "url": "https://www.theinformation.com/briefings/etsy-replaces-ceo-continues-push-revive-growth?unlock=c540c0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/etsy-replaces-ceo-continues-push-revive-growth?unlock=c540c0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 12992,
+                    "guid": "663c895f55",
+                    "title": "How Etsy is Trying To Win Back Shoppers Amid Rise of Temu and Shein",
+                    "url": "https://www.theinformation.com/articles/how-etsy-is-trying-to-win-back-shoppers-amid-rise-of-temu-and-shein?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16169,
+            "guid": "959904",
+            "headline": "Cursor Co-Founder Departs",
+            "dek": "In only three years, Anysphere has become one the hottest AI startups around. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Arvid Lunnemark, one of the four co-founders of Anysphere, which develops the Cursor AI coding software, announced that he is leaving the startup earlier this month.</p>\n\n<p>“Today, I told the team that I have decided to leave Cursor,” he <a href=\"https://arvid.xyz/posts/leaving/\">wrote in a statement</a> on his website on October 18th. “It is, of course, with a mix of feelings. I’m sad to leave the team and the product; I’m excited for the ideas I get to explore next.”</p>\n\n<p>Lunnemark studied math and computer science at MIT, according to his LinkedIn, before co-founding Anysphere in 2022 with three classmates. Enthusiasm for AI-powered coding tools has propelled Anysphere to over $500 million in annual recurring revenue earlier this year. Anysphere has been <a href=\"https://www.theinformation.com/articles/cursor-maker-anysphere-considers-investment-offers-30-billion-valuation\">considering offers to invest</a> in the startup at around a $30 billion valuation.</p>",
+            "published_at": "2025-10-29T01:38:38.577Z",
+            "url": "https://www.theinformation.com/briefings/cursor-co-founder-departs?unlock=959904&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/cursor-co-founder-departs?unlock=959904&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16168,
+            "guid": "a5481a",
+            "headline": "Musk Suit Against OpenAI Can Proceed Despite Restructuring",
+            "dek": "State attorneys general already approved the restructuring, which could be hard to reverse.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>A memo from California’s attorney general suggested that Elon Musk’s federal lawsuit against OpenAI will be unaffected by the artificial intelligence startup’s restructuring. But now that the restructuring has occurred, it may be hard to unwind the change even if Musk wins.</p>\n\n<p>Both the attorneys general for Delaware, where OpenAI is incorporated, and California, where it is headquartered, had been investigating OpenAI’s proposed restructuring into a new for-profit entity that can eventually go public and gave their blessings for the change, which was announced Tuesday, to proceed. But the memo from California’s AG noted in all-caps that its agreement with OpenAI has “no impact on any other case.”</p>\n\n<p>That was likely a reference to the lawsuit from Musk, who was an early donor to the non-profit that controls OpenAI. In the suit, Musk alleges that OpenAI violated its charitable mission and defrauded him by acting as a for-profit company, including by restructuring the company to remove the caps on investors’ profit rights. OpenAI recently argued that Musk doesn’t have the right to sue because he made his donations through donor-advised funds, which “severed Musk’s legal interest in the funds.”</p>\n\n<p>Musk, who is the CEO of OpenAI competitor xAI, previously sought a court order to block the restructuring. While the court allowed the restructuring to proceed, the judge acknowledged a “public interest at stake and potential for harm if a conversion contrary to law occurred.”</p>\n\n<p>In a statement on Tuesday, Marc Toberoff, the lead counsel for Musk in the suit, said “the AGs cannot sanitize OpenAI’s unlawful conduct through a hastily arranged deal.” He added that the judge in the case had “repeatedly made clear that a jury—not OpenAI’s executives—should decide whether they and Micxrosoft can profit from hijacking a charity.”</p>\n\n<p>But the court is unlikely to force OpenAI to abandon its new structure. At a hearing in February, the judge overseeing the Musk lawsuit said that the attorneys general represent the public, so their investigations could be sufficient to determine whether the restructuring should be allowed to proceed.</p>\n\n<p>Even Musk’s own attorney has previously argued that reversing the lawsuit could be tough. At the same February hearing, a Musk lawyer expressed concern to the judge that “if you find in our favor, it will be impossible to unwind these transactions.” Still, a victory for Musk could result in OpenAI transferring billions of dollars to Musk.</p>",
+            "published_at": "2025-10-29T01:06:58.376Z",
+            "url": "https://www.theinformation.com/briefings/musk-suit-unlikely-unwind-openai-restructure?unlock=a5481a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-suit-unlikely-unwind-openai-restructure?unlock=a5481a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16167,
+            "guid": "492e74",
+            "headline": "Uber and Nvidia Target 100,000 Self-Driving Cars",
+            "dek": "Car companies said they plan to use Nvidia’s new self-driving technology.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia is jumping into the self-driving car technology market, unveiling a deal with Uber to partner on production of thousands of vehicles that can run as robotaxis on Uber’s service. Stellantis, maker of Fiat and Chrysler, will produce the cars. Uber said 5,000 of the cars will be delivered for use on its service, although Nvidia put the ambition more grandly, announcing it plans the Uber partnership to support 100,000 cars over time, starting in 2027.</p>\n\n<p>The partnership adds to the range of self-driving car options that Uber has, of which the most important is a partnership with Alphabet’s Waymo. But the significance of the announcement is more what it means for Nvidia and other rivals, including Tesla, whose CEO Elon Musk has said robotaxis are a key part of its long term growth. Tesla has begun a limited robotaxi service in Austin Texas and San Francisco.</p>\n\n<p>Stellantis, the automaker, is collaborating with Nvidia and Uber to provide autonomous vehicles. Lucid and Mercedes-Benz will also use Nvidia’s self-driving technology, as will self-driving trucking companies Aurora, Volvo Autonomous Solutions and Waabi. Nvidia’s new technology, called Drive AGX Hyperion 10, is a computer and set of sensors that is intended to enable any vehicle to drive autonomously.</p>\n\n<p>Uber and Nvidia are also working on providing data to develop self-driving software using Nvidia’s Cosmos AI model, which is designed to generate realistic videos.</p>",
+            "published_at": "2025-10-28T21:30:39.538Z",
+            "url": "https://www.theinformation.com/briefings/uber-nvidia-target-100-000-self-driving-cars?unlock=492e74&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/uber-nvidia-target-100-000-self-driving-cars?unlock=492e74&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16166,
+            "guid": "2800af",
+            "headline": "Nvidia Has Received More Than $500 Billion in Orders Through 2026",
+            "dek": "Nvidia also announced technology for simulating factories and quantum computing, and a $1 billion investment in Nokia.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia CEO Jensen Huang revealed Tuesday that Nvidia&nbsp;has received more than $500 billion in orders, counting from the start of calendar 2025 through 2026, reflecting demand for its latest chips, the Blackwell and the Rubin. That’s an enormous volume of orders, more than&nbsp;five times the revenue generated by an earlier generation of Nvidia chips, Hopper, from 2023 to 2025, excluding sales in Asia. Nvidia stock rose 5%.</p>\n\n<p>Meanwhile, Nvidia also announced that it would invest $1 billion in Nokia, the Finnish telecommunications company that provides network equipment and software. As part of the deal, Nokia will adopt Nvidia’s new telecommunications hardware that is designed for artificial intelligence.</p>\n\n<p>“We’re going to create, for the first time, a software-defined programmable computer that’s able to communicate wirelessly and do AI processing at the same time,” said Huang said onstage at Nvidia’s developer conference in Washington, D.C. Using AI will be able to make wireless communications more energy-efficient, he said.</p>\n\n<p>Nvidia announced a collaboration with the U.S. Department of Energy and Oracle to develop two AI systems at the Argonne National Lab, one of which will include 100,000 Blackwell chips and the other of which will feature 10,000. Nvidia also announced that nine national labs and many quantum computing companies will adopt Nvidia’s new technology for connecting AI chips and quantum computers.</p>\n\n<p>Huang played to the patriotism of the D.C. audience, opening his talk with a video montage of U.S. inventions and closing by thanking the audience for “making America great again.” He gave shoutouts to Energy Secretary Chris Wright and President Donald Trump.</p>",
+            "published_at": "2025-10-28T20:59:04.914Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-invest-1-billion-nokia?unlock=2800af&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-invest-1-billion-nokia?unlock=2800af&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16165,
+            "guid": "c7aec3",
+            "headline": "Adobe Lets Customers Power its Apps With Google’s Latest AI Models",
+            "dek": "Adobe and Google have expanded an existing partnership to let Adobe customers power apps like Photoshop with Google's latest AI models. ",
+            "source_url": "https://news.adobe.com/news/2025/10/adobe-max-2025-google-cloud",
+            "source_label": "The Information",
+            "body": "<p>Adobe and Google have been working together as industry partners for nearly two decades, and now AI is bringing them closer.</p>\n\n<p>In an <a href=\"https://news.adobe.com/news/2025/10/adobe-max-2025-google-cloud\">expanded agreement</a> between the companies, Adobe customers will be able to use Google’s latest AI models to power applications like Photoshop and Premiere. In addition, Adobe’s business customers will be able to customize Google’s AI models with their own proprietary data to reflect the style of their company brand, said an Adobe spokesperson.</p>\n\n<p>The deal illustrates the growing popularity of Google AI models like Nano Banana, which lets users edit their photos, and Veo 3, which creates video from text prompts, with creative professionals. It also shows how Google’s strength in AI, which is already helping it <a href=\"https://www.theinformation.com/articles/google-finds-crack-amazons-cloud-dominance?rc=eqgjah\">poach cloud AI&nbsp;business from rivals,</a> is helping it get a stronger foothold in other market segments.</p>\n\n<p>Adobe has developed its own set of AI models, known as Firefly, for tasks like image and video generation, so supporting a competing model might seem like a shift. But the expanded tie-up with Google is part of Adobe’s strategy to let&nbsp;customers use a variety of different third-party models to run its apps. That’s similar to the approach cloud providers have used to get customers building AI apps.</p>",
+            "published_at": "2025-10-28T20:26:28.758Z",
+            "url": "https://www.theinformation.com/briefings/adobe-now-letting-customers-use-googles-nana-banana-veo-models?unlock=c7aec3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/adobe-now-letting-customers-use-googles-nana-banana-veo-models?unlock=c7aec3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16164,
+            "guid": "2c67bc",
+            "headline": "OpenAI Recapitalizes as Public Benefit Corporation",
+            "dek": "The restructuring paves the way for the company to eventually go public\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI on Tuesday said that it completed its corporate restructuring into a public benefit corp., clearing the company’s path to an eventual public offering. Microsoft, which had invested more than $13 billion into the company, holds a 27% equity stake in the company worth $135 billion based on the company’s recent employee share sale that values it at $500 billion, confirming some <a href=\"https://www.theinformation.com/articles/will-new-openai-one-chart?rc=8tzurb\">details earlier reported by The Information</a>.</p>\n\n<p>OpenAI’s nonprofit, which had previously controlled the for-profit when it was a limited liability corp., is now called the OpenAI Foundation and holds a 26% equity stake in the public benefit corp., for a stake worth roughly $130 billion. The OpenAI Foundation also has warrants to receive additional shares if it hits a certain valuation. That mirrors the prior arrangement, which allowed the nonprofit to receive <a href=\"https://www.theinformation.com/articles/will-new-openai-one-chart?rc=zjctrx\">profits after early shareholders and employees were paid</a> out a portion of eventual profits. OpenAI’s employees and investors hold the remaining 47% of the company.</p>\n\n<p>On Tuesday the Delaware and California state attorneys general, which needed to review the conversion because of the AI research lab’s start as a nonprofit, said they won’t oppose the recapitalization.</p>\n\n<p>The state attorneys general noted they had secured certain commitments, including that the nonprofit’s board will retain control and oversight over the public benefit corp. The board of the nonprofit includes most of the members of the for-profit board, including OpenAI CEO Sam Altman.</p>",
+            "published_at": "2025-10-28T18:20:41.114Z",
+            "url": "https://www.theinformation.com/briefings/openai-recapitalizes-public-benefit-corporation?unlock=2c67bc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-recapitalizes-public-benefit-corporation?unlock=2c67bc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15961,
+                    "guid": "8e68e8de6d",
+                    "title": "SoftBank Greenlights Remaining $22.5 Billion of OpenAI Investment",
+                    "url": "https://www.theinformation.com/articles/softbank-greenlights-remaining-22-5-billion-openai-investment?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16163,
+            "guid": "5112b0",
+            "headline": "BlackRock-Backed Securitize to Go Public at $1.25 Billion Valuation",
+            "dek": "Securitize will merge with Cantor Fitzgerald’s special purpose acquisition firm.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Securitize, which helps asset managers put their products on the blockchain, <a href=\"https://securitize.io/learn/press/Securitize-To-Become-Public-Company\">said</a> it will go public through a merger with a special purpose acquisition company in a deal that values the firm at $1.25 billion in pre-money equity.</p>\n\n<p>Securitize, which is backed by BlackRock, will merge with Cantor Equity Partners II, with the deal expected to close in the first half of 2026, the companies said. Existing investors, such as BlackRock, ARK Invest, and Morgan Stanley, will roll over their interest into the combined company. It will also raise $225 million in private placement from new and existing investors.</p>\n\n<p>Founded in 2017, Securitize helps asset managers such as BlackRock and Apollo bring their products onto blockchain for wider distribution. Its largest product is BlackRock’s tokenized money market fund, which has amassed $2.85 billion in assets in part because it holds reserve assets for stablecoins such as Ethena’s USDtb.</p>\n\n<p>In the second quarter, Securitize <a href=\"https://www.sec.gov/Archives/edgar/data/2034269/000121390025102783/ea026272001ex99-2_cantor2.htm\">made</a> $17.5 million in revenue and $4.2 million in earnings before interest, taxes, depreciation and amortization. It expects full-year revenue to be $69 million in 2025 and $110 million in 2026.</p>",
+            "published_at": "2025-10-28T17:40:31.506Z",
+            "url": "https://www.theinformation.com/briefings/blackrock-backed-securitize-go-public-1-25-billion-valuation?unlock=5112b0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blackrock-backed-securitize-go-public-1-25-billion-valuation?unlock=5112b0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16162,
+            "guid": "fad63f",
+            "headline": "Livestream Shopping App Whatnot Boosts Valuation to $11.5 Billion",
+            "dek": "The company was previously valued at $5 billion in a January funding round.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Livestream shopping app Whatnot announced a $225 million fundraising Tuesday at a valuation of $11.5 billion, more than double the level at which it last raised. The round was led by existing investors DST Global and Capital G, and included other investors like Sequoia Capital, Greycroft and Andreessen Horowitz.</p>\n\n<p>The new funding, which Whatnot said it would use to expand internationally and launch new features, comes less than a year after the company boosted its valuation to $5 billion in a January funding round. Whatnot said the gross merchandise value for products sold through its platform this year has already surpassed $6 billion, more than double <a href=\"https://www.theinformation.com/articles/whatnot-users-spend-80-minutes-day-shopping?rc=d8mrkd\">its GMV for all of 2024</a>.</p>\n\n<p>Whatnot has emerged as one of the most popular platforms for live shopping, a form of e-commerce popular in Asia where hosts showcase and sell items on QVC-like livestreams. Whatnot and other platforms like TikTok, which has heavily incentivized merchants that use its TikTok Shop storefronts to sell products via livestreams, have helped to get U.S. audiences accustomed to watching and purchasing from livestreams.</p>",
+            "published_at": "2025-10-28T15:31:09.513Z",
+            "url": "https://www.theinformation.com/briefings/livestream-shopping-app-whatnot-boosts-valuation-11-5-billion?unlock=fad63f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/livestream-shopping-app-whatnot-boosts-valuation-11-5-billion?unlock=fad63f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16161,
+            "guid": "ae8cdd",
+            "headline": "Apple Supplier Skyworks Solutions to Buy Rival Qorvo for $10.6 Billion",
+            "dek": "Both companies are facing a slowdown in the smartphone sector and increased competition.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Skyworks Solutions, which supplies radio frequency chips to Apple and other smartphone makers, is acquiring&nbsp;its main rival Qorvo for $10.6 billion in a combination of cash and stock. The news, announced Tuesday morning, confirmed <a href=\"https://www.theinformation.com/articles/apple-supplier-skyworks-held-talks-buy-8-billion-rival-qorvo?rc=9byxri\">a report in The Information</a> late Monday night.&nbsp;Skyworks’ shares jumped 13% on Tuesday, while Qorvo shares rose 11%.</p>\n\n<p>The deal comes as growth in the smartphone maker has slowed, as consumers hold&nbsp;onto phones longer. Both companies had also warned that sales to their biggest customer, which they previously said was Apple, were weakening because other rivals were winning business. In a statement, Skyworks CEO Phil Brace said&nbsp;the combination would have more ability to “bring even greater innovation to our customers.”</p>\n\n<p>Qorvo’s sales in the June quarter, for instance, fell 7.6%. It fell 1.3% in fiscal 2025. Skyworks reported a 5.2% decline in revenue for the nine months ending June. The price Skyworks is paying for Qorvo, of about $114 a share based on Skyworks’ price early Tuesday, was a big premium to where Qorvo has lately been trading. It had closed on Monday at $92.13.</p>",
+            "published_at": "2025-10-28T14:22:16.722Z",
+            "url": "https://www.theinformation.com/briefings/apple-supplier-skyworks-solutions-buy-rival-qorvo-10-6-billion?unlock=ae8cdd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-supplier-skyworks-solutions-buy-rival-qorvo-10-6-billion?unlock=ae8cdd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        }
+    ]
+}
