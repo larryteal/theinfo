@@ -1,0 +1,631 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16193,
+            "guid": "793daf",
+            "headline": "Nvidia to Supply Samsung With 50,000 GPUs",
+            "dek": "The deal, worth potentially hundreds of millions of dollars, was announced during Nvidia CEO Jensen Huang's trip to South Korea this week.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia said Thursday it signed a deal to sell 50,000 graphics processing units to Samsung Electronics to help the South Korean company with its chip design and manufacturing.</p>\n\n<p>The deal, estimated to be worth hundreds of millions of dollars in sales, was announced during a visit by Nvidia CEO Jensen Huang to South Korea, where he attended the Asia-Pacific Economic Cooperation CEO Summit and also met with local government and business leaders including the chairman of Samsung.</p>\n\n<p>Nvidia said Samsung will use Nvidia’s Blackwell chips in conjunction with popular chip design tools made by Synopsis, Cadence and Siemens to simulate and verify its chip designs. Samsung will also use the GPUs to speed up the design of its chip fabrication facilities and to make improvements to computational lithography, a method of simulating the process of printing circuit patterns on silicon wafers.</p>",
+            "published_at": "2025-10-31T08:48:29.412Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-supply-samsung-50-000-gpus?unlock=793daf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-supply-samsung-50-000-gpus?unlock=793daf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16192,
+            "guid": "f6068c",
+            "headline": "Globalstar Has Discussed a Potential Sale with SpaceX, Others",
+            "dek": "A deal with SpaceX would further consolidate the company’s power in satellite-based internet services. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-30/globalstar-draws-spacex-interest-in-sale-process",
+            "source_label": "Bloomberg",
+            "body": "<p>Globalstar has talked to Elon Musk’s SpaceX and other potential suitors about buying the satellite company, Bloomberg reported.</p>\n\n<p>The news of the sale talks <a href=\"https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal?rc=ndc4g0\">follows a report</a> from The Information saying that Globalstar’s chairman James Monroe had discussed the possibility of selling the company for more than $10 billion with associates. Bloomberg reported that Globalstar has hired an investment bank to assist it with a possible sale, though the company could decide not to move forward with such a plan.</p>\n\n<p>A sale of Globalstar would likely need to involve Apple, which has partnered with the company to provide emergency satellite internet connectivity to iPhone users when they’re out of the range of cellular networks. Apple has a 20% stake in Globalstar and a right to bid on the company before it sells itself to another suitor. Globalstar didn’t respond to a request for comment.</p>\n\n<p>For SpaceX, already the dominant player in satellite-based internet services, an acquisition of Globalstar would further consolidate its power in the market.</p>",
+            "published_at": "2025-10-31T00:28:03.521Z",
+            "url": "https://www.theinformation.com/briefings/globalstar-discussed-potential-sale-spacex-others?unlock=f6068c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/globalstar-discussed-potential-sale-spacex-others?unlock=f6068c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                },
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15942,
+                    "guid": "898f5a5d4b",
+                    "title": "Could Apple and Musk’s SpaceX Finally Do a Satellite Deal?",
+                    "url": "https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16191,
+            "guid": "739139",
+            "headline": "Apple Forecasts Strong Holiday Growth on iPhone 17 Demand",
+            "dek": "Services continues to be the company’s faster growing division",
+            "source_url": "https://www.apple.com/newsroom/pdfs/fy2025-q3/FY25_Q3_Consolidated_Financial_Statements.pdf",
+            "source_label": "The Information",
+            "body": "<p>Apple reported an 8% jump in revenue for its fiscal fourth quarter and forecast even stronger growth during the holidays, due to demand for its latest iPhones.</p>\n\n<p>The results were another sign of life for the company’s iPhone business, sales of which have stagnated in recent years. Apple’s new iPhone 17 lineup, which was released during the quarter, &nbsp;helped the business hit $49 billion for the quarter, up more than 6% from the same period a year earlier. In a call with analysts, Apple said it expects the growth rate of iPhone revenues to be in the double-digits. Apple shares rose 3% in after-hours trading following the news.</p>\n\n<p>Total Apple revenues rose nearly 8% for the quarter that ended September 27 to $102.47 billion, while fiscal full year revenue rose over 6% to $416.16 billion. For the holiday quarter, the company said it expects total sales to grow between 10% and 12%.</p>\n\n<p>Services remains the company’s fastest area of growth, advancing 15.1% from the same quarter a year earlier to $28.8 billion. The company said it was aided by record sales from the App Store, cloud services, music, payment services, video and advertising. The Mac also did well, growing 12.7% annually to $8.7 billion.</p>\n\n<p>However, sales were weak in China—one of Apple’s most important markets—declining 3.6% from the previous year to $14.5 billion. Apple Chief Executive Tim Cook said he expects the company to return to growth in China for the current quarter.</p>",
+            "published_at": "2025-10-30T22:15:41.896Z",
+            "url": "https://www.theinformation.com/briefings/apple-forecasts-strong-holiday-growth-iphone-17-demand?unlock=739139&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-forecasts-strong-holiday-growth-iphone-17-demand?unlock=739139&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16190,
+            "guid": "b023ca",
+            "headline": "Nvidia Said to Plan $1 Billion Investment in Poolside",
+            "dek": "Poolside recently announced plans to build an AI data center.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-30/nvidia-to-invest-up-to-1-billion-in-ai-startup-poolside",
+            "source_label": "Bloomberg",
+            "body": "<p>Nvidia is planning to invest up to $1 billion in Poolside as part of the artificial intelligence startup’s ongoing funding round, Bloomberg reported Thursday.</p>\n\n<p>Poolside previously developed AI-powered coding assistants, but is pivoting to training foundation models. The startup has been <a href=\"https://www.theinformation.com/briefings/exclusive-poolside-talks-coreweave-backer-magnetar-new-funding\">seeking to raise</a> around $2 billion at a $12 billion valuation, not including the investment, based on our prior reporting. Magnetar, a hedge fund that is a major backer of CoreWeave, has been in talks to invest in the round. Earlier this month, Poolside announced plans to build a data center in West Texas and said CoreWeave will be the anchor tenant for the first phase of the project.</p>\n\n<p>An Nvidia spokesperson declined to comment.</p>\n\n<p>The investment would be the latest instance of Nvidia investing in companies that are customers of its AI hardware. Earlier this week, Nvidia announced that it would <a href=\"https://www.theinformation.com/briefings/nvidia-invest-1-billion-nokia\">invest $1 billion in Nokia</a>, the Finnish telecommunications company that provides network equipment and software. As part of the deal, Nokia will adopt Nvidia’s new telecommunications hardware that is designed for AI.</p>",
+            "published_at": "2025-10-30T21:51:37.810Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-said-plan-1-billion-investment-poolside?unlock=b023ca&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-said-plan-1-billion-investment-poolside?unlock=b023ca&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16189,
+            "guid": "1c1113",
+            "headline": "Coinbase Rises After Revenue Jumps 55% ",
+            "dek": "The biggest U.S. exchange is riding on a trading boom and going on an acquisition spree. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Coinbase said its third-quarter revenue was $1.87 billion, up 55% from a year ago, driven by rising trading volume and growth in the number of tokens available for its customers to trade. Stock jumped 2.6% in post-market trading.</p>\n\n<p>Net income was $433 million, up from $76 million a year ago. Coinbase increased its holdings of&nbsp;cash, U.S. dollar-backed stablecoins and money market funds by 28% to $11.9 billion from a quarter ago. It also increased its bitcoin holdings by $299 million in the quarter, driven by weekly purchases.</p>\n\n<p>Coinbase has made eight acquisitions this year, including a $2.9 billion deal for crypto options platform Deribit and a $375 million deal for Echo, an initial coin offering platform. Coinbase is also building a stablecoin payments platform.</p>\n\n<p>Fortune this week reported that Coinbase is in late-stage talks to buy BVNK, a stablecoin infrastructure startup, for about $2 billion. Anil Gupta, Coinbase’s head of investor relations, declined to comment on the deal talk. He said Coinbase’s offerings in stablecoin payments are still in its early days.</p>",
+            "published_at": "2025-10-30T21:31:12.711Z",
+            "url": "https://www.theinformation.com/briefings/coinbase-rises-revenue-jumps-55?unlock=1c1113&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coinbase-rises-revenue-jumps-55?unlock=1c1113&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16188,
+            "guid": "0d4106",
+            "headline": "AWS Growth Picks Back Up, Boosting Shares 10%",
+            "dek": "While AWS’s cloud business is much larger than rivals Microsoft and Google’s, it has been under pressure to speed up growth.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon shares jumped more than 10% in aftermarket trading Thursday, after the e-commerce giant said that Amazon Web Services revenue grew 20.2% to $33 billion in the third quarter, the fastest rate since 2022. While competitors Microsoft and Google have much smaller cloud businesses than AWS, they are growing more quickly, pressuring Amazon to reaccelerate AWS’s growth.</p>\n\n<p>Amazon said overall revenue grew 13% to $180.2 billion from the same period last year. The company reported flat operating income of $17.4 billion, reflecting the cost of a $2.5 billion charge related to the company’s legal <a href=\"https://www.theinformation.com/briefings/amazon-reaches-2-5-billion-settlement-ftc-consumer-protection-lawsuit\">settlement with the Federal Trade Commission</a> in a consumer protection lawsuit and $1.8 billion in severance costs related to the roughly 14,000 corporate jobs Amazon <a href=\"https://docs.google.com/document/d/1-omrXqASljibu2sIHL3YKQjlK3ENvGWX67wvp3CLjtw/edit?usp=sharing\">said it would cut</a> earlier this week.</p>\n\n<p>Amazon’s retail business got a boost from its annual Prime Day sales event in July—online stores net sales grew 10% from the second quarter to $67.4 billion. Amazon forecast overall sales of $206 billion to $213 billion for the fourth quarter, or growth of 10% to 13% from a year earlier.</p>",
+            "published_at": "2025-10-30T20:41:45.205Z",
+            "url": "https://www.theinformation.com/briefings/aws-growth-picks-back-boosting-shares-10?unlock=0d4106&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-growth-picks-back-boosting-shares-10?unlock=0d4106&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16187,
+            "guid": "163d4b",
+            "headline": "Bending Spoons Raises $3.1 billion in Debt and Equity",
+            "dek": "The borrowing will cover both the cost of the AOL deal and give the company money to pursue further acqusitions.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Italian conglomerate Bending Spoons, which said Wednesday it would buy AOL, said Thursday it had raised $2.8 billion in debt and $270 million in new equity. The equity raising valued the company at $11 billion, excluding the new money.</p>\n\n<p>The borrowing will cover&nbsp;both the cost of the AOL deal and give&nbsp;the company money to pursue further acqusitions, according to CEO Luca Ferrari. Bending Spoons hasn’t disclosed the price of the AOL deal, although Reuters reported a few weeks ago the company was in talks to buy the aging internet firm for around $1.4 billion.</p>\n\n<p>Bending Spoons said the $2.8 billion debt financing included loan commitments and a revolving credit facility. The company has now borrowed $4 billion this year, following $1.3 billion raised in previous debt raisings. Bending Spoons has struck a series of acquisitions this year, including of video tech firms Vimeo and Brightcove.</p>",
+            "published_at": "2025-10-30T19:21:39.851Z",
+            "url": "https://www.theinformation.com/briefings/bending-spoons-raises-3-1-billion-debt-equity?unlock=163d4b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bending-spoons-raises-3-1-billion-debt-equity?unlock=163d4b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16186,
+            "guid": "28b017",
+            "headline": "NBCUniversal’s Peacock Reports Flat Subscribers, Lower Revenue",
+            "dek": "Executives said that excluding the impact of the Olympics, Peacock's revenue rose.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>NBCUniversal’s Peacock streaming service appears to be stalled. The service’s subscribers were flat at 41 million in the third quarter, NBCU’s parent company Comcast reported on Thursday. NBCU reported the same subscriber number for the first half of&nbsp;the year.</p>\n\n<p>Comcast president Michael Cavanagh noted on an analyst call that Peacock’s momentum was “solid,” noting that subscriber retention had been steady despite a price increase earlier this year.</p>\n\n<p>Peacock’s revenue fell 9.9% to $1.36 billion in the quarter compared with the year-earlier period, when the results were boosted by the Paris Olympics, NBCU said. That was&nbsp;presumably a reference to increased advertising attached to Olympics programming. NBCUniversal said that excluding the Olympics, Peacock’s revenue grew “at a mid-teens rate.” Peacock is losing less money: its losses fell by about half in the third quarter.</p>",
+            "published_at": "2025-10-30T19:08:41.160Z",
+            "url": "https://www.theinformation.com/briefings/nbcuniversals-peacock-reports-flat-subscribers-lower-revenue?unlock=28b017&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nbcuniversals-peacock-reports-flat-subscribers-lower-revenue?unlock=28b017&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16185,
+            "guid": "d428a5",
+            "headline": "Meta Plans to Sell At Least $25 Billion of Bonds",
+            "dek": "Meta has received orders for about $125 billion for the sale.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-30/meta-s-jumbo-bond-sale-draws-record-125-billion-of-demand",
+            "source_label": "Bloomberg",
+            "body": "<p>Meta Platforms is planning to sell at least $25 billion of corporate bonds on Thursday and has received orders for about $125 billion for the sale, Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2025-10-30/meta-s-jumbo-bond-sale-draws-record-125-billion-of-demand\">reported</a>.</p>\n\n<p>The outsized demand could give Meta leverage to increase the size of the bond issue or negotiate better terms with investors. The sale comes a day after Meta said it would continue spending aggressively on artificial intelligence next year. The company has estimated it will spend between $70 billion and $72 billion on capital expenditures this year. It has also said it expects “notably larger” dollar growth in capital expenditures next year, suggesting its capital expenditures could grow beyond $101 billion.</p>\n\n<p>Citigroup and Morgan Stanley are managing the sale. Spokespeople for Meta, Citigroup and Morgan Stanley did not immediately respond to requests for comment.</p>",
+            "published_at": "2025-10-30T19:01:37.530Z",
+            "url": "https://www.theinformation.com/briefings/meta-plans-sell-least-25-billion-bonds?unlock=d428a5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-plans-sell-least-25-billion-bonds?unlock=d428a5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1513375,
+                    "display_name": "Kalley Huang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16184,
+            "guid": "3f2154",
+            "headline": "Travel Software Firm Navan Falls on Opening Day of Trading",
+            "dek": "It’s the largest company to go through with a public listing during the government shutdown. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares of travel software company Navan fell&nbsp;18% on its opening day as a public company. Navan priced its initial public offering at $25 a share but by late afternoon on Thursday the stock was trading around $20.</p>\n\n<p>The company raised $923 million in the IPO, which valued the company at $6.2 billion, roughly $3 billion less than where private investors last valued Navan&nbsp;in 2022.</p>\n\n<p>The Palo Alto, Calif,-based startup, formerly called TripActions, sells travel booking and expense management software. It’s the largest company to go through with a public listing during the government shutdown.</p>\n\n<p>The offering from Navan, which has been preparing for an IPO for roughly three years, was not expected to be a blockbuster and hit the market on a weak day for tech stocks.</p>\n\n<p>The company is growing steadily but far from profitable. Navan showed a revenue of $329 million for the six months ended July 31, up 30% year over year but also had a net loss of $100 million for the same period. It said in its IPO filings that it “may not achieve or sustain profitability in the future.”</p>",
+            "published_at": "2025-10-30T18:16:46.490Z",
+            "url": "https://www.theinformation.com/briefings/travel-software-startup-navan-falls-ipo?unlock=3f2154&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/travel-software-startup-navan-falls-ipo?unlock=3f2154&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1985,
+                    "name": "travel"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16183,
+            "guid": "d097a9",
+            "headline": "SpaceX Says It’s Considering Changes to Moon Mission Plan After NASA Chief’s Criticism",
+            "dek": "SpaceX has suffered from delays to its Starship launch vehicle that acting NASA administrator Sean Duffy said prompted the agency to open up bids to rivals. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk’s SpaceX said Thursday that it’s considering changing unspecified parts of its plan to land U.S. astronauts on the Moon after the head of NASA said the company is “behind schedule” and said the agency would consider alternative bids.</p>\n\n<p>SpaceX first won the contract in 2021 to provide the launch vehicle for NASA’s Artemis III mission, which is due to launch in 2027 and would be the first time humans have walked on the moon in decades. In the years since SpaceX was selected for the mission, the company has suffered delays to its Starship launch vehicle that acting NASA administrator Sean Duffy said last week had prompted the agency to <a href=\"https://www.theinformation.com/briefings/nasa-open-spacex-alternatives-behind-schedule-moon-mission\">open up bids to rivals</a> like Jeff Bezos’ Blue Origin. Musk then <a href=\"https://www.theinformation.com/briefings/elon-musk-unloads-nasa-chief-spacex-comments\">attacked Duffy</a> on X.</p>\n\n<p>In a <a href=\"https://www.spacex.com/updates#moon-and-beyond\">blog post</a> on Thursday, SpaceX shared new renderings of Starship and defended the program’s record with NASA. The company said: “Since the contract was awarded, we have been consistently responsive to NASA as requirements for Artemis III have changed and have shared ideas on how to simplify the mission to align with national priorities. In response to the latest calls, we’ve shared and are formally assessing a simplified mission architecture and concept of operations that we believe will result in a faster return to the Moon while simultaneously improving crew safety.”</p>",
+            "published_at": "2025-10-30T17:29:15.261Z",
+            "url": "https://www.theinformation.com/briefings/spacex-says-considering-changes-moon-mission-plan-nasa-chiefs-criticism?unlock=d097a9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-says-considering-changes-moon-mission-plan-nasa-chiefs-criticism?unlock=d097a9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16182,
+            "guid": "95cccc",
+            "headline": "Core Scientific Investors Vote Down $9 Billion Sale to CoreWeave",
+            "dek": "The deal would have given CoreWeave data centers consuming 1.3 gigawatts of power, allowing it to own the facilities housing its chips.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shareholders in data center developer Core Scientific voted down a $9 billion sale to cloud provider CoreWeave, ending a deal that CoreWeave pitched as key to lowering the costs of its debt-heavy business model.</p>\n\n<p>Core Scientific said Thursday it terminated the merger agreement with CoreWeave after its investors rejected the offer. Hedge fund Two Seas Capital had led shareholder opposition to the deal, arguing the all-stock offer undervalued Core Scientific and it had more attractive prospects as an independent company.</p>\n\n<p>The deal would have given CoreWeave data centers consuming 1.3 gigawatts of power, allowing it to own the facilities housing its chips rather than leasing them. That could have helped CoreWeave <a href=\"https://www.theinformation.com/articles/chip-backed-borrowing-boom-propels-ai-computing-startups\">raise cheaper debt</a> by allowing it to more easily borrow from traditional infrastructure lenders.</p>\n\n<p>Shares in Core Scientific gained more than 6% in early trading, while CoreWeave shares fell 6%. CoreWeave CEO Michael Intrator previously said the company wouldn’t raise its offering price for Core Scientific.</p>\n\n<p>“CoreWeave’s strategy remains unchanged,” Intrator said in a statement Thursday.</p>",
+            "published_at": "2025-10-30T16:07:55.985Z",
+            "url": "https://www.theinformation.com/briefings/core-scientific-investors-vote-9-billion-bid-coreweave?unlock=95cccc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/core-scientific-investors-vote-9-billion-bid-coreweave?unlock=95cccc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16181,
+            "guid": "8246c7",
+            "headline": "China’s Tencent Invests in AI Agent Genspark ",
+            "dek": "Tencent is also an investor in Manus, an AI agent that competes with Genspark. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese tech giant Tencent Holdings is investing in artificial intelligence agent Genspark in a funding round that values the startup at more than $1 billion, according to two people with knowledge of the matter.</p>\n\n<p>Genspark, based in Singapore and Palo Alto, is the latest addition to Tencent’s growing investment portfolio of AI startups. Tencent is also an investor in Singapore-based Manus, a general-purpose AI agent that competes with Genspark. Tencent, one of the world’s largest videogame publishers and the operator of the WeChat messaging app, has also backed major AI model startups in China, such as MiniMax and Moonshot AI.</p>\n\n<p>Investors in Genspark’s funding round, which is raising more than $200 million, also include Chinese venture capital firm HongShan, <a href=\"https://www.theinformation.com/briefings/hongshan-leads-fundraising-ai-agent-genspark?rc=jnr9wn\">The Information reported</a> last week.</p>\n\n<p>Genspark, which operates globally, is led by Eric Jing and Kay Zhu, two former executives of Chinese search giant Baidu. The startup launched a general-purpose AI agent called Super Agent in April and has since added many new functions to it. Its biggest markets by users are Japan, the U.S. and South Korea, according to a person with knowledge of its business. In September, Genspark, which generates revenue from premium subscriptions, said it had surpassed $50 million in annualized run rate.</p>",
+            "published_at": "2025-10-30T13:17:48.569Z",
+            "url": "https://www.theinformation.com/briefings/chinas-tencent-invests-ai-agent-genspark?unlock=8246c7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-tencent-invests-ai-agent-genspark?unlock=8246c7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16180,
+            "guid": "6ef7de",
+            "headline": "YouTube Announces Voluntary Buyouts for Employees",
+            "dek": "Mohan also announced a reorganization that combines YouTube’s product teams into three umbrella organizations.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>YouTube announced a “voluntary exit program” allowing eligible employees in the U.S. to choose to leave the company with severance, Neal Mohan said in a memo to employees on Wednesday.</p>\n\n<p>Mohan also announced a reorganization that combines YouTube’s product teams into three umbrella organizations focused on viewer experience, creators and subscription products. Mohan’s memo was first reported by Sources, a newsletter by Alex Heath.</p>\n\n<p>YouTube ads brought in $10.3 billion in revenue in the third quarter, up from $8.9 billion over the same period last year, its parent company reported as part of its third quarter earnings on Wednesday. Google’s subscription revenue, which includes YouTube, increased to $12.9 billion from $10.7 billion.</p>",
+            "published_at": "2025-10-29T21:22:57.336Z",
+            "url": "https://www.theinformation.com/briefings/youtube-announces-voluntary-buyouts-employees?unlock=6ef7de&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/youtube-announces-voluntary-buyouts-employees?unlock=6ef7de&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16179,
+            "guid": "46b324",
+            "headline": "Meta Shares Sink on 32% Growth in Costs",
+            "dek": "Meta said it expected “notably larger” dollar growth in capital expenditures and \"significantly faster\" percentage growth in total expenses next year.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms reported a 26% increase in its third-quarter revenue that exceeded its own forecasts for the period. But the company also saw a 32% increase in its costs as it spent heavily to recruit superstar artificial intelligence researchers and operate its growing fleet of data centers.</p>\n\n<p>The huge growth in its costs—up from 12% the prior quarter—along with a warning from Meta to expect more of the same in the future rattled investors, sending its shares down more than 9% in after-hours trading.</p>\n\n<p>Meta reported third-quarter revenue of $51.2 billion, better than its own forecast of $47.5 billion to $50.5 billion, which showed the continued strength of its digital advertising business.</p>\n\n<p>At the same time, the parent company of Facebook, Instagram and WhatsApp raised its estimate for capital expenditures this year to between $70 billion and $72 billion, up from a previous forecast of $66 billion to $72 billion. Its capital expenditures last year were $39 billion.</p>\n\n<p>Meta said it expected “notably larger” dollar growth in capital expenditures next year, suggesting its capital expenditures could grow beyond $101 billion. The company attributed that growth to its plans to build more of its own artificial intelligence infrastructure and contract with cloud computing services. Meta also said it expected “significantly faster” percentage growth in total expenses next year due to infrastructure costs and employee compensation.</p>\n\n<p>Meta predicted that, in the fourth quarter, revenue growth could slow to 16%. The company said its augmented and virtual reality organization, Reality Labs, will see lower revenue compared to the previous year, when it introduced a new headset.</p>",
+            "published_at": "2025-10-29T20:57:55.069Z",
+            "url": "https://www.theinformation.com/briefings/meta-shares-sink-32-growth-costs?unlock=46b324&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-shares-sink-32-growth-costs?unlock=46b324&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1513375,
+                    "display_name": "Kalley Huang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16178,
+            "guid": "c29e73",
+            "headline": "Microsoft Revenue Growth Stays Flat in Third Quarter Despite Cloud Boost From OpenAI",
+            "dek": "Microsoft’s capital expenditures rose as it continues to spend heavily on data centers, but gross margins stayed flat.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft revenue grew 18% to $77.7 billion in the three months ending in September, the same rate of growth as the June quarter, the company said Wednesday. Revenue growth stayed flat despite Azure cloud-server rental revenue rising 40% during the September quarter—3 percentage points higher than the growth Microsoft had projected three months ago—driven largely by server spending from OpenAI, Microsoft said. Shares fell 1.5% in after-hours trading.</p>\n\n<p>The results didn’t include OpenAI’s recent commitment to spend $250 billion on Microsoft’s Azure cloud over an unspecified period, a deal the companies announced Tuesday. OpenAI has projected to spend $17 billion renting cloud servers this year, with the vast majority of that spending happening on Microsoft, but Microsoft can only recognize revenue from server rentals to power existing models and products rather than for the clusters of servers for training new AI. OpenAI projected $6.6 billion in such inference spending in 2025.</p>\n\n<p>Microsoft’s capital expenditures rose nearly 35% to $34.9 billion compared to the June quarter as it continues to spend heavily on data centers to power AI applications for OpenAI and others. Still, Microsoft’s gross margins were roughly unchanged at 65% compared to the same period a year prior, though free cash flow rose 33% to $25.7 billion.</p>\n\n<p>CEO Satya Nadella said in a statement that AI demand was driving the company’s growth and that it’s “why we continue to increase our investments in AI across both capital and talent to meet the massive opportunity ahead.“</p>\n\n<p>Microsoft didn’t break out how much revenue is coming from AI features in its Office 365 software, but said that corporate subscriptions from Office grew 17%, compared to 16% growth in the prior quarter. That growth was primarily driven by customers signing up for its E5 bundle, which combines Office 365 with security software and other products, and to a lesser extent from customers buying AI Copilot features in Office 365, the company said.</p>\n\n<p>Not including the new spending commitment from OpenAI, Microsoft said it had $392 billion in remaining performance obligations as of the end of September, also known as a revenue backlog, up from $368 billion in the June quarter. Those obligations take two years on average to become revenue, according to Microsoft investor relations director James Ambrose.</p>",
+            "published_at": "2025-10-29T20:55:57.577Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-revenue-growth-stays-flat-third-quarter-despite-cloud-boost-openai?unlock=c29e73&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-revenue-growth-stays-flat-third-quarter-despite-cloud-boost-openai?unlock=c29e73&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16177,
+            "guid": "a34e93",
+            "headline": "Google Cloud Boosted Alphabet Revenue Growth, Profits in Third Quarter",
+            "dek": "The company also said its Gemini chatbot growth was surging.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google’s revenue from renting out cloud servers rose 34% in the September quarter compared to the same period last year, powering faster revenue growth at its holding company, Alphabet. The result, in part due to its cloud sales to artificial intelligence developers, gives the company more cover to spend on its own AI as well as to build more data centers for customers such as Anthropic.</p>\n\n<p>The Google Cloud growth in the third quarter was more than 2 percentage points higher than the growth it experienced in the second quarter and the unit’s operating profit rose a remarkable 84% to $3.6 billion compared to the same period a year earlier. The company, citing its cloud growth, raised its capital expenditure projection to between $91 billion and $93 billion for the 2025 calendar year, 7% higher than its estimate three months ago. It spent roughly $24 billion on capex in the quarter compared to $33 billion of capex at Microsoft. Despite the increased spending, free cash flow rose 39% to $24.5 billion compared to the same period a year ago.</p>\n\n<p>While Google’s chatbot Gemini lags OpenAI, the company said the app had 650 million monthly active users, up from 400 million monthlies as of May, which suggests it also has hundreds of millions of weekly active users. OpenAI says ChatGPT has more than 800 million weekly active users and expects to generate tens of billions of dollars in revenue from the chatbot in the coming years.</p>\n\n<p>Overall, Alphabet revenue rose 16% in the September quarter, 2 percentage points higher than its growth in the prior two quarters. And operating profits from its core Google&nbsp;advertising business rose 20% from the same quarter a year ago, excluding a one-time fine by the European Commission, thanks in part to the expansion of generative AI results in Google Search. Google revenue chief Philipp Schindler said AI also boosted advertising products, including targeting ads to users and quickly generating ad materials. Overall gross margins rose 1.6 percentage points, excluding the EU fine.&nbsp;The results may have eased some concerns about OpenAI eating into Google’s core business. Shares rose 6% in after-hours trading.</p>",
+            "published_at": "2025-10-29T20:30:55.420Z",
+            "url": "https://www.theinformation.com/briefings/google-cloud-boosted-alphabet-revenue-growth-profits-third-quarter?unlock=a34e93&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-cloud-boosted-alphabet-revenue-growth-profits-third-quarter?unlock=a34e93&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16176,
+            "guid": "775ba5",
+            "headline": "Troubled Sheertex Tights Maker Weighs Potential Sale, CEO Steps Down",
+            "dek": "Founder Katherine Homuth left the company earlier this year as part of a deal to secure lifeline financing for the company.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Sophie Boulanger, the CEO of SRTX, the Canadian manufacturer of Sheertex tights, has stepped down after less than two months on the job, according to a company spokesperson. SRTX has begun a formal strategic review of its business that could lead to a sale or recapitalization, the spokesperson said.</p>\n\n<p>Boulanger, who previously founded and ran a direct-to-consumer eyewear brand in Canada, <a href=\"https://www.newswire.ca/news-releases/canadian-innovator-srtx-names-retail-pioneer-sophie-boulanger-chief-executive-officer-812561766.html\">took over the CEO role</a> in September, following the departure of founder Katherine Homuth earlier this year. The Information previously <a href=\"https://www.theinformation.com/briefings/founder-sheertex-tights-maker-steps-startup-looks-lifeline?rc=d8mrkd\">reported</a> that Homuth told staff she had stepped down from the CEO role as part of talks to secure lifeline financing for the brand. SRTX ran into financial difficulties following a costly buildout of its own manufacturing facilities and what Homuth said was increased financial pressure from the Trump administration’s proposed tariffs on Canada-made goods.</p>\n\n<p>In mid-May, the company <a href=\"https://www.newswire.ca/news-releases/srtx-finalizes-us-40m-new-equity-fundraising-transaction-led-by-bdc-edc-h-amp-m-group-iq-864290125.html\">said</a> it had “reached the first close” of a $40 million equity funding from investors including Canadian VC firm BDC Capital and H&amp;M Group. The spokesperson said that Boulanger “made the personal decision to step down after helping guide SRTX through a period of transition and operational evolution following her appointment.”</p>",
+            "published_at": "2025-10-29T20:00:52.623Z",
+            "url": "https://www.theinformation.com/briefings/troubled-sheertex-tights-maker-weighs-potential-sale-ceo-steps?unlock=775ba5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/troubled-sheertex-tights-maker-weighs-potential-sale-ceo-steps?unlock=775ba5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16175,
+            "guid": "18e934",
+            "headline": "Morgan Stanley Buys EquityZen To Extend Reach to Private Markets",
+            "dek": "The deal reflects the increasing appetite of Wall Street to invest in privately held companies. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Morgan Stanley has agreed to acquire EquityZen, a trading platform for buying and selling stakes in private companies. Terms of this transaction weren’t disclosed.</p>\n\n<p>The deal, the bank’s first acquisition under CEO Ted Pick, reflects the increasing appetite of Wall Street to invest in privately held companies. Many of the world’s largest companies, like OpenAI, Databricks and Stripe, are opting to stay private for longer and command huge valuations.</p>\n\n<p>Founded in 2013, EquityZen said it has more than 800,000 users and has processed transactions in more than 450 private companies. Morgan Stanley is one of the largest wealth managers in the world with more than $7 trillion under management.</p>",
+            "published_at": "2025-10-29T17:37:37.971Z",
+            "url": "https://www.theinformation.com/briefings/morgan-stanley-buys-equityzen-extend-reach-private-markets?unlock=18e934&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/morgan-stanley-buys-equityzen-extend-reach-private-markets?unlock=18e934&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16174,
+            "guid": "996e06",
+            "headline": "Nvidia’s Market Capitalization Passes $5 Trillion",
+            "dek": "Nvidia is $1 trillion more valuable than the next-most valuable company, Microsoft.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia’s market capitalization passed $5 trillion on Wednesday, about $1 trillion more than the next-most valuable company, the latest testament to Nvidia’s strong position in the AI sector. After Nvidia, the most valuable company is Microsoft, which is also benefiting from its exposure to AI.</p>\n\n<p>Nvidia shares were up 3% to slightly above $207, giving the company a market capitalization of $5.04 trillion. Possibly helping lift the stock was comments from President Trump <a href=\"https://www.cnbc.com/2025/10/29/trump-signals-he-plans-to-speak-to-chinas-xi-about-nvidias-super-duper-chips.html\">that he would discuss Nvidia’s advanced Blackwell</a> chips with China’s president Xi Jinping when he meets him tomorrow, implying the administration might be willing to reverse the export ban on sale of those chips to China.</p>\n\n<p>On Tuesday Nvidia CEO Jensen Huang had given a keynote address to the company’s regular GTC conference for developers and business partners, where he gave new details of revenue expectations through 2026 and talked up Nvidia’s hopes of expanding into autonomous vehicles.</p>",
+            "published_at": "2025-10-29T16:05:28.827Z",
+            "url": "https://www.theinformation.com/briefings/nvidias-market-capitalization-passes-5-trillion?unlock=996e06&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidias-market-capitalization-passes-5-trillion?unlock=996e06&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        }
+    ]
+}
