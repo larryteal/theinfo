@@ -1,0 +1,649 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16209,
+            "guid": "7759dc",
+            "headline": "Cipher Mining Inks Multi-Billion Deal to Provide AI Data Centers to AWS",
+            "dek": "Cipher Mining is gaining momentum in its pivot from bitcoing mining to AI data centers, as evidenced by a new 15-year leasing agreement with Amazon's cloud unit,",
+            "source_url": "https://investors.ciphermining.com/news-releases/news-release-details/cipher-mining-provides-third-quarter-2025-business-update",
+            "source_label": "The Information",
+            "body": "<p>Cipher Mining, which builds and runs data centers for bitcoin mining and has recently expanded its focus to AI, revealed in its third-quarter earnings report that it&nbsp;<a href=\"https://investors.ciphermining.com/news-releases/news-release-details/cipher-mining-provides-third-quarter-2025-business-update\">has inked a 15-year lease agreement</a> with Amazon Web Services worth around $5.5 billion.</p>\n\n<p>In the deal, Cipher will provide 300 megawatts of computing capacity by next summer that AWS plans to use for AI computing jobs.&nbsp;Cipher, which announced a similar AI deal in September with London-based AI cloud provider Fluidstack, is following the same path as&nbsp;CoreWeave, Crusoe and Applied Digital, which also started in cryptocurrency mining.</p>\n\n<p>Shares of Cipher jumped nearly 35% after the announcement, despite a lackluster quarter in which the company missed its revenue forecast and reported a larger-than-expected net loss.</p>\n\n<p>Driven by demand for cloud AI services, AWS has added more than 3.8 gigawatts of power over the past 12 months and now has double the amount of power capacity it had in 2022, Amazon CEO Andy Jassy said on an earnings call last week. That capacity is set to double again by 2027, he said.</p>",
+            "published_at": "2025-11-03T23:32:31.250Z",
+            "url": "https://www.theinformation.com/briefings/cipher-mining-inks-multi-billion-deal-provide-ai-data-centers-aws?unlock=7759dc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/cipher-mining-inks-multi-billion-deal-provide-ai-data-centers-aws?unlock=7759dc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16208,
+            "guid": "ce2907",
+            "headline": "Palantir Reports Booming U.S. Commercial Sales",
+            "dek": "Palantir’s sales to U.S. businesses hit $397 million in the third quarter, exceeding Wall Street’s expectations and growing 121% compared to the previous year.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Palantir’s sales to U.S. businesses hit $397 million in the third quarter, exceeding Wall Street’s expectations and growing 121% compared to the previous year,&nbsp; the company reported Monday.</p>\n\n<p>The U.S. commercial growth was a highlight of continued breakneck growth for Palantir, which has been the stock market’s best-performing software company and neared a $500 billion market capitalization before the market closed Monday.</p>\n\n<p>The firm, seen as one of this era’s political beneficiaries&nbsp;due to its work with agencies like the U.S. Army and Immigration and Customers Enforcement, has turned into one of the biggest beneficiaries&nbsp;of other companies seeking to improve their businesses with artificial intelligence and better data tools.</p>\n\n<p>Overall, the company posted annual revenue growth of 63% in the quarter, to $1.2 billion. The results emboldened CEO Alex Karp, who pounded a table during the earnings video call, and criticized other enterprise software companies. “Our clients realized the choices sucked, basically,” he said. “They tried a lot of stuff; it didn’t work.”</p>\n\n<p>The company’s stock, already by far the most richly valued software company in the U.S. on a multiple of revenue, was volatile after hours. It jumped sharply after reporting earnings before falling below its closing price.</p>",
+            "published_at": "2025-11-03T23:26:12.243Z",
+            "url": "https://www.theinformation.com/briefings/palantir-reports-booming-u-s-commercial-sales?unlock=ce2907&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/palantir-reports-booming-u-s-commercial-sales?unlock=ce2907&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16207,
+            "guid": "1d3e8c",
+            "headline": "French Regulators Threaten to Ban Shein",
+            "dek": "The fast-fashion giant has attracted scrutiny from E.U. and U.S. regulators over its regulation of products sold on its site.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>France threatened to ban Shein from selling products in the country after a consumer protection regulator said in a statement it had <a href=\"https://presse.economie.gouv.fr/la-dgccrf-saisit-le-procureur-de-la-republique-apres-avoir-constate-la-commercialisation-de-poupees-sexuelles-a-caractere-pedopornographique-par-shein/\">discovered</a> the fast-fashion giant was selling sex dolls “with a childlike appearance.” France’s economic minister Roland Lescure said Monday that the government would ban Shein from the French market if the company continued selling the items.</p>\n\n<p>Shein has attracted increasing levels of criticism in France as the China-founded retailer plans to open its first permanent brick-and-mortar stores there, including a Paris location slated to open this week. In addition to the doll controversy, critics in France say that the company’s supply chain practices are at odds with sustainability goals and that its low prices undercut competitors. The European Union has previously <a href=\"https://www.theinformation.com/briefings/shein-to-face-stricter-european-rules-on-illegal-counterfeit-items?rc=d8mrkd\">pressured Shein and low-cost rival Temu</a> to crack down more aggressively on illegal and counterfeit goods sold on their sites.</p>\n\n<p>Shein has said that its suppliers are required to comply with controls and standards set by the company, but has encountered scrutiny from regulators and product safety watchdogs about items sold on its site in the past. An <a href=\"https://www.theinformation.com/articles/on-shein-and-temu-deadly-baby-and-toddler-goods-are-easy-to-find?rc=d8mrkd\">investigation by The Information</a> last year found that U.S. regulators have struggled to crack down on outside sellers who list unsafe and illegal children’s products on Temu and Shein’s marketplaces.</p>",
+            "published_at": "2025-11-03T22:23:42.844Z",
+            "url": "https://www.theinformation.com/briefings/french-regulators-threaten-ban-shein?unlock=1d3e8c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/french-regulators-threaten-ban-shein?unlock=1d3e8c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 13392,
+                    "guid": "79411b3d9c",
+                    "title": "On Shein and Temu, Deadly Baby and Toddler Goods Are Easy to Find",
+                    "url": "https://www.theinformation.com/articles/on-shein-and-temu-deadly-baby-and-toddler-goods-are-easy-to-find?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16206,
+            "guid": "01cc3a",
+            "headline": "White House Officials Advised Trump Against Raising AI Chip Exports With China",
+            "dek": "Nvidia Chief Executive Jensen Huang has been lobbying Trump on access to the Chinese market.",
+            "source_url": "https://www.wsj.com/world/china/trump-nvidia-china-chip-exports-51e00415?mod=hp_lead_pos1",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>White House officials discouraged President Donald Trump from raising the topic of exporting Nvidia’s advanced AI chips to China during a recent meeting with Chinese leader Xi Jinping, The Wall Street Journal reported Monday.</p>\n\n<p>Nvidia Chief Executive Jensen Huang had lobbied the president directly to allow access to the Chinese market, with a goal of selling Nvidia’s&nbsp;advanced Blackwell chip to China. But White House officials, including Secretary of State Marco Rubio, argued against the move, telling Trump such a deal would pose national security risks, the Journal reported. Trump ultimately did not bring up the advanced chips when the two leaders met last week in South Korea.</p>\n\n<p>The decision marked a setback for Huang, who is also waiting for the green light from the administration to sell a less advanced chip to China. White House spokesperson White House spokesman Kush Desai told the Journal that “President Trump listens to a variety of insights on policy matters, including from top business leaders.”</p>",
+            "published_at": "2025-11-03T20:46:02.189Z",
+            "url": "https://www.theinformation.com/briefings/white-house-officials-advised-trump-raising-ai-chip-exports-china?unlock=01cc3a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/white-house-officials-advised-trump-raising-ai-chip-exports-china?unlock=01cc3a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16205,
+            "guid": "2ceb50",
+            "headline": "Deel Hires New CFO, Replacing CEO’s Dad",
+            "dek": "Global payroll startup Deel has hired a new chief financial officer.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Global payroll startup Deel has hired a new chief financial officer, former Credit Karma boss Joe Kauffman, as the company continues to overhaul its leadership ahead of a potential IPO.</p>\n\n<p>Kauffman, who left Credit Karma after a recent restructuring by parent company Intuit, replaces Philippe Bouaziz, who held the role of Deel CFO and chairman since the company’s founding in 2019. Philippe, the father of Deel CEO Alex Bouaziz, has been appointed the company’s executive chairman and chief strategy officer.</p>\n\n<p>The Bouaziz pair were earlier this year accused in a lawsuit of personally recruiting and paying an alleged spy at Deel’s arch rival Rippling. The duo have denied the accusations and Deel has counter-sued Rippling for defamation.</p>\n\n<p>Since the allegations, Deel has separately recruited a new chief risk officer, chief compliance officer and general counsel.</p>",
+            "published_at": "2025-11-03T19:43:47.754Z",
+            "url": "https://www.theinformation.com/briefings/deel-hires-new-cfo-replacing-ceos-dad?unlock=2ceb50&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/deel-hires-new-cfo-replacing-ceos-dad?unlock=2ceb50&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16204,
+            "guid": "bf4c91",
+            "headline": "Microsoft to Spend Over $10 Billion to Rent Cloud Servers From Smaller Firms",
+            "dek": "The moves come as Microsoft races to add more computing capacity to run artificial intelligence for itself and its customers. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft said Monday it had struck two separate deals to spend more than $10 billion to rent cloud servers with Nvidia chips from smaller cloud providers in the coming years.</p>\n\n<p>Microsoft will spend $9.7 billion to rent servers from cloud startup Iren over the next five years, and will also rent Nvidia-equipped servers from the cloud startup Lambda, totaling several billion dollars over an unspecified time period, Lambda announced Monday. Microsoft was already <a href=\"https://www.theinformation.com/articles/nvidia-quietly-boosts-cloud-ally-1-5-billion-deal-rent-ai-chips\">renting servers from Lambda</a> prior to the new deal being announced.</p>\n\n<p>The moves come as Microsoft races to add more computing capacity to run artificial intelligence for itself and its customers. OpenAI, Microsoft’s biggest cloud client, announced last month that it would spend $250 billion to rent Azure servers in the coming years; and Microsoft said in its quarterly earnings call last week that it doesn’t have enough server space in its Azure cloud computing unit to meet demand for server rentals from customers, which could explain the recently announced cloud deals.</p>\n\n<p>Microsoft, which previously had the exclusive rights to rent out cloud servers to OpenAI, amended its deal with the startup last month to allow OpenAI to rent servers from competing cloud firms; OpenAI separately announced on Monday that it would spend $38 billion on Amazon’s cloud in the coming years.</p>",
+            "published_at": "2025-11-03T19:05:40.829Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-spend-10-billion-rent-cloud-servers-smaller-firms?unlock=bf4c91&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-spend-10-billion-rent-cloud-servers-smaller-firms?unlock=bf4c91&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16203,
+            "guid": "489e41",
+            "headline": "Elon Musk Shares New Targets for Tesla Robotaxi Deployments ",
+            "dek": "Musk said Tesla expects to deploy at least 1,000 Robotaxi vehicles in the San Francisco Bay Area, but it doesn't have regulatory approval to offer autonomous rides there. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla expects to deploy at least 1,000 Robotaxi vehicles in the San Francisco Bay Area and 500 or more in Austin before the end of the year, according to CEO Elon Musk. While Tesla hasn’t disclosed exactly how many vehicles it operates now, reports from riders indicate the current total figure is in the dozens in each city.</p>\n\n<p>In both cities, Tesla has backup operators in vehicles that can intervene if its driving software makes mistakes, unlike robotaxi industry leader Waymo. Tesla plans to remove the people in Austin in December, Musk said on the All-In <a href=\"https://www.youtube.com/watch?v=j6_VfR-CyuM\">episode</a> published Friday. However, Tesla faces a much more difficult path toward removing humans in California. Tesla’s permit in California only allows a human driver to drive a traditional vehicle, and the company has yet to apply for a permit that would allow it to deploy autonomous vehicles, <a href=\"https://www.theinformation.com/articles/teslas-scaled-back-robotaxi-timeline-still-faces-obstacles\">The Information reported</a> last Thursday. Musk did not say on All-In when or how Tesla plans to remove operators from its vehicles in California.</p>\n\n<p>On Tesla’s earnings call in October, Musk said the company would be operating Robotaxi in eight to 10 U.S. metro areas by the end of the year, including in Florida, Nevada and Arizona. The Information reported Thursday that Tesla does not yet have permission to offer rides in Nevada or Arizona, and Musk did not share any targets outside of the San Francisco and Austin expansions on All-In.</p>",
+            "published_at": "2025-11-03T16:26:15.494Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-shares-new-targets-tesla-robotaxi-deployments?unlock=489e41&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-shares-new-targets-tesla-robotaxi-deployments?unlock=489e41&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16202,
+            "guid": "66ca13",
+            "headline": "OpenAI, AWS Sign $38 Billion Cloud Deal",
+            "dek": "The deal is OpenAI’s first with AWS as the startup moves quickly to rent servers equipped with Nvidia chips from a wide range of cloud providers. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI will spend $38 billion to rent servers from Amazon Web Services in the coming years, the two companies announced Monday. AWS will rent existing servers to OpenAI and will build new data center capacity for the startup, which it plans to begin using next year, the companies said.</p>\n\n<p>It’s not clear over what time frame OpenAI plans to spend the $38 billion, but the companies said the deal will “have continued growth over the next seven years.”</p>\n\n<p>The deal is OpenAI’s first with AWS as the startup moves quickly to rent servers equipped with Nvidia chips from a wide range of cloud providers. OpenAI previously had an exclusive cloud deal with Microsoft, but those companies amended their agreement this month to allow OpenAI to rent servers from other companies.</p>\n\n<p>OpenAI has separately committed to spend $250 billion on Microsoft Azure and $300 billion on Oracle’s cloud in the coming years, and it has raised $100 billion from Nvidia to fund its own data centers.</p>",
+            "published_at": "2025-11-03T14:48:24.704Z",
+            "url": "https://www.theinformation.com/briefings/openai-aws-sign-38-billion-cloud-deal?unlock=66ca13&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-aws-sign-38-billion-cloud-deal?unlock=66ca13&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16198,
+            "guid": "88d32b",
+            "headline": "Exclusive: Kalshi Hires Ex-Uber Executive Tejwani as First CFO ",
+            "dek": "The prediction market would consider an IPO after hitting $5 billion valuation. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Kalshi, the U.S.-based prediction market platform, said it has hired Saurabh Tejwani, a former finance executive at Uber and Gopuff, to be its first chief financial officer. He said the company, which was valued at $5 billion this month, would consider an initial public offering in the future.</p>\n\n<p>Tejwani, who joined from Gopuff, previously worked at Uber as director of corporate development and capital markets, where he helped manage the ride-hailing firm’s IPO in 2019, as well as fundraising and M&amp;A deals. He said his job at Kalshi would be similar, given the company is expanding rapidly and internationally.</p>\n\n<p>Kalshi is the biggest U.S. prediction market, which allows people to bet on event outcomes such as presidential elections, Fed interest rate decisions, and sports.</p>\n\n<p>Asked if Kalshi has an IPO plan, Tejwani said that’s “something we will consider,” though he declined to comment on any timeline. In September, a Kalshi spokesperson said the company was not aiming for an IPO. Tejwani said his hiring at Kalshi was not specific to IPO, but rather based on his background in “dealmaking and international expansion and being a strategic CFO.”</p>\n\n<p>Kalshi this month raised more than $300 million at a $5 billion valuation, up from its $2 billion valuation in June. The company will face new competition with the planned return to the U.S. market of rival Polymarket, which recently got U.S. regulatory approval.</p>\n\n<p>Earlier this year, Kalshi hired Rebecca Schick to be CFO of Kalshi’s exchange entity. Schick will stay in the role and report to Tejwani.</p>",
+            "published_at": "2025-11-03T13:00:11.134Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-kalshi-hires-ex-uber-executive-tejwani-first-cfo?unlock=88d32b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-kalshi-hires-ex-uber-executive-tejwani-first-cfo?unlock=88d32b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16201,
+            "guid": "f899d6",
+            "headline": "OpenAI’s Revenue Could Reach $100 Billion in 2027, Altman Suggests",
+            "dek": "The company previously forecast reaching that milestone in 2028. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>OpenAI’s revenue could reach $100 billion in 2027, Sam Altman <a href=\"https://www.youtube.com/watch?v=Gnl833wXRz0\">said on a podcast</a> published Friday with Altimeter Capital and OpenAI investor Brad Gerstner.</p>\n\n<p>Altman said the ChatGPT maker was already “doing well more revenue,” than $13 billion, an apparent reference to its annualized pace, which had reached <a href=\"https://www.theinformation.com/articles/openai-hits-12-billion-annualized-revenue-breaks-700-million-chatgpt-weekly-active-users?rc=zjctrx\">$12 billion in July</a>.</p>\n\n<p>OpenAI has <a href=\"https://www.theinformation.com/articles/openais-first-half-results-4-3-billion-sales-2-5-billion-cash-burn?rc=zjctrx\">projected generating $13 billion</a> in total revenue this year. It also previously <a href=\"https://www.theinformation.com/articles/openai-says-business-will-burn-115-billion-2029?rc=zjctrx\">forecast generating $100 billion in total revenue in 2028</a>.&nbsp;Altman’s comments on the podcast suggest the company could reach those milestones more quickly than it previously anticipated.</p>\n\n<p>The OpenAI CEO said the company didn’t have a time frame for an initial public offering, and he dismissed critics who doubted the company would be able to pay for the $1.4 trillion OpenAI has committed to spend on computing capacity.</p>\n\n<p>He also envisioned a time when “we will make an incredible consumer device that can run a GPT-5 or GPT-6 capable model completely locally.”</p>",
+            "published_at": "2025-11-03T05:58:47.442Z",
+            "url": "https://www.theinformation.com/briefings/openais-revenue-reach-100-billion-2027-altman-suggests?unlock=f899d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openais-revenue-reach-100-billion-2027-altman-suggests?unlock=f899d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16200,
+            "guid": "832f2c",
+            "headline": "Google Pulls AI Model Following Defamation Accusations",
+            "dek": "Senator Marsha Blackburn sent a letter accusing Gemma of fabricating rape allegations against her.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google removed its open-source AI model Gemma from its AI Studio developer tool after Senator Marsha Blackburn sent a <a href=\"https://www.blackburn.senate.gov/services/files/5651166C-7B30-4BA0-9E86-F3DD9521CA00\">letter</a> accusing Gemma of fabricating rape allegations against her. Last month, the conservative activist Robby Starbuck also sued Google under similar grounds.</p>\n\n<p>Gemma is still available through an application programming interface. “We’ve now seen reports of non-developers trying to use Gemma in AI Studio and ask it factual questions. We never intended this to be a consumer tool or model, or to be used this way,” Google <a href=\"https://x.com/NewsFromGoogle/status/1984412632913494456\">wrote</a> in a statement on X on Friday.</p>\n\n<p>Conservatives have raised concerns about how they are being portrayed by AI models. In a Senate hearing last month, Google’s Vice President for Government Affairs and Public Policy, Markham Erickson had said, “LLMs will hallucinate,” according to Blackburn’s letter, which Blackburn called “unacceptable.”</p>",
+            "published_at": "2025-11-03T02:02:25.836Z",
+            "url": "https://www.theinformation.com/briefings/google-pulls-ai-model-following-defamation-accusations?unlock=832f2c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-pulls-ai-model-following-defamation-accusations?unlock=832f2c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16199,
+            "guid": "75a10b",
+            "headline": "White House Says China Will Drop Antitrust Probes Into U.S. Chip Companies",
+            "dek": "In recent months, China has opened antitrust investigations into both Qualcomm and Nvidia, among other companies, in what were seen as a move by China to increase pressure on the U.S. over trade.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>China has agreed to drop antitrust and other investigations into U.S. chip companies, the White House said on Saturday, as part of a broader trade agreement the two countries reached last week.</p>\n\n<p>In recent months, China has <a href=\"https://www.theinformation.com/briefings/20d71b?rc=9byxri\">opened antitrust investigations</a> into both Qualcomm and Nvidia, among other companies, in what were seen as a move by China to increase pressure on the U.S. over trade. The concession&nbsp;was one of a number <a href=\"https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/\">the White House said China would make</a>, including relaxed controls on the exports of rare earths. In exchange, the U.S. will lower tariffs imposed on China and will also hold off on expanding the list of companies on the Entity List, barred from buying U.S. technology.</p>\n\n<p>Notably, the White House statement said nothing about the status of the TikTok deal, which remains uncertain weeks after the White House said a deal had&nbsp;been reached.</p>",
+            "published_at": "2025-11-02T20:03:49.746Z",
+            "url": "https://www.theinformation.com/briefings/white-house-says-china-will-drop-antitrust-probes-u-s-chip-companies?unlock=75a10b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/white-house-says-china-will-drop-antitrust-probes-u-s-chip-companies?unlock=75a10b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16197,
+            "guid": "8c74bd",
+            "headline": "Netflix Reportedly Explores a Bid for WBD’s Streaming and Studio Businesses",
+            "dek": "WBD last week said it had initiated a strategic review, weighing whether to sell, either in part or whole.",
+            "source_url": "https://www.reuters.com/business/media-telecom/netflix-taps-bank-explore-bid-warner-bros-discovery-2025-10-30/",
+            "source_label": "Reuters",
+            "body": "<p>Netflix is exploring a bid for Warner Bros. Discovery’s studio and streaming business, Reuters reported on Thursday, and has hired Moelis &amp; Co. as an advisor.</p>\n\n<p>WBD last week said it had initiated a strategic review, weighing whether to sell, either in part or whole. The entertainment company, which owns the HBO Max streaming service as well as Warner Bros. film studio and several cable channels including CNN, had already planned to split off its streaming operations and studio from the cable channels.</p>\n\n<p>Netflix executives in recent weeks have played down their potential interest in buying WBD. Co-CEO Ted Sarandos said on the company’s earnings call earlier this month that “we have no interest in owning legacy media networks.” That would suggest Netflix wouldn’t bid for all of WBD but left open the possibility of a bid for the studio and the streaming service. Netflix shares rose 2.7% to $1,118.86 on Friday. The company&nbsp;announced a 10-for-1 stock split on Thursday.</p>",
+            "published_at": "2025-10-31T20:57:45.889Z",
+            "url": "https://www.theinformation.com/briefings/netflix-reportedly-explores-bid-wbds-streaming-studio-businesses?unlock=8c74bd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/netflix-reportedly-explores-bid-wbds-streaming-studio-businesses?unlock=8c74bd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16196,
+            "guid": "9b9d61",
+            "headline": "Tether Launches Share Buyback as Profit Tops $10 Billion",
+            "dek": "The largest stablecoin issuer has been raising funding to expand business lines. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tether, the largest stablecoin issuer, <a href=\"https://tether.io/news/tether-attestation-reports-q1-q3-2025-profit-surpassing-10b-record-levels-in-us-treasuries-exposure-accelerating-usdt-supply-amidst-worlds-macroeconomic-uncertainty/\">said</a> its profit has surpassed $10 billion in the first nine months of this year, making it one of the most profitable crypto companies in the world. It has also launched a share buyback.</p>\n\n<p>Tether, a private company based in El Salvador, is owned by a small group of investors. It didn’t specify the size of the share buyback program, but it cited “prospective participation by institutional investors interested in a private placement.” Last month, Tether CEO Paolo Ardoino said the company is raising funds to expand its business lines into commodity trading, AI, and media. Bloomberg earlier reported Tether is raising $15 billion to $20 billion through a private placement at a valuation of up to $500 billion.</p>\n\n<p>Tether’s USDT stablecoin has $183 billion in circulation. The company generates revenue through interest income from reserve assets backing the stablecoins. It says it has $6.7 billion in excess reserves. As of September 30, its holdings included more than $135 billion of U.S. Treasuries, $9.9&nbsp;billion bitcoin and a loan portfolio of $14.6 billion.</p>",
+            "published_at": "2025-10-31T20:21:41.576Z",
+            "url": "https://www.theinformation.com/briefings/tether-launches-share-buyback-profit-tops-10-billion?unlock=9b9d61&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tether-launches-share-buyback-profit-tops-10-billion?unlock=9b9d61&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16195,
+            "guid": "2967c8",
+            "headline": "Elon Musk Says Tesla Might Unveil A Flying Car This Year ",
+            "dek": "Musk has previously teased a flying version of Tesla's Roadster. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla might unveil a flying car before the end of this year, CEO Elon Musk hinted on a podcast <a href=\"https://www.youtube.com/watch?v=O4wBUysNe2k\">episode</a> released Friday, without giving details.</p>\n\n<p>Asked by Joe Rogan for updates on the years-delayed new version of Tesla’s Roadster sports car, Musk said Tesla was close to demonstrating a prototype. Asked for more details, Musk said: “Well you know my friend Peter Thiel once reflected that the future was supposed to have flying cars but we don’t have flying cars.” Pressed by Rogan for more details, Musk added, “I think if Peter wants a flying car we should be able to buy one.”</p>\n\n<p>Musk dodged further questions from Rogan but said the prototype had “some crazy technology” and its unveiling would be “unforgettable.” He also described the car by saying, “If you took all the James Bond cars and combined them, it’s crazier than that.” Musk said the new Roadster would be a different design than previous prototypes of the vehicle that Tesla has shared publicly. Musk has previously teased a flying Roadster, including in a July 2024 appearance at a Tesla fan event and in Tesla’s October 2024 earnings call. Tesla manufactured the original Roadster from 2008 to 2012 before focusing on other models. A new version of the car was due to start production in 2020 but has been repeatedly delayed.</p>",
+            "published_at": "2025-10-31T18:04:17.940Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-might-unveil-flying-car-year?unlock=2967c8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-might-unveil-flying-car-year?unlock=2967c8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16194,
+            "guid": "305753",
+            "headline": "Elon Musk’s SpaceX to Receive $2 Billion for Trump’s ‘Golden Dome’ Project ",
+            "dek": "Trump wants the system to be capable of intercepting missiles fired at the U.S. from anywhere in the world. ",
+            "source_url": "https://www.wsj.com/politics/national-security/missile-backlogs-and-satellite-dreams-the-challenges-of-building-trumps-golden-dome-27592204?mod=article_inline",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Elon Musk’s SpaceX will receive $2 billion to build satellites for the U.S. government as part of President Donald Trump’s “Golden Dome” defense project, the Wall Street Journal <a href=\"https://www.wsj.com/politics/national-security/elon-musks-spacex-set-to-win-2-billion-pentagon-satellite-deal-c0a51325?mod=e2tw\">reported</a> on Friday.</p>\n\n<p>The satellites being developed by SpaceX will be used to track missiles and aircraft, according to the Journal. Funding for the project was included in a bill that Trump signed over the summer, but SpaceX’s role was not disclosed. Trump has said the Golden Dome project will cost a total of $175 billion and wants the system to be capable of intercepting missiles fired at the U.S. from anywhere in the world.</p>\n\n<p>SpaceX is also involved in two other large Defense Department satellite projects for communications and tracking ground vehicles, the Journal reported. The report comes as SpaceX is trying to <a href=\"https://www.theinformation.com/briefings/spacex-says-considering-changes-moon-mission-plan-nasa-chiefs-criticism\">hold onto a separate contract with NASA</a> to send astronauts to the Moon after the space agency’s head said the company is behind schedule.</p>",
+            "published_at": "2025-10-31T14:13:36.671Z",
+            "url": "https://www.theinformation.com/briefings/elon-musks-spacex-receive-2-billion-trumps-golden-dome-project?unlock=305753&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musks-spacex-receive-2-billion-trumps-golden-dome-project?unlock=305753&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16193,
+            "guid": "793daf",
+            "headline": "Nvidia to Supply Samsung With 50,000 GPUs",
+            "dek": "The deal, worth potentially hundreds of millions of dollars, was announced during Nvidia CEO Jensen Huang's trip to South Korea this week.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia said Thursday it signed a deal to sell 50,000 graphics processing units to Samsung Electronics to help the South Korean company with its chip design and manufacturing.</p>\n\n<p>The deal, estimated to be worth hundreds of millions of dollars in sales, was announced during a visit by Nvidia CEO Jensen Huang to South Korea, where he attended the Asia-Pacific Economic Cooperation CEO Summit and also met with local government and business leaders including the chairman of Samsung.</p>\n\n<p>Nvidia said Samsung will use Nvidia’s Blackwell chips in conjunction with popular chip design tools made by Synopsis, Cadence and Siemens to simulate and verify its chip designs. Samsung will also use the GPUs to speed up the design of its chip fabrication facilities and to make improvements to computational lithography, a method of simulating the process of printing circuit patterns on silicon wafers.</p>",
+            "published_at": "2025-10-31T08:48:29.412Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-supply-samsung-50-000-gpus?unlock=793daf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-supply-samsung-50-000-gpus?unlock=793daf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16192,
+            "guid": "f6068c",
+            "headline": "Globalstar Has Discussed a Potential Sale with SpaceX, Others",
+            "dek": "A deal with SpaceX would further consolidate the company’s power in satellite-based internet services. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-30/globalstar-draws-spacex-interest-in-sale-process",
+            "source_label": "Bloomberg",
+            "body": "<p>Globalstar has talked to Elon Musk’s SpaceX and other potential suitors about buying the satellite company, Bloomberg reported.</p>\n\n<p>The news of the sale talks <a href=\"https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal?rc=ndc4g0\">follows a report</a> from The Information saying that Globalstar’s chairman James Monroe had discussed the possibility of selling the company for more than $10 billion with associates. Bloomberg reported that Globalstar has hired an investment bank to assist it with a possible sale, though the company could decide not to move forward with such a plan.</p>\n\n<p>A sale of Globalstar would likely need to involve Apple, which has partnered with the company to provide emergency satellite internet connectivity to iPhone users when they’re out of the range of cellular networks. Apple has a 20% stake in Globalstar and a right to bid on the company before it sells itself to another suitor. Globalstar didn’t respond to a request for comment.</p>\n\n<p>For SpaceX, already the dominant player in satellite-based internet services, an acquisition of Globalstar would further consolidate its power in the market.</p>",
+            "published_at": "2025-10-31T00:28:03.521Z",
+            "url": "https://www.theinformation.com/briefings/globalstar-discussed-potential-sale-spacex-others?unlock=f6068c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/globalstar-discussed-potential-sale-spacex-others?unlock=f6068c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                },
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15942,
+                    "guid": "898f5a5d4b",
+                    "title": "Could Apple and Musk’s SpaceX Finally Do a Satellite Deal?",
+                    "url": "https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16191,
+            "guid": "739139",
+            "headline": "Apple Forecasts Strong Holiday Growth on iPhone 17 Demand",
+            "dek": "Services continues to be the company’s faster growing division",
+            "source_url": "https://www.apple.com/newsroom/pdfs/fy2025-q3/FY25_Q3_Consolidated_Financial_Statements.pdf",
+            "source_label": "The Information",
+            "body": "<p>Apple reported an 8% jump in revenue for its fiscal fourth quarter and forecast even stronger growth during the holidays, due to demand for its latest iPhones.</p>\n\n<p>The results were another sign of life for the company’s iPhone business, sales of which have stagnated in recent years. Apple’s new iPhone 17 lineup, which was released during the quarter, &nbsp;helped the business hit $49 billion for the quarter, up more than 6% from the same period a year earlier. In a call with analysts, Apple said it expects the growth rate of iPhone revenues to be in the double-digits. Apple shares rose 3% in after-hours trading following the news.</p>\n\n<p>Total Apple revenues rose nearly 8% for the quarter that ended September 27 to $102.47 billion, while fiscal full year revenue rose over 6% to $416.16 billion. For the holiday quarter, the company said it expects total sales to grow between 10% and 12%.</p>\n\n<p>Services remains the company’s fastest area of growth, advancing 15.1% from the same quarter a year earlier to $28.8 billion. The company said it was aided by record sales from the App Store, cloud services, music, payment services, video and advertising. The Mac also did well, growing 12.7% annually to $8.7 billion.</p>\n\n<p>However, sales were weak in China—one of Apple’s most important markets—declining 3.6% from the previous year to $14.5 billion. Apple Chief Executive Tim Cook said he expects the company to return to growth in China for the current quarter.</p>",
+            "published_at": "2025-10-30T22:15:41.896Z",
+            "url": "https://www.theinformation.com/briefings/apple-forecasts-strong-holiday-growth-iphone-17-demand?unlock=739139&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-forecasts-strong-holiday-growth-iphone-17-demand?unlock=739139&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16190,
+            "guid": "b023ca",
+            "headline": "Nvidia Said to Plan $1 Billion Investment in Poolside",
+            "dek": "Poolside recently announced plans to build an AI data center.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-10-30/nvidia-to-invest-up-to-1-billion-in-ai-startup-poolside",
+            "source_label": "Bloomberg",
+            "body": "<p>Nvidia is planning to invest up to $1 billion in Poolside as part of the artificial intelligence startup’s ongoing funding round, Bloomberg reported Thursday.</p>\n\n<p>Poolside previously developed AI-powered coding assistants, but is pivoting to training foundation models. The startup has been <a href=\"https://www.theinformation.com/briefings/exclusive-poolside-talks-coreweave-backer-magnetar-new-funding\">seeking to raise</a> around $2 billion at a $12 billion valuation, not including the investment, based on our prior reporting. Magnetar, a hedge fund that is a major backer of CoreWeave, has been in talks to invest in the round. Earlier this month, Poolside announced plans to build a data center in West Texas and said CoreWeave will be the anchor tenant for the first phase of the project.</p>\n\n<p>An Nvidia spokesperson declined to comment.</p>\n\n<p>The investment would be the latest instance of Nvidia investing in companies that are customers of its AI hardware. Earlier this week, Nvidia announced that it would <a href=\"https://www.theinformation.com/briefings/nvidia-invest-1-billion-nokia\">invest $1 billion in Nokia</a>, the Finnish telecommunications company that provides network equipment and software. As part of the deal, Nokia will adopt Nvidia’s new telecommunications hardware that is designed for AI.</p>",
+            "published_at": "2025-10-30T21:51:37.810Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-said-plan-1-billion-investment-poolside?unlock=b023ca&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-said-plan-1-billion-investment-poolside?unlock=b023ca&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
