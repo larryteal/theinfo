@@ -1,0 +1,681 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16229,
+            "guid": "e707d6",
+            "headline": "DoorDash’s Investment Plans Send Stock Falling",
+            "dek": "DoorDash reported revenue growth accelerated to 27% in the third quarter, thanks to healthy expansion in the dollar value of orders made through the delivery service. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>DoorDash stock slumped as much as 20% in after-hours trading after the delivery firm&nbsp;revealed it expects to “invest several hundred million dollars more” in upgrading its technology and expansion next year than it did this year.</p>\n\n<p>The investment is to unify the technologies used by the company and two European companies it has acquired, Wolt and Deliveroo, as well as to make its technology ready for AI services.</p>\n\n<p>In the quarter,&nbsp;DoorDash reported revenue growth accelerated to 27% in the third quarter, thanks to healthy expansion in the dollar value of orders made through the delivery service. The company generated $723 million in free cash flow in the quarter, up from $444 million a year earlier.</p>",
+            "published_at": "2025-11-06T00:11:46.629Z",
+            "url": "https://www.theinformation.com/briefings/doordashs-investment-plans-send-stock-falling?unlock=e707d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/doordashs-investment-plans-send-stock-falling?unlock=e707d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16228,
+            "guid": "f4a196",
+            "headline": "Snap’s Stock Soars On Perplexity Partnership, Revenue Growth",
+            "dek": "CEO Evan Spiegel said it would put Specs into its own subsidiary \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Snap shares soared more than 20% in after hours trading after the social media company reported a slight acceleration in revenue growth to 10% in the third quarter as well as a new partnership with Perplexity. The AI startup will pay Snap $400 million over one year, through a combination of cash and equity, to add its AI-powered answer engine to Snapchat, which reaches 943 million monthly active users, the companies announced.</p>\n\n<p>The feature will come online next year, and Snap will consider partnerships with other chatbot firms, CEO Evan Spiegel said. Also on the call, Spiegel revealed that it was putting its forthcoming&nbsp; Spectacles into a separate fully owned subsidiary which would “give us some options as we think about potential partners to work with to accelerate our leadership,” Spiegel said. The Information reported earlier this year that Snap was considering spinning out the spectacles into a separate unit to allow it to raise outside money, just as Alphabet has done with Waymo.</p>\n\n<p>While Snap’s revenue growth was stronger than the last quarter, the company is still growing much more slowly than peers like Pinterest and Reddit. In the quarter, Snap’s ad revenue grew only 5% , while revenue in North America, typically the region with the highest paying advertisers, grew&nbsp;by only 1%.</p>",
+            "published_at": "2025-11-05T23:29:10.121Z",
+            "url": "https://www.theinformation.com/briefings/snaps-stock-soars-perplexity-partnership-revenue-growth?unlock=f4a196&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snaps-stock-soars-perplexity-partnership-revenue-growth?unlock=f4a196&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16227,
+            "guid": "3f39bc",
+            "headline": "Ripple Raises $500 Million Round Led by Fortress, Citadel Securities ",
+            "dek": "Ripple, valued at $40 billion, is building a crypto conglomerate ranging from stablecoins to trading services. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Ripple <a href=\"https://ripple.com/ripple-press/ripple-announces-500-million-strategic-investment-led-by-fortress-citadel-securities-valuing-the-company-at-40-billion-following-record-growth/\">said</a> it raised a $500 million strategic investment at a $40 billion valuation from investors led by Fortress and Citadel Securities, as it builds out relationships with traditional financial&nbsp;firms.</p>\n\n<p>Ripple provides crypto payments and issues a stablecoin, called RLUSD. It is also the firm behind XRP, the fourth-largest crypto token with a $138 billion market cap. Ripple had $4.8 billion in cash on the balance sheet as of September 30, according to an investor letter.</p>\n\n<p>Both Fortress and Citadel Securities are new, strategic investors in Ripple. Other investors in the round included Pantera Capital, Galaxy Digital, Brevan Howard and Marshall Wace. The valuation is a big jump from June, when Ripple <a href=\"https://www.theinformation.com/articles/stock-markets-crypto-rally-boosts-private-companies\">offered</a> to buy back shares from employees and investors at a $28 billion valuation. Ripple has bought back more than 25% of its shares in recent years.</p>\n\n<p>Ripple has been on an acquisition spree this year. It bought crypto prime brokerage Hidden Road for $1.25 billion, corporate treasury management firm GTreasury for $1 billion, and stablecoin payments firm Rail for $200 million.</p>",
+            "published_at": "2025-11-05T20:46:19.503Z",
+            "url": "https://www.theinformation.com/briefings/ripple-raises-500-million-round-led-fortress-citadel-securities?unlock=3f39bc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ripple-raises-500-million-round-led-fortress-citadel-securities?unlock=3f39bc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16226,
+            "guid": "75d40e",
+            "headline": "Apple Finalizing Move to Google’s AI for Siri Revamp",
+            "dek": "Apple will pay Google $1 billion a year",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri",
+            "source_label": "Bloomberg",
+            "body": "<p>Apple is finalizing a plan to use Google’s artificial intelligence model to power an overhauled version of its Siri voice assistant, according to <a href=\"https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri?srnd=undefined\">Bloomberg</a>.</p>\n\n<p>Instead of building a large language model in-house to power a new Siri, Apple has been evaluating several external models over the past year. It has narrowed in on Google’s Gemini, Bloomberg reported. Apple will pay Google around $1 billion a year, the news outlet reported. The new Siri powered by Google will likely release next spring.</p>\n\n<p>Originally launched in 2011, Siri has fallen far behind the competition, especially with the rise of OpenAI’s ChatGPT. A team inside Apple attempted to build the company its own version of a ChatGPT, but they’ve struggled inside Apple’s corporate culture, The Information previously <a href=\"https://www.theinformation.com/articles/apple-losing-ground-ai-talent-war-just-money\">reported</a>. As a result, most of that team has departed.</p>",
+            "published_at": "2025-11-05T20:12:14.268Z",
+            "url": "https://www.theinformation.com/briefings/apple-finalizing-move-googles-ai-siri-revamp?unlock=75d40e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-finalizing-move-googles-ai-siri-revamp?unlock=75d40e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15430,
+                    "guid": "ec9b467197",
+                    "title": "Why Apple Is Losing Ground in the AI Talent War (It’s Not Just Money)",
+                    "url": "https://www.theinformation.com/articles/apple-losing-ground-ai-talent-war-just-money?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16225,
+            "guid": "5fc876",
+            "headline": "Amazon Sues Perplexity In Battle Over AI Agent Access",
+            "dek": "The fight between the two companies is one of the highest-profile conflicts over how AI agents can access websites on behalf of users.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon escalated its legal battle against Perplexity with a lawsuit filed late Tuesday, as the e-commerce giant seeks to block the AI search startup from accessing Amazon’s site with its AI-powered browser, Comet. In the lawsuit, filed in U.S. district court in the Northern District of California, Amazon alleged Perplexity committed computer fraud and violated its terms and conditions.</p>\n\n<p>In the complaint, Amazon said that it had repeatedly asked Perplexity over the course of nearly a year to stop using its AI agents to access its site, and that Perplexity did not comply with its requests. The complaint said that allowing Perplexity’s agents to access Amazon’s site and customer account information would be too risky because of security issues with Comet, and that Perplexity’s agents didn’t provide a good customer experience for shoppers. “Amazon’s claims are without&nbsp;any merit whatsoever,” a Perplexity spokesperson said in a statement. “Amazon has a problem&nbsp;with how its own users want to interact&nbsp;with its site when they choose to use an AI assistant of their choice.”</p>\n\n<p>Amazon said that Perplexity’s agents try to disguise themselves to appear like they are human shoppers visiting Amazon’s site, and that after Amazon implemented a security fix earlier this year that blocked Comet’s access, Perplexity updated Comet with a workaround that would allow it to continue to access Amazon’s site. Amazon said that Perplexity’s continued use of the agents on its site violated its rules that AI agents need to identify themselves appropriately when accessing sites. Amazon also highlighted the issues that agents create for its advertising systems, which it said required Amazon to modify its ad systems in order to filter out agent traffic before billing advertisers.</p>",
+            "published_at": "2025-11-05T20:06:15.419Z",
+            "url": "https://www.theinformation.com/briefings/amazon-sues-perplexity-battle-ai-agent-access?unlock=5fc876&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-sues-perplexity-battle-ai-agent-access?unlock=5fc876&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16224,
+            "guid": "6fb996",
+            "headline": "China’s Xpeng Aims to Mass Produce Humanoids by End of 2026",
+            "dek": "The Chinese Tesla rival also plans to launch robotaxi models and start trial operations next year.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Xpeng Motors, one of China’s biggest electric vehicle makers, on Wednesday announced a new version of its humanoid robot and said it now aims to start mass production of advanced humanoids by the end of next year.</p>\n\n<p>Xpeng, based in the southern city of Guangzhou, also said&nbsp;it will launch three robotaxi models in China next year and start trial robotaxi operations in Guangzhou and some other cities. In addition, the company unveiled a new six-seat flying car that is expected to have a range of 500 kilometers, and said it is currently conducting test flights. Meanwhile, Xpeng’s previously announced vehicle that comes with a detachable two-person aircraft will be ready for mass production and delivery next year, it said.</p>\n\n<p>Xpeng made those announcements at its annual AI Day event at its headquarters, where it showed some&nbsp;of its prototypes as well as existing products. Xpeng’s focus on artificial intelligence and its latest plans highlight the similarity between Xpeng’s ambitions and those of Tesla.</p>\n\n<p>Xpeng’s robotaxis, humanoids, flying cars and its driver assistance system similar to Tesla’s Full Self Driving, will all be powered by the Chinese company’s new open-source “physical world” AI&nbsp;model called VLA 2.0, it said. Xpeng said Volkswagen will be the launch customer of VLA 2.0.</p>",
+            "published_at": "2025-11-05T15:19:53.656Z",
+            "url": "https://www.theinformation.com/briefings/chinas-xpeng-aims-mass-produce-humanoids-end-2026?unlock=6fb996&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-xpeng-aims-mass-produce-humanoids-end-2026?unlock=6fb996&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16223,
+            "guid": "f00e97",
+            "headline": "China Bans Foreign AI Chips in State-Funded Data Centres",
+            "dek": "Data centers less than 30% finished were told to remove overseas-made chips, which will threaten foreign chip suppliers’ China revenue, including Nvidia, AMD and Intel.",
+            "source_url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/",
+            "source_label": "Reuters",
+            "body": "<p>China has ordered new data centers that receive state funds to use only domestically produced artificial intelligence chips, Reuters reported.</p>\n\n<p>Chinese authorities recently instructed operators with data center projects less than 30% complete to remove foreign chips from their systems or cancel plans to buy them, according to Reuters.</p>\n\n<p>The latest guidance could shut out companies including Nvidia, Advanced Micro Devices and Intel from gaining market share in China, boosting domestic suppliers such as Huawei.</p>\n\n<p>The move comes as Beijing pushes for AI chip self-sufficiency and steps up efforts to purge foreign technology from critical infrastructure, even as bilateral trade tensions with Washington ease. China’s access to high-end AI chips from firms such as Nvidia remains a sticking point in China-U.S. relations.</p>",
+            "published_at": "2025-11-05T10:26:32.585Z",
+            "url": "https://www.theinformation.com/briefings/china-bans-foreign-ai-chips-state-funded-data-centres?unlock=f00e97&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-bans-foreign-ai-chips-state-funded-data-centres?unlock=f00e97&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16222,
+            "guid": "89545a",
+            "headline": "Anthropic Projects $70 Billion in Revenue, $17 Billion in Cash Flow in 2028",
+            "dek": "The company expects to be cash flow positive as soon as 2027, three years earlier than OpenAI projected\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic expects to generate as much as $70 billion in revenue in 2028, up from roughly $4.7 billion this year, <a href=\"https://www.theinformation.com/articles/anthropic-projects-70-billion-revenue-17-billion-cash-flow-2028?rc=8tzurb\">The Information reported on Tuesday</a>. The company’s fast revenue growth may encourage investors to back the company again in the coming months. The company would likely target a valuation between $300 billion and $400 billion.</p>\n\n<p>Roughly 80% of Anthropic’s revenue through 2028 comes from sales of its AI models through an application programming interface to business customers. The rest comes from subscriptions to its premium features, including its coding agent Claude Code.</p>\n\n<p>Claude Code is nearing $1 billion in annualized revenue. In total, the company generated close to $7 billion in annualized revenue last month, <a href=\"https://www.theinformation.com/briefings/anthropic-said-target-26-billion-annualized-revenue-2026?rc=8tzurb\">The Information previously reported.</a></p>\n\n<p>In its most optimistic forecasts, Anthropic expects to be cash flow positive as soon as 2027, when it expects to generate $3 billion in cash. The company expects $17 billion in cash the following year. Its gross margins were negative 94% last year but should improve to roughly 50% this year and about 77% in 2028, the company forecasts.</p>",
+            "published_at": "2025-11-05T03:48:31.851Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-projects-70-billion-revenue-17-billion-cash-flow-2028?unlock=89545a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-projects-70-billion-revenue-17-billion-cash-flow-2028?unlock=89545a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16221,
+            "guid": "48d740",
+            "headline": "Trump Re-Nominates Elon Musk Ally to Lead NASA ",
+            "dek": "Elon Musk nemesis Sean Duffy will continue to lead NASA until Isaacman is confirmed by the Senate.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>U.S. President Donald Trump said Tuesday that he’s re-nominated Jared Isaacman, a billionaire entrepreneur and ally of SpaceX CEO Elon Musk, to lead NASA.</p>\n\n<p>Trump had previously nominated Isaacman to lead NASA in December 2024 before withdrawing the nomination this May, citing unspecified “prior associations” of Isaacman. Trump then appointed Transportation Secretary Sean Duffy as interim NASA administrator. In October, after Duffy said that <a href=\"https://www.theinformation.com/briefings/spacex-says-considering-changes-moon-mission-plan-nasa-chiefs-criticism\">NASA would seek rival bids</a> for a Moon mission it had previously awarded to SpaceX, Musk <a href=\"https://www.theinformation.com/briefings/elon-musk-unloads-nasa-chief-spacex-comments\">publicly lambasted Duffy</a>. Musk has repeatedly expressed support for Isaacman. Duffy will continue to lead NASA until Isaacman is confirmed by the Senate.</p>\n\n<p>Isaacman outlined a vision for streamlining NASA and privatizing parts of the space agency’s work in a memo he sent to Duffy over the summer, <a href=\"https://www.politico.com/news/2025/11/03/jared-isaacman-confidential-manifesto-nasa-00633858\">Politico reported</a>. In a Truth Social post on Tuesday, Trump praised Isaacman’s “dedication to pushing the boundaries of exploration, unlocking the mysteries of the universe, and advancing the new Space economy.”</p>",
+            "published_at": "2025-11-04T23:42:07.975Z",
+            "url": "https://www.theinformation.com/briefings/trump-re-nominates-elon-musk-ally-lead-nasa?unlock=48d740&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-re-nominates-elon-musk-ally-lead-nasa?unlock=48d740&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16220,
+            "guid": "0108b7",
+            "headline": "Exclusive: Humanoid Robotics Startup K-Scale to Shut Down After Exploring Sale to 1X, Bot Co.",
+            "dek": "The company said it intends to refund deposits for ordered robots.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>K-Scale Labs, a one-year old startup developing humanoid robots, is shutting down, according to an email from CEO Ben Bolte to investors viewed by The Information.</p>\n\n<p>“The company currently has limited remaining runway and cash reserves of approximately $400,000,” he wrote. Bolte said he had expected it to be easy to raise $10 million to $15 million to continue the company, but those efforts failed.</p>\n\n<p>The company had raised about $4 million at a $50 million valuation in a seed funding round in February led by venture firm Fellows Fund. Investors Nat Friedman and Daniel Gross also invested $250,000 in the startup in April 2024.</p>\n\n<p>K-Scale <a href=\"https://www.theinformation.com/articles/open-source-robotics-startup-caught-openais-eye\">developed a humanoid robot</a> that walked on two legs and used open-source software. Staff from tech giants such as OpenAI, Nvidia and Amazon had visited the young startup’s operations in a house near Stanford University to view its robots. K-Scale had about 10 employees, but many of the key employees departed in recent months as funding ran out.</p>\n\n<p>Bolte said in the email he discussed the possibility of humanoid maker 1X Technologies acquiring K-Scale with CEO Bernt Børnich, but Børnich “made it clear to me that he was only interested in acquiring a small number of team members from K-Scale, and none of the other company assets,” Bolte wrote. He said he had a similar conversation with staff at robotics maker The Bot Co. A spokesperson for 1X declined to comment and The Bot Co. did not respond to a request for comment.</p>\n\n<p>Bolte also shared a note with K-Scale’s Discord server, saying that pre-ordered robots would not be fulfilled and deposits for them would be refunded. Ten prototypes were manufactured, and over 100 others were ordered, according to a former K-Scale employee. OpenAI’s robotics lead Caitlin Kalinowski ordered one of K-Scale’s robots, said Bolte. The robots were priced around $15,000 each, and the company had received over $2 million in orders, he said.</p>",
+            "published_at": "2025-11-04T23:34:39.258Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-humanoid-robotics-startup-k-scale-shut-exploring-sale-1x-bot-co?unlock=0108b7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-humanoid-robotics-startup-k-scale-shut-exploring-sale-1x-bot-co?unlock=0108b7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16219,
+            "guid": "314bb4",
+            "headline": "Pinterest Revenue Grows As It Fends Off Threats From AI, Tariffs",
+            "dek": "Shares tumbled on narrower guidance next quarter \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Pinterest revenue rose 17% year-over-year to $1.049 billion, roughly in line with the growth rate of the previous two quarters. Profits—before interest, taxes, depreciation and amortization— rose 24% to $306 million.</p>\n\n<p>But Pinterest stock tumbled more than 19% in after-hours trading after executives forecasted slightly slower growth in the fourth quarter of 14% to 16%. Chief financial officer Julia Donnelly said that tariffs affected advertisers like home furnishing companies.</p>\n\n<p>While the rise of artificial intelligence could threaten many consumer Internet companies, CEO Bill Ready said the company is well positioned to compete, noting that Pinterest already serves as an AI-powered shopping assistant, and that number of searches, plus the number of searches per user are up. The company last week announced a new product users can ask Pinterest for product recommendations like “I need new throw pillows.”</p>",
+            "published_at": "2025-11-04T23:00:58.243Z",
+            "url": "https://www.theinformation.com/briefings/pinterest-revenue-grows-fends-threats-ai-tariffs?unlock=314bb4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pinterest-revenue-grows-fends-threats-ai-tariffs?unlock=314bb4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16218,
+            "guid": "50f897",
+            "headline": "AMD Projects Much Slower AI Chip Revenue Growth Than Nvidia",
+            "dek": "Still, AMD gained some traction with major Nvidia customers in recent months.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Advanced Micro Devices said Tuesday its revenue rose 36% to $9.2 billion in the third quarter, beating its earlier projection by 8 percentage points. But AMD also projected revenue in the current quarter would rise 25% to $9.6 billion, plus or minus $300 million.</p>\n\n<p>That’s nearly 30 percentage points lower than its much bigger rival Nvidia’s projected revenue growth in its current fiscal quarter, showing how Nvidia continues to extend its vast lead in the market for artificial intelligence chips. AMD shares fell 3% in after-hours trading.</p>\n\n<p>AMD generated $4.3 billion from its data center unit in the quarter, which includes sales of its chips that compete with Nvidia’s graphics processing units.</p>\n\n<p>Still, AMD gained some traction with major Nvidia customers in recent months. AMD announced a major partnership with OpenAI in the quarter, as well as an expanded contract with Oracle to buy its chips. Su said the partnership with OpenAI has the potential to generate “over $100 billion” in revenue over the next few years. OpenAI isn’t obligated to buy AMD chips, which is a contrast to the obligations it made to rent Nvidia chips from cloud providers and to produce its own AI chips with Broadcom.</p>",
+            "published_at": "2025-11-04T22:27:05.592Z",
+            "url": "https://www.theinformation.com/briefings/amd-projects-slower-ai-chip-revenue-growth-nvidia?unlock=50f897&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amd-projects-slower-ai-chip-revenue-growth-nvidia?unlock=50f897&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16217,
+            "guid": "eea38b",
+            "headline": "Amazon Demands That Perplexity Blocks AI Agents From Browsing Its Site",
+            "dek": "The claims mark an escalation of the tension between AI companies and retailers that want more control over how shoppers access their sites. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon demanded Perplexity stop allowing its AI assistant to make purchases on Amazon’s site, setting off a war of words between the two companies.</p>\n\n<p>Perplexity <a href=\"https://www.perplexity.ai/hub/blog/bullying-is-not-innovation\">accused</a>&nbsp;Amazon of restricting “user choice and freedom” by limiting AI agents’ access. Amazon said&nbsp;it had repeatedly requested that Perplexity stop allowing its Comet browser to use AI agents to access&nbsp;Amazon. It said Comet’s AI assistant offered&nbsp;a “significantly degraded shopping and customer service experience.”</p>\n\n<p>The skirmish is one of the highest-profile examples yet of the tension between AI companies developing agents and other tools that can complete tasks like making purchases on behalf of users and retailers that want to more closely control shoppers’ experiences on their sites.</p>\n\n<p>“We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions whether or not to participate,” Amazon said in a statement.</p>\n\n<p>Amazon has previously taken steps to ward off AI agents and bots from accessing its site. This summer, Amazon <a href=\"https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents\">updated the code underpinning its website</a> to add language warding off AI agents from Google, in addition to restrictions on AI crawlers and agents from Perplexity, Anthropic’s Claude and OpenAI’s ChatGPT. The e-commerce giant is working on several of its own agentic shopping tools, including a feature called Buy For Me, which can make purchases on outside sites on behalf of Amazon users, and its on-site chatbot Rufus, which can answer questions about products and help users decide what to purchase. Amazon CEO Andy Jassy said on the company’s earnings call last week that while most existing agentic shopping tools didn’t currently have good customer experiences, he expected that Amazon would eventually find ways to partner with outside AI agents.</p>",
+            "published_at": "2025-11-04T19:48:37.737Z",
+            "url": "https://www.theinformation.com/briefings/amazon-demands-perplexity-blocks-ai-agents-browsing-site?unlock=eea38b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-demands-perplexity-blocks-ai-agents-browsing-site?unlock=eea38b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15470,
+                    "guid": "f32df7c9e5",
+                    "title": "Amazon Locks Down Against Google’s AI Shopping Agents",
+                    "url": "https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16216,
+            "guid": "587745",
+            "headline": "BlackRock Fund Manager Kim Says Debt Will Fuel AI Spending",
+            "dek": "Tech companies including Alphabet and Meta Platforms have raised tens of billions of dollars from bond offerings in recent weeks.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tony Kim, lead portfolio manager of the BlackRock Technology Opportunities Fund, said tech companies will have to shed their aversion to leverage and use debt to fund much of their capital expenditures for artificial intelligence.</p>\n\n<p>“There is no doubt that with the trillions of dollars of capex that are potentially coming, there will be leverage that will be necessary,” Kim said Tuesday on TITV.</p>\n\n<p>Tech companies including Alphabet and Meta Platforms have raised tens of billions of dollars from bond offerings in recent weeks as they outline plans to continue increasing spending on AI. Meta has also used a special-purpose vehicle to help raise funding for its largest data center campus, a Louisiana facility called Hyperion.</p>\n\n<p>Kim said the 10 largest tech companies could raise debt equal to one or two times their earnings before interest, taxes, depreciation and amortization, or about $1 trillion to $2 trillion.</p>",
+            "published_at": "2025-11-04T19:08:21.450Z",
+            "url": "https://www.theinformation.com/briefings/blackrock-fund-manager-kim-says-debt-will-fuel-ai-spending?unlock=587745&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blackrock-fund-manager-kim-says-debt-will-fuel-ai-spending?unlock=587745&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16215,
+            "guid": "3648a8",
+            "headline": "Sequoia’s Botha Passes Top Job to Lin, Grady ",
+            "dek": "Botha steps down after a navigating the firm during the post-pandemic aftermath and the rise of AI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Sequoia Capital partner Roelof Botha on Tuesday told the venture firm’s limited partners that he had passed leadership of the firm to two partners, Alfred Lin and Pat Grady. Botha said he will transition to a new role advising the partnership while continuing to serve on the firm’s boards.</p>\n\n<p>The announcement is unusual because Botha, age 52, only took the firm’s top, global role in mid 2022. Previous leaders of the firm, including founder Doug Leone and Mike Moritz, held the most senior roles for more than a decade each. Botha had led the firm’s U.S. operations since 2017.</p>\n\n<p>Botha didn’t give a reason for the change except to note that it was time for him to transition to the next generation. Prior to Botha’s departure, some Sequoia partners had concerns about his management style, according to two people with knowledge of the discussions, though it’s not clear that those concerns directly led to the decision.</p>\n\n<p>The announcement shook up the staff, some of whom became visibly upset during a company meeting to discuss the decision, according to two people with knowledge of the matter.</p>\n\n<p>In the last two years, Botha managed through a period of intense competition among VC firms to win AI deals as well as increasing political polarization in tech.</p>\n\n<p>Last month, Sequoia Capital’s former chief operating officer, Sumaiya Balbale, resigned from her job after Maguire made posts on X she considered Islamophobic, according to the Financial Times. Botha has defended Maguire and has described Sequoia’s stance on politics as “institutional neutrality.”</p>\n\n<p>Botha joined the firm in 2003 after taking PayPal through its initial public offering as its chief financial officer. At Sequoia, he invested in YouTube shortly after its founding, gaming company Unity, Block (then called Square), MongoDB and Instagram.</p>\n\n<p>(This article has been updated with details on Botha’s departure.)</p>",
+            "published_at": "2025-11-04T19:04:58.522Z",
+            "url": "https://www.theinformation.com/briefings/sequoias-botha-passes-top-job-lin-grady?unlock=3648a8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/sequoias-botha-passes-top-job-lin-grady?unlock=3648a8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                },
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 10421,
+                    "guid": "4751bb005a",
+                    "title": "Sequoia Capital’s Mighty Struggle",
+                    "url": "https://www.theinformation.com/articles/sequoia-capitals-mighty-struggle?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16214,
+            "guid": "f56671",
+            "headline": "Google Cloud VP Says AI Pricing Models Will Vary",
+            "dek": "Google launched an enterprice-focused version of its AI products about a month ago.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Google Cloud is likely to continue experimenting with different pricing models for its AI services for businesses, including some based on outcomes and others based on usage or even flat fees based on user numbers, according to a Google Cloud vice president Oliver Parker, in <a href=\"https://www.theinformation.com/titv/5f9kq?rc=9byxri\">an interview on The Information’s TITV on Monday.</a></p>\n\n<p>Parker, who oversees Google Cloud’s go-to-market efforts for its global generative AI business, said Google offers various “commercial packages” for customers, “depending on what clients want,” adding that this part of the market is evolving. “We’re going to continue to experiment,” he said.&nbsp;Google launched an enterprice-focused version of its AI products about a month ago.</p>",
+            "published_at": "2025-11-04T18:53:25.349Z",
+            "url": "https://www.theinformation.com/briefings/google-cloud-vp-says-ai-pricing-models-will-vary?unlock=f56671&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-cloud-vp-says-ai-pricing-models-will-vary?unlock=f56671&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16213,
+            "guid": "7ac756",
+            "headline": "Spotify Reports Higher Revenue Despite Ad Decline",
+            "dek": "Overall revenue is up on subscription revenue \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Spotify lifted revenue 7% in the third quarter, as growth in its subscription business was offset by a 6% drop in advertising revenue. It was the second consecutive decline for Spotify ads, which last year had been growing, albeit slowly.</p>\n\n<p>Spotify executives said on the earnings call Tuesday that 2025 is “a transition year for its ad business” — earlier this year CEO Daniel Ek <a href=\"https://www.theinformation.com/briefings/spotify-says-ad-business-moving-slowly\">attributed</a> the exit of ads chief Lee Brown to dissatisfaction with the growth of the ads business. Executives said that they expected ads to start growing in the second half of 2026, buoyed by the strength of recent partnerships with advertising technology partners like Yahoo and Amazon.</p>\n\n<p>Spotify has struggled to have the right technology for small advertisers, who prefer to use self-service tools, rather than buy directly through salespeople or use the third-party tools Spotify is touting, The Information previously <a href=\"https://www.theinformation.com/articles/spotify-is-booming-except-for-its-ad-business\">reported</a>. On the earnings call, chief financial officer Christian Luiga said that ad sales coming directly from salespeople have been flat to slightly down. Spotify last year revamped its tool for small advertisers.</p>",
+            "published_at": "2025-11-04T15:45:12.797Z",
+            "url": "https://www.theinformation.com/briefings/spotify-reports-higher-revenue-despite-ad-decline?unlock=7ac756&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spotify-reports-higher-revenue-despite-ad-decline?unlock=7ac756&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16212,
+            "guid": "b6300a",
+            "headline": "Shopify Continues to Boost Revenue, Shares Fall on Increased Costs",
+            "dek": "The e-commerce software maker saw gross margins dip in part because of higher costs related to AI usage.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shopify said Tuesday revenue in the third quarter grew 32% from a year earlier to $2.84 billion as the e-commerce software maker continues to add new merchants and expand its reach in newer markets like Europe and with brick-and-mortar retailers. Free cash flow grew 20% to $507 million, though net income fell 68% to $264 million due to increases in both R&amp;D and sales and marketing. Shopify shares fell nearly 5% in premarket trading.</p>\n\n<p>CFO Jeff Hoffmeister told analysts that gross margin dipped slightly in part because of higher hosting costs to support larger transaction volumes, as well as increased costs due to higher AI usage. For the current quarter, which includes the all-important holiday shopping season for retailers, Shopify projected revenue growth in the mid-to-high twenties and for its free cash flow margin to be slightly higher than the third quarter.</p>\n\n<p>Shopify has been trying to win over more large retailers as customers for the past few years, though Hoffmeister said that in the third quarter, merchants with annual sales below $25 million still generated the “significant majority” of Shopify’s gross merchandise volume. But Shopify has been growing in other sectors, including winning more international customers and more retailers with large numbers of brick-and-mortar stores.</p>",
+            "published_at": "2025-11-04T15:06:26.378Z",
+            "url": "https://www.theinformation.com/briefings/shopify-continues-boost-revenue-shares-fall-increased-costs?unlock=b6300a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/shopify-continues-boost-revenue-shares-fall-increased-costs?unlock=b6300a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15977,
+                    "guid": "b80e1e240d",
+                    "title": "How Shopify’s Leadership Shake-Up Affects Its Push for Growth",
+                    "url": "https://www.theinformation.com/articles/shopifys-leadership-shake-affects-push-growth?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16211,
+            "guid": "fec31f",
+            "headline": "Norway’s Sovereign Wealth Fund to Vote Against’s Elon Musk’s Tesla Pay Package  ",
+            "dek": "Norges Bank owns a 1.1% stake in Tesla valued at about $17 billion, making it the company’s seventh-largest shareholder. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Norway’s sovereign wealth fund plans to vote against Tesla’s proposed <a href=\"https://www.theinformation.com/articles/preparing-elon-musks-1-trillion-tesla-vote\">$1 trillion CEO compensation package</a> for Elon Musk, the fund said on Tuesday.</p>\n\n<p>Norges Bank said in a <a href=\"https://www.nbim.no/no/ansvarlig-forvaltning/stemmegiving/var-stemmegivning/meeting?m=1994609\">disclosure</a> that it was “concerned about the total size of the award, dilution, and lack of mitigation of key person risk.” The fund is also voting against reelecting two Tesla board directors and against Tesla investing in Elon Musk’s artificial intelligence startup xAI. Norges Bank owns a 1.1% stake in Tesla valued at about $17 billion, making it the company’s seventh-largest shareholder, according to securities filings. Shareholders are voting on the proposals ahead of Tesla’s annual meeting this Thursday.</p>\n\n<p>Norway’s sovereign wealth fund has previously voted against other proposals supported by Musk, including a proposal last year to reinstate a previous pay package for Musk that had been overturned by a Delaware court. This year, proxy advisors Glass Lewis and International Shareholder Services have come out against the proposed package, while the largest outside shareholders such as Vanguard and BlackRock have yet to say how they’ll vote.</p>",
+            "published_at": "2025-11-04T14:54:57.619Z",
+            "url": "https://www.theinformation.com/briefings/norways-sovereign-wealth-fund-vote-againsts-elon-musks-tesla-pay-package?unlock=fec31f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/norways-sovereign-wealth-fund-vote-againsts-elon-musks-tesla-pay-package?unlock=fec31f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16210,
+            "guid": "17ed84",
+            "headline": "Uber Reports Accelerating Growth, Led by Delivery Business",
+            "dek": "Uber's CEO says markets where Uber offers Waymo rides are growing faster than other U.S. markets.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Uber’s revenue growth accelerated to 20% in the third quarter, lifting earnings before interest, taxes, depreciation and amortization by 33% to $2.3 billion.&nbsp;Free cash flow rose 5.7% to $2.2 billion.</p>\n\n<p>Underwriting the growth was Uber’s delivery business, where bookings jumped 25% and Ebitda rose 47%. Uber CFO Prashanth Mahendra-Rajah attributed the surge in the delivery business partly to the expansion of the delivery business into groceries.&nbsp;Bookings on the ride-hailing side rose 20%, lifting Ebitda there by 21%.</p>\n\n<p>On&nbsp;a call with analysts, Uber CEO Dara Khosrowshahi said that Uber was growing fastest in the U.S. in markets where it has partnerships with Waymo, Austin and Atlanta. “Waymo utilization is still very, very high.”</p>",
+            "published_at": "2025-11-04T14:38:17.629Z",
+            "url": "https://www.theinformation.com/briefings/uber-reports-accelerating-growth-led-delivery-business?unlock=17ed84&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/uber-reports-accelerating-growth-led-delivery-business?unlock=17ed84&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 14527,
+                    "name": "uber/lyft"
+                }
+            ]
+        }
+    ]
+}
