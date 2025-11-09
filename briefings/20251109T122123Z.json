@@ -1,0 +1,650 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16248,
+            "guid": "d92dfb",
+            "headline": "Musk Argues OpenAI Suit Should Go to Trial",
+            "dek": "Musk’s lawyers argue that he can still sue despite donating through intermediaries. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Lawyers for Elon Musk argued that his federal lawsuit against OpenAI and its CEO Sam Altman should proceed to a trial, according to a legal document filed Friday evening.</p>\n\n<p>The latest filing responds to OpenAI’s request last month for an early legal ruling against Musk. In that document, OpenAI’s lawyers asked the court to toss out Musk’s allegations that OpenAI has violated its charitable duties—a key claim in the lawsuit—because Musk made his early donations to OpenAI through donor-advised funds, which they argue “severed Musk’s legal interest in the funds.”</p>\n\n<p>Musk’s lawyers contend that he still has the right to sue, even though the donations were made through intermediaries. The donor-advised funds “never refused to make a contribution to OpenAI that Musk directed, and they never made a contribution without Musk’s direction,” they wrote. They argue that resolving this disagreement is best left to a jury during a trial in March.</p>",
+            "published_at": "2025-11-09T05:40:28.997Z",
+            "url": "https://www.theinformation.com/briefings/musk-argues-openai-suit-go-trial?unlock=d92dfb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-argues-openai-suit-go-trial?unlock=d92dfb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16247,
+            "guid": "655104",
+            "headline": "OpenAI Seeks 35% Chips Tax Credit to Apply Towards AI Data Centers",
+            "dek": "The company also wants financial incentives for manufacturers to boost AI infrastructure \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has asked the Trump administration to expand the 35% tax credit established under the Chips Act — the 2022 law designed to boost U.S. semiconductor production– to apply to AI data centers, according to a letter dated on October 27 <a href=\"https://openai.com/global-affairs/seizing-the-ai-opportunity/\">posted online by the company</a>. The company wants the government to make the tax credit available to other components of the chip supply chain, including grid components, AI servers and AI data centers.</p>\n\n<p>In the letter addressed to White House Office of Science and Technology Policy Director Michael Kratsios, OpenAI’s Chief Global Affairs Officer Christopher Lehane also asked the federal government to offer other incentives, such as cost-sharing agreements or loan guarantees, to domestic manufacturers of key inputs for AI chips and data centers, efforts that would ultimately benefit OpenAI as well. The company also wants the federal government to have a reserve of raw materials, such as copper and aluminum, needed for AI infrastructure.</p>\n\n<p>Earlier this week, OpenAI CFO Sarah Friar suggested a federal backstop could support financing AI chips and data centers that could help the U.S. stay competitive globally. Friar and CEO Sam Altman have walked back those comments. Altman said he doesn’t want the government to bail them out if the company fails. “If we screw up and can’t fix it, we should fail, and other companies will continue on doing good work and servicing customers,” Altman said in an <a href=\"https://x.com/sama/status/1986514377470845007\">X post on Thursday</a>.</p>",
+            "published_at": "2025-11-08T03:15:20.832Z",
+            "url": "https://www.theinformation.com/briefings/openai-seeks-35-chips-tax-credit-apply-towards-ai-data-centers?unlock=655104&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-seeks-35-chips-tax-credit-apply-towards-ai-data-centers?unlock=655104&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16246,
+            "guid": "6cbc83",
+            "headline": "Banks Line Up $18 Billion Loan for Stargate Data Center",
+            "dek": "The loan would add to a long list of debt deals being lined up to support OpenAI’s rapidly expanding computing needs.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Banks including Sumitomo Mitsui Banking Corp., BNP Paribas, Goldman Sachs and Mitsubishi UFJ Financial Group are providing a roughly $18 billion loan to the developers of a New Mexico data center for OpenAI’s Stargate project, said a person familiar with the deal.</p>\n\n<p>The loan would add to a long list of debt deals being lined up to support OpenAI’s rapidly expanding computing needs, including a $38 billion deal for data center sites in Texas and Wisconsin.</p>\n\n<p>The Stargate data center&nbsp;is being developed by BorderPlex Digital Assets and Stack Infrastructure for Oracle as part of its cloud deal with OpenAI. Blue Owl is investing equity in the project. Bloomberg first reported on the loan.</p>",
+            "published_at": "2025-11-07T21:19:59.634Z",
+            "url": "https://www.theinformation.com/briefings/banks-line-18-billion-stargate-data-center?unlock=6cbc83&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/banks-line-18-billion-stargate-data-center?unlock=6cbc83&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16245,
+            "guid": "67a644",
+            "headline": "Buzzfeed Revenues Sinks 17% to $55.6 million",
+            "dek": "Shares plunge more than 37% as the digital media company shows declines in all its revenue streams\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Buzzfeed’s revenue plummeted 17% to $55.6 million in the third quarter compared to the same period a year earlier, as the digital media company was hurt by softer advertising demand than in 2024 when it reaped the benefits of election-related advertising. BuzzFeed shares fell more than 37% on the news.</p>\n\n<p>The revenue slump wasn’t due only to the ad downturn. Buzzfeed’s content business—which makes money creating custom content for brands or from licensing Buzzfeed’s intellectual property, also fell. Its&nbsp; commerce revenue, which includes revenue Buzzfeed earns when someone buys products that the&nbsp;company recommends, likewise dropped. Time spent by consumers on Buzzfeed’s sites also sank 17% to 68.5 million hours from 80.3 million hours in the third quarter of 2024.</p>",
+            "published_at": "2025-11-07T17:23:20.458Z",
+            "url": "https://www.theinformation.com/briefings/buzzfeed-revenues-sinks-17-55-6-million?unlock=67a644&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/buzzfeed-revenues-sinks-17-55-6-million?unlock=67a644&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16244,
+            "guid": "35918d",
+            "headline": "Elon Musk Says Tesla Could Build Chip Fab, Work With Intel",
+            "dek": "“Even when we extrapolate the best case scenario for chip production from our suppliers, it’s still not enough,\" Musk said. \"So I think we’re probably going to have to build a gigantic chip fab.” ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla CEO Elon Musk said Thursday that Tesla may have to eventually build its own chip fab to manufacture chips for its autonomous vehicle and robotics businesses.</p>\n\n<p>“One of the things I’m trying to figure out is — how do we make enough chips?” Musk said at Tesla’s annual meeting after <a href=\"https://www.theinformation.com/articles/elon-musks-victory\">shareholders approved</a> his $1 trillion pay package. “Even when we extrapolate the best case scenario for chip production from our suppliers, it’s still not enough… So I think we’re probably going to have to build a gigantic chip fab.” Musk has raised the possibility of Tesla building its own chip fab previously, <a href=\"https://x.com/elonmusk/status/1772015928789676435\">writing</a> on X in 2024 that Tesla “could” build a chip fab but “I sure hope we don’t have to.”</p>\n\n<p>Currently, Tesla designs its own chips and has contracts with chipmakers including TSMC and Samsung to produce them. Musk also raised the possibility of Tesla doing a deal with Intel at the annual meeting. “We haven’t signed any deal, but it’s probably worth having discussions with Intel,” Musk said. His comments caused Intel shares to spike as much as 3% in after-hours trading before falling.</p>",
+            "published_at": "2025-11-07T14:03:10.487Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-build-chip-fab-work-intel?unlock=35918d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-build-chip-fab-work-intel?unlock=35918d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16243,
+            "guid": "733c9e",
+            "headline": "Nvidia CEO: No Plans to Ship Blackwell Chips to China",
+            "dek": "Nvidia’s business in China has been affected by the policies of both Washington and Beijing.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia CEO Jensen Huang said on Friday that there are “no active discussions” about selling the company’s most advanced Blackwell chips to China.</p>\n\n<p>In a televised interview with reporters in Taiwan, Huang also said Nvidia is currently not planning to ship any products&nbsp;to China.</p>\n\n<p>The White House has told other federal departments that the U.S. won’t allow Nvidia to sell a scaled-down version of its Blackwell chips to China, <a href=\"https://www.theinformation.com/articles/u-s-block-nvidias-sale-scaled-back-ai-chips-china?rc=jnr9wn\">The Information reported</a> this week. While the U.S. hasn’t banned Nvidia from selling its less powerful H20 chip in China, the Chinese government has told local tech companies to avoid purchasing all Nvidia chips.</p>\n\n<p>Huang said in the interview that it is up to China to decide whether Chinese companies can purchase Nvidia products again. “I look forward to them changing their policy,” he said.</p>\n\n<p>Huang said he was in Taiwan to visit Nvidia’s longtime partner, Taiwan Semiconductor Manufacturing Company, and participate in the company’s sports day. “Business is very strong,” he said. “So I came back to encourage my TSMC friends.”</p>",
+            "published_at": "2025-11-07T10:10:47.143Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-ship-blackwell-chips-china?unlock=733c9e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-ship-blackwell-chips-china?unlock=733c9e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16242,
+            "guid": "3f3f7d",
+            "headline": "OpenAI CEO Sam Altman Forecasts $20 Billion in Annualized Revenue This Year",
+            "dek": "The company expects to finance its $1.4 trillion infrastructure costs with increased revenue\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CEO Sam Altman said he doesn’t want the government to bail them out if the company fails. “If we screw up and can’t fix it, we should fail, and other companies will continue on doing good work and servicing customers,” Altman said in an X post on Thursday.</p>\n\n<p>Altman also said that OpenAI expects future revenue growth, ranging from hardware AI devices to robotics to an “AI cloud” to drive revenue growth that could help the company fund its $1.4 trillion in commitments over the next eight years.</p>\n\n<p>Altman’s comments come after OpenAI CFO Sarah Friar, on Wednesday, suggested a federal backstop could support financing AI chips and data centers that could help the U.S. stay competitive globally.</p>\n\n<p>“We’re looking for an ecosystem of banks, private equity, maybe even governmental, the ways governments can come to bear,” she said. Friar later walked back her comments in a LinkedIn post, stating that OpenAI isn’t seeking a government backstop for its infrastructure projects.</p>\n\n<p>In his X post, Altman added that while OpenAI doesn’t have a government backstop for its data center projects, OpenAI has discussed government loan guarantees to support the development of semiconductor fabrication plants in the U.S. in order to strengthen the domestic chip supply chain.</p>",
+            "published_at": "2025-11-07T05:54:28.008Z",
+            "url": "https://www.theinformation.com/briefings/openai-ceo-sam-altman-forecasts-20-billion-annualized-revenue-year?unlock=3f3f7d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-ceo-sam-altman-forecasts-20-billion-annualized-revenue-year?unlock=3f3f7d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16241,
+            "guid": "caa110",
+            "headline": "AWS Tech Leader Hints at More Chip Options for Customers",
+            "dek": "AWS already gives customers lots of chip options when renting cloud servers, and one of its technology managers says he expects that will expand in the future. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon Web Services currently sells a smorgasbord of cloud servers equipped with chips from various manufacturers, as well as ones it has developed in-house. And according to Shaown Nandi, director of technology at AWS, that menu is poised to expand in the coming years.</p>\n\n<p>“You will see us offering not just Intel silicon, AMD silicon, Nvidia silicon, and our own silicon, but I suspect others in the future as well,” Nandi said in an appearance on The Information’s TITV.</p>\n\n<p>Nandi didn’t provide additional&nbsp;details, so it’s not clear what other chips AWS might offer. One possibility is RISC-V (pronounced risk five), an open-source&nbsp;chip design that competes with chip designs from Arm Holdings.</p>\n\n<p>In any event, Nandi isn’t really going out on a limb here. He’s repeating Amazon’s longstanding&nbsp;mantra of giving customers the largest possible array of choices. At the same time, he seems to be suggesting that customers’ chip needs could evolve in the coming years, and that AWS will move to address those.</p>",
+            "published_at": "2025-11-06T22:39:12.302Z",
+            "url": "https://www.theinformation.com/briefings/aws-tech-leader-hints-chip-options-customers?unlock=caa110&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-tech-leader-hints-chip-options-customers?unlock=caa110&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16240,
+            "guid": "7c91e1",
+            "headline": "Craft Ventures’ Partner Plots New Fund",
+            "dek": "Rosenblatt’s departure continues the trend of experienced investors leaving venture firms to start their own, solo operations. ",
+            "source_url": "https://www.theinformation.com/articles/ai-stokes-battles-series-altimeter-raise-new-growth-fund?rc=cmz1ru",
+            "source_label": "The Information",
+            "body": "<p>Bryan Rosenblatt, a partner at Craft Ventures, is planning to leave the firm at the end of the year to start his own investment firm, according to two people with direct knowledge of the matter. Rosenblatt’s departure continues the trend of experienced investors leaving&nbsp;their jobs&nbsp;to start their own, solo operations.</p>\n\n<p>Rosenblatt’s firm, named Sandlot, has started fundraising talks for its first fund, targeting a $50 million close, according to one of the people. The fund and existence of the firm has not been previously reported.</p>\n\n<p>Craft Ventures, started eight years ago by David Sacks, shifted its focus to later-stage investments from very early stage investments earlier this year and restructured its team, The Information <a href=\"https://www.theinformation.com/articles/david-sacks-craft-ventures-lays-staff-co-founder-steps-back?rc=cmz1ru\">previously reported</a>. Sandlot will back young startups across all sectors, including artificial intelligence and consumer.</p>",
+            "published_at": "2025-11-06T22:01:36.143Z",
+            "url": "https://www.theinformation.com/briefings/craft-ventures-partner-leaves-start-new-fund?unlock=7c91e1&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/craft-ventures-partner-leaves-start-new-fund?unlock=7c91e1&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16239,
+            "guid": "031e1b",
+            "headline": "Tesla Shareholders Approve Musk Pay Package",
+            "dek": "More shareholders voted in favor of a proposal for Tesla to invest in Musk's xAI than those voting against. Tesla's board will consider next steps, the company said.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>More than 75% of Tesla shareholders voted in favor of Elon Musk’s $1 trillion pay package, the company announced at Tesla’s shareholder meeting on Thursday afternoon.</p>\n\n<p>On a shareholder proposal that Tesla invest in Musk’s xAI, Tesla announced that more votes were cast in favor than against but “there was a significant number of abstentions”. The board “will examine next steps in light of the shareholder support,” Tesla said.</p>\n\n<p>The big majority in favor of <a href=\"https://www.theinformation.com/briefings/tesla-proposes-elon-musk-pay-package-worth-1-trillion?rc=9byxri\">the pay package</a>—which requires Tesla to meet a variety of goals, including reaching a market capitalization of $8.5 trillion before Musk collects the stock—followed an intense campaign by both Musk and Tesla chair Robyn Denholm in recent weeks. Denholm said the board was concerned Musk would leave if the proposal wasn’t approved.</p>\n\n<p>At the same time, shareholder advisory firms ISS and Glass Lewis had recommended shareholders vote against the proposal, while Norway’s sovereign wealth fund and a 1.1% shareholder voted against it. But Tesla has a big group of individual shareholders—holding more than one-third of the stock—who tend to be big supporters of Musk.</p>",
+            "published_at": "2025-11-06T22:01:22.941Z",
+            "url": "https://www.theinformation.com/briefings/tesla-shareholders-approve-musk-pay-package?unlock=031e1b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-shareholders-approve-musk-pay-package?unlock=031e1b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16238,
+            "guid": "f5e364",
+            "headline": "Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy",
+            "dek": "The Chan Zuckerberg Initiative will now focus on using artificial intelligence to research disease.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms CEO Mark Zuckerberg and his wife, Priscilla Chan, are restructuring their philanthropy, the Chan Zuckerberg Initiative. The charity on Thursday <a href=\"https://biohub.org/blog/frontier-ai-biology-initiative/\">said</a> it would now focus on using artificial intelligence to research disease and combine its scientific teams into a new organization, Biohub.</p>\n\n<p>The Chan Zuckerberg Initiative also said it has acquired EvolutionaryScale, a startup developing AI that can generate new proteins, and named Alex Rives, the startup’s co-founder and chief scientist, as its head of science. Rives was previously a research scientist at Meta.</p>\n\n<p>Previously, the Chan Zuckerberg Initiative had also focused on social issues like racial equity and immigration reform. In February, the philanthropy ended diversity-based recruiting and laid off or reassigned employees who worked on diversity programs.</p>",
+            "published_at": "2025-11-06T20:49:49.038Z",
+            "url": "https://www.theinformation.com/briefings/mark-zuckerberg-priscilla-chan-restructure-philanthropy?unlock=f5e364&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/mark-zuckerberg-priscilla-chan-restructure-philanthropy?unlock=f5e364&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1513375,
+                    "display_name": "Kalley Huang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16237,
+            "guid": "455d91",
+            "headline": "Ex-Hugging Face Sales Chief  Co-Founds Enterprise AI Consulting Firm",
+            "dek": "Called Eliza, the new consulting firm aims to help employees in companies use tools like ChatGPT for more complex tasks than drafting emails.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Brian Benedict, former sales chief at AI startup Hugging Face, is co-founding a new consulting firm, called Eliza, that aims to help large companies get practical value from OpenAI’s ChatGPT and other AI services.</p>\n\n<p>In an interview, Benedict said Eliza, which works with OpenAI customers, isn’t part of the crowded market for AI strategy consulting. The idea is for employees in companies to move beyond simple ChatGPT tasks like summarizing text into more advanced ones like creating custom AI models, said&nbsp;Benedict, whose title is chief commercial officer.</p>\n\n<p>One factor working in Eliza’s favor is its connections to customers of multiple cloud and AI providers. Its CEO and co-founder Stephen Garden is the former CEO and co-founder of Onica, a consulting firm that helped Amazon Web Services customers adopt cloud products before being acquired by Rackspace in 2019.</p>\n\n<p>Garden is also vice chairman at Caylent, an AWS consulting firm, and a board member at 66degrees and phData, which work with Google Cloud and Snowflake customers respectively.</p>",
+            "published_at": "2025-11-06T18:18:11.516Z",
+            "url": "https://www.theinformation.com/briefings/ex-hugging-face-sales-chief-co-founds-enterprise-ai-consulting-firm?unlock=455d91&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ex-hugging-face-sales-chief-co-founds-enterprise-ai-consulting-firm?unlock=455d91&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16236,
+            "guid": "f5ffc5",
+            "headline": "PyTorch Co-Founder is Leaving Meta",
+            "dek": "Soumith Chintala joined Facebook in 2014 and co-created the company’s open-source machine learning library. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Soumith Chintala, who co-created Meta Platforms’ open-source machine learning library PyTorch, is leaving the company, according to three people with direct knowledge of the matter. He joined Facebook in 2014, according to his profile on LinkedIn.</p>\n\n<p>Chintala also worked on artificial intelligence infrastructure, such as how to group chips and how to design technology components for software. His most recent title at Meta was “AI fixer,” which included working on Meta’s open-source large language model Llama. He reported to Aparna Ramani, who leads AI infrastructure at the company’s new AI organization, Meta Superintelligence Labs.</p>\n\n<p>Chintala’s departure from Meta comes after the company earlier this year overhauled its efforts in AI. In June, Meta hired former Scale AI CEO Alexandr Wang and former GitHub CEO Nat Friedman to co-lead its new AI organization. In the months following the overhaul, some AI leaders at Meta <a href=\"https://www.theinformation.com/articles/people-power-meta-superintelligence-labs?rc=lqnydf\">have discussed</a> developing closed AI models.</p>",
+            "published_at": "2025-11-06T18:00:26.468Z",
+            "url": "https://www.theinformation.com/briefings/pytorch-co-founder-leaving-meta?unlock=f5ffc5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pytorch-co-founder-leaving-meta?unlock=f5ffc5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1513375,
+                    "display_name": "Kalley Huang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16235,
+            "guid": "e2a033",
+            "headline": "WBD Reports Weak Third Quarter as Sale Discussions Loom",
+            "dek": "WBD's TV channel segment, which generates most of the company's profits, reported a 22% drop in revenue and 20% lower profits.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Warner Bros. Discovery, which is currently on the market, reported weak third quarter results that highlights the challenges facing the aging entertainment giant. WBD’s revenues fell 6%, while profits—excluding interest, taxes, depreciation and amortization—rose 2%.</p>\n\n<p>WBD’s Warner Bros. film studio showed 24% higher revenue, thanks to box office hit for the latest Superman movie, while its Ebitda more than doubled to $695 million. But WBD’s streaming segment—HBO Max—reported flat revenue, although Ebitda rose 19%. HBO Max’s global subscriber numbers are growing, but in markets where the average price is much lower in the U.S., which is hurting revenue growth.</p>\n\n<p>WBD’s TV channel segment, which generates most of the company’s profits, reported a 22% drop in revenue and 20% lower profits. The year-earlier quarter was boosted by programming related to the Olympic Games.</p>\n\n<p>WBD recently said it was conducting a strategic review, including whether to sell the company in whole or in part. That followed acquisition offers made by the Ellison family’s Paramount Skydance.</p>",
+            "published_at": "2025-11-06T15:47:35.210Z",
+            "url": "https://www.theinformation.com/briefings/wbd-reports-weak-third-quarter-sale-discussions-loom?unlock=e2a033&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/wbd-reports-weak-third-quarter-sale-discussions-loom?unlock=e2a033&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16234,
+            "guid": "726179",
+            "headline": "SpaceX to Buy Another $2.6 Billion of Echostar Spectrum ",
+            "dek": "The deals put pressure on Apple to do a deal with SpaceX. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SpaceX is buying another $2.6 billion worth of wireless spectrum licenses from telecommunications firm Echostar, building on a separate $17 billion deal announced in September.</p>\n\n<p>Echostar <a href=\"https://ir.echostar.com/news-releases/news-release-details/echostar-agrees-sell-full-unpaired-aws-3-spectrum-license\">said</a> Thursday it will receive $2.6 billion in SpaceX stock in exchange for the spectrum, which will help the Elon Musk-led company accelerate its efforts to offer service directly to mobile phones from its satellites in space. Echostar shares were down about 1% Thursday morning.</p>\n\n<p>SpaceX’s deals with Echostar give the company an increasing ability to offer satellite connectivity directly to cell phones. The deals are putting pressure on Apple to do a deal with Musk, who has previously pitched Apple on providing satellite capabilities for iPhones, <a href=\"https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal\">The Information has reported</a>. Apple currently works with SpaceX rival Globalstar, which is looking for a buyer, The Information has reported.</p>",
+            "published_at": "2025-11-06T15:28:46.222Z",
+            "url": "https://www.theinformation.com/briefings/spacex-buy-another-2-6-billion-echostar-spectrum?unlock=726179&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-buy-another-2-6-billion-echostar-spectrum?unlock=726179&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15942,
+                    "guid": "898f5a5d4b",
+                    "title": "Could Apple and Musk’s SpaceX Finally Do a Satellite Deal?",
+                    "url": "https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16233,
+            "guid": "907425",
+            "headline": "Scammy Ads Generated an Estimated 10% of Meta’s Revenue in 2024",
+            "dek": "The company discouraged enforcement of scammers that could undermine revenue, Reuters reported\r\n",
+            "source_url": "https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06/",
+            "source_label": "Reuters",
+            "body": "<p>Meta internally projected that 10% of its revenue last year, or $16 billion, came from ads promoting fraudulent products or schemes, Reuters reported. These include ads for fake products, sextortion schemes or crypto scams.</p>\n\n<p>Reuters cited an internal document prepared in December 2024 which estimated that Meta shows users 15 billion ads each month that show clear signs of promoting fraud of some kind. While Meta has rules against running such ads, the team that vets advertisers wasn’t allowed to block the ads if doing so would cost Meta more than 0.15% of its revenue, the report said. One solution Meta devised last year to deal with these scammers was to charge the scammers more, to disincentivize them from buying more ads.</p>\n\n<p>A Meta spokesperson told Reuters that the true percent of revenue coming from scam ads was lower, and the 10% figure was “overly-inclusive.” The spokesperson said the 0.15% threshold for taking action to enforce rules against scammy ads was not a hard limit and that charging scammy advertisers more for ads led to a decline in both scam reports and ad revenue.</p>",
+            "published_at": "2025-11-06T15:16:14.488Z",
+            "url": "https://www.theinformation.com/briefings/scammy-ads-generated-estimated-10-metas-revenue-2024?unlock=907425&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/scammy-ads-generated-estimated-10-metas-revenue-2024?unlock=907425&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16232,
+            "guid": "5a57a9",
+            "headline": "Nvidia CEO Warns China Will Win AI Race",
+            "dek": "Jensen Huang said that looser regulations and lower energy costs are giving China an advantage over western countries when it comes to developing AI.",
+            "source_url": "https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43",
+            "source_label": "The Financial Times",
+            "body": "<p>Nvidia CEO Jensen Huang said China will win the artificial intelligence race because of the country’s lower energy costs and looser regulations.</p>\n\n<p>Speaking on the sidelines of a Financial Times conference in London, Huang said the U.S. government’s new rules on AI could lead to dozens of new regulations, while China’s subsidies for energy have made it easier for Chinese companies to operate datacenters containing their homegrown AI chips.</p>\n\n<p>Huang has said that China is “nanoseconds” behind the U.S. in AI and chipmaking and that Nvidia should be allowed to sell its most advanced AI chips to China to maintain U.S. dominance over the technology.</p>\n\n<p>However, the Trump administration has yet to allow Nvidia to sell its most advanced Blackwell chips to China. Earlier this month, Trump said in an interview on CBS that he would not allow the export of Blackwell chips to China, but didn’t rule out the possibility of allowing the sale of a less powerful version of Blackwell.</p>",
+            "published_at": "2025-11-06T10:08:57.929Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-warns-china-will-win-ai-race?unlock=5a57a9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-warns-china-will-win-ai-race?unlock=5a57a9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16231,
+            "guid": "290ba7",
+            "headline": "OpenAI CFO Suggests Government Guarantee for AI Financing",
+            "dek": "She later modified her comments. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CFO Sarah Friar said Wednesday that government guarantees for financing artificial intelligence chips could help the U.S. stay competitive globally.</p>\n\n<p>“We’re looking for an ecosystem of banks, private equity, maybe even governmental, the ways governments can come to bear,” she <a href=\"https://www.wsj.com/tech/ai/openai-isnt-yet-working-toward-an-ipo-cfo-says-58037472\">said at a conference</a>. “The backstop, the guarantee that allows the financing to happen. That can really drop the cost of the financing but also increase the loan-to-value, so the amount of debt you can take on top of an equity portion.”</p>\n\n<p>Friar later said on LinkedIn that “OpenAI is not seeking a government backstop for our infrastructure commitments,” but rather that both the private sector and government need to build the industrial capacity to sustain “American strength in technology.”</p>\n\n<p>OpenAI CEO Sam Altman said last week the company had financial obligations for $1.4 trillion in computing capacity, raising questions among some investors about how it planned to pay for this buildout.</p>",
+            "published_at": "2025-11-06T06:04:17.931Z",
+            "url": "https://www.theinformation.com/briefings/openai-cfo-suggests-government-guarantee-ai-financing?unlock=290ba7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-cfo-suggests-government-guarantee-ai-financing?unlock=290ba7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16230,
+            "guid": "d1ba72",
+            "headline": "SoftBank Explored Takeover Of Chip Firm Marvell, Bloomberg Reports",
+            "dek": "A deal would have been the largest in semiconductor buyout in history.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-11-06/softbank-is-said-to-have-explored-potential-takeover-of-marvell?srnd=undefined&embedded-checkout=true",
+            "source_label": "Bloomberg",
+            "body": "<p>Japanese conglomerate SoftBank Group explored a potential acquisition of chipmaker Marvell Technology earlier this year, according to a report in Bloomberg.</p>\n\n<p>Marvell and Softbank are not in active negotiations, according to the report. A deal would have been the largest in semiconductor buyout in history. Marvell, which has a market capitalization of $80 billion, designs chips for data centers and other industries.</p>\n\n<p>SoftBank has been eyeing takeovers of firms that could boost chip designer Arm, in which it holds a majority stake. Earlier this year, for instance, SoftBank agreed to buy Ampere Computing, which makes traditional data center chips, for $6.5 billion.</p>\n\n<p>The Information <a href=\"https://www.theinformation.com/articles/openai-working-softbanks-arm-broadcom-ai-chip-effort\">reported</a> last month that OpenAI is in talks with Arm about using an Arm-designed central processing unit with OpenAI’s AI server chip. The AI developer is pursuing a chip to lessen its reliance on Nvidia’s graphics processing unit.</p>",
+            "published_at": "2025-11-06T03:42:03.598Z",
+            "url": "https://www.theinformation.com/briefings/softbank-explored-takeover-chip-firm-marvell-bloomberg-reports?unlock=d1ba72&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-explored-takeover-chip-firm-marvell-bloomberg-reports?unlock=d1ba72&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15895,
+                    "guid": "a59ccc57af",
+                    "title": "OpenAI Is Working With SoftBank’s Arm on AI Chip Effort",
+                    "url": "https://www.theinformation.com/articles/openai-working-softbanks-arm-broadcom-ai-chip-effort?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16229,
+            "guid": "e707d6",
+            "headline": "DoorDash’s Investment Plans Send Stock Falling",
+            "dek": "DoorDash reported revenue growth accelerated to 27% in the third quarter, thanks to healthy expansion in the dollar value of orders made through the delivery service. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>DoorDash stock slumped as much as 20% in after-hours trading after the delivery firm&nbsp;revealed it expects to “invest several hundred million dollars more” in upgrading its technology and expansion next year than it did this year.</p>\n\n<p>The investment is to unify the technologies used by the company and two European companies it has acquired, Wolt and Deliveroo, as well as to make its technology ready for AI services.</p>\n\n<p>In the quarter,&nbsp;DoorDash reported revenue growth accelerated to 27% in the third quarter, thanks to healthy expansion in the dollar value of orders made through the delivery service. The company generated $723 million in free cash flow in the quarter, up from $444 million a year earlier.</p>",
+            "published_at": "2025-11-06T00:11:46.629Z",
+            "url": "https://www.theinformation.com/briefings/doordashs-investment-plans-send-stock-falling?unlock=e707d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/doordashs-investment-plans-send-stock-falling?unlock=e707d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        }
+    ]
+}
