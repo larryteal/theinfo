@@ -1,0 +1,662 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16257,
+            "guid": "e4cbd7",
+            "headline": "Apple Explores Adding Second Camera to Next iPhone Air to Boost Sales",
+            "dek": "The redesign comes after Apple delayed the release of a next-generation iPhone Air, which was meant to launch in fall 2026.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple is delaying the release of the second-generation iPhone Air to work on a redesign of the device and make it more appealing to consumers, according to two people with knowledge of the matter.</p>\n\n<p>The redesign could include a second camera lens, an attempt to address one of consumers’ main complaints.&nbsp;Reviewers have praised the iPhone Air’s ultrathin body&nbsp;but&nbsp;criticized compromises&nbsp;in the product’s features, such as having only a single camera lens.</p>\n\n<p>Apple has since sharply scaled back production of the first iPhone Air and delayed the release of an updated version that was meant to launch in fall 2026, The Information&nbsp;reported earlier this week.</p>\n\n<p>Instead, some Apple engineers are hoping to release a redesigned version with a second camera lens in spring 2027 alongside existing plans to release the standard iPhone 18 and iPhone 18e at that time. It’s still too early to tell whether they can successfully redesign the iPhone Air in time to make that new release window, the people said.</p>\n\n<p>Apple didn’t immediately reply to a request for comment.</p>",
+            "published_at": "2025-11-11T09:27:24.407Z",
+            "url": "https://www.theinformation.com/briefings/apple-explores-adding-second-camera-next-iphone-air-boost-sales?unlock=e4cbd7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-explores-adding-second-camera-next-iphone-air-boost-sales?unlock=e4cbd7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                },
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16047,
+                    "guid": "6a77ebb514",
+                    "title": "Apple Delays Release of Next iPhone Air Amid Weak Sales",
+                    "url": "https://www.theinformation.com/articles/apple-delays-release-next-iphone-air-amid-weak-sales?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16256,
+            "guid": "2c3670",
+            "headline": "SoftBank-Backed Travel Startup Klook Files for New York IPO",
+            "dek": "The filing comes at a time when the U.S. government shutdown has caused delays in New York listings. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Klook, a Hong Kong-based online travel startup backed by SoftBank Group, filed for an initial public offering on the New York Stock Exchange on Monday.</p>\n\n<p>Klook’s app, popular in Asia, helps travelers book tickets for all kinds of attractions and other services in their destinations. Its business has enjoyed robust growth in the past few years as the global travel industry recovered from the Covid-19 pandemic.</p>\n\n<p>In the first nine months of this year, Klook’s revenue grew 43% to $407 million, while its operating loss narrowed to $9.8 million from $32.7 million a year earlier, according to its filing. Last year, more than 10.7 million users made transactions on Klook’s platform, the company said.</p>\n\n<p>Apart from SoftBank, Klooks’ other existing investors include Goldman Sachs, Bessemer Venture Partners and Chinese venture capital firm HongShan.</p>",
+            "published_at": "2025-11-11T04:12:08.996Z",
+            "url": "https://www.theinformation.com/briefings/softbank-backed-travel-startup-klook-files-new-york-ipo?unlock=2c3670&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-backed-travel-startup-klook-files-new-york-ipo?unlock=2c3670&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1985,
+                    "name": "travel"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16255,
+            "guid": "edbb8d",
+            "headline": "Grab to Invest $60 Million in Remote Car Operator Vay",
+            "dek": "Grab could invest a further $350 million if Vay reaches certain milestones in the next year.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Grab, the Singaporean ride hailing company, will invest $60 million in Vay, <a href=\"https://www.theinformation.com/articles/nine-self-driving-startups-chasing-waymos-lead\">which operates a fleet of cars in Las Vegas</a>, the companies announced Monday. Unlike with autonomous vehicles, when a customer orders one of Vay’s cars, a remote driver pilots the car to them, then the customer takes the wheel.</p>\n\n<p>In exchange for its cash, Grab will receive equity and warrants that can be exercised if Vay achieves certain milestones in the three years after closing the deal. Grab will invest an additional $350 million in the year after the first investment closes if Vay hits milestones for revenue and expanding to other cities. If these milestones are not reached, Grab still has the option to make the second investment. As a result, Grab could own a majority of Vay’s equity on a fully-diluted basis in three years, according to the announcement. Vay previously raised $163 million in debt and equity, including from investors Atomico and Coatue Management.</p>\n\n<p>Grab said it could use the data Vay collects from its cars for developing Grab’s self-driving cars. “This investment supports Grab’s autonomous mobility strategy,” according to the statement. “For example, the driving data that Vay collects through its fleet could accelerate the training of AI models that improve autonomous vehicles’ perception of the real world.”</p>\n\n<p>Grab invested in self-driving companies WeRide and May Mobility earlier this year.</p>",
+            "published_at": "2025-11-10T22:32:46.321Z",
+            "url": "https://www.theinformation.com/briefings/grab-invest-60-million-remote-car-operator-vay?unlock=edbb8d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/grab-invest-60-million-remote-car-operator-vay?unlock=edbb8d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16254,
+            "guid": "4a5ccb",
+            "headline": "Exclusive: Goldman Sachs Hires Citi’s Josh Li for Tech Job",
+            "dek": "Banks are preparing for a flurry of tech IPOs in 2026 as the IPO market perked up after a three-year drought.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Goldman Sachs has hired Josh Li from Citigroup as a managing director focusing on technology equity capital markets, according to people familiar with the matter.</p>\n\n<p>Li will join Goldman Sachs after a period of leave, according to the people. Li was most recently Citi’s head of technology and communications equity capital markets, according to his LinkedIn profile. Goldman Sachs and Citi declined to comment.</p>\n\n<p>Banks are preparing for a flurry of tech IPOs in 2026 after the IPO <a href=\"https://www.theinformation.com/articles/ai-crypto-companies-dominated-ipo-winners-2025\">market perked up this year</a> following a three-year drought. There were 51 U.S. tech IPOs this year that raised $16.8 billion, well above the average over the past three years of 29 companies and $5.5 billion raised, according to Dealogic.</p>",
+            "published_at": "2025-11-10T20:41:18.199Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-goldman-sachs-hires-citis-josh-li-tech-ecm?unlock=4a5ccb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-goldman-sachs-hires-citis-josh-li-tech-ecm?unlock=4a5ccb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16253,
+            "guid": "f89a60",
+            "headline": "Tesla Shareholders Divided Over xAI Investment, Filing Shows ",
+            "dek": "Fewer than 40% of shareholders overall supported an xAI investment, though more voted in favor of the proposal than against it. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla shareholders were heavily divided over a proposal that the electric automaker invest in CEO Elon Musk’s artificial intelligence company, xAI, according to company disclosures following its annual meeting.</p>\n\n<p>Shareholders controlling approximately 1.1 billion Tesla shares voted in favor of a non-binding proposal that would advise Tesla’s board to invest in xAI, while shareholders controlling more than 900 million shares voted against it. Around 500 million shareholders voted to abstain and 300 million did not cast votes. That means that fewer than 40% of shareholders overall supported an xAI investment.</p>\n\n<p>“Given that this is an advisory vote, the Board will examine next steps in light of these voting results,” Tesla said in a <a href=\"https://www.sec.gov/ix?doc=/Archives/edgar/data/0001318605/000110465925108507/tm2530590d1_8k.htm\">securities filing</a> late Friday. The Tesla board had not recommended voting for or against the proposal.</p>\n\n<p>Shareholders approved Musk’s new <a href=\"https://www.theinformation.com/articles/elon-musks-victory\">$1 trillion compensation package</a>, which was strongly supported by the board, by a much larger margin. Shareholders controlling 1.9 billion shares voted in favor, while fewer than 600,000 voted against it. Shareholders with 12 million shares abstained, while 300 million did not vote. While all the board members who were up for re-election won, the vote was somewhat closer for one of the directors, Ira Ehrenpreis. About 1.6 billion shares were cast in Ehrenpreis’s favor, while 850 million were against.</p>",
+            "published_at": "2025-11-10T15:35:55.052Z",
+            "url": "https://www.theinformation.com/briefings/tesla-shareholders-divided-xai-investment-filing-shows?unlock=f89a60&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-shareholders-divided-xai-investment-filing-shows?unlock=f89a60&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16252,
+            "guid": "c881c8",
+            "headline": "Two Tesla Manufacturing Executives Leave",
+            "dek": "The departures come days after Tesla shareholders approved Musk’s new $1 trillion compensation package, which is based in part on rapidly scaling up vehicle production and sales. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Two longtime vehicle manufacturing leaders at Tesla said separately on Sunday that they’re leaving the company.</p>\n\n<p>One of the executives, Siddhant Awasthi, worked as program manager for Cybertruck and oversaw the production ramp of the electric truck. Awasthi, an eight year Tesla veteran, also worked on the Model 3 sedan, according to his LinkedIn profile. In a <a href=\"https://x.com/siddawa/status/1987687815803793565\">post</a> on X, Awasthi thanked Tesla CEO Elon Musk and said he was “confident Tesla will nail its next big mission.” Tesla started mass production of the Cybertruck in 2023 but it remains much less popular than most of the company’s other mass-produced vehicles.</p>\n\n<p>The other Tesla manager to leave on Sunday, Emmanuel Lamacchia, was program manager for Tesla’s Model Y midsize SUV and had been at the company for seven years. Lamacchia worked on Model Y production across four Tesla factories in the U.S., Europe and China, he said in a LinkedIn <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7393504906365661185/\">post</a>. The departures come days after Tesla <a href=\"https://www.theinformation.com/articles/elon-musks-victory\">shareholders approved</a> Musk’s new $1 trillion compensation package, which is based in part on rapidly scaling up vehicle production and sales.</p>",
+            "published_at": "2025-11-10T15:33:50.495Z",
+            "url": "https://www.theinformation.com/briefings/two-tesla-manufacturing-executives-leave?unlock=c881c8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/two-tesla-manufacturing-executives-leave?unlock=c881c8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16251,
+            "guid": "8491e9",
+            "headline": "Singapore’s Grab Invests in Remote-Driving Startup Vay ",
+            "dek": "The deal will enable Vay, which operates a car rental service in Las Vegas using its remote driving technology, to expand its U.S. operations.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Grab Holdings, the biggest ride-hailing and food delivery company in Southeast Asia, said Monday that it has agreed to invest in Vay Technology, a Germany-based startup developing technology that allows remote drivers to control electric vehicles from afar.</p>\n\n<p>Singapore-based Grab will make an initial investment of $60 million, which could be followed by an additional investment of $350 million later if Vay achieves certain milestones, the companies said. Vay operates a car rental service in Las Vegas where a professional “teledriver” remotely drives a car to the location of the customer who requested it. Grab’s investment will enable Vay to expand its operations in the U.S., the companies said.</p>\n\n<p>The Vay deal is the latest in a series of strategic investments by Nasdaq-listed Grab in developers of autonomous driving and other mobility-related technologies. Last month, Grab invested in U.S. robotaxi company May Mobility. In August, Grab announced a strategic investment in Chinese robotaxi firm WeRide.</p>",
+            "published_at": "2025-11-10T13:37:43.975Z",
+            "url": "https://www.theinformation.com/briefings/singapores-grab-invests-remote-driving-startup-vay?unlock=8491e9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/singapores-grab-invests-remote-driving-startup-vay?unlock=8491e9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16250,
+            "guid": "68c17e",
+            "headline": "DeepSeek Researcher Warns of AI’s Negative Impact in Rare Public Appearance",
+            "dek": "DeepSeek, which became a global sensation in January, has kept a low profile and executives have avoided public engagements. ",
+            "source_url": "https://www.reuters.com/world/asia-pacific/deepseek-researcher-pessimistic-over-ais-impact-startups-first-public-appearance-2025-11-07/",
+            "source_label": "Reuters",
+            "body": "<p>A senior researcher from DeepSeek warned about the potentially negative impact of artificial intelligence on human work and society, in one of the company’s few public appearances since its breakout success, according to Reuters.</p>\n\n<p>Chen Deli, the DeepSeek researcher, took the stage at the government-hosted World Internet Conference in the eastern city of Wuzhen on Friday. Chen said that, while AI could help humans in the short term, it could also cause job losses in the long term, and tech companies need to be aware of such risks. In the next 10 to 20 years, AI could take over human work and society could face a big challenge, Chen said, according to Reuters.</p>\n\n<p>DeepSeek became a global sensation in late January after it released R1, an open-sourced reasoning model with performance on par with OpenAI’s similar model at the time but trained at lower costs. Despite the success, DeepSeek executives have shunned the public spotlight. The last public appearance by DeepSeek was in early February, when CEO Liang Wenfeng, along with other business leaders such as Alibaba Group founder Jack Ma, was seen in a televised meeting with Chinese leader Xi Jinping.</p>\n\n<p>DeepSeek in September unveiled an update to the V3 model, which first came out in December last year. The company has not released any new models since R1, while numerous AI model developers in China have been racing to launch their own open-sourced offerings throughout this year.</p>",
+            "published_at": "2025-11-10T08:34:37.203Z",
+            "url": "https://www.theinformation.com/briefings/deepseek-researcher-warns-ais-negative-impact-rare-public-appearance?unlock=68c17e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/deepseek-researcher-warns-ais-negative-impact-rare-public-appearance?unlock=68c17e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16249,
+            "guid": "ba22de",
+            "headline": "OpenAI CEO Altman Says Company Wants to Work With Government on Superintelligence Risks",
+            "dek": "Altman on Saturday promoted the comments via his X account.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CEO Sam Altman said the company envisions needing to work with the executive branch of the government in areas such as preventing bioterrorism once AI superintelligence is achieved.</p>\n\n<p>“If the premise is that something like this will be difficult for society to adapt to in the ‘normal way,’ we should also not expect typical regulation to be able to do much either,” he said in a blog post Thursday that he promoted on his <a href=\"https://x.com/sama/status/1987232631680053745\">X account Saturday</a>.</p>\n\n<p>That coordination will be necessary when AI becomes much more intelligent than humans, with the ability to make significant research discoveries, he said.</p>\n\n<p>For now, he argued that “minimal additional regulatory burdens relative to what already exists,” would be important to continue the technology’s advances.&nbsp; He reiterated the company’s opposition to a “patchwork” of state laws on AI.</p>\n\n<p>OpenAI is facing a mounting number of lawsuits from families who say their loved ones killed themselves or suffered harmful delusions after using OpenAI’s chatbot for long periods of time.</p>\n\n<p>At the same time, U.S. state lawmakers and the European Union have continued to propose measures to regulate AI.</p>",
+            "published_at": "2025-11-10T00:04:02.880Z",
+            "url": "https://www.theinformation.com/briefings/openai-ceo-altman-says-company-wants-work-government-superintelligence-risks?unlock=ba22de&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-ceo-altman-says-company-wants-work-government-superintelligence-risks?unlock=ba22de&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16248,
+            "guid": "d92dfb",
+            "headline": "Musk Argues OpenAI Suit Should Go to Trial",
+            "dek": "Musk’s lawyers argue that he can still sue despite donating through intermediaries. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Lawyers for Elon Musk argued that his federal lawsuit against OpenAI and its CEO Sam Altman should proceed to a trial, according to a legal document filed Friday evening.</p>\n\n<p>The latest filing responds to OpenAI’s request last month for an early legal ruling against Musk. In that document, OpenAI’s lawyers asked the court to toss out Musk’s allegations that OpenAI has violated its charitable duties—a key claim in the lawsuit—because Musk made his early donations to OpenAI through donor-advised funds, which they argue “severed Musk’s legal interest in the funds.”</p>\n\n<p>Musk’s lawyers contend that he still has the right to sue, even though the donations were made through intermediaries. The donor-advised funds “never refused to make a contribution to OpenAI that Musk directed, and they never made a contribution without Musk’s direction,” they wrote. They argue that resolving this disagreement is best left to a jury during a trial in March.</p>",
+            "published_at": "2025-11-09T05:40:28.997Z",
+            "url": "https://www.theinformation.com/briefings/musk-argues-openai-suit-go-trial?unlock=d92dfb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-argues-openai-suit-go-trial?unlock=d92dfb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16247,
+            "guid": "655104",
+            "headline": "OpenAI Seeks 35% Chips Tax Credit to Apply Towards AI Data Centers",
+            "dek": "The company also wants financial incentives for manufacturers to boost AI infrastructure \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has asked the Trump administration to expand the 35% tax credit established under the Chips Act — the 2022 law designed to boost U.S. semiconductor production– to apply to AI data centers, according to a letter dated on October 27 <a href=\"https://openai.com/global-affairs/seizing-the-ai-opportunity/\">posted online by the company</a>. The company wants the government to make the tax credit available to other components of the chip supply chain, including grid components, AI servers and AI data centers.</p>\n\n<p>In the letter addressed to White House Office of Science and Technology Policy Director Michael Kratsios, OpenAI’s Chief Global Affairs Officer Christopher Lehane also asked the federal government to offer other incentives, such as cost-sharing agreements or loan guarantees, to domestic manufacturers of key inputs for AI chips and data centers, efforts that would ultimately benefit OpenAI as well. The company also wants the federal government to have a reserve of raw materials, such as copper and aluminum, needed for AI infrastructure.</p>\n\n<p>Earlier this week, OpenAI CFO Sarah Friar suggested a federal backstop could support financing AI chips and data centers that could help the U.S. stay competitive globally. Friar and CEO Sam Altman have walked back those comments. Altman said he doesn’t want the government to bail them out if the company fails. “If we screw up and can’t fix it, we should fail, and other companies will continue on doing good work and servicing customers,” Altman said in an <a href=\"https://x.com/sama/status/1986514377470845007\">X post on Thursday</a>.</p>",
+            "published_at": "2025-11-08T03:15:20.832Z",
+            "url": "https://www.theinformation.com/briefings/openai-seeks-35-chips-tax-credit-apply-towards-ai-data-centers?unlock=655104&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-seeks-35-chips-tax-credit-apply-towards-ai-data-centers?unlock=655104&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16246,
+            "guid": "6cbc83",
+            "headline": "Banks Line Up $18 Billion Loan for Stargate Data Center",
+            "dek": "The loan would add to a long list of debt deals being lined up to support OpenAI’s rapidly expanding computing needs.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Banks including Sumitomo Mitsui Banking Corp., BNP Paribas, Goldman Sachs and Mitsubishi UFJ Financial Group are providing a roughly $18 billion loan to the developers of a New Mexico data center for OpenAI’s Stargate project, said a person familiar with the deal.</p>\n\n<p>The loan would add to a long list of debt deals being lined up to support OpenAI’s rapidly expanding computing needs, including a $38 billion deal for data center sites in Texas and Wisconsin.</p>\n\n<p>The Stargate data center&nbsp;is being developed by BorderPlex Digital Assets and Stack Infrastructure for Oracle as part of its cloud deal with OpenAI. Blue Owl is investing equity in the project. Bloomberg first reported on the loan.</p>",
+            "published_at": "2025-11-07T21:19:59.634Z",
+            "url": "https://www.theinformation.com/briefings/banks-line-18-billion-stargate-data-center?unlock=6cbc83&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/banks-line-18-billion-stargate-data-center?unlock=6cbc83&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16245,
+            "guid": "67a644",
+            "headline": "Buzzfeed Revenues Sinks 17% to $55.6 million",
+            "dek": "Shares plunge more than 37% as the digital media company shows declines in all its revenue streams\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Buzzfeed’s revenue plummeted 17% to $55.6 million in the third quarter compared to the same period a year earlier, as the digital media company was hurt by softer advertising demand than in 2024 when it reaped the benefits of election-related advertising. BuzzFeed shares fell more than 37% on the news.</p>\n\n<p>The revenue slump wasn’t due only to the ad downturn. Buzzfeed’s content business—which makes money creating custom content for brands or from licensing Buzzfeed’s intellectual property, also fell. Its&nbsp; commerce revenue, which includes revenue Buzzfeed earns when someone buys products that the&nbsp;company recommends, likewise dropped. Time spent by consumers on Buzzfeed’s sites also sank 17% to 68.5 million hours from 80.3 million hours in the third quarter of 2024.</p>",
+            "published_at": "2025-11-07T17:23:20.458Z",
+            "url": "https://www.theinformation.com/briefings/buzzfeed-revenues-sinks-17-55-6-million?unlock=67a644&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/buzzfeed-revenues-sinks-17-55-6-million?unlock=67a644&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16244,
+            "guid": "35918d",
+            "headline": "Elon Musk Says Tesla Could Build Chip Fab, Work With Intel",
+            "dek": "“Even when we extrapolate the best case scenario for chip production from our suppliers, it’s still not enough,\" Musk said. \"So I think we’re probably going to have to build a gigantic chip fab.” ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla CEO Elon Musk said Thursday that Tesla may have to eventually build its own chip fab to manufacture chips for its autonomous vehicle and robotics businesses.</p>\n\n<p>“One of the things I’m trying to figure out is — how do we make enough chips?” Musk said at Tesla’s annual meeting after <a href=\"https://www.theinformation.com/articles/elon-musks-victory\">shareholders approved</a> his $1 trillion pay package. “Even when we extrapolate the best case scenario for chip production from our suppliers, it’s still not enough… So I think we’re probably going to have to build a gigantic chip fab.” Musk has raised the possibility of Tesla building its own chip fab previously, <a href=\"https://x.com/elonmusk/status/1772015928789676435\">writing</a> on X in 2024 that Tesla “could” build a chip fab but “I sure hope we don’t have to.”</p>\n\n<p>Currently, Tesla designs its own chips and has contracts with chipmakers including TSMC and Samsung to produce them. Musk also raised the possibility of Tesla doing a deal with Intel at the annual meeting. “We haven’t signed any deal, but it’s probably worth having discussions with Intel,” Musk said. His comments caused Intel shares to spike as much as 3% in after-hours trading before falling.</p>",
+            "published_at": "2025-11-07T14:03:10.487Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-build-chip-fab-work-intel?unlock=35918d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-build-chip-fab-work-intel?unlock=35918d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16243,
+            "guid": "733c9e",
+            "headline": "Nvidia CEO: No Plans to Ship Blackwell Chips to China",
+            "dek": "Nvidia’s business in China has been affected by the policies of both Washington and Beijing.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia CEO Jensen Huang said on Friday that there are “no active discussions” about selling the company’s most advanced Blackwell chips to China.</p>\n\n<p>In a televised interview with reporters in Taiwan, Huang also said Nvidia is currently not planning to ship any products&nbsp;to China.</p>\n\n<p>The White House has told other federal departments that the U.S. won’t allow Nvidia to sell a scaled-down version of its Blackwell chips to China, <a href=\"https://www.theinformation.com/articles/u-s-block-nvidias-sale-scaled-back-ai-chips-china?rc=jnr9wn\">The Information reported</a> this week. While the U.S. hasn’t banned Nvidia from selling its less powerful H20 chip in China, the Chinese government has told local tech companies to avoid purchasing all Nvidia chips.</p>\n\n<p>Huang said in the interview that it is up to China to decide whether Chinese companies can purchase Nvidia products again. “I look forward to them changing their policy,” he said.</p>\n\n<p>Huang said he was in Taiwan to visit Nvidia’s longtime partner, Taiwan Semiconductor Manufacturing Company, and participate in the company’s sports day. “Business is very strong,” he said. “So I came back to encourage my TSMC friends.”</p>",
+            "published_at": "2025-11-07T10:10:47.143Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-ship-blackwell-chips-china?unlock=733c9e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-ship-blackwell-chips-china?unlock=733c9e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16242,
+            "guid": "3f3f7d",
+            "headline": "OpenAI CEO Sam Altman Forecasts $20 Billion in Annualized Revenue This Year",
+            "dek": "The company expects to finance its $1.4 trillion infrastructure costs with increased revenue\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CEO Sam Altman said he doesn’t want the government to bail them out if the company fails. “If we screw up and can’t fix it, we should fail, and other companies will continue on doing good work and servicing customers,” Altman said in an X post on Thursday.</p>\n\n<p>Altman also said that OpenAI expects future revenue growth, ranging from hardware AI devices to robotics to an “AI cloud” to drive revenue growth that could help the company fund its $1.4 trillion in commitments over the next eight years.</p>\n\n<p>Altman’s comments come after OpenAI CFO Sarah Friar, on Wednesday, suggested a federal backstop could support financing AI chips and data centers that could help the U.S. stay competitive globally.</p>\n\n<p>“We’re looking for an ecosystem of banks, private equity, maybe even governmental, the ways governments can come to bear,” she said. Friar later walked back her comments in a LinkedIn post, stating that OpenAI isn’t seeking a government backstop for its infrastructure projects.</p>\n\n<p>In his X post, Altman added that while OpenAI doesn’t have a government backstop for its data center projects, OpenAI has discussed government loan guarantees to support the development of semiconductor fabrication plants in the U.S. in order to strengthen the domestic chip supply chain.</p>",
+            "published_at": "2025-11-07T05:54:28.008Z",
+            "url": "https://www.theinformation.com/briefings/openai-ceo-sam-altman-forecasts-20-billion-annualized-revenue-year?unlock=3f3f7d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-ceo-sam-altman-forecasts-20-billion-annualized-revenue-year?unlock=3f3f7d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16241,
+            "guid": "caa110",
+            "headline": "AWS Tech Leader Hints at More Chip Options for Customers",
+            "dek": "AWS already gives customers lots of chip options when renting cloud servers, and one of its technology managers says he expects that will expand in the future. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon Web Services currently sells a smorgasbord of cloud servers equipped with chips from various manufacturers, as well as ones it has developed in-house. And according to Shaown Nandi, director of technology at AWS, that menu is poised to expand in the coming years.</p>\n\n<p>“You will see us offering not just Intel silicon, AMD silicon, Nvidia silicon, and our own silicon, but I suspect others in the future as well,” Nandi said in an appearance on The Information’s TITV.</p>\n\n<p>Nandi didn’t provide additional&nbsp;details, so it’s not clear what other chips AWS might offer. One possibility is RISC-V (pronounced risk five), an open-source&nbsp;chip design that competes with chip designs from Arm Holdings.</p>\n\n<p>In any event, Nandi isn’t really going out on a limb here. He’s repeating Amazon’s longstanding&nbsp;mantra of giving customers the largest possible array of choices. At the same time, he seems to be suggesting that customers’ chip needs could evolve in the coming years, and that AWS will move to address those.</p>",
+            "published_at": "2025-11-06T22:39:12.302Z",
+            "url": "https://www.theinformation.com/briefings/aws-tech-leader-hints-chip-options-customers?unlock=caa110&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-tech-leader-hints-chip-options-customers?unlock=caa110&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16240,
+            "guid": "7c91e1",
+            "headline": "Craft Ventures’ Partner Plots New Fund",
+            "dek": "Rosenblatt’s departure continues the trend of experienced investors leaving venture firms to start their own, solo operations. ",
+            "source_url": "https://www.theinformation.com/articles/ai-stokes-battles-series-altimeter-raise-new-growth-fund?rc=cmz1ru",
+            "source_label": "The Information",
+            "body": "<p>Bryan Rosenblatt, a partner at Craft Ventures, is planning to leave the firm at the end of the year to start his own investment firm, according to two people with direct knowledge of the matter. Rosenblatt’s departure continues the trend of experienced investors leaving&nbsp;their jobs&nbsp;to start their own, solo operations.</p>\n\n<p>Rosenblatt’s firm, named Sandlot, has started fundraising talks for its first fund, targeting a $50 million close, according to one of the people. The fund and existence of the firm has not been previously reported.</p>\n\n<p>Craft Ventures, started eight years ago by David Sacks, shifted its focus to later-stage investments from very early stage investments earlier this year and restructured its team, The Information <a href=\"https://www.theinformation.com/articles/david-sacks-craft-ventures-lays-staff-co-founder-steps-back?rc=cmz1ru\">previously reported</a>. Sandlot will back young startups across all sectors, including artificial intelligence and consumer.</p>",
+            "published_at": "2025-11-06T22:01:36.143Z",
+            "url": "https://www.theinformation.com/briefings/craft-ventures-partner-leaves-start-new-fund?unlock=7c91e1&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/craft-ventures-partner-leaves-start-new-fund?unlock=7c91e1&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1608818,
+                    "display_name": "Natasha Mascarenhas"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16239,
+            "guid": "031e1b",
+            "headline": "Tesla Shareholders Approve Musk Pay Package",
+            "dek": "More shareholders voted in favor of a proposal for Tesla to invest in Musk's xAI than those voting against. Tesla's board will consider next steps, the company said.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>More than 75% of Tesla shareholders voted in favor of Elon Musk’s $1 trillion pay package, the company announced at Tesla’s shareholder meeting on Thursday afternoon.</p>\n\n<p>On a shareholder proposal that Tesla invest in Musk’s xAI, Tesla announced that more votes were cast in favor than against but “there was a significant number of abstentions”. The board “will examine next steps in light of the shareholder support,” Tesla said.</p>\n\n<p>The big majority in favor of <a href=\"https://www.theinformation.com/briefings/tesla-proposes-elon-musk-pay-package-worth-1-trillion?rc=9byxri\">the pay package</a>—which requires Tesla to meet a variety of goals, including reaching a market capitalization of $8.5 trillion before Musk collects the stock—followed an intense campaign by both Musk and Tesla chair Robyn Denholm in recent weeks. Denholm said the board was concerned Musk would leave if the proposal wasn’t approved.</p>\n\n<p>At the same time, shareholder advisory firms ISS and Glass Lewis had recommended shareholders vote against the proposal, while Norway’s sovereign wealth fund and a 1.1% shareholder voted against it. But Tesla has a big group of individual shareholders—holding more than one-third of the stock—who tend to be big supporters of Musk.</p>",
+            "published_at": "2025-11-06T22:01:22.941Z",
+            "url": "https://www.theinformation.com/briefings/tesla-shareholders-approve-musk-pay-package?unlock=031e1b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-shareholders-approve-musk-pay-package?unlock=031e1b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16238,
+            "guid": "f5e364",
+            "headline": "Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy",
+            "dek": "The Chan Zuckerberg Initiative will now focus on using artificial intelligence to research disease.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms CEO Mark Zuckerberg and his wife, Priscilla Chan, are restructuring their philanthropy, the Chan Zuckerberg Initiative. The charity on Thursday <a href=\"https://biohub.org/blog/frontier-ai-biology-initiative/\">said</a> it would now focus on using artificial intelligence to research disease and combine its scientific teams into a new organization, Biohub.</p>\n\n<p>The Chan Zuckerberg Initiative also said it has acquired EvolutionaryScale, a startup developing AI that can generate new proteins, and named Alex Rives, the startup’s co-founder and chief scientist, as its head of science. Rives was previously a research scientist at Meta.</p>\n\n<p>Previously, the Chan Zuckerberg Initiative had also focused on social issues like racial equity and immigration reform. In February, the philanthropy ended diversity-based recruiting and laid off or reassigned employees who worked on diversity programs.</p>",
+            "published_at": "2025-11-06T20:49:49.038Z",
+            "url": "https://www.theinformation.com/briefings/mark-zuckerberg-priscilla-chan-restructure-philanthropy?unlock=f5e364&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/mark-zuckerberg-priscilla-chan-restructure-philanthropy?unlock=f5e364&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1513375,
+                    "display_name": "Kalley Huang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        }
+    ]
+}
