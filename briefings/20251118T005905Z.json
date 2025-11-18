@@ -1,0 +1,693 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16320,
+            "guid": "7badac",
+            "headline": "Exclusive: Murati’s Thinking Machines Aims to Raise $5 Billion",
+            "dek": "The funding would more than triple the money it's raised.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Thinking Machines Lab, the company co-founded by ex-OpenAI Chief Technology Officer Mira Murati, is in talks with potential investors to raise about $5 billion in the startup’s next round of funding, according to a person who spoke with Murati. That target would more than triple the capital the company has already raised. It’s aiming for a valuation of at least $50 billion, according to a second person.</p>\n\n<p>The fundraising target, which hasn’t been reported, is ambitious for a company that’s only recently started to release products. It comes as investors pour money into <a href=\"https://www.theinformation.com/articles/investors-chase-neolabs-outflank-openai-anthropic?rc=zjctrx\">neolabs, or research-intensive AI startups</a> seeking to exploit new approaches to developing AI models they say major developers like OpenAI and Anthropic may have overlooked.</p>\n\n<p>Thinking Machines Lab previously raised $2 billion, most recently at a valuation of $10 billion, from investors including Andreessen Horowitz. It could use the new money to hire AI researchers and pay for the servers to train and run its models.</p>\n\n<p>In October, Thinking Machines launched Tinker, an application programming interface that allows developers to finetune, or tweak, open-source models. Murati has <a href=\"https://www.theinformation.com/articles/ex-openai-cto-muratis-startup-plans-compete-openai-others\">told</a> investors that the company aims to produce models customized to a company’s performance indicators or business metrics. It <a href=\"https://www.theinformation.com/articles/10-billion-enigma-mira-murati\">also plans to release a consumer product</a>, such as an AI-powered assistant consumers can speak to.</p>\n\n<p>Bloomberg previously reported the valuation target. A spokesperson didn’t immediately have a comment.</p>",
+            "published_at": "2025-11-18T00:35:17.040Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-muratis-thinking-machines-aims-raise-5-billion?unlock=7badac&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-muratis-thinking-machines-aims-raise-5-billion?unlock=7badac&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                },
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16319,
+            "guid": "0bf329",
+            "headline": "Online Marketplace Faire Announces Employee Share Sale At $5.2 Billion Valuation",
+            "dek": "The company said its sellers would facilitate more than $3 billion in product sales this year.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Online marketplace Faire <a href=\"https://www.linkedin.com/pulse/milestone-faire-our-retailers-brands-employees-fairewholesale-doazc/?trackingId=lfuYtuIRjM3ZFciVmY0AMg%3D%3D\">announced</a> a tender offer Monday to buy employee shares at a price that values the company at $5.2 billion, nearly 60% lower than the company’s last public valuation of $12.6 billion from mid-2022. The shares will be bought by a group of investors, including hedge fund and growth equity investment firm WCM Investment Management, Baillie Gifford and True North Fund.</p>\n\n<p>Faire operates an online marketplace where brands and other sellers can list their products for retailers to purchase in bulk to stock in their stores. It saw a surge of demand during the Covid pandemic as sellers sought out online alternatives to the in-person trade shows where they traditionally make sales. Faire capitalized on that demand with three fundraising rounds in roughly 18 months starting in late 2020, culminating in a $416 million investment in May 2022 from Sequoia Capital. But soon after that, e-commerce growth began to slow, and the company was forced to cut costs and slashed its internal valuation to $5 billion.</p>\n\n<p>Faire’s growth has picked back up recently, however. The company said Monday its annualized revenue was more than $500 million and that Faire would facilitate nearly $3 billion in product sales this year. It also announced plans to develop AI tools for sellers and retailers as well as a logistics service that will allow retailers to receive products from different sellers in one shipment. The Information reported Faire’s talks with potential investors, revenue details and the plans for the logistics service in August.</p>",
+            "published_at": "2025-11-17T22:48:31.614Z",
+            "url": "https://www.theinformation.com/briefings/online-marketplace-faire-announces-employee-share-sale-5-2-billion-valuation?unlock=0bf329&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/online-marketplace-faire-announces-employee-share-sale-5-2-billion-valuation?unlock=0bf329&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15646,
+                    "guid": "ef2c76b548",
+                    "title": "E-Commerce Startup Faire Targets $500 Million in Revenue",
+                    "url": "https://www.theinformation.com/articles/e-commerce-startup-faire-targets-500-million-revenue?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16318,
+            "guid": "9c4179",
+            "headline": "Amazon Sells $15 Billion in Bonds",
+            "dek": "The bond sale follows similar moves by other tech companies, most obviously Meta Platforms earlier this month.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-11-17/amazon-kicks-off-first-us-high-grade-bond-sale-in-three-years?sref=qvN0c6kf",
+            "source_label": "Bloomberg",
+            "body": "<p>Amazon is expected to raise $15 billion in a bond offering, <a href=\"https://www.bloomberg.com/news/articles/2025-11-17/amazon-kicks-off-first-us-high-grade-bond-sale-in-three-years?sref=qvN0c6kf\">Bloomberg reported,</a> the latest sign of how big tech companies are tapping the debt markets to help fund enormous investments in AI.</p>\n\n<p>The Bloomberg report said Amazon’s offering attracted as much as $80 billion in demand. The bond sale follows similar moves by other tech companies, most obviously Meta Platforms earlier this month.</p>",
+            "published_at": "2025-11-17T20:03:10.184Z",
+            "url": "https://www.theinformation.com/briefings/amazon-sells-15-billion-bonds?unlock=9c4179&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-sells-15-billion-bonds?unlock=9c4179&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16317,
+            "guid": "827ddf",
+            "headline": "Bezos Founds New AI Startup With Over $6 Billion in Funding",
+            "dek": "The project marks the first time Bezos has taken on a formal operational role since stepping down as Amazon’s CEO in mid-2021.",
+            "source_url": "",
+            "source_label": "The New York Times",
+            "body": "<p>Amazon founder Jeff Bezos has cofounded a new AI startup that he will lead as co-CEO, the New York Times <a href=\"https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html\">reported</a> Monday. The company, known as Project Prometheus, has more than $6 billion in funding, in part from Bezos, and will be focused on artificial intelligence that can help with engineering, manufacturing and other technical tasks for sectors like aerospace and automobiles.</p>\n\n<p>Bezos’s cofounder is former Google executive Vik Bajaj, the report said. At Google, Bajaj worked closely with Sergey Brin on several initiatives, including the Wing drone delivery service and the self-driving car project that eventually became Waymo. Most recently, Bajaj cofounded Foresite Labs, an incubator for AI and data science startups. Bezos’s work as co-CEO is the first time he has taken on a formal operational role since stepping down as Amazon’s CEO in 2021. Bezos has also spent significant time since leaving Amazon on his space startup Blue Origin, though his title there is “founder.”</p>\n\n<p>The project’s funding makes it one of the best-funded early stage AI companies. Project Prometheus has already hired nearly 100 employees, including researchers from OpenAI and Meta, and is aiming to work on similar efforts to <a href=\"https://www.theinformation.com/briefings/former-openai-deepmind-leaders-seek-funding-chatgpt-material-science?rc=d8mrkd\">Periodic Labs</a>, which is developing AI to automate scientific research, the report said.</p>",
+            "published_at": "2025-11-17T14:36:54.887Z",
+            "url": "https://www.theinformation.com/briefings/bezos-founds-new-ai-startup-6-billion-funding?unlock=827ddf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bezos-founds-new-ai-startup-6-billion-funding?unlock=827ddf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16316,
+            "guid": "cb836a",
+            "headline": "Japan’s Sakana AI Worth More Than $2.6 Billion After New Round",
+            "dek": "The Tokyo-based startup’s backers include U.S. venture capital firms such as Khosla Ventures and New Enterprise Associates.  ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Sakana AI, a Tokyo-based developer of artificial intelligence models and applications, said it has raised $135 million in a funding round at a valuation of $2.5 billion without the newly raised capital.</p>\n\n<p>New investors in the round include U.S.-based Factorial Funds, Australian financial giant Macquarie Capital and the venture capital arm of Spanish banking group Santander Group, Sakana said. The Information last month <a href=\"https://www.theinformation.com/articles/openais-japanese-rival-sakana-talks-raise-capital-2-5-billion-valuation?rc=jnr9wn\">reported</a> that Sakana was in talks to raise the new round.</p>\n\n<p>Sakana’s existing investors from previous rounds include Khosla Ventures, New Enterprise Associates and Lux Capital, as well as Japanese banking group Mitsubishi UFJ Financial Group. Those investors also participated in the new round. Including the new capital, Sakana is now valued at $2.635 billion.</p>\n\n<p>Sakana is one of a number of startups, including France-based Mistral AI and India-based Krutrim, that are developing AI with a better grasp of each region’s language and culture. This year, Sakana has announced deals to develop AI for some of Japan’s largest financial institutions.</p>",
+            "published_at": "2025-11-17T10:11:38.957Z",
+            "url": "https://www.theinformation.com/briefings/japans-sakana-ai-worth-2-6-billion-new-round?unlock=cb836a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/japans-sakana-ai-worth-2-6-billion-new-round?unlock=cb836a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16315,
+            "guid": "17d3eb",
+            "headline": "Alibaba Denies Report That It Helps China’s Military ",
+            "dek": "The Financial Times cited a White House memo that alleged Alibaba shares its customer data with China’s government and military.\r\n",
+            "source_url": "https://www.ft.com/content/30fb83a0-8cb9-4805-b5d2-19b5ef510043",
+            "source_label": "The Financial Times ",
+            "body": "<p>Alibaba Group denied a Financial Times report that alleged the Chinese tech giant provides China’s military with technology support and data.</p>\n\n<p>The FT reported Saturday that a White House national security memo, which was provided to the newspaper, includes declassified intelligence on the work Alibaba does for the People’s Liberation Army.</p>\n\n<p>Citing the White House memo, the newspaper reported that Alibaba provides the Chinese government and the PLA with access to its customer data that includes IP addresses and payment records. Alibaba, an e-commerce giant, also operates China’s largest cloud computing service and has developed the popular Qwen series of large-language models.</p>\n\n<p>“The assertions and innuendos in the article are completely false,” Alibaba said in a statement about the FT report. “We question the motivation behind the anonymous leak, which the FT admits that they cannot verify. This malicious PR operation clearly came from a rogue voice looking to undermine President Trump’s recent trade deal with China,” the company said in the statement.</p>\n\n<p>The U.S. has accused multiple Chinese AI developers of aiding the PLA. For example, Beijing-based startup Zhipu has been added to the Commerce Department’s trade blacklist on such grounds, and Zhipu has denied these allegations.</p>",
+            "published_at": "2025-11-17T06:40:42.264Z",
+            "url": "https://www.theinformation.com/briefings/alibaba-denies-report-helps-chinas-military?unlock=17d3eb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibaba-denies-report-helps-chinas-military?unlock=17d3eb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16314,
+            "guid": "a34334",
+            "headline": "Apple CEO Succession Plans Accelerate",
+            "dek": "Hardware engineering chief John Ternus is expected to take top job",
+            "source_url": "https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e",
+            "source_label": "Financial Times",
+            "body": "<p>Apple’s succession plans for its next chief executive have accelerated, with its board and senior executives preparing for current CEO Tim Cook to step down potentially next year, according to the <a href=\"https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e\">Financial Times</a>.</p>\n\n<p>Any announcement of succession likely won’t happen until after late January when the company announces its holiday-quarter earnings, the news outlet reported. John Ternus, Apple’s senior vice president of hardware engineering, is expected to replace Cook.</p>\n\n<p>Over the past year, there have been a number of big changes in Apple’s top executive ranks. Chief operating officer Jeff Williams, long rumored as a potential Apple CEO candidate, recently departed. Apple chief financial officer Luca Maestri, who was close with Cook, has stepped back.</p>",
+            "published_at": "2025-11-16T20:39:20.269Z",
+            "url": "https://www.theinformation.com/briefings/apple-ceo-succession-plans-accelerate?unlock=a34334&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-ceo-succession-plans-accelerate?unlock=a34334&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16281,
+            "guid": "265e1a",
+            "headline": "Berkshire Hathaway Takes $4.3 Billion Stake in Alphabet",
+            "dek": "The investment in Google parent is another tech bet in addition to its big Apple holding.",
+            "source_url": "",
+            "source_label": "Regulatory filing",
+            "body": "<p>Warren Buffett’s Berkshire Hathaway purchased shares in Google parent Alphabet worth $4.3 billion at the end of the third quarter, a vote of confidence in the search giant after its shares have surged this year.</p>\n\n<p>The investment, disclosed in a quarterly regulatory filing, adds to Berkshire’s exposure to the tech industry, which Buffett once shied from. The firm also owned a $60.5 billion stake in Apple and a $2.2 billion stake in Amazon. Buffett, 95, said in May he would step down as CEO by the end of the year, appointing Greg Abel as his successor.</p>\n\n<p>Shares in Alphabet have risen 45% this year as investors warm to the company’s artificial-intelligence bets. The stock rose about 1.6% in after-hours trading following the Berkshire disclosure. Berkshire also pared its Apple position during the third quarter.</p>",
+            "published_at": "2025-11-14T23:12:38.379Z",
+            "url": "https://www.theinformation.com/briefings/berkshire-hathaway-takes-4-3-billion-stake-alphabet?unlock=265e1a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/berkshire-hathaway-takes-4-3-billion-stake-alphabet?unlock=265e1a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16280,
+            "guid": "8e819b",
+            "headline": "Elon Musk’s xAI Delays Grok 5 Release to Next Year ",
+            "dek": "XAI has appears to have pushed the Grok 5 release deadline from the end of this year to the first quarter of 2026. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>XAI plans to release its next-generation Grok 5 artificial intelligence model in the first three months of next year, CEO Elon Musk said on Friday. That’s later than a deadline Musk had previously set of releasing the model by the end of 2025.</p>\n\n<p>In an <a href=\"https://x.com/BaronCapital/status/1989318999927107663\">interview</a> with the investor Ron Baron, who has backed several Musk companies including xAI, Musk said that Grok 5 would be released “in Q1 sometime.” Musk had previously <a href=\"https://x.com/elonmusk/status/1953515379688714697\">said</a> on X this August that Grok 5 would be out before the end of 2025. During Friday’s conversation with Baron, Musk also said that Grok 5 will have 6 trillion parameters, a key measure of the size of large language models, an increase from 3 trillion parameters for its predecessors Grok 3 and Grok 4.</p>\n\n<p>Additionally, Musk said Friday that Tesla is still interested in building its own chip fabrication plant, an idea he <a href=\"https://www.theinformation.com/briefings/elon-musk-says-tesla-build-chip-fab-work-intel\">also raised</a> at the company’s shareholder meeting last week. Musk said that Tesla’s existing chip suppliers like Taiwan Semiconductor Manufacturing Company and Samsung would have to build “100, 200 billion AI chips a year in the timeframe that we need them” in order for Tesla to not need its own fab. Musk said he needs the chips for Tesla’s vehicles and the Optimus robot.</p>",
+            "published_at": "2025-11-14T20:44:06.591Z",
+            "url": "https://www.theinformation.com/briefings/elon-musks-xai-delays-grok-5-release-next-year?unlock=8e819b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musks-xai-delays-grok-5-release-next-year?unlock=8e819b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16279,
+            "guid": "fa7e9f",
+            "headline": "OpenAI Pilots Group Chats in ChatGPT",
+            "dek": "The group chat capabilities will be available for users in Japan, New Zealand, South Korea and Taiwan.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI said Friday it has begun piloting group chat capabilities in ChatGPT for people in Japan, New Zealand, South Korea and Taiwan. The move <a href=\"https://www.theinformation.com/articles/openai-quietly-designed-rival-google-workspace-microsoft-office?rc=c48ukx\">confirms The Information’s report from June</a> about the feature, which could eventually help OpenAI’s chatbot compete more directly with Microsoft and Google in collaboration software and other productivity apps.</p>\n\n<p>The announcement comes as OpenAI also is <a href=\"https://www.theinformation.com/articles/openai-readies-facebook-era\">using product strategies favored by older tech giants like Meta Platforms</a> for boosting revenue and usage. These include a new TikTok-like video app and ecommerce capabilities, as well as more controversial additions such as allowing users to generate erotica using ChatGPT.</p>\n\n<p>With the new chat feature, people can use a ChatGPT group chat to plan a trip or draft a paper together. Group chats with underage users come with additional safety restrictions, according to an OpenAI blog post.</p>",
+            "published_at": "2025-11-14T20:23:06.412Z",
+            "url": "https://www.theinformation.com/briefings/openai-pilots-group-chats-chatgpt?unlock=fa7e9f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-pilots-group-chats-chatgpt?unlock=fa7e9f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15292,
+                    "guid": "6255b52e88",
+                    "title": "OpenAI Quietly Designed a Rival to Google Workspace, Microsoft Office",
+                    "url": "https://www.theinformation.com/articles/openai-quietly-designed-rival-google-workspace-microsoft-office?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16278,
+            "guid": "ec3326",
+            "headline": "StubHub Shares Plunge After Earnings",
+            "dek": "The company didn't give any guidance about the fourth quarter, which may have frustrated investors looking for some idea of what StubHub is seeing so far this quarter. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Shares of StubHub plunged 22% on Friday, the day after the ticketing company reported its first earnings result as a public company. The stock is now trading 38% below its IPO price, just two months after its debut.</p>\n\n<p>The company reported 8% higher revenue in the third quarter, a stronger growth rate than the 3% it reported for the first half of the year. But the company didn’t give any guidance about the fourth quarter, which may have frustrated investors looking for some idea of what StubHub is seeing so far this quarter. CEO Eric Baker explained the lack of guidance by saying the company was taking a “long term approach.”</p>\n\n<p>The Information <a href=\"https://www.theinformation.com/articles/stubhub-missed-financial-targets-ahead-ipo?rc=9byxri\">reported in late August</a> that StubHub’s business fell short of revenue and profit projections, it had shared with lenders, for the first half of the year.</p>",
+            "published_at": "2025-11-14T20:15:45.864Z",
+            "url": "https://www.theinformation.com/briefings/stubhub-shares-plunge-earnings?unlock=ec3326&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/stubhub-shares-plunge-earnings?unlock=ec3326&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16277,
+            "guid": "1c2083",
+            "headline": "Walmart CEO to Step Down",
+            "dek": "John Furner, the current head of Walmart’s U.S. business, will take over the CEO role.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Walmart CEO Doug McMillon will retire in January, the company said Friday. He’ll be succeeded by John Furner, who is currently the CEO of Walmart’s U.S. business.</p>\n\n<p>McMillon, who has held the top job since 2014, has overseen a period of dramatic change for the retail giant. During his tenure, the company has greatly expanded its e-commerce business and has moved into other areas like digital advertising. It’s also sought to compete more aggressively with Amazon by expanding its online marketplace, Walmart+ membership program and grocery delivery service. More recently, Walmart has also been trying to take advantage of growing user adoption of artificial intelligence, including a partnership with OpenAI to sell products through ChatGPT’s Instant Checkout feature.</p>\n\n<p>McMillon will remain on Walmart’s board until June and will serve as an adviser to Furner through early 2027. Walmart said it will name a new head of its U.S. business by early next year.</p>",
+            "published_at": "2025-11-14T14:39:32.873Z",
+            "url": "https://www.theinformation.com/briefings/walmart-ceo-step?unlock=1c2083&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/walmart-ceo-step?unlock=1c2083&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15571,
+                    "guid": "e1337f4970",
+                    "title": "To Court Big Brands, Walmart Throws Some Smaller Merchants Under the Bus",
+                    "url": "https://www.theinformation.com/articles/court-big-brands-walmart-throws-smaller-merchants-bus?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16276,
+            "guid": "7c2998",
+            "headline": "Blue Origin Lands New Glenn Rocket, Deploys Payloads For First Time",
+            "dek": "Jeff Bezos’ space company achieved major milestones on the second launch of its giant new rocket. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Blue Origin, the space company founded and owned by Jeff Bezos, took a major step forward by successfully launching its giant New Glenn rocket and landing its booster stage on a barge off the coast of Florida.</p>\n\n<p>It was a landmark achievement for Blue Origin in its ambitions of creating reusable rockets capable of delivering satellites into orbit and eventually astronauts and cargo to the moon. As part of Thursday’s launch, Blue Origin also successfully deployed its payloads in space, including two NASA spacecraft headed to Mars as part of the agency’s Escapade mission.</p>\n\n<p>Blue Origin is mostly known for sending tourists to the edge of space on its reusable 63-foot tall New Shepard rocket. New Glenn, in contrast, is 321-feet tall and will allow Blue Origin to compete for commercial and government launch contracts against Elon Musk’s SpaceX. New Glenn is in a similar class to Starship, SpaceX’s new 400-plus foot tall rocket.</p>\n\n<p>While SpaceX has successfully launched hundreds of rockets and dominates the commercial space business, it has also struggled with technical mishaps that have caused multiple explosions of its Starship rockets. Blue Origin landed New Glenn on its second launch attempt.</p>",
+            "published_at": "2025-11-13T21:59:55.723Z",
+            "url": "https://www.theinformation.com/briefings/blue-origin-lands-new-glenn-rocket-deploys-payloads-first-time?unlock=7c2998&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blue-origin-lands-new-glenn-rocket-deploys-payloads-first-time?unlock=7c2998&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 12494,
+                    "guid": "9e84aff14c",
+                    "title": "Jeff Bezos Readies Blue Origin for Its Biggest Test",
+                    "url": "https://www.theinformation.com/articles/jeff-bezos-readies-blue-origin-for-its-biggest-test?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16275,
+            "guid": "477ae3",
+            "headline": "Murati’s Thinking Machines Lab In Talks To Raise Money at $50 Billion Valuation",
+            "dek": "The talks come just five months after the startup announced its last round at a $10 billion valuation.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-11-13/murati-s-thinking-machines-in-funding-talks-at-50-billion-value",
+            "source_label": "Bloomberg",
+            "body": "<p>Thinking Machines Lab, the AI company cofounded by ex-OpenAI Chief Technology Officer Mira Murati, is in talks to raise money at a roughly $50 billion valuation, according to a report from Bloomberg. The talks come just five months after the startup announced its last round at a $10 billion valuation.</p>\n\n<p>Since its official launch in February, Thinking Machines has released Tinker, an application programming interface that allows developers to finetune, or tweak, open-source models.</p>\n\n<p>Murati has also <a href=\"https://www.theinformation.com/articles/ex-openai-cto-muratis-startup-plans-compete-openai-others\">told investors</a> that the company aims to produce models customized to key performance indicators, specific business metrics that companies track, typically related to revenue or profit growth. Thinking Machines also plans to release a consumer product, such as an AI-powered assistant consumers can speak to, The Information has previously <a href=\"https://www.theinformation.com/articles/10-billion-enigma-mira-murati\">reported</a>.</p>\n\n<p>Thinking Machines is one of a number of startups founded by former OpenAI executives and researchers that have landed high valuations in recent months, including Ilya Sutskever’s Safe Superintelligence and Liam Fedus’ Periodic Labs.</p>",
+            "published_at": "2025-11-13T21:34:15.901Z",
+            "url": "https://www.theinformation.com/briefings/muratis-thinking-machines-lab-talks-raise-money-50-billion-valuation?unlock=477ae3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/muratis-thinking-machines-lab-talks-raise-money-50-billion-valuation?unlock=477ae3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15820,
+                    "guid": "7488b22e59",
+                    "title": "The $10 Billion Enigma of Mira Murati",
+                    "url": "https://www.theinformation.com/articles/10-billion-enigma-mira-murati?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16274,
+            "guid": "38b9b8",
+            "headline": "Amazon Renames Satellite Internet Effort to Amazon Leo",
+            "dek": "The effort was previously known as Project Kuiper",
+            "source_url": "https://www.aboutamazon.com/news/amazon-leo/project-kuiper-becomes-amazon-leo",
+            "source_label": "The Information",
+            "body": "<p>Amazon has a new name for its satellite internet effort: Amazon Leo, a reference to its constellation of satellites in low Earth orbit.</p>\n\n<p>In a <a href=\"https://www.aboutamazon.com/news/amazon-leo/project-kuiper-becomes-amazon-leo\">blog post</a>, Rajeev Badyal, an Amazon Leo vice president, said that the satellite effort’s previous name, Project Kuiper, was a codename, which was inspired by the Kuiper Belt, a ring of asteroids in the outer solar system. Amazon’s initial constellation for the system is expected to consist of more than 3,000 satellites, which will deliver wireless internet to areas on Earth that are underserved by conventional forms of internet service.</p>\n\n<p>So far, Amazon has launched only the first 150 or so of those satellites, which the company began launching in April. The company expects that it will require more than 80 rocket launches to deploy all of the satellites for its initial constellation. The service will compete with Starlink, the dominant satellite internet service, which is operated by Elon Musk’s SpaceX and <a href=\"https://satellitemap.space/constellation/starlink\">has more than 8,000</a> active satellites orbiting Earth.</p>",
+            "published_at": "2025-11-13T20:40:19.259Z",
+            "url": "https://www.theinformation.com/briefings/amazon-renames-satellite-internet-amazon-leo?unlock=38b9b8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-renames-satellite-internet-amazon-leo?unlock=38b9b8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16273,
+            "guid": "c15bc3",
+            "headline": "Anthropic Says Chinese Spies Used Its AI for Cyberattacks",
+            "dek": "Anthropic said the hackers succeeded at breaking into targets “in a small number of cases” before the AI startup cut off their access to the tools. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic recently cut off access to its AI models for several hackers who were using the technology to carry out cyberattacks and espionage, the company said Thursday.</p>\n\n<p>Anthropic said the hackers, who were linked to the Chinese government, used its Claude Code tool to try to hack into 30 targets, including tech companies, financial institutions, and government agencies in mid-September. Anthropic said the hackers succeeded at breaking into targets “in a small number of cases” before the AI startup cut off their access to the tools.</p>\n\n<p>The episode illustrates how AI tools are making it faster and easier for hackers to carry out cyberattacks. In this case, the hackers used Anthropic’s models to automatically write code that was used for the hacks, and to connect to other software like password crackers.</p>\n\n<p>The hackers were able to “jailbreak” Claude, meaning they overrode Anthropic’s safety guardrails which are supposed to prevent the software from being used for malicious purposes, Anthropic said. The startup said it has since strengthened Claude’s guardrails to prevent similar cyberattacks.</p>",
+            "published_at": "2025-11-13T20:36:52.187Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-says-chinese-spies-used-ai-cyberattacks?unlock=c15bc3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-says-chinese-spies-used-ai-cyberattacks?unlock=c15bc3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16272,
+            "guid": "801aa2",
+            "headline": "Grayscale IPO Filing Shows Revenue Decline ",
+            "dek": "Crypto asset manager Grayscale seeks to list on NYSE under ticker “GRAY.” ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Grayscale, the crypto asset manager owned by Digital Currency Group, a crypto conglomerate founded by Barry Silbert, <a href=\"https://www.sec.gov/Archives/edgar/data/2073548/000119312525279127/0001193125-25-279127-index.htm\">filed</a> publicly for an IPO, despite a slowdown in its business.</p>\n\n<p>Grayscale was the driving force behind getting crypto assets traded on stock exchanges. But competition from other asset managers and from the once booming business of stocks such as Strategy that hold crypto hurt its revenue.</p>\n\n<p>In 2024, Grayscale made revenue of $506 million, down 1.4% from 2023. In the first nine months this year, it made net income of $203 million on $319 million revenue, down from $224 million net income and $398 million revenue during the same period last year.</p>\n\n<p>Founded in 2013, Grayscale is known for offering the Grayscale Bitcoin Trust, once the world’s biggest bitcoin trust, which it successfully converted into an exchange-traded fund in 2024 after winning a legal battle against the Securities and Exchange Commission. It now manages $35 billion crypto assets across funds.</p>\n\n<p>Grayscale said in the filing its products offer better return on equity and less risk than crypto treasury stocks, because it doesn’t need to issue dilutive equity or debt.</p>\n\n<p>The company seeks to list on NYSE under the ticker “GRAY.” Morgan Stanley, Bank of America, Jefferies, and Cantor are lead advisers. It filed confidentiality for the listing in July.</p>",
+            "published_at": "2025-11-13T19:55:14.512Z",
+            "url": "https://www.theinformation.com/briefings/grayscale-ipo-filing-shows-revenue-decline?unlock=801aa2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/grayscale-ipo-filing-shows-revenue-decline?unlock=801aa2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16271,
+            "guid": "34997a",
+            "headline": "Tesla Working on Support for Apple’s CarPlay in Vehicles ",
+            "dek": "Elon Musk is a frequent public critic of Apple but has also pitched the company on using SpaceX's Starlink. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-11-13/tesla-is-working-to-add-apple-carplay-in-bid-to-boost-vehicle-sales",
+            "source_label": "Bloomberg",
+            "body": "<p>Tesla is working on supporting Apple’s CarPlay system in its vehicles, Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2025-11-13/tesla-is-working-to-add-apple-carplay-in-bid-to-boost-vehicle-sales?srnd=undefined\">reported</a> on Thursday, in what would be a significant reversal of CEO Elon Musk’s opposition to working closely with the iPhone maker.</p>\n\n<p>The report said Tesla has been internally testing Carplay, which lets users connect their iPhones to vehicles’ infotainment systems more seamlessly, and could make the feature available to drivers in the coming months. While many vehicles made by other large automakers like Toyota, Ford and Volkswagen support Carplay, Tesla has never supported the feature.</p>\n\n<p>Musk is a frequent public critic of Apple, which at one point had <a href=\"https://www.theinformation.com/articles/inside-apples-eight-year-struggle-to-build-a-self-driving-car\">tried to develop</a> an electric vehicle to rival Tesla. In August, Musk’s startup <a href=\"https://www.theinformation.com/briefings/elon-musks-xai-sues-apple-openai-hurting-ai-competition\">xAI sued Apple</a> for allegedly favoring OpenAI’s ChatGPT over xAI’s Grok in its app store. However, Musk has previously pitched Apple on using SpaceX’s Starlink to provide connectivity to iPhones, and the two companies may do a Starlink deal in the future, <a href=\"https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal\">The Information reported</a> in October.</p>",
+            "published_at": "2025-11-13T16:47:27.321Z",
+            "url": "https://www.theinformation.com/briefings/tesla-working-support-apples-carplay-vehicles?unlock=34997a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-working-support-apples-carplay-vehicles?unlock=34997a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15942,
+                    "guid": "898f5a5d4b",
+                    "title": "Could Apple and Musk’s SpaceX Finally Do a Satellite Deal?",
+                    "url": "https://www.theinformation.com/articles/apple-musks-spacex-finally-satellite-deal?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16270,
+            "guid": "00fbef",
+            "headline": "Google Goes Live With More AI Shopping Features",
+            "dek": "Shoppers will be able to use AI to call stores and check product availability.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google unveiled several new AI shopping features Thursday, as the search giant heightens competition with OpenAI and other AI companies working to incorporate more e-commerce features into their products.</p>\n\n<p>Google had previously <a href=\"https://www.theinformation.com/articles/google-unveils-new-ai-features-help-defend-search-business?rc=d8mrkd\">announced some of the features at its I/O developer conference</a> in May, including a “buy it for me” feature that allows users to set up price alerts for items where Google will monitor the price and purchase the items on shoppers’ behalf if they fall below the users’ desired price.</p>\n\n<p>The company also launched a feature that will use AI to call stores on behalf of shoppers to check information like in-stock availability and added product listing information to shopping-related queries in Gemini’s mobile app. It also added more shopping features to its “AI Mode” in Google search, which allows shoppers to search for products conversationally.</p>",
+            "published_at": "2025-11-13T15:32:24.160Z",
+            "url": "https://www.theinformation.com/briefings/google-goes-live-ai-shopping-features?unlock=00fbef&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-goes-live-ai-shopping-features?unlock=00fbef&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15104,
+                    "guid": "acdc6ae41d",
+                    "title": "Google Unveils New AI Features to Help Defend Its Search Business",
+                    "url": "https://www.theinformation.com/articles/google-unveils-new-ai-features-help-defend-search-business?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16269,
+            "guid": "edc009",
+            "headline": "Disney Reports Sharp Slump in Entertainment Profits",
+            "dek": "Streaming revenues rose 8%, in line with its growth rate of the previous three quarters, but well below where rival Netflix is growing.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Walt Disney Co. reported flat revenue and slightly lower operating income in the September quarter, as a sharp&nbsp;slump at&nbsp;most of its TV networks offset growth in its streaming business and theme parks operation. Disney stock was trading down 8% on Thursday.</p>\n\n<p>Disney’s entertainment segment—which includes TV networks such as ABC and FX but not its sports networks—reported a 6% drop in revenue and a 35% drop in operating profit. That was due to a big drop at its traditional TV channels caused by shrinking viewership at those channels, which dragged down ad revenues and cable fees.</p>\n\n<p>Streaming revenues rose 8%, in line with its growth rate of the previous three quarters, but <a href=\"https://www.theinformation.com/articles/netflix-still-outrunning-rivals?rc=9byxri\">well below where rival Netflix</a> is growing. More importantly, Disney reported 39% higher operating income of $352 million. Disney reported that subscribers to its flagship Disney+ service rose 3%.</p>",
+            "published_at": "2025-11-13T15:08:57.247Z",
+            "url": "https://www.theinformation.com/briefings/disney-reports-sharp-slump-entertainment-profits?unlock=edc009&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/disney-reports-sharp-slump-entertainment-profits?unlock=edc009&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        }
+    ]
+}
