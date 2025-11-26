@@ -1,0 +1,633 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16357,
+            "guid": "643900",
+            "headline": "Klarna to Launch Stablecoin in 2026",
+            "dek": "Klarna will use Stripe-owned Bridge to issue the stablecoin, which will run on Tempo, the new blockchain developed by Stripe and Paradigm.  ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Klarna, the Swedish buy-now-pay-later provider, <a href=\"https://www.klarna.com/international/press/klarna-launches-klarnausd-as-stablecoin-transactions-hit-usd27-trillion/\">said</a> it will launch a U.S. dollar-backed stablecoin, KlarnaUSD, in 2026, as a way to reduce costs for consumers and merchants.</p>\n\n<p>Klarna, which went public in September and has 114 million customers, will use Stripe-owned Bridge to issue the stablecoin, which will run on the Tempo blockchain co-developed by Stripe and Paradigm. With the stablecoin, Klarna can enter new markets, broaden offerings and lower operating costs, Zach Abrams, co-founder and CEO of Bridge, said in a tweet.</p>\n\n<p>The race for fintech and crypto firms to launch stablecoins intensified after the U.S.’s passage of stablecoin law in July. Most of the new stablecoins are <a href=\"https://www.theinformation.com/articles/new-stablecoin-law-spurring-competition-threatening-profits\">launched</a> through partnerships with white-label issuers such as Bridge and Anchorage Digital, which share revenue generated from the stablecoins with their partners.</p>\n\n<p>Klarna’s partnership is another win for Bridge, which is already issuing stablecoins for crypto exchange Hyperliquid and crypto wallets Phantom and MetaMask. Klarna, Bridge and Stripe all counted Sequoia as their venture backer. Anchorage, a crypto custodian and another popular issuer, won deals to issue Western Union’s stablecoin and Tether’s new U.S.-focused stablecoin.</p>",
+            "published_at": "2025-11-25T20:32:30.019Z",
+            "url": "https://www.theinformation.com/briefings/klarna-launch-stablecoin-2026?unlock=643900&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/klarna-launch-stablecoin-2026?unlock=643900&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15870,
+                    "guid": "05caca1a5c",
+                    "title": "New Stablecoin Law Is Spurring Competition and Threatening Profits",
+                    "url": "https://www.theinformation.com/articles/new-stablecoin-law-spurring-competition-threatening-profits?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16356,
+            "guid": "e84146",
+            "headline": "Nvidia Stock Falls Following Information Report on Google-Meta Chip Talks",
+            "dek": "Analysts attributed the stock moves to The Information’s reporting, noting that companies are looking for an alternative to reduce reliance on Nvidia. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia stock fell as much as 7% on Tuesday, following The Information’s <a href=\"https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push?rc=n9lbpq\">reporting</a> that Meta is in talks with Google to spend billions of dollars to put Google’s TPU chips into its data centers in 2027. Shares closed down 2.6%, representing a $115 billion drop in the company’s market value.</p>\n\n<p>Nvidia <a href=\"https://x.com/nvidianewsroom/status/1993364210948936055\">posted</a> on X on Tuesday, “We’re delighted by Google’s success — they’ve made great advances in AI and we continue to supply to Google. NVIDIA is a generation ahead of the industry — it’s the only platform that runs every AI model and does it everywhere computing is done.”</p>\n\n<p>In addition to the Meta deal, The Information reported that Google is pitching large financial institutions on the idea of using TPUs in their own data centers as part of a program called “TPU@Premises,” as Google tries to compete with Nvidia for the vast market of putting chips in companies’ own on-premise data centers. The share price of Alphabet, Google’s parent company, rose about 1% on Tuesday.</p>\n\n<p>Analysts on Tuesday attributed the stock moves to The Information’s reporting, noting that companies are looking for an alternative to reduce reliance on Nvidia. Brad Erickson at RBC Capital Markets wrote that Google’s share increase was “warranted where the market is better appreciating GOOGL’s fully flanked AI strategy,” including Search and Cloud.</p>",
+            "published_at": "2025-11-25T19:35:43.276Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-stock-falls-following-information-report-google-meta-chip-talks?unlock=e84146&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-stock-falls-following-information-report-google-meta-chip-talks?unlock=e84146&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16153,
+                    "guid": "03832f869c",
+                    "title": "Google Further Encroaches on Nvidia’s Turf With New AI Chip Push",
+                    "url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16355,
+            "guid": "df6a07",
+            "headline": "TikTok Hires Former Boeing Executive as Head of U.S. Public Policy",
+            "dek": "The hire comes as TikTok tries to finalize a proposed deal to see some of its U.S. business.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>TikTok has hired former Boeing executive Ziad Ojakli to lead its U.S. public policy operations, replacing outgoing policy lead Michael Beckerman, who <a href=\"https://www.theinformation.com/articles/tiktok-policy-chief-fought-ban-leave-job?rc=kfcki8\">announced earlier this year</a> that he was stepping down.</p>\n\n<p>Ojakli, who previously served as Boeing’s vice president of government operations and worked in the White House under George W. Bush, is entering TikTok at a thorny moment as the company navigates ongoing uncertainty over the&nbsp;proposed sale of some of its U.S. business.</p>\n\n<p>President Donald&nbsp;Trump&nbsp;in September&nbsp;<a href=\"https://www.theinformation.com/briefings/mgx-reportedly-involved-tiktok-deal-talks?rc=kfcki8\">signed an executive order</a> approving the deal, which involves&nbsp;a new joint-venture ownership company. But details about the deal, including the investor lineup and what exactly is being sold, remain unclear.</p>\n\n<p>Ojakli will start on December 1, according to an internal note to TikTok employees.</p>",
+            "published_at": "2025-11-25T18:35:56.925Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-hires-former-boeing-executive-head-u-s-public-policy?unlock=df6a07&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-hires-former-boeing-executive-head-u-s-public-policy?unlock=df6a07&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16354,
+            "guid": "5f4510",
+            "headline": "Alibaba’s Cloud Revenue Grows 34% on AI Demand ",
+            "dek": "Alibaba Cloud, China’s largest cloud service provider, continues to benefit from the country's rapid AI adoption. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese tech giant Alibaba Group said Tuesday that revenue from its cloud computing business grew 34% in the quarter through September, thanks to increasing adoption of artificial intelligence in the country.</p>\n\n<p>Alibaba’s latest results indicate how Alibaba Cloud, China’s largest cloud service provider, continues to benefit from the growing usage of AI models and applications. Alibaba Cloud provides customers with access to computing infrastructure as well as foundation models and other AI-related services.</p>\n\n<p>Alibaba’s revenue from its Cloud Intelligence Group rose to 39.8 billion yuan ($5.6 billion) in the quarter, from 29.6 billion yuan a year earlier. The company’s e-commerce business in China, its largest source of revenue, grew 16%.</p>\n\n<p>Alibaba’s overall revenue in the quarter rose 5% to 247.8 billion yuan. The smaller rate of growth in overall revenue is due to Alibaba’s sale of brick-and-mortar businesses Sun Art and Intime, which are no longer included in its revenue.</p>",
+            "published_at": "2025-11-25T11:40:43.219Z",
+            "url": "https://www.theinformation.com/briefings/alibabas-cloud-revenue-grows-34-ai-demand?unlock=5f4510&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibabas-cloud-revenue-grows-34-ai-demand?unlock=5f4510&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16353,
+            "guid": "e634bb",
+            "headline": "OpenAI Launches New Shopping Research Feature",
+            "dek": "The feature is a commerce-focused version of OpenAI’s existing Deep Research feature.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI launched a new “shopping research” feature Monday, as part of its broader strategy of&nbsp; making ChatGPT into a destination for online shopping. The feature, which is available for free to users who’ve signed up for a free or paid account, is powered by a new GPT-5 mini model that the company says is its best-performing model thus far for accurate product information.</p>\n\n<p>People can select shopping research mode before they submit their initial query. As Shopping Research is browsing for potential recommendations, it collects user feedback on its preliminary recommendations and asks for more specific details about what shoppers are looking for along the way to help steer the model’s answers. OpenAI says that for simpler shopping questions like checking price or confirming details, a regular ChatGPT response is quicker and most useful. But more in-depth comparisons or tradeoffs between different products are better suited for Shopping Research, which spends a few minutes browsing before presenting users with a “buyer’s guide” listing pros and cons of top recommendations.</p>\n\n<p>The feature isn’t yet connected to ChatGPT’s other e-commerce features like in-chat checkout, and OpenAI isn’t collecting any revenue from the feature. Shopping Research draws recommendations from product reviews and other sites it thinks are trustworthy, and cites its sources in responses to help explain why it made a particular choice, though executives cautioned the feature can still make mistakes.</p>",
+            "published_at": "2025-11-24T21:51:42.413Z",
+            "url": "https://www.theinformation.com/briefings/openai-launches-new-shopping-research-feature?unlock=e634bb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-launches-new-shopping-research-feature?unlock=e634bb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16352,
+            "guid": "f461ae",
+            "headline": "Grindr Take-Private Bid Falls Apart",
+            "dek": "A special committee to its board of directors had been considering an $18 a share bid to take the company private.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Grindr, the gay dating and hookup app, said the bid by its two largest shareholders was off the table, due to “continued uncertainty as to the financing for the proposal.”</p>\n\n<p>A special committee to its&nbsp;board of directors&nbsp;had been considering an $18 a share bid to take the company private by Raymond Zage and James Lu, who together own more than 60% of the company. “To date, the Special Committee has been unable to obtain satisfactory information about definitive financing,” the company said in a statement.</p>\n\n<p>Grindr’s stock price fell by about 10% today to about $12.50 a share. The Information <a href=\"https://www.theinformation.com/articles/buyout-offer-boardroom-feud-festered-grindr?rc=khe6an\">reported</a> earlier this month that board members had&nbsp;clashed&nbsp;over financial and governance questions extending back to 2024.</p>",
+            "published_at": "2025-11-24T19:45:43.842Z",
+            "url": "https://www.theinformation.com/briefings/grindr-take-private-bid-falls-apart?unlock=f461ae&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/grindr-take-private-bid-falls-apart?unlock=f461ae&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16071,
+                    "guid": "91269805b5",
+                    "title": "Before Buyout Offer, a Boardroom Feud Festered at Grindr",
+                    "url": "https://www.theinformation.com/articles/buyout-offer-boardroom-feud-festered-grindr?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16351,
+            "guid": "0ab0e9",
+            "headline": "Amazon Makes $50 Billion Bet to Land Government Cloud AI Deals",
+            "dek": "Amazon Web Services has long had close relationships with federal government customers, and now it's trying to get them to adopt AI. ",
+            "source_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
+            "source_label": "The Information",
+            "body": "<p>Amazon <a href=\"https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies\">said</a> it plans to spend up to $50 billion to build new AI data centers for its U.S. government cloud customers that will include almost 1.3 gigawatts of new computing capacity.</p>\n\n<p>The data center projects, which are slated to begin next year, show&nbsp;how Amazon Web Services is doubling down on its longstanding relationships with&nbsp;federal agencies. After more than a decade of helping government customers&nbsp;move their computing from private data centers to the cloud, AWS is now aiming to play that same role for them in AI.</p>\n\n<p>The $50 billion figure is also the largest investment any major cloud provider has announced specifically for government cloud AI, raising the possibility that&nbsp;Microsoft and Google will make similar announcements of their own in the coming months.</p>\n\n<p>The federal government was one of the first battlegrounds where AWS showed it could win in head-to-head competition with&nbsp;enterprise software incumbents. One of AWS’&nbsp;biggest wins&nbsp;came in 2013 when it&nbsp;beat out&nbsp;IBM for a ten-year, $600 million deal to provide cloud services for the Central Intelligence Agency.</p>",
+            "published_at": "2025-11-24T18:08:37.623Z",
+            "url": "https://www.theinformation.com/briefings/amazon-makes-50-billion-bet-land-government-cloud-ai-deals?unlock=0ab0e9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-makes-50-billion-bet-land-government-cloud-ai-deals?unlock=0ab0e9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16350,
+            "guid": "b99732",
+            "headline": "U.S. Weighs Allowing Nvidia to Sell the Advanced H200 Chips to China",
+            "dek": " Washington may allow Chinese firms to purchase advanced processors for AI model training, loosening export controls from 2022.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump administration is considering approving sales of Nvidia’s H200 artificial intelligence chips to China, according to two people familiar with the discussions.</p>\n\n<p>The H200 is roughly twice as powerful as the China-tailored H20 and is designed specifically for training large AI models, for which no Chinese alternatives can perform. Reuters first reported potential resumption of the H200 sale to China.</p>\n\n<p>The decision would loosen U.S. export restrictions imposed in 2022 that bar sales of advanced AI chips to Chinese companies. Still, the U.S. government has not made a final decision and may maintain current restrictions, the two people added.</p>\n\n<p>An Nvidia spokesperson said: “The regulatory landscape does not allow us to offer a competitive datacenter GPU in China, leaving that massive market to our rapidly growing foreign competitors.”</p>\n\n<p>The potential policy shift follows President Donald Trump’s meeting with Chinese President Xi Jinping in South Korea last month.</p>",
+            "published_at": "2025-11-24T11:46:38.481Z",
+            "url": "https://www.theinformation.com/briefings/u-s-weighs-allowing-nvidia-sell-advanced-h200-chips-china?unlock=b99732&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-s-weighs-allowing-nvidia-sell-advanced-h200-chips-china?unlock=b99732&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16349,
+            "guid": "54be08",
+            "headline": "Waymo Gets Approval for California Expansion",
+            "dek": "The increased area in California comes as Waymo intensifies a nationwide rollout. ",
+            "source_url": "https://www.cbsnews.com/losangeles/news/california-new-areas-for-waymo-robotaxis/",
+            "source_label": "CBS",
+            "body": "<p>Waymo cars will soon be able to run in all of the Bay Area, Sacramento and much of southern Calfornia following a new approval by the state DMV.</p>\n\n<p>Until this decision, Waymos could operate in northern California along the San Francisco Peninsula and San Jose and in Los Angeles. Waymo hasn’t said when passengers will begin using the expanded route, which is part of <a href=\"https://www.theinformation.com/articles/waymo-speeds?rc=sslhyj\">an increased nationwide presence</a> for the company.</p>",
+            "published_at": "2025-11-23T15:47:57.621Z",
+            "url": "https://www.theinformation.com/briefings/california-dmv-allows-waymo-operate-san-francisco-la?unlock=54be08&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/california-dmv-allows-waymo-operate-san-francisco-la?unlock=54be08&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1295534,
+                    "display_name": "Abram Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16348,
+            "guid": "e8a944",
+            "headline": "White House Pauses AI Executive Order as Legislative Push Plays Out",
+            "dek": "The proposal sparked significant backlash.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The White House is pausing plans for an executive order over state AI regulation while it waits to see if Republicans can get a provision included in the National Defense Authorization Act to block state AI regulation, according to a person with knowledge of the situation.</p>\n\n<p>A draft copy of the executive order, which was <a href=\"https://www.theinformation.com/articles/white-house-working-executive-order-foil-state-ai-regulations?rc=kfcki8\">first reported by The Information</a>&nbsp;on Wednesday, directed Attorney General Pam Bondi to create a “litigation task force” to challenge state AI laws. It also directed the Commerce Department to restrict federal broadband funding in some cases for states with AI laws. At the same time, some Republicans in Congress are exploring trying to add a provision to the National Defense Authorization Act—the annual defense policy bill—to restrict state AI laws.&nbsp;The White House is awaiting the outcome of the NDAA, expected in December, before deciding whether to proceed with the executive order, the person said.</p>\n\n<p>The efforts show how the White House is mounting a campaign to try to block states from regulating AI, despite the Senate voting 99-1 against a similar effort earlier this year. The recent plans have <a href=\"https://www.ft.com/content/e087e732-5f71-4db3-b613-830f3cee313d\">sparked significant backlash</a> from a number of Republicans, including Florida governor Ron DeSantis and Rep. Marjorie Taylor Greene, who tweeted Thursday that “States must retain the right to regulate and make laws on AI and anything else for the benefit of their state.”</p>",
+            "published_at": "2025-11-22T21:55:32.134Z",
+            "url": "https://www.theinformation.com/briefings/white-house-pauses-ai-executive-order-legislative-push-plays?unlock=e8a944&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/white-house-pauses-ai-executive-order-legislative-push-plays?unlock=e8a944&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16347,
+            "guid": "872c71",
+            "headline": "Bitcoin, Strategy Fall as Crypto Rout Deepens ",
+            "dek": "Investors are concerned crypto-holding stocks could get kicked out of indexes. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Strategy, Michael Saylor’s bitcoin-holding firm, fell 3.7% Friday amid investor concerns that the stock could get excluded from MSCI indexes. Bitcoin fell 2% and is on track for its worst monthly performance since June 2022.</p>\n\n<p>Strategy is down 62% from its peak in July this year while bitcoin has fallen 32% from its high in October. Many of the more speculative cryptocurrencies and the listed companies that hold them are down even more.</p>\n\n<p>MSCI, an index provider, published a <a href=\"https://app2.msci.com/webapp/index_ann/DocGet?pub_key=0bZz7Im3vZU%3D&lang=en&format=html#:~:text=MSCI%20also%20invites%20input%20on,preliminary%20list%20of%20impacted%20securities\">notice</a> last month that it’s considering excluding Strategy and other stocks with crypto holdings representing 50% or more of their total assets from MSCI Global Standard indexes, because such stocks are similar to investment funds, which aren’t eligible for index inclusion. MSCI will make a decision by Jan. 15.</p>\n\n<p>The notice was published Oct.10, but it got wider attention this week after JPMorgan analysts highlighted it in a research report. The news added to fears among investors that selling of these stocks might force them to dump their bitcoin holdings and trigger a downward spiral in the cryptocurrency.</p>\n\n<p>Saylor said Strategy is not a fund, given its software business, and that “index classification doesn’t define us.” Strategy, formerly named MicroStrategy, currently holds $55 billion worth of bitcoin. It closed at $49 billion in market cap.</p>",
+            "published_at": "2025-11-21T22:31:01.670Z",
+            "url": "https://www.theinformation.com/briefings/bitcoin-strategy-fall-crypto-rout-deepens?unlock=872c71&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bitcoin-strategy-fall-crypto-rout-deepens?unlock=872c71&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16346,
+            "guid": "86b060",
+            "headline": "Salesforce, Crowdstrike Disclose Security Incidents Linked to Same Group",
+            "dek": "Both incidents show how companies can be exposed to cyberattacks through insider threats and by their use of third-party applications.",
+            "source_url": "https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/",
+            "source_label": "TechCrunch",
+            "body": "<p>Crowdstrike and Salesforce both said this week that they are investigating incidents where hackers attempted to steal internal data, and a hacking group known as Scattered Lapsus$ Hunters has publicly claimed responsibility for both incidents.</p>\n\n<p>Salesforce said in an alert to customers that hackers may have accessed customers’ Salesforce data by breaking into the customer support app Gainsight, which connected to some customers’ Salesforce accounts. Salesforce said that it had disconnected all Gainsight applications from its systems and that “there is no indication that this issue resulted from any vulnerability in the Salesforce platform.” Gainsight previously disclosed in September that hackers had stolen some of its users’ personal information including names, phone numbers, and details of other software they were using.</p>\n\n<p>Meanwhile, Crowdstrike said Thursday that it terminated a “suspicious insider” that shared photos of his computer screen externally. Scattered Lapsus$ Hunters also claimed responsibility for that incident, telling TechCrunch that they obtained photos of Crowdstrike’s internal systems from the hacker; however, CrowdStrike told TechCrunch that, while it did terminate the insider, the hacking group’s claims are “false.”</p>\n\n<p>In a statement, a Crowdstrike spokesperson said, “We identified and terminated a suspicious insider last month following an internal investigation that determined he shared pictures of his computer screen externally. Our systems were never compromised and customers remained protected throughout,” adding that the company turned the case over to law enforcement.</p>\n\n<p>Both incidents show how companies can be exposed to cyberattacks through insider threats and by their use of third-party applications. Google last month launched an internal investigation after an insider, who was hired to work for Google as a contractor via the consulting firm Accenture, took screenshots of Google systems and shared them externally, <a href=\"https://www.theinformation.com/articles/google-investigates-weekslong-security-breach-involving-contractor\">The Information reported</a>.</p>",
+            "published_at": "2025-11-21T21:09:49.335Z",
+            "url": "https://www.theinformation.com/briefings/salesforce-crowdstrike-disclose-hacking-incidents-linked-group?unlock=86b060&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/salesforce-crowdstrike-disclose-hacking-incidents-linked-group?unlock=86b060&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16345,
+            "guid": "3ecec6",
+            "headline": "OpenAI CEO: Google’s AI Breakthrough Could Cause ‘Headwinds’ For OpenAI",
+            "dek": "The comments were an acknowledgement of technical threats OpenAI faces.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>In an internal memo, OpenAI CEO Sam Altman acknowledged that Google’s recent progress in artificial intelligence could create “temporary economic headwinds” for his company, <a href=\"https://www.theinformation.com/articles/openai-ceo-braces-possible-economic-headwinds-catching-resurgent-google?rc=c48ukx\">The Information reported Thursday</a>.&nbsp;The memo&nbsp;anticipated Google’s launch of its&nbsp;Gemini 3 model, suggesting OpenAI’s once-dominant technological lead is narrowing, particularly in the crucial pretraining phase of AI model development where <a href=\"https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows?rc=c48ukx\">OpenAI has faced challenges</a>.</p>\n\n<p>This competitive pressure highlights a financial disparity betwen the companies: OpenAI projects a cash burn of more than $100 billion in the coming years, while the far more profitable Google has more&nbsp;resources to sustain a costly&nbsp;AI race.&nbsp;Despite these challenges, Altman assured staff OpenAI would catch up and is focusing on ambitious long-term bets, such as automating AI research.</p>",
+            "published_at": "2025-11-21T06:08:30.026Z",
+            "url": "https://www.theinformation.com/briefings/openai-ceo-googles-ai-breakthrough-cause-headwinds-openai?unlock=3ecec6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-ceo-googles-ai-breakthrough-cause-headwinds-openai?unlock=3ecec6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16141,
+                    "guid": "fa3f63c754",
+                    "title": "Altman Memo Forecasts ‘Rough Vibes’ Due to Resurgent Google",
+                    "url": "https://www.theinformation.com/articles/openai-ceo-braces-possible-economic-headwinds-catching-resurgent-google?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16344,
+            "guid": "7f37d0",
+            "headline": "Google Updates ‘Nano Banana’ Image Editing Model",
+            "dek": "The new model continues a successful run for Google’s DeepMind AI research unit, which also released the new flagship model Gemini 3.0 earlier this week to strong reviews.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google released a new version of its “Nano Banana” image generation model on Thursday, updating a model that had gone viral earlier in the year. Google highlighted the ability of the new model, dubbed “Nano Banana Pro,” to create infographics and posters, as well as its ability to keep elements like faces consistent when editing images.</p>\n\n<p>The new model continues a successful run for Google’s DeepMind AI research unit, which released the new flagship model Gemini 3.0 earlier this week to strong reviews. Consumer usage of Google’s models has also increased: Google said last month that it had 650 million monthly users on its Gemini app, growth driven in part by the virality of the initial Nano Banana model, a Google vice president has <a href=\"https://www.businessinsider.com/google-gemini-nano-banana-younger-users-app-exec-2025-10\">said</a>.</p>",
+            "published_at": "2025-11-21T00:51:47.118Z",
+            "url": "https://www.theinformation.com/briefings/google-updates-nano-banana-image-editing-model?unlock=7f37d0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-updates-nano-banana-image-editing-model?unlock=7f37d0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16343,
+            "guid": "96e271",
+            "headline": "Physical Intelligence Raises $600 Million at $5 Billion Valuation",
+            "dek": "The startup announced a new AI model on Monday.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding",
+            "source_label": "Bloomberg",
+            "body": "<p>Physical Intelligence, the robotic AI company, raised $600 million at a $5 billion valuation, excluding the investment, Bloomberg reported Thursday. The Information <a href=\"https://www.theinformation.com/articles/robotics-startup-physical-intelligence-talks-raise-5-billion-valuation\">broke the news</a> of the potential funding round in September.</p>\n\n<p>Alphabet’s CapitalG led the round. Existing investors Lux Capital, Thrive Capital and Jeff Bezos participated, along with new investors Index Ventures and T. Rowe Price, according to the report.</p>\n\n<p>Pi develops AI models intended to power a wide variety of robots to perform a wide variety of tasks. On Monday, Pi announced its latest model, π*0.6, which learned in part from its own experiences operating a robot in the real world. That training made the model faster at tasks such as assembling boxes and folding laundry than previous models.</p>\n\n<p>The one-year-old startup was founded by former Google employees and professors from Stanford University and the University of California, Berkeley, as well as early Stripe employee and venture capitalist Lachy Groom. Pi previously raised about $470 million from investors, most recently at a valuation of $2.4 billion including the money, from investors including Thrive Capital, Lux Capital, Khosla Ventures, Redpoint Ventures and Bond Capital.</p>",
+            "published_at": "2025-11-20T23:30:57.014Z",
+            "url": "https://www.theinformation.com/briefings/physical-intelligence-raises-600-million-5-billion-valuation?unlock=96e271&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/physical-intelligence-raises-600-million-5-billion-valuation?unlock=96e271&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16342,
+            "guid": "4c2f0a",
+            "headline": "Waymo Adds 3 More U.S. Cities to Expansion Plan",
+            "dek": "Waymo is far ahead of Tesla’s Robotaxi service.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Waymo said Thursday that it’s added New Orleans, Minneapolis and Tampa to the list of cities where it plans to launch its autonomous ride-hailing service. That brings the total number of new cities where it’s announced launch plans to more than 20, according to the company.</p>\n\n<p>For now, Waymo will operate vehicles with human drivers in the three new cities. The company also said earlier this week that it will start driving vehicles without humans in Dallas, Houston, San Antonio, Miami and Orlando in the coming weeks, with plans to offer ride-hailing to the public in those cities in 2026. The Alphabet-owned company also said it plans to launch in London, Washington, D.C., Denver, Detroit, Las Vegas, Nashville and San Diego next year.</p>\n\n<p>Waymo already offers autonomous rides in five U.S. cities: Austin, San Francisco, Los Angeles, Phoenix and Atlanta. That means the company is far-and-away beating Tesla’s Robotaxi service, which has launched in Austin and San Francisco but includes backup humans in vehicles in both cities.</p>",
+            "published_at": "2025-11-20T23:02:06.466Z",
+            "url": "https://www.theinformation.com/briefings/waymo-adds-3-u-s-cities-expansion-plan?unlock=4c2f0a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymo-adds-3-u-s-cities-expansion-plan?unlock=4c2f0a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16341,
+            "guid": "f9aa29",
+            "headline": "Walmart Boosts Outlook, Says Consumer Demand Remains Resilient",
+            "dek": "The retail giant’s shares closed up more than 6% Thursday.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Walmart grew sales nearly 6% to $179.5 billion in the third quarter of its current fiscal year, helped by robust growth from the retail giant’s&nbsp;e-commerce and advertising businesses. Executives said Thursday that consumer demand remained mostly resilient and that the holiday shopping season was off to a good start, boosting the company’s outlook for the full year to 4.8% to 5.1% net sales growth.</p>\n\n<p>E-commerce sales grew 27% and advertising revenue, which includes the Vizio business Walmart acquired last year, increased 53%. Membership revenue, which includes the Walmart+ program, a competitor to Amazon’s Prime program, grew 17%. Walmart didn’t break out exact revenue figures for any of those segments.</p>\n\n<p>Walmart executives also highlighted the company’s partnership with OpenAI, which includes an agreement to sell Walmart and Sam’s Club products through ChatGPT. They also highlighted other AI features Walmart is testing in other markets, like a feature in Chile that creates a basket of items for customers then prompts them via WhatsApp to ask them if they want to complete the purchase.</p>",
+            "published_at": "2025-11-20T22:43:45.339Z",
+            "url": "https://www.theinformation.com/briefings/walmart-boosts-outlook-says-consumer-demand-remains-resilient?unlock=f9aa29&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/walmart-boosts-outlook-says-consumer-demand-remains-resilient?unlock=f9aa29&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16340,
+            "guid": "5d8697",
+            "headline": "Deel Labeled Alleged Spy Payment As Expense",
+            "dek": "The cash was sent to an alleged spy inside rival firm Rippling 56 seconds later, court documents show. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Global payroll startup Deel labeled as an expense a $6,000 payment it made to the wife of the company’s chief operating officer–cash that was sent to an alleged spy inside rival firm Rippling 56 seconds later–according to newly unsealed documents in a lawsuit between the two Silicon Valley companies.</p>\n\n<p>The funds in question came from an entity, Lets Deel Ltd., which is incorporated in the U.K. and counts Deel CEO Alex Bouaziz and his father, Deel chairman Philippe Bouaziz, as directors, according to a copy of the account statement filed in the U.S. District Court for Northern District of California. On Nov. 4, 2024, Lets Deel transferred $6,000 to a Revolut account owned by Alba Basha, the wife of Deel chief operating officer Dan Westgath, the documents show. Basha’s account sent $6,000 in another transaction moments later to Keith O’Brien, the alleged spy, the documents show.</p>\n\n<p>Basha, a former compliance officer at Revolut, has not responded to requests from The Information. She is now employed as a compliance specialist at Dubai-based fintech Ziina, according to her Linkedin profile. Ziina co-founder Faisal Toukan did not respond to earlier requests for comment.</p>\n\n<p>Rippling accused Deel and its top brass earlier this year of recruiting and paying its now-former Irish employee O’Brien to pass internal information to Deel. O’Brien later confessed to the alleged scheme in an affidavit filed in the High Court of Ireland. Deel has countersued Rippling for defamation and is defending the lawsuit. Deel has pointed to an agreement in which Rippling promised to cover O’Brien’s legal, travel and associated costs as validation of O’Brien’s “conflict as a trustworthy source.”</p>\n\n<p>“We believe that information will show he has even more financial incentive to align himself with Rippling,” a Deel spokesperson said.</p>\n\n<p>In a court filing, Rippling alleged: “The records involve only two transactions: Deel corporate funds entering Basha’s account and immediately exiting to pay a corporate spy. Her account balance before and after: $8.16. This is not personal financial activity. It is money laundering.”</p>",
+            "published_at": "2025-11-20T18:33:34.383Z",
+            "url": "https://www.theinformation.com/briefings/deel-labeled-alleged-spy-payment-expense?unlock=5d8697&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/deel-labeled-alleged-spy-payment-expense?unlock=5d8697&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16339,
+            "guid": "727156",
+            "headline": "Salesforce’s Slack to Stop Direct Service in China, Farm Out to Alibaba",
+            "dek": "Salesforce is the latest U.S. company to separate its service to China customers, due to data privacy and security laws in mainland China.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Salesforce’s Slack has told customers in mainland China, Hong Kong, Macau and Taiwan that they must migrate their accounts to partner Alibaba Group before February, if they want to continue with instant-messaging service, according to a Slack customer in mainland China and an Alibaba Cloud employee.</p>\n\n<p>The move is in response to a privacy and data security law that came into effect this year in mainland China, according to the Alibaba employee, adding that Alibaba has started helping Slack customers with the change in recent days.</p>\n\n<p>Some Slack customers with billing addresses in these four regions were told earlier this week that their subscriptions wouldn’t be renewed, according to the Alibaba employee. They were told they could maintain access by buying the service through Alibaba Cloud, according to emails reviewed by The Information.</p>\n\n<p>A Salesforce spokesperson said that “Slack workspace creation and user provisioning are not currently supported in all markets. Our paid customers can provision individual user access for employees working anywhere legally permitted.” Alibaba didn’t reply to a request for comment.</p>\n\n<p>Salesforce and Alibaba announced a <a href=\"https://www.salesforce.com/blog/driving-customer-success-with-alibaba/\">strategic partnership</a> in 2019 in which Alibaba would be the exclusive cloud provider of Salesforce services in these four regions, but that agreement wasn’t put into full practice until the recent days.</p>\n\n<p>Salesforce is the latest U.S. company to separate its Chinese customer service, after Zoom in 2020 and Microsoft’s LinkedIn in 2021 began working with local partners or replaced their services with a local product,&nbsp; underscoring the deepening technological divide between the U.S. and China as companies increasingly operate on separate networks.</p>",
+            "published_at": "2025-11-20T10:25:57.442Z",
+            "url": "https://www.theinformation.com/briefings/salesforces-slack-stop-direct-service-china-farm-alibaba?unlock=727156&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/salesforces-slack-stop-direct-service-china-farm-alibaba?unlock=727156&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                },
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16338,
+            "guid": "24ab8b",
+            "headline": "Nvidia Doubles Cloud Spending Commitment to $26 Billion",
+            "dek": "Nvidia said it might not use all of the capacity.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia said Wednesday it had struck deals to rent $26 billion of servers from cloud providers over the next six years, doubling the cloud spending commitments it disclosed just three months ago.</p>\n\n<p>The cloud spending plan implies Nvidia will rent several hundred thousand of its own graphics processing units from cloud providers like Amazon and Google that purchase them. Nvidia said in a regulatory filing that it will pay $1 billion to rent servers in the current fiscal year, $6 billion in both 2027 and 2028, $5 billion in 2029, and $4 billion in both 2030 and 2031. That will make Nvidia one of the world’s biggest cloud spenders and users of GPUs.</p>\n\n<p>Nvidia said it might not use all of the capacity. Nvidia said some of its commitments “may be reduced, terminated or sold to others” by the cloud providers from which it rents servers.</p>\n\n<p>Nvidia’s spending commitment increased even though it has <a href=\"https://www.theinformation.com/articles/nvidia-steps-back-cloud-effort-compete-aws\">stepped back from its nascent cloud computing business</a> known as DGX Cloud, which aimed to rent out GPUs to business customers. These days, Nvidia uses most of the DGX Cloud server capacity for its own internal efforts, The Information has reported. Earlier this summer, Nvidia launched another kind of cloud service, DGX Cloud Lepton, which helps businesses rent GPUs from various cloud providers.</p>\n\n<p>Nvidia’s cloud commitments includes its <a href=\"https://www.theinformation.com/articles/nvidia-quietly-boosts-cloud-ally-1-5-billion-deal-rent-ai-chips\">agreement to rent 10,000 of its AI chips</a> back from cloud startup Lambda, The Information first reported. Nvidia also rents its chips from CoreWeave and major cloud providers including Oracle and Amazon.</p>",
+            "published_at": "2025-11-20T04:57:06.948Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-doubles-cloud-spending-commitment-26-billion?unlock=24ab8b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-doubles-cloud-spending-commitment-26-billion?unlock=24ab8b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15751,
+                    "guid": "ccab4d25c0",
+                    "title": "Nvidia Steps Back From Cloud Effort to Compete with AWS",
+                    "url": "https://www.theinformation.com/articles/nvidia-steps-back-cloud-effort-compete-aws?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        }
+    ]
+}
