@@ -1,0 +1,658 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16403,
+            "guid": "3f5636",
+            "headline": "Microsoft Discusses Custom Chips With Broadcom",
+            "dek": "The conversations fall within a period of huge demand for semiconductors driven by AI mania.",
+            "source_url": "https://www.theinformation.com/articles/diamonds-turds-hock-tan-turned-broadcom-ai-juggernaut",
+            "source_label": "The Information",
+            "body": "<p>Microsoft is in talks to design future custom chips with Broadcom, which would involve Microsoft switching its business from Marvell, another maker of custom chips, according to one person involved in the discussions.</p>\n\n<p>Those discussions come amid intense demand for such chips as companies like Microsoft race to acquire more semiconductors and increase their AI products. Nvidia lords over the semiconductor market—while&nbsp;And Broadcom is seen as perhaps Nvidia’s&nbsp;most credible rival.&nbsp;Read more about Broadcom’s strategy and CEO&nbsp;Hock Tan’s fondness for megadeals and unsentimental management&nbsp;<a href=\"http://theinformation.com/articles/diamonds-turds-hock-tan-turned-broadcom-ai-juggernaut\">in our Weekend Big Read</a>.</p>\n\n<p>Meanwhile, Marvell recently tried to win more business from Meta Platforms by waiving part of an up-front engineering fee for designing chips, according to two people involved in the talks. Meta plans to launch this chip in 2027, according to three people involved in its development.</p>",
+            "published_at": "2025-12-06T00:03:45.373Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-discusses-custom-chips-broadcom?unlock=3f5636&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-discusses-custom-chips-broadcom?unlock=3f5636&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1295534,
+                    "display_name": "Abram Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16402,
+            "guid": "23602b",
+            "headline": "Google Cannot Force Partners Like Apple to Distribute Gemini, Judge Rules ",
+            "dek": "Judge Amit Mehta on Friday issued his final remedies judgment governing how Google must address its illegal search monopoly.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google cannot require partners like Apple or Samsung to distribute its generative AI products like Gemini as a condition of licensing Google’s other apps such as Google Maps, a federal judge ruled on Friday as part of the final remedies judgment governing how Google must address its illegal search monopoly. “Google cannot be permitted to replay its illegal conduct with its GenAI products,” Judge Amit Mehta wrote.</p>\n\n<p>The final judgment is the next step in a process that has already stretched more than a year since Mehta ruled in August 2024 that Google had illegally maintained its search monopoly via exclusive agreements with companies such as Apple to set Google Search as the default search engine. In September, Mehta released his preliminary judgment on remedies, which required that Google stop exclusive search distribution contracts and mandated some data sharing with search engine rivals but avoided the most extreme remedies such as forcing a sale of Chrome that plaintiffs led by the Department of Justice had requested.</p>\n\n<p>After the September judgment, <a href=\"https://www.theinformation.com/articles/antitrust-judge-bars-google-exclusive-deals-require-chrome-sale?rc=n9lbpq\">viewed</a> by antitrust experts as a positive outcome for the search company, Google and the Department of Justice filed separate <a href=\"https://www.theinformation.com/briefings/google-justice-department-file-dueling-remedies-proposals-antitrust-search-case?rc=n9lbpq\">proposals</a> dueling over how to interpret the judge’s ruling. Friday’s final judgment hewed more closely to the government’s proposal, including Mehta’s decision on generative AI products. The judge also ruled that Google must renegotiate any contracts for search or generative AI defaults every year, and that agreements with Apple have to be device-by-device and access point by access point.</p>\n\n<p>Google and the Department of Justice did not immediately respond to requests for comment. Google previously said that it would appeal Mehta’s initial finding of the illegal monopoly, and the Department of Justice said after Mehta’s remedies ruling earlier this month that it was considering its options.</p>",
+            "published_at": "2025-12-05T23:50:00.375Z",
+            "url": "https://www.theinformation.com/briefings/google-force-partners-like-apple-distribute-gemini-judge-rules?unlock=23602b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-force-partners-like-apple-distribute-gemini-judge-rules?unlock=23602b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16401,
+            "guid": "f70262",
+            "headline": "Meta Buys AI Device Startup Limitless",
+            "dek": "Limitless develops a wearable microphone ‘Pendant.’",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms has agreed to buy Limitless, a startup developing wearable AI devices, Limitless announced Friday. The terms of the deal were not disclosed.</p>\n\n<p>Limitless develops a device called a Pendant that can be clipped to an article of clothing or worn on a necklace. The device records conversations, allowing users to see AI-generated summaries on a phone app and replay key moments. Limitless targets the product to people in specific professions, such as journalists and executives, as well as people living with health conditions such as dementia that make it difficult to remember conversations.</p>\n\n<p>The five-year-old company has raised over $33 million from investors including Sam Altman, First Round Capital, Andreessen Horowitz, and NEA, according to Limitless. The company was initially called Rewind AI and developed software to <a href=\"https://www.theinformation.com/articles/researchers-record-work-ai-can-jobs\">record people’s computer screens</a> while they work, but rebranded to Limitless last year. The Rewind app will be shut down following the acquisition, Limitless said in its announcement.</p>",
+            "published_at": "2025-12-05T23:35:41.700Z",
+            "url": "https://www.theinformation.com/briefings/meta-buys-ai-device-startup-limitless?unlock=f70262&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-buys-ai-device-startup-limitless?unlock=f70262&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16400,
+            "guid": "c4e482",
+            "headline": "SoftBank in Talks to Buy Data Center Investor DigitalBridge",
+            "dek": "Shares in DigitalBridge surged more than 30% following the report on the talks with SoftBank, reversing losses they had suffered this year.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-12-05/softbank-said-in-talks-to-buy-data-center-investor-digitalbridge?srnd=phx-deals",
+            "source_label": "Bloomberg",
+            "body": "<p>Japanese conglomerate SoftBank is in talks to acquire DigitalBridge, one of the largest publicly-traded investors in data center companies, <a href=\"https://www.bloomberg.com/news/articles/2025-12-05/softbank-said-in-talks-to-buy-data-center-investor-digitalbridge?srnd=phx-deals\">Bloomberg reported.</a></p>\n\n<p>A deal could be signed as soon as the coming weeks, but the talks are ongoing and won’t necessarily result in an agreement, the outlet reported, citing people with knowledge of the matter.</p>\n\n<p>Buying DigitalBridge would give SoftBank stakes in several data center developers, including Vantage Data Centers, which is building Stargate sites for Oracle to provide computing power to OpenAI. SoftBank, a big investor in OpenAI, is separately working on building data centers with the company under the Stargate project.</p>\n\n<p>Shares in DigitalBridge surged more than 30% following the report on the talks with SoftBank, reversing losses they&nbsp;had suffered this year. The company, which manages funds that invest in data centers, has a roughly $2.5 billion market capitalization.</p>\n\n<p>DigitalBridge and SoftBank declined to comment.</p>",
+            "published_at": "2025-12-05T17:18:35.744Z",
+            "url": "https://www.theinformation.com/briefings/softbank-talks-buy-data-center-investor-digitalbridge?unlock=c4e482&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-talks-buy-data-center-investor-digitalbridge?unlock=c4e482&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16399,
+            "guid": "5bff18",
+            "headline": "Microsoft Shareholders Approve $96.5 Million Pay for Nadella, Appoint Walmart CFO to Board",
+            "dek": "Shareholders also voted to appoint Walmart CFO John David Rainey to the company’s board of directors. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft’s shareholders approved the board’s proposed compensation for CEO Satya Nadella and other top executives on Friday, raising Nadella’s pay to $96.5 million, up from $79.1 million last year. The majority of Nadella’s compensation will come from stock awards, while his base salary is $2.5 million.</p>\n\n<p>Shareholders also voted to approve the board’s nomination of Walmart CFO John David Rainey to serve on the company’s board of directors. Rainey&nbsp;will replace former ADP CEO Carlos Rodriguez, who announced earlier this year that he would not seek reelection.</p>\n\n<p>Meanwhile, shareholders voted against six proposals put forward by investors, all of which the board had opposed. Those included measures that would have directed Microsoft to commission reports on its business’s impact on climate change, how its training of AI models complies with copyright laws, and how its products are used by governments of Israel, China, and Saudi Arabia.</p>",
+            "published_at": "2025-12-05T17:14:43.681Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-shareholders-approve-96-5-million-pay-nadella-appoint-walmart-cfo-board?unlock=5bff18&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-shareholders-approve-96-5-million-pay-nadella-appoint-walmart-cfo-board?unlock=5bff18&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16398,
+            "guid": "1fc922",
+            "headline": "EU Fines Elon Musk’s X $140 Million Over Blue Check, Data Issues ",
+            "dek": "The EU cited several issues with X’s practices, including the “deceptive design” of X’s blue checkmark system. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The European Union hit Elon Musk’s X with a $140 million fine on Friday, citing several issues with the design and maintenance of the social media service.</p>\n\n<p>It’s the first time the EU has levied a fine under the Digital Services Act, a sweeping set of tech regulations it passed in 2022. The EU <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2934\">cited</a> several issues with X’s practices, including the “deceptive design” of X’s blue checkmark system, which the bloc said makes it “difficult for users to judge the authenticity of accounts” and makes it more likely they will fall for scams and manipulation. X has also failed to adequately maintain a database of ads or share information with researchers, which are requirements under the DSA, the EU said.</p>\n\n<p>For Musk, maintaining the X site has been less of a priority this year than growing xAI, his artificial intelligence company, which acquired X in March. Musk has been trying to run X as leanly as possible, including by replacing some staff with xAI’s Grok artificial intelligence model, The Information has <a href=\"https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok\">reported</a>. While the EU fine is smaller than previous EU fines against American tech firms, it is almost certain to inflame tensions between the U.S. and EU. On Thursday, U.S. Vice President JD Vance <a href=\"https://x.com/JDVance/status/1996701953372704921\">wrote</a> on X that the “EU should be supporting free speech not attacking American companies over garbage.”</p>",
+            "published_at": "2025-12-05T15:24:50.831Z",
+            "url": "https://www.theinformation.com/briefings/eu-fines-elon-musks-x-140-million-blue-check-data-issues?unlock=1fc922&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/eu-fines-elon-musks-x-140-million-blue-check-data-issues?unlock=1fc922&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16148,
+                    "guid": "7ba49b9fc2",
+                    "title": "The Twins Pushing Elon Musk’s Plans to Replace X Staff With Grok",
+                    "url": "https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16397,
+            "guid": "f2ed57",
+            "headline": "The New York Times Sues Perplexity ",
+            "dek": "The publication joins a growing list of media companies suing the search startup for stealing their content ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The New York Times sued Perplexity for copyright infringement, adding to&nbsp;a mounting pile of lawsuits against the AI search startup.</p>\n\n<p>The New York Times alleged that Perplexity took content from the Times’ site without permission, putting verbatim text&nbsp; from The New York Times’ articles in Perplexity answers to questions. The publication accused Perplexity of visiting their sites with crawlers that “do not identify themselves,“ so the Times cannot block Perplexity’s bots.&nbsp;Unannounced bots from AI firms have become a growing challenge, particularly from xAI’s Grok, the Information <a href=\"https://www.theinformation.com/articles/inside-web-publishers-quest-stamp-ai-bots-posing-humans\">reported</a>.</p>\n\n<p>“Publishers have been suing new tech companies for a hundred years, starting with radio, TV, the internet, social media and now AI,“ a Perplexity spokesperson said.&nbsp;“Fortunately it’s never worked, or we’d all be talking about this by telegraph.”</p>\n\n<p>Amazon, Reddit and Wall Street Journal-owner Dow Jones have all sued&nbsp;Perplexity for allegedly accessing their sites unlawfully. The Chicago Tribune also sued&nbsp;Perplexity on similar grounds yesterday, Dec. 4. The New York Times has also sued OpenAI, but has an AI licensing deal&nbsp;with Amazon.</p>",
+            "published_at": "2025-12-05T15:16:47.299Z",
+            "url": "https://www.theinformation.com/briefings/new-york-times-sues-perplexity?unlock=f2ed57&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/new-york-times-sues-perplexity?unlock=f2ed57&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16396,
+            "guid": "bb2870",
+            "headline": "Netflix to Buy WBD for $82.7 Billion",
+            "dek": "The deal faces likely regulatory opposition as it combines the leading streaming service with another major streaming service.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Netflix is to buy Warner Bros Discovery’s studio and streaming operations for $82.7 billion in cash and stock, combining the world’s biggest streaming service with one of Hollywood’s iconic film studios and the HBO Max service.</p>\n\n<p>The deal won’t close for at least a year and before it does, WBD will spin off its cable channels which include CNN, TNT, Discovery and TBS. Those businesses are in decline. WBD had planned to spin those off before a bid from the Ellison family’s Paramount Skydance put the company into play.</p>\n\n<p>The big question hanging over the deal is whether the government will approve &nbsp;the combination. As the leading streaming service, Netflix is likely to face opposition to buying another big streaming service. At the same time, the Ellisons have a closer relationship with the Trump administration, which would have given them an edge in getting approval.</p>",
+            "published_at": "2025-12-05T14:37:01.193Z",
+            "url": "https://www.theinformation.com/briefings/netflix-buy-wbd-82-7-billion?unlock=bb2870&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/netflix-buy-wbd-82-7-billion?unlock=bb2870&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16395,
+            "guid": "183a2e",
+            "headline": "Netflix in Exclusive Talks with Warner Bros.",
+            "dek": "A deal that combines the world’s most popular streaming service with one of Hollywood's most prominent studios would represent a seismic shift in the industry.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix",
+            "source_label": "Bloomberg",
+            "body": "<p>Warner Bros. Discovery has entered into exclusive talks to sell its film and TV divisions and streaming service to Netflix, Bloomberg reported.</p>\n\n<p>The move would represent a seismic shift in the media landscape by combining the world’s most popular streaming service with one of Hollywood’s most prominent studios.</p>\n\n<p>Bloomberg said that Netflix is offering a $5 billion breakup fee if regulators don’t approve the deal and said it could be announced in the coming days.</p>\n\n<p>Bloomberg didn’t report a value for the deal. Warner Bros. is valued at more than $60 billion, and it plans to spin off its cable channels before a potential deal with Netflix closes.</p>",
+            "published_at": "2025-12-05T04:35:23.920Z",
+            "url": "https://www.theinformation.com/briefings/netflix-exclusive-talks-acquire-warner-bros?unlock=183a2e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/netflix-exclusive-talks-acquire-warner-bros?unlock=183a2e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15958,
+                    "guid": "e889b2b03c",
+                    "title": "Why Netflix Is Still Outrunning Rivals",
+                    "url": "https://www.theinformation.com/articles/netflix-still-outrunning-rivals?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16394,
+            "guid": "a4ed4e",
+            "headline": "Gap.com Chatbot Was Targeted For Abuse By ‘Bad Actor,’ AI Startup Sierra Says",
+            "dek": "Sierra, an AI startup co-founded by former Salesforce CEO Bret Taylor, has apologized to Gap after a chatbot using its technology engaged on off-color topics.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Last week, Gap Inc. launched a chatbot to field product-related questions from Gap.com visitors, but the chatbot ended up discussing topics that fell outside the scope of questions it was supposed to handle, including intimacy products, sex toys, and Nazi Germany, according to a person with knowledge of the matter. The Information reproduced some of the results Thursday.</p>\n\n<p>Enterprise AI startup Sierra, privately valued at $10 billion, powered the chatbot for Gap. Rachel Whetstone, head of communications at Sierra, which was co-founded by former Salesforce co-CEO Bret Taylor, said the issue stemmed from a coordinated effort to trick its customers’ chatbots to respond to inappropriate questions.</p>\n\n<p>“Since last week, a bad actor has been attempting to maliciously jailbreak over a dozen of our customers’ AI agents,” Whetstone said in a statement. “There have been multiple attempts, and it appears our built-in abuse detection system has intercepted all of them except for Gap, where we’d inadvertently misconfigured the agent’s guardrails. These controls have now been properly configured, and the agent remains live. We sincerely apologize to Gap.”</p>\n\n<p>It isn’t clear how many Gap customers engaged in off-color topics with the assistant, and Gap spokespeople didn’t respond to requests for comment.</p>\n\n<p>The episode is another example of AI chatbots and agents being a work in progress. In July, for instance, Elon Musk’s xAI <a href=\"https://www.theinformation.com/briefings/elon-musks-xai-apologies-horrific-behavior?rc=eqgjah\">apologized</a> after its AI chatbot, Grok, made a series of X posts in praise of Adolf Hitler.</p>",
+            "published_at": "2025-12-04T23:00:43.097Z",
+            "url": "https://www.theinformation.com/briefings/gap-com-chatbot-targeted-abuse-bad-actor-ai-startup-sierra-says?unlock=a4ed4e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/gap-com-chatbot-targeted-abuse-bad-actor-ai-startup-sierra-says?unlock=a4ed4e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16393,
+            "guid": "a6a73a",
+            "headline": "Apple’s General Counsel and Policy VP to Retire",
+            "dek": "The two exits adds to the broader wave of turnover hitting Apple",
+            "source_url": "https://www.apple.com/newsroom/2025/12/apple-announces-executive-transitions/",
+            "source_label": "The Information",
+            "body": "<p>The departures of senior executives from Apple continue to mount. On Thursday, the company announced two executives would be retiring in the coming months: general counsel Kate Adams and Lisa Jackson, vice president of environment, policy and social initiatives.</p>\n\n<p>Jennifer Newstead, who was recently Meta Platforms’ chief legal officer, will replace Adams in March. The government affairs organization overseen by Jackson, who will retire next month, will move under legal, while her environmental and social affairs duties will shift to chief operating officer Sabih Khan.</p>\n\n<p>The changes aren’t the only major departures lately of Apple leaders. Earlier this week, Apple announced the retirement of AI chief John Giannandrea, and the departure of design lead Alan Dye for Meta. Last month, longtime chief operating officer Jeff Williams also stepped down.</p>",
+            "published_at": "2025-12-04T22:25:05.080Z",
+            "url": "https://www.theinformation.com/briefings/apples-general-counsel-policy-vp-retire?unlock=a6a73a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apples-general-counsel-policy-vp-retire?unlock=a6a73a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16392,
+            "guid": "51cca4",
+            "headline": "Amazon in Contract Dispute with United States Postal Service",
+            "dek": "USPS wants to award its mail services via a reverse auction, which Amazon objects to ",
+            "source_url": "https://www.washingtonpost.com/business/2025/12/04/usps-amazon-delivery/",
+            "source_label": "The Washington Post",
+            "body": "<p>Amazon is negotiating its future relationship with the U.S. Postal Service, the company confirmed, although Amazon denied a Washington Post report that Amazon was considering ending its contract with the USPS in favor of its own delivery service.</p>\n\n<p>Amazon’s current contract with the Postal Service expires in October of&nbsp;next year, the Post reported. In a statement, Amazon spokesperson Steve Kelly said Amazon remained committed to working with the USPS and added ”we’ve continued to discuss ways to extend our partnership that would increase our spend with them.”</p>\n\n<p>One issue is that the USPS wants to run a reverse auction which would allow the highest bidder to win its delivery services,&nbsp; The Post reported. The Amazon spokesperson said Amazon was “surprised to hear they want to run an auction after nearly a year of negotiations, so we still have a lot to work through.”</p>\n\n<p>Amazon is USPS’s largest customer, providing more than $6 billion in annual revenue or around 7.5% of the federal agency’s revenue, the Post reported. The reverse auction could make it easier for USPS to do business with smaller customers, as the postal service has prenegotiated agreements with its largest clients.</p>",
+            "published_at": "2025-12-04T18:27:25.138Z",
+            "url": "https://www.theinformation.com/briefings/amazon-contract-dispute-united-states-postal-service?unlock=51cca4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-contract-dispute-united-states-postal-service?unlock=51cca4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16391,
+            "guid": "257eeb",
+            "headline": "Meta Plans Big Metaverse Budget Cuts",
+            "dek": "The report is a sign that Meta CEO Mark Zuckerberg has recognized that the company has to curb its spending in some areas as it ramps up spending on AI.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-12-04/meta-s-zuckerberg-plans-deep-cuts-for-metaverse-efforts?sref=qvN0c6kf",
+            "source_label": "Bloomberg",
+            "body": "<p>Meta Platforms is discussing budget cuts as high as 30% in the group working on metaverse-related projects, including its Quest virtual reality unit, <a href=\"https://www.bloomberg.com/news/articles/2025-12-04/meta-s-zuckerberg-plans-deep-cuts-for-metaverse-efforts?sref=qvN0c6kf\">Bloomberg reported.</a></p>\n\n<p>The Bloomberg story said the cuts would likely include layoffs as early as next month. The report is a sign that Meta CEO Mark Zuckerberg has recognized that the company has to curb its spending in some areas as it ramps up spending on AI. Meta stock has fallen sharply in recent weeks, since the company said it was doubling-down on AI investments, although it rose 3.8% on Thursday morning in the wake of the Bloomberg report.</p>\n\n<p>Over the past few years, Meta has lost tens of billions of dollars at its Reality Labs unit, which includes the metaverse group. As of the third quarter, it had lost $13.2 billion so far this year.</p>",
+            "published_at": "2025-12-04T16:06:16.163Z",
+            "url": "https://www.theinformation.com/briefings/meta-plans-big-metaverse-budget-cuts?unlock=257eeb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-plans-big-metaverse-budget-cuts?unlock=257eeb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16390,
+            "guid": "8feb7e",
+            "headline": "Salesforce Reports Agentforce Revenue Growth",
+            "dek": "Salesforce's AI-related revenue hit an annual revenue rate of $1.4 billion, compared with the company's projected $41.5 billion revenue for fiscal 2026.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Salesforce reported 9% higher revenue in its fiscal&nbsp;third quarter ended Oct. 31, a marginal slowdown on its second quarter result, but the company raised its full&nbsp;year growth projection marginally. Its results also show that its flagship AI product, Agentforce, is growing rapidly but at a slightly slower rate than a quarter earlier.</p>\n\n<p>The enterprise software giant said Agentforce hit an annual recurring revenue rate of $540 million in the quarter, up 330% on a year earlier. In the second quarter, Agentforce’s ARR was $440 million, up 400%. Together with Salesforce’s Data&nbsp;360 data product, Salesforce’s AI-related revenue hit an annual revenue rate of $1.4 billion.</p>\n\n<p>Salesforce has battled questions all year about whether businesses were ready to buy AI software, and whether its business was threatened by competition from new AI services. Its AI-related revenue&nbsp;remains small for Salesforce overall. Its quarterly revenue was $10.3 billion and the company projected full year revenue of around $41.5 billion, up between 9% and 10%. That growth rate includes a contribution from the recent acquisition of Informatica. Salesforce has gradually raised its projection for fiscal 2026 revenue growth from between 7% and 8% issued earlier this year.</p>",
+            "published_at": "2025-12-04T10:54:09.848Z",
+            "url": "https://www.theinformation.com/briefings/salesforce-reports-agentforce-revenue-growth?unlock=8feb7e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/salesforce-reports-agentforce-revenue-growth?unlock=8feb7e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16389,
+            "guid": "c47d74",
+            "headline": "Nvidia Says Its Server Boosts Performance of Top Open-Source AI Models",
+            "dek": "The announcement comes as Nvidia faces increased competition from Google and Amazon over AI chips.\r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Nvidia said one of its most powerful AI servers, which enables 72 chips to work in unison, can boost the performance of some of the world’s top open-source artificial intelligence models by a factor of 10.</p>\n\n<p>The announcement comes as Nvidia faces intense competition from other AI chips including Google’s tensor processing unit and Amazon’s Tranium chips.</p>\n\n<p>In a <a href=\"https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/\">blog post</a> Wednesday, Nvidia said its GB200 NVL72 system can dramatically improve the performance of leading open-source AI models such as Kimi K2 Thinking, developed by Chinese startup Moonshot AI, and DeepSeek’s R1.</p>\n\n<p>Those top open-source models use a technique known as mixture of experts, which generate responses using far less computing power by routing queries only to the most relevant part of the overall model.</p>\n\n<p>Developing large-size models that use this technique while delivering high performance has been a challenge, and the NVL72 system solved that problem by tightly integrating its chips with its networking hardware and custom software, Nvidia said.</p>",
+            "published_at": "2025-12-04T09:31:03.721Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-says-server-boosts-performance-top-open-source-ai-models?unlock=c47d74&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-says-server-boosts-performance-top-open-source-ai-models?unlock=c47d74&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16388,
+            "guid": "52e387",
+            "headline": "Snowflake Beat Its Revenue Target But Shares Fall on New Forecast",
+            "dek": "Snowflake also said it will spend $200 million over several years to pay for AI models from Anthropic to power AI features.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Database firm Snowflake said Wednesday its revenue rose 29% to $1.21 billion in the quarter that ended Oct. 31, beating its growth forecast for the quarter by 3 percentage points. CEO Sridar Ramaswamy attributed the growth to increasing usage of Snowflake’s database products by companies running AI applications.</p>\n\n<p>Snowflake also slightly raised its growth projections for product revenue in the fiscal year that ends at the end of January to 27% from 25%.</p>\n\n<p>Despite the upbeat results, Snowflake’s stock fell 8% in after-hours trading as the company projected a slightly lower growth rate for product revenue in the current quarter compared to the last one. Snowflake also said it will spend $200 million over several years to pay for AI models from Anthropic to power AI features in its database software, though the company didn’t lower its projected gross profit margin for the current fiscal year.</p>\n\n<p>Snowflake recently started selling AI it says can automate customers’ workplace tasks ranging from resolving IT tickets and producing dashboards to handling customer service, <a href=\"https://www.theinformation.com/articles/snowflake-sierra-every-enterprise-software-firm-selling-ai-agents?rc=geicgp\">joining a crowded field of software providers offering similar AI products.</a> Ramaswamy said on Wednesday that Snowflake has surpassed $100 million in annualized revenue from its AI products, fulfilling <a href=\"https://www.theinformation.com/articles/snowflake-sets-100-million-target-ai-sales-push?rc=geicgp\">a goal that he set internally earlier this year</a>.</p>",
+            "published_at": "2025-12-03T22:21:37.868Z",
+            "url": "https://www.theinformation.com/briefings/snowflake-beat-revenue-target-shares-fall-new-forecast?unlock=52e387&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snowflake-beat-revenue-target-shares-fall-new-forecast?unlock=52e387&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16387,
+            "guid": "47d5c3",
+            "headline": "OpenAI Buys Neptune Startup for Less Than $400 Million in Stock",
+            "dek": "The AI lab is using its highly-valued stock to fund acquisitions.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has agreed to buy Neptune, a startup that makes tools for monitoring and analyzing progress during AI model training.</p>\n\n<p>Terms of this transaction weren’t disclosed but OpenAI is paying less than $400 million in stock, according to people with knowledge of the deal.</p>\n\n<p>OpenAI’s Chief Scientist Jakub Pachocki said it plans to integrate Poland-based Neptune’s tools into its research workflow to understand better how models learn.</p>\n\n<p>The AI lab is using its highly-valued stock to fund acquisitions. The company, which was recently valued at $500 billion, acquired a small startup called Software Applications Inc. in October, product development startup Statsig for $1.1 billion in September and io, an AI hardware startup co-founded by former Apple designer Jony Ive, for more than $6 billion in May.</p>",
+            "published_at": "2025-12-03T22:18:29.209Z",
+            "url": "https://www.theinformation.com/briefings/openai-buys-neptune-startup-less-400-million-stock?unlock=47d5c3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-buys-neptune-startup-less-400-million-stock?unlock=47d5c3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16386,
+            "guid": "2acc78",
+            "headline": "Morgan Stanley Explores Offloading Data Center Loan Risk",
+            "dek": "The bank is considering selling what’s known as a significant risk transfer product, a move that could free it up to do more data center lending.",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-12-03/morgan-stanley-sounds-out-investors-for-srt-tied-to-data-centers",
+            "source_label": "Bloomberg",
+            "body": "<p>Morgan Stanley has held preliminary talks with investors about offloading some of the credit risk associated with its data center lending activities, Bloomberg reported.</p>\n\n<p>The bank is considering selling what’s known as a significant risk transfer product tied to loans it’s made to companies building physical infrastructure for artificial intelligence, the outlet reported, citing people with knowledge of the matter. SRTs can take a variety of forms but generally transfer a portion of losses from loan defaults to third-party investors, freeing up banks to do more lending</p>\n\n<p>Morgan Stanley’s potential SRT deal is an example of how banks are hedging the risks associated with the funding boom for AI data centers. Lenders are growing more cautious about a flood of debt tied to Oracle data centers, in particular, The Information <a href=\"https://www.theinformation.com/articles/oracle-linked-borrowing-binge-worries-lenders\">reported</a>.</p>\n\n<p>A Morgan Stanley spokesperson declined to comment on the Bloomberg report.</p>",
+            "published_at": "2025-12-03T20:43:44.292Z",
+            "url": "https://www.theinformation.com/briefings/morgan-stanley-explores-offloading-data-center-loan-risk?unlock=2acc78&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/morgan-stanley-explores-offloading-data-center-loan-risk?unlock=2acc78&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16385,
+            "guid": "bdcc75",
+            "headline": "Top Apple Designer Hired by Meta",
+            "dek": "Apple’s famed design team has been in constant flux since longtime chief designer Jony Ive left in 2019",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup",
+            "source_label": "Bloomberg",
+            "body": "<p>Meta is hiring one of Apple’s top designers, Alan Dye, who ran the company’s user interface design team, Bloomberg reported. Longtime designer Stephen Lemay will take his spot at Apple, the news outlet reported.</p>\n\n<p>Apple’s design team has suffered from regular bouts of turnover since the company’s legendary designer Jony Ive <a href=\"https://www.theinformation.com/articles/before-departure-apples-jony-ive-faded-from-view\">left in 2019</a>. Many of those former staffers followed Ive out the door to his design firm, LoveFrom. Apple’s most recent iPhone operating system design, dubbed Liquid Glass, which makes menus and other parts of the user interface appear translucent, was heavily criticized for poor legibility.</p>\n\n<p>There is also broader churn in Apple’s executive ranks. Earlier this week, the company announced that its top AI executive, John Giannandrea, would be stepping down. And last month, the company’s chief operating officer, Jeff Williams, who also oversaw the design team, retired.</p>",
+            "published_at": "2025-12-03T20:24:31.645Z",
+            "url": "https://www.theinformation.com/briefings/top-apple-designer-poached-meta?unlock=bdcc75&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/top-apple-designer-poached-meta?unlock=bdcc75&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 3680,
+                    "guid": "440c7fbc7a",
+                    "title": "Before Departure, Apple’s Jony Ive Faded From View",
+                    "url": "https://www.theinformation.com/articles/before-departure-apples-jony-ive-faded-from-view?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16384,
+            "guid": "8cf185",
+            "headline": "Walmart Adds New Agent Guidelines to Its Website",
+            "dek": "Amazon and Shopify have also laid out rules for how agents can access their websites.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Walmart has added new guidelines outlining how AI agents and large language models should interact with and access information from its website, making it the latest e-commerce company to clearly define how outside AI tools can use its site. Walmart didn’t immediately have a comment.</p>\n\n<p>Walmart’s approach differs from that of Amazon, which has cracked down more aggressively on outside LLMs and agents. Amazon has added restrictions to its website code restricting <a href=\"https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents?\">shopping agents from Google</a> and other <a href=\"https://www.theinformation.com/articles/amazons-ai-crackdown-hits-ai-search-startups?rc=d8mrkd\">bots and agents</a> from OpenAI, Perplexity and Anthropic from accessing its site. Amazon CEO Andy Jassy has said that while the company is weighing how to work with outside AI agents, many of them don’t provide a good customer experience. Shopify has also set guidelines that are more similar to Walmart’s. In July, Shopify added a “Robot and Agent Policy” to the code underpinning its sites, which says automated scrapers, including “buy for me” agents “without a final human review step,” are not permitted to access checkout pages on Shopify sites.</p>\n\n<p>Walmart has outlined its guidelines on a <a href=\"https://www.walmart.com/llms.txt\">page</a> that includes links to what Walmart describes as “authoritative” sources of information for LLMs on topics like return policies, shipping information, and store locations. It also outlines “agent boundaries” which say that agents are not allowed to take users to checkout pages, place orders or access account information, among other restrictions. Walmart struck a partnership with OpenAI in October to show its products in ChatGPT’s e-commerce features.</p>",
+            "published_at": "2025-12-03T16:13:25.005Z",
+            "url": "https://www.theinformation.com/briefings/walmart-adds-new-agent-guidelines-website?unlock=8cf185&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/walmart-adds-new-agent-guidelines-website?unlock=8cf185&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16164,
+                    "guid": "513997d5a9",
+                    "title": "Amazon’s AI Crackdown Hits More AI Search Startups",
+                    "url": "https://www.theinformation.com/articles/amazons-ai-crackdown-hits-ai-search-startups?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
