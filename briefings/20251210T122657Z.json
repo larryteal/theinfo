@@ -1,0 +1,662 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16426,
+            "guid": "18efa4",
+            "headline": "China Weighs Nvidia Chip Purchase in Emergency Meetings With Tech Companies",
+            "dek": "President Trump’s decision to allow the export of Nvidia’s advanced H200 chips to China has complicated Beijing’s push for domestic AI chips. ",
+            "source_url": "https://www.theinformation.com/articles/china-weighs-nvidia-chip-purchase-emergency-meetings-tech-companies?preview=true&rc=jnr9wn",
+            "source_label": "The Information",
+            "body": "<p>China on Wednesday gathered its biggest tech giants to discuss whether to allow them to buy Nvidia’s advanced H200 chips, The Information reported. The meetings came after President Donald Trump’s recent decision to allow the export of the H200 to China suddenly complicated Beijing’s goal to become technologically self-sufficient.</p>\n\n<p>Officials convened a series of emergency meetings with representatives from companies including Alibaba Group, ByteDance and Tencent Holdings, and asked them to assess their demand for the H200, for which China currently has no domestic alternatives, according to two people with direct knowledge of the matter. The officials told the companies that they would soon be informed of the government’s decision, after officials compile their responses, the two people added.</p>\n\n<p>The meetings highlight Chinese policymakers’ dilemma: whether to support AI development that needs powerful chips China can’t yet produce, or <a href=\"https://www.theinformation.com/articles/china-slowly-surely-breaking-free-nvidia?rc=5pjqe5\">push through the adoption of homegrown chips</a> to eventually rid the country of U.S. technology.</p>\n\n<p>One of the options being considered is to impose caps on the amount of Nvidia chips that can be purchased relative to the amount of domestic processors they already have and plan to buy, though it remains unclear whether the ratio would be measured by dollar value or chip count, The Information reported.</p>",
+            "published_at": "2025-12-10T10:38:41.411Z",
+            "url": "https://www.theinformation.com/briefings/china-weighs-nvidia-chip-purchase-emergency-meetings-tech-companies?unlock=18efa4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-weighs-nvidia-chip-purchase-emergency-meetings-tech-companies?unlock=18efa4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16425,
+            "guid": "a57806",
+            "headline": "Nvidia Builds Technology That Could Help Fight Chip Smuggling",
+            "dek": "A software feature using the technology could help identify banned AI chips smuggled into China. ",
+            "source_url": "https://www.reuters.com/business/nvidia-builds-location-verification-tech-that-could-help-fight-chip-smuggling-2025-12-10/",
+            "source_label": "Reuters",
+            "body": "<p>Nvidia has developed a new software feature with a location verification technology that could indicate which country its chips are operating in, Reuters reported.</p>\n\n<p>The feature, which hasn’t been released yet, could make it possible for Nvidia to crack down on the smuggling of its artificial intelligence chips into China, according to Reuters. U.S. export controls prohibit the export of Nvidia’s advanced AI chips to China. Nvidia’s new software feature will first become available on its most advanced Blackwell chips, according to Reuters.</p>\n\n<p>Nvidia built the software feature for the purpose of allowing customers to track a chip’s computing performance, but it can give a sense of the chip’s location based on the time delay in communicating with Nvidia’s servers, according to Reuters.</p>\n\n<p>Despite the U.S. export controls, smuggling of Nvidia chips into China has become an organized, multinational enterprise, as The Information reported last year. Cracking down on such activities isn’t easy, given that most of Nvidia’s chips are manufactured in Taiwan and <a href=\"https://www.theinformation.com/articles/nvidia-ai-chip-smuggling-to-china-becomes-an-industry?rc=5pjqe5\">sold through a complicated network of distributors and resellers</a> around the world.</p>",
+            "published_at": "2025-12-10T09:29:13.317Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-builds-technology-help-fight-chip-smuggling?unlock=a57806&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-builds-technology-help-fight-chip-smuggling?unlock=a57806&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16424,
+            "guid": "549bfd",
+            "headline": "Amazon Plans to Invest $35 Billion in India by 2030 ",
+            "dek": "U.S. tech giants have announced tens of billions of dollars in investments into the South Asian country.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon <a href=\"https://www.aboutamazon.com/news/company-news/amazon-35-billion-india-investment\">said</a> Wednesday that it plans to invest more than $35 billion in India by 2030, as the tech giant looks to further expand its e-commerce and cloud computing businesses in one of its largest markets outside the U.S.</p>\n\n<p>Amazon’s new investment plan underscores India’s importance to global tech giants not only as a potentially huge market for their products but also as a major hub for AI infrastructure such as data centers. On Tuesday, Microsoft said it would invest $17.5 billion in India through 2029. In October, Google said it would spend $15 billion to build new AI data centers in India.</p>\n\n<p>Amazon, which has been operating in India for more than a decade, said it has already invested a total of nearly $40 billion in the country so far. The company said its new $35 billion investment over the next five years will create 1 million jobs in India and quadruple e-commerce exports from India to $80 billion by 2030.</p>",
+            "published_at": "2025-12-10T07:28:09.839Z",
+            "url": "https://www.theinformation.com/briefings/amazon-plans-invest-35-billion-india-2030?unlock=549bfd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-plans-invest-35-billion-india-2030?unlock=549bfd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16423,
+            "guid": "d5a225",
+            "headline": "Former Slack CEO Denise Dresser to Join OpenAI as Chief Revenue Officer ",
+            "dek": "Dresser will be responsible for OpenAI’s revenue strategy for business customers\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI said Tuesday it had hired former Slack CEO Denise Dresser as the company’s new chief revenue officer. Dresser will focus on OpenAI’s revenue strategy, which includes increasing revenue from business customers around the world. Dresser will report to OpenAI chief operating officer Brad Lightcap.</p>\n\n<p>OpenAI sells businesses access to its chatbot through its ChatGPT for Work subscription plans and to its AI models through an application programming interface. OpenAI has more than one million business customers, including Walmart, Target and Morgan Stanley.</p>\n\n<p>Dresser had spent more than a decade at Salesforce and became the CEO of its Slack productivity app in 2023. Prior to Salesforce, Dresser was a sales executive at Oracle.</p>",
+            "published_at": "2025-12-10T00:46:13.538Z",
+            "url": "https://www.theinformation.com/briefings/former-slack-ceo-denise-dresser-join-openai-chief-revenue-officer?unlock=d5a225&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/former-slack-ceo-denise-dresser-join-openai-chief-revenue-officer?unlock=d5a225&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16422,
+            "guid": "a3e61b",
+            "headline": "SpaceX on Track to Generate $15 Billion in Revenue This Year",
+            "dek": "The Elon Musk-led space firm is also expecting to bring in $22 billion to $24 billion next year, according to Bloomberg. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-12-09/spacex-said-to-pursue-2026-ipo-raising-far-above-30-billion",
+            "source_label": "Bloomberg",
+            "body": "<p>SpaceX is on track to generate about $15 billion in revenue this year, Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2025-12-09/spacex-said-to-pursue-2026-ipo-raising-far-above-30-billion\">reported</a> on Tuesday. The Elon Musk-led space firm is also expecting to bring in $22 billion to $24 billion next year, with the bulk of revenue coming from its Starlink satellite internet service, according to the report.</p>\n\n<p>The fresh revenue numbers come as SpaceX is gearing up for a potential initial public offering in 2026, as <a href=\"https://www.theinformation.com/articles/spacex-tells-investors-aiming-late-2026-ipo\">first reported</a> by The Information on Friday. SpaceX is also currently holding a share sale that would value the company at $800 billion, double its valuation over the summer.</p>\n\n<p>Musk, who also leads artificial intelligence startup xAI, has repeatedly talked about the idea of building data centers in space in recent months. SpaceX expects to use some of its IPO proceeds to fund data centers in space, according to the Bloomberg report.</p>",
+            "published_at": "2025-12-09T21:03:54.481Z",
+            "url": "https://www.theinformation.com/briefings/spacex-track-generate-15-billion-revenue-year?unlock=a3e61b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-track-generate-15-billion-revenue-year?unlock=a3e61b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16208,
+                    "guid": "6ed8fa1448",
+                    "title": "SpaceX Aims For 2026 IPO After Hitting $800 Billion Valuation",
+                    "url": "https://www.theinformation.com/articles/spacex-tells-investors-aiming-late-2026-ipo?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16421,
+            "guid": "9e8e82",
+            "headline": "Brookfield, Qatar Form $20 Billion AI Data Center Joint Venture",
+            "dek": "The venture follows similar moves by Saudi Arabia and the United Arab Emirates to build AI data centers and promote regional adoption.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Brookfield, one of largest real estate investors, and Qatar’s more than $500 billion sovereign wealth fund will jointly invest $20 billion to build physical infrastructure for AI in the Gulf nation and abroad, they said Tuesday.</p>\n\n<p>The Qatar venture follows similar moves by Saudi Arabia and the United Arab Emirates to build AI data centers and promote regional adoption. The Qatar Investment Authority has started a new company, Qai, to oversee its AI activities.</p>\n\n<p>Brookfield will invest in the joint venture through the Brookfield Artificial Intelligence Infrastructure Fund it formed last month. The firm has said it plans to acquire up to $100 billion in energy, land, data center and computing assets used to power artificial intelligence.</p>",
+            "published_at": "2025-12-09T18:54:12.381Z",
+            "url": "https://www.theinformation.com/briefings/brookfield-qatar-form-20-billion-ai-data-center-joint-venture?unlock=9e8e82&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/brookfield-qatar-form-20-billion-ai-data-center-joint-venture?unlock=9e8e82&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 6148,
+                    "name": "real estate"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16420,
+            "guid": "e7fd4f",
+            "headline": "Analyst Says Trump Approval for Nvidia Sales to China Not Done Deal",
+            "dek": "Among the big questions is whether the Chinese government will allow local companies to buy Nvidia's advanced chips.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Tech analyst Patrick Moorhead cautioned that President Donald Trump’s approval of Nvidia’s sale of H200 chips to China isn’t a “done deal” until Nvidia starts shipping the chips and gets revenue for them.</p>\n\n<p>“I don’t know if I take this as reality yet,” Moorhead said in an interview on <a href=\"https://www.theinformation.com/titv?rc=9byxri\">The Information’s TITV on Tuesday</a>. “We’ve seen …a lot of posturing, a lot of negotiation” over Nvidia’s ability to sell its advanced AI chips to China.</p>\n\n<p>Among the big questions is whether the Chinese government will allow local companies to buy Nvidia’s advanced chips. Also, while the Trump administration said over the summer that Nvidia could sell its H20 chips to China, Nvidia held off, waiting for the government to publish a “regulation codifying such requirement.” As of last month, Nvidia was still waiting.</p>",
+            "published_at": "2025-12-09T18:43:44.150Z",
+            "url": "https://www.theinformation.com/briefings/analyst-says-trump-approval-nvidia-sales-china-done-deal?unlock=e7fd4f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/analyst-says-trump-approval-nvidia-sales-china-done-deal?unlock=e7fd4f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16419,
+            "guid": "b6bb98",
+            "headline": "Klaviyo Adds Co-CEO As Founder Focuses on AI",
+            "dek": "Chano Fernandez was previously co-CEO at Workday and has been on Klaviyo’s board since 2023.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Marketing software firm Klaviyo said Tuesday that software executive Chano Fernández will become its co-CEO in January. Fernández will share the top job with cofounder Andrew Bialecki, who has been Klaviyo’s CEO since founding the company in 2012. Klaviyo shares were down nearly 5% Tuesday afternoon.</p>\n\n<p>Bialecki will oversee Klaviyo’s AI initiatives, the company said, while Fernández will lead the company’s marketing and sales efforts. Fernández was previously an executive at SAP and the co-CEO of Workday. He has been a board member at Klaviyo since mid-2023 and the company’s interim COO since September, according to his Linkedin profile.</p>\n\n<p>Klaviyo has been looking to branch out from its core business of marketing for e-commerce companies and incorporate more AI into its products and operations. In late August, it <a href=\"https://www.theinformation.com/briefings/klaviyo-restructures-r-d-teams-emphasizes-ai-technical-skills?rc=d8mrkd\">restructured its R&amp;D organization</a> to add more AI-focused staffers. Earlier this year, it expanded to <a href=\"https://www.theinformation.com/briefings/klaviyo-expands-to-customer-support-features?rc=d8mrkd\">add new customer service features</a> for e-commerce merchants.</p>",
+            "published_at": "2025-12-09T17:27:45.749Z",
+            "url": "https://www.theinformation.com/briefings/klaviyo-adds-co-ceo-founder-focuses-ai?unlock=b6bb98&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/klaviyo-adds-co-ceo-founder-focuses-ai?unlock=b6bb98&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16418,
+            "guid": "eca4e7",
+            "headline": "Skild AI Said in Talks to Raise at $14 Billion Valuation",
+            "dek": "The valuation is the latest example of investor enthusiasm for humanoid robots and AI to power them.",
+            "source_url": "https://www.reuters.com/business/media-telecom/softbank-nvidia-looking-invest-skild-ai-14-billion-valuation-sources-say-2025-12-08/",
+            "source_label": "Reuters",
+            "body": "<p>Skild AI, which develops AI foundation models to power robots to perform a variety of tasks, is in talks to raise over $1 billion at a valuation around $14 billion from SoftBank and Nvidia, Reuters reported on Monday.</p>\n\n<p>That valuation would be triple the two-year-old startup’s valuation from earlier this year, when it raised $500 million at a $4.2 billion valuation in a funding round backed by SoftBank, which has been <a href=\"https://www.theinformation.com/articles/softbank-hunts-humanoid-robot-startups\">doubling down on robotics</a> investments.</p>\n\n<p>Over the summer, Skild released videos of its model, the Skild Brain, powering a variety of robots, including robotic arms, robot dogs, and two-legged humanoids. The humanoids walked across stacks of pallets, up and down stairs, and through the woods. In September, Skild showed off a robot dog adapting to changes, including continuing to walk after having its legs cut off with a chainsaw.</p>",
+            "published_at": "2025-12-09T05:45:46.981Z",
+            "url": "https://www.theinformation.com/briefings/skild-ai-said-talks-raise-14-billion-valuation?unlock=eca4e7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/skild-ai-said-talks-raise-14-billion-valuation?unlock=eca4e7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16417,
+            "guid": "3f3ae6",
+            "headline": "Tiger Global Launches $2.2 Billion Fund",
+            "dek": "Tiger has a new private investment fund to continue making bets like Waymo, OpenAI.",
+            "source_url": "https://www.cnbc.com/2025/12/08/tiger-global-new-fund-ai-valuations.html",
+            "source_label": "CNBC",
+            "body": "<p>Tiger Global has announced the launch of a $2.2 billion private investment fund.</p>\n\n<p>In a note to investors reviewed by The Information, Tiger Global said the fund is expected to do a first close in March. The new fund is the same size as its venture fund raised in April 2024. Both are a fraction of the $12.7 billion flagship fund raised in 2021.</p>\n\n<p>Tiger said that its recent strategy has been to devote two-thirds of its private capital to AI-related businesses. The memo touted its investments in Waymo, OpenAI and chip maker Cerebras.</p>\n\n<p>CNBC earlier reported on the fundraising.</p>\n\n<p>According to the memo, Tiger Global says it has had more than 90 portfolio company IPOs and has distributed $32 billion to its investors in the 22 years since it launched its first “PIP” or private investment fund.</p>",
+            "published_at": "2025-12-09T02:36:05.657Z",
+            "url": "https://www.theinformation.com/briefings/tiger-global-launches-2-2-billion-fund?unlock=3f3ae6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiger-global-launches-2-2-billion-fund?unlock=3f3ae6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16416,
+            "guid": "66e869",
+            "headline": "Instacart Launches ChatGPT App With Instant Checkout Feature",
+            "dek": "Instacart was an early partner to OpenAI on its Operator agent.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Instacart <a href=\"https://www.instacart.com/company/pressreleases/instacart-app-launches-in-openai-chatgpt\">said</a> Monday it would make its app available through ChatGPT Monday, including the ability for shoppers to make purchases through OpenAI’s Instant Checkout feature. The payment feature is powered by Stripe, the companies said, although consumers will be able to pay for purchases with their digital wallets like Apple Pay and Google Pay soon.</p>\n\n<p>The launch is the latest tie-up between OpenAI and a retailer as the ChatGPT maker aims to push deeper into e-commerce. Walmart, Etsy and Shopify have all said they will make their products available through ChatGPT’s Instant Checkout feature, which allows shoppers to make purchases without leaving their chat window. Target announced plans to make its app available via ChatGPT’s new app feature last month, though it didn’t specify whether it would use Instant Checkout to facilitate purchases.</p>\n\n<p>Instacart has long had close ties with OpenAI—Instacart was an early partner for features like the company’s Operator agent, and OpenAI executives Fidji Simo joined after a stint as Instacart’s CEO. ChatGPT product head Nick Turley, who also previously worked at Instacart, <a href=\"https://www.theinformation.com/articles/chatgpt-product-chief-responding-code-red?rc=d8mrkd\">has said</a> one of his biggest priorities is enabling more personalization of ChatGPT through app integrations and helping users use ChatGPT to complete more tasks.</p>",
+            "published_at": "2025-12-08T21:15:47.787Z",
+            "url": "https://www.theinformation.com/briefings/instacart-launches-chatgpt-app-instant-checkout-feature?unlock=66e869&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/instacart-launches-chatgpt-app-instant-checkout-feature?unlock=66e869&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16415,
+            "guid": "d9dda3",
+            "headline": "Google AI Glasses Expected to Launch Next Year",
+            "dek": "Google's glasses, in collaboration with Samsung, Warby Parker and Gentle Monster, include an audio-focused model and one with a built-in display screen.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google expects to launch its first AI glasses, including an audio-focused model and one with a built-in display screen, in 2026, the company said in a <a href=\"https://blog.google/products/android/android-show-xr-edition-updates/\">blog post</a> on Monday. Google is collaborating with Samsung and the glasses companies Warby Parker and Gentle Monster on the hardware.</p>\n\n<p>Google will be entering a market currently dominated by Meta Platforms, whose Ray-Ban glasses with a camera and microphone have been a surprise hit (<a href=\"https://www.theinformation.com/articles/metas-ray-ban-glasses-deserve-more-attention?rc=n9lbpq\">although not necessarily for the AI features</a>). Meta has started selling Ray-Ban glasses with a display screen in some stores in September, with a wider rollout planned for next year. Snap, a much smaller rival, has <a href=\"https://www.theinformation.com/articles/struggling-snap-considers-outside-funding-ar-glasses?rc=n9lbpq\">explored</a> raising outside capital for its own AR glasses, which incorporate some Google AI technology.</p>",
+            "published_at": "2025-12-08T20:39:44.244Z",
+            "url": "https://www.theinformation.com/briefings/google-ai-glasses-expected-launch-next-year?unlock=d9dda3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-ai-glasses-expected-launch-next-year?unlock=d9dda3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16414,
+            "guid": "fcb01f",
+            "headline": "OpenAI’s ChatGPT Holds Onto Repeat Users as Download Share Dips",
+            "dek": "People are using the ChatGPT mobile app three times more per day than Gemini users, according to data from intelligence firm Sensor Tower",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>While Google’s Gemini has taken a slightly higher share of weekly mobile app downloads since its latest model, Gemini 3, launched in mid-November, OpenAI’s ChatGPT has maintained its dominance in terms of usage and return users on mobile apps, according to data from intelligence firm Sensor Tower. The data excludes users from China.</p>\n\n<p>Gemini’s share of weekly downloads on mobile apps rose to 33% for the week of Nov. 24, up from 29% during the prior two weeks. ChatGPT’s weekly share fell to 42% for the week of Nov. 24 from 46% and 45% during the prior two weeks. Gemini 3 launched November 18.</p>\n\n<p>Still, more people are using ChatGPT. Over that period, just under 90% of mobile app user sessions among chatbots involved ChatGPT. Gemini had about 4% share of those sessions, while Perplexity and DeepSeek had fewer. The data did not include visits to the chatbots’ web sites.</p>\n\n<p>ChatGPT users were also using the app more than 8 times a day vs. 2.5 for Gemini in late November.&nbsp; The information speaks to how much further Google has to go to make use of its flagship AI products a habit after the initial surge of interest in its latest model.</p>\n\n<p>Google’s resurgence has rattled OpenAI. The company’s chief financial officer, Sarah Friar, last month addressed some investors’ concerns that time spent on ChatGPT has declined, in part due to content restrictions introduced to prevent its chatbot from chatting with teens about adult topics, such as suicide. The company is currently rolling out age-vertification features, which would allow verified adults to discuss topics such as erotica.</p>",
+            "published_at": "2025-12-08T19:40:09.991Z",
+            "url": "https://www.theinformation.com/briefings/openais-chatgpt-holds-onto-repeat-users-download-share-dips?unlock=fcb01f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openais-chatgpt-holds-onto-repeat-users-download-share-dips?unlock=fcb01f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16413,
+            "guid": "b48abb",
+            "headline": "Trump to Let Nvidia Sell Advanced AI Chips to China",
+            "dek": "The decision is a win for advisers such as David Sacks.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump administration will let Nvidia sell a relatively advanced set of artificial intelligence server chips to China, the president said in a social media post, ending a&nbsp;debate in Washington about whether to let a geopolitical adversary access state-of-the-art technology from the U.S.</p>\n\n<p>Trump implied that the White House is directing the Commerce Department to let Nvidia sell Hopper 200 chips, which are a&nbsp;generation behind the Nvidia’s Blackwell chips that are now being mass produced. Many of today’s best-known AI models, such as GPT-5, were trained using Hopper 100 or 200-series&nbsp;chips. Nvidia previously sold a much less powerful version of its Hopper chips, the H20, to China.</p>\n\n<p>One question is how the Chinese government will react to the availability of H200. China has instructed many of the company’s biggest AI developers to limit their use of Nvidia chips so that China’s homegrown AI server chips, including Huawei’s can flourish. Nvidia sales to China have petered out this year.</p>\n\n<p>But given that chips from Huawei are better suited to running existing AI models, known as inference, as opposed to developing new models, China may be more open to local companies using the Nvidia H200 chips for model-training purposes.</p>\n\n<p>Shares of Nvidia rose around 2% in after-hours trading on Monday. Spokespeople for Nvidia and Commerce didn’t immediately respond to a request for comment. Semafor earlier reported on the White House decision, which temporarily boosted Nvidia shares during normal trading hours. Nvidia <a href=\"https://www.theinformation.com/briefings/nvidia-projects-strong-revenue-growth-54-october-quarter?rc=c48ukx\">previously said</a> the Trump administration wanted the U.S. government to keep 15% of Nvidia’s sales to China.</p>\n\n<p>The White House decision is a win for Trump advisers such as David Sacks, a venture capitalist who has argued that restricting sales to China would help local Chinese chipmakers and that those firms would then make gains in selling chips to other nations that would otherwise buy American technology.</p>",
+            "published_at": "2025-12-08T19:17:22.766Z",
+            "url": "https://www.theinformation.com/briefings/trump-reportedly-let-nvidia-sell-advanced-ai-chips-china?unlock=b48abb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-reportedly-let-nvidia-sell-advanced-ai-chips-china?unlock=b48abb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16412,
+            "guid": "2bbe5e",
+            "headline": "Ellisons’ Paramount SkyDance Make $108 Billion Tender Offer for Warner",
+            "dek": "Paramount has the advantage that it will likely find it easier to get its purchase approved by the government than Netflix would.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>The Ellison family-controlled Paramount Skydance made an all-cash tender offer for Warner Bros. Discovery at $30 a share, or $108.4 billion, coming in over the top of the $27.75 a share cash and stock deal that Netflix and WBD’s board agreed to last week.</p>\n\n<p>Unlike the Netflix proposed purchase, which is only for WBD’s studio and HBO Max streaming service, though, Paramount is offering to buy the whole company including the cable channels which now generate the bulk of WBD’s profits but are declining as viewers shift away from cable TV. In the Netflix deal, WBD shareholders will also get shares in a new company holding the cable channels, closing the gap between the two offers.</p>\n\n<p>WBD stock quickly jumped 4.4% to $27.23, just below the Netflix price. Paramount said it had lined up $54 billion in debt financing and $41 billion in equity financing from Larry Ellison and&nbsp;a fund affiliated with RedBird Capital Management,&nbsp;several Middle Eastern funds and an investment fund controlled by Jared Kushner. Ellison,&nbsp;the Oracle co-founder whose son David runs Paramount, is worth at least $255 billion based on the value of his Oracle stake alone.&nbsp;But the Paramount offer’s big advantage is that the Ellisons are close to the Trump administration and will likely have an easier time getting approval for the purchase.</p>\n\n<p>Warner said in a statement its board would review the Paramount offer and respond within 10 days.</p>",
+            "published_at": "2025-12-08T15:08:06.773Z",
+            "url": "https://www.theinformation.com/briefings/ellisons-paramount-skydance-make-108-billion-tender-offer-warner?unlock=2bbe5e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ellisons-paramount-skydance-make-108-billion-tender-offer-warner?unlock=2bbe5e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16411,
+            "guid": "77f683",
+            "headline": "IBM Agrees to Buy Confluent for $11 Billion ",
+            "dek": "The AI boom has boosted companies’ need to get access to real-time data. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>International Business Machines agreed to acquire data streaming firm Confluent for around $11 billion in cash. Confluent provides technology that helps companies manage real-time data streams used in AI models, making it a logical fit for IBM as it looks to boost its software, cloud and AI offering. The AI boom has boosted companies’ need to get access to real-time data.</p>\n\n<p>IBM is paying $31 a share in cash, which represents a roughly 33% premium of Confluent’s share price as of Friday. Confluent shares surged more than 25% in early trading Monday, while IBM’s stock fell slightly.</p>\n\n<p>The deal also marks one of IBM’s biggest acquisitions in recent years after it strikes the largest software deal in history buying Red Hat for $$34.5 billion. Last year, it agreed to buy cloud management tool provider HashiCorp for $6.4 billion. Centerview Partners advised IBM and Morgan Stanley advised Confluent.</p>",
+            "published_at": "2025-12-08T14:37:20.252Z",
+            "url": "https://www.theinformation.com/briefings/ibm-agrees-buy-confluent-11-billion?unlock=77f683&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ibm-agrees-buy-confluent-11-billion?unlock=77f683&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16410,
+            "guid": "082251",
+            "headline": "Chinese Humanoid Maker AgiBot Delivers Its 5,000th Mass-Produced Unit",
+            "dek": "Chinese robot makers are speeding up their production of humanoids by taking advantage of the country’s vast supply chain.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese startup AgiBot said on Monday that the number of humanoids it has manufactured just reached 5,000, hitting a new milestone in its mass production.</p>\n\n<p>AgiBot’s announcement is the latest example of how Chinese companies are ramping up their production of humanoid robots. Last month, UBTech, another Chinese robot maker, said it had started mass production and delivery of its industrial humanoids. UBTech aims to deliver 500 units by the end of this year.</p>\n\n<p>Shanghai-based AgiBot said its humanoids are currently being used in a variety of industries including entertainment, manufacturing and logistics as well as for scientific research. Apart from a full-size humanoid and a half-size humanoid, the company also sells humanoids designed for complex operations in specific industries.</p>\n\n<p>AgiBot was founded in 2023 by Zhihui Peng, a former member of Huawei Technologies’ “Genius Youth” program. It is one of a growing number of Chinese startups that are racing to develop more capable humanoids by taking advantage of the country’s vast hardware supply chain and deep talent pool in AI and advanced robotics.</p>",
+            "published_at": "2025-12-08T10:34:50.507Z",
+            "url": "https://www.theinformation.com/briefings/chinese-humanoid-maker-agibot-delivers-5-000th-mass-produced-unit?unlock=082251&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinese-humanoid-maker-agibot-delivers-5-000th-mass-produced-unit?unlock=082251&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16409,
+            "guid": "ba153b",
+            "headline": "IBM in Talks to Acquire Confluent in $11 Billion Deal",
+            "dek": "Confluent, which manages the open-source Apache Kafka software project, has been promoting itself as a way to give AI models access to real time data. ",
+            "source_url": "https://www.wsj.com/business/deals/ibm-nears-roughly-11-billion-deal-for-confluent-276f52d8?mod=hp_lead_pos4",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>IBM is in advanced talks to acquire data analytics company Confluent for roughly $11 billion, The Wall Street Journal <a href=\"https://www.wsj.com/business/deals/ibm-nears-roughly-11-billion-deal-for-confluent-276f52d8?gaa_at=eafs&gaa_n=AWEtsqcq5jWfBTGnfQb2Cq5unjV3YRYJEBh3z7pj65FtHQSI5UL7oQb6YENMPzrYR-o%3D&gaa_ts=69368467&gaa_sig=o0vBg1o3lAZoGRTcUWSEWZXZQY6kMXvmWObo37I65I7oX6SbymvKO4rykfkHEp-dNIkxRjagsNPmQ2X-ouv17Q%3D%3D\">reported</a>.</p>\n\n<p>Confluent, which went public in 2021 and currently has a market capitalization of around $8 billion, sells software that analyzes data in real time, making it useful for applications like ride-hailing and fraud prevention. In recent years, Confluent has touted its software’s ability to give AI models access to fresh data, and OpenAI has used Confluent’s software to analyze how customers are using ChatGPT and other products.</p>\n\n<p>But Confluent’s sales growth has been slowing due to increasing competition and customers getting better at controlling their cloud spending, and the company had reportedly been exploring a sale after receiving takeover interest two months ago.</p>\n\n<p>Confluent, which manages the open source Apache Kafka software, would be a logical fit for IBM, which has made several big bets on open source companies. These include its acquisition of Red Hat in 2019 for $34.5 billion—the largest software deal in history—and last year’s purchase of cloud management tool provider&nbsp;HashiCorp for $6.4 billion. If the Confluent deal happens, it would mark one of IBM’s biggest acquisitions in recent years as it pivots further into software, cloud and AI under CEO Arvind Krishna.</p>",
+            "published_at": "2025-12-08T05:29:33.071Z",
+            "url": "https://www.theinformation.com/briefings/ibm-talks-acquire-confluent-11-billion-deal?unlock=ba153b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ibm-talks-acquire-confluent-11-billion-deal?unlock=ba153b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                },
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16408,
+            "guid": "f7eb0c",
+            "headline": "Tech PR’s Lulu Cheng Meservey Raises $40 Million VC Fund",
+            "dek": "The size is notable for a fund manager who is mostly known for communications strategy.",
+            "source_url": "",
+            "source_label": "The Informaton",
+            "body": "<p>A new securities filing shows that corporate communications strategist&nbsp;Lulu Cheng Meservey has raised $40 million for a venture capital fund.</p>\n\n<p>Cheng Meservey has worked with clients like Ramp and Safe Superintelligence at her advisory firm, Rostra. She previously was an executive at Activision Blizzard and Substack. Prior to that, she co-founded communications agency TrailRunner International.</p>\n\n<p>She’s known for a strategy called “go direct,” where she often recommends that companies speak directly to their audiences rather than using traditional media as a forum. She has taken equity in some clients and earlier this year was on The Information’s list of <a href=\"https://www.theinformation.com/projects/general-partners-venture-firms?rc=zjctrx\">The Next General Partners</a>.&nbsp;The filing did not indicate the investment thesis for the new fund.</p>",
+            "published_at": "2025-12-08T05:16:23.051Z",
+            "url": "https://www.theinformation.com/briefings/tech-prs-lulu-cheng-meservey-raises-40-million-vc-fund?unlock=f7eb0c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tech-prs-lulu-cheng-meservey-raises-40-million-vc-fund?unlock=f7eb0c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 8348,
+                    "guid": "06229d5e70",
+                    "title": "‘The Truth Had Been Distorted Beyond Recognition’: Lulu Cheng Meservey on Joining the Activision Board and Defending Free Speech on Substack",
+                    "url": "https://www.theinformation.com/articles/the-truth-had-been-distorted-beyond-recognition-lulu-cheng-meservey-on-joining-the-activision-board-and-defending-free-speech-on-substack?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16407,
+            "guid": "669c49",
+            "headline": "OpenAI’s Head of ChatGPT Envisions AI ‘Superpowers’ ",
+            "dek": "Turley is one of the senior leaders responding to OpenAI’s ‘code red.’\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Instrumental in helping OpenAI’s ChatGPT retain its lead as the dominant artificial intelligence is a low-profile, 30-year-old product manager named Nick Turley, <a href=\"https://www.theinformation.com/articles/chatgpt-product-chief-responding-code-red?rc=zjctrx\">The Information reported</a> on Saturday.</p>\n\n<p>Turley, a former Instacart and Dropbox product executive, envisions OpenAI’s flagship chatbot transitioning into a kind of “superassistant” that will connect the AI to other apps such as email and Slack and boosting its search capabilities, say by&nbsp; taking actions for users who tap the chatbot to find information or services.</p>\n\n<p>Products like ChatGPT are going to be “how many people are going to experience artificial general intelligence,” he said in an interview. “It’s not just important to reach more people—it’s to go deeper and give them superpowers.”</p>\n\n<p>Turley is also focused on helping OpenAI tap into advertising as a new source of revenue. Although OpenAI CEO Sam Altman <a href=\"https://www.theinformation.com/articles/openai-ceo-declares-code-red-combat-threats-chatgpt-delays-ads-effort?rc=zjctrx\">has told staff that the company</a> plans to delay initiatives such as advertising to focus on improving the core part of ChatGPT, employees say work is continuing on the ads product.</p>",
+            "published_at": "2025-12-07T22:40:57.984Z",
+            "url": "https://www.theinformation.com/briefings/openais-head-chatgpt-envisions-ai-superpowers?unlock=669c49&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openais-head-chatgpt-envisions-ai-superpowers?unlock=669c49&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16214,
+                    "guid": "3048e2ee53",
+                    "title": "The ChatGPT Product Chief Responding to a ‘Code Red’",
+                    "url": "https://www.theinformation.com/articles/chatgpt-product-chief-responding-code-red?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
