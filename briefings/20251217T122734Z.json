@@ -1,0 +1,654 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16470,
+            "guid": "815d12",
+            "headline": "Tencent Names Former OpenAI Researcher Chief AI Scientist",
+            "dek": "Yao Shunyu is overseeing Tencent’s model development as well as AI infrastructure. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tencent Holdings internally announced that Yao Shunyu, a researcher who joined from OpenAI in September, is now serving as a chief AI scientist overseeing the Chinese tech giant’s large language model department as well as its newly established AI infrastructure department, according to a person with knowledge of the matter.</p>\n\n<p>Yao’s major role, part of Tencent’s office of the CEO and president, highlights the critical importance of his responsibility. Yao reports to Tencent President Martin Lau.</p>\n\n<p>Tencent has been lagging behind rivals ByteDance and Alibaba Group in China’s domestic race to develop the best AI models. But in recent months it is stepping up its fight to catch up. The company is aggressively recruiting ByteDance’s AI researchers by offering to double their salaries, while empowering Yao to push through internal changes so he can build a stronger AI development team, <a href=\"https://www.theinformation.com/articles/tencent-poaches-bytedance-researchers-china-ai-race-heats?preview=true&rc=jnr9wn\">The Information reported</a> last week.</p>\n\n<p>As part of its ongoing reorganization of AI-related teams, Tencent has also created an AI data department and a data computing platform department, according to the internal announcement, which was first reported by Chinese media outlet 36kr.</p>",
+            "published_at": "2025-12-17T10:58:32.912Z",
+            "url": "https://www.theinformation.com/briefings/tencent-names-former-openai-researcher-chief-ai-scientist?unlock=815d12&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tencent-names-former-openai-researcher-chief-ai-scientist?unlock=815d12&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16234,
+                    "guid": "7520ad6e3c",
+                    "title": "Tencent Poaches ByteDance Researchers as China AI Race Heats Up",
+                    "url": "https://www.theinformation.com/articles/tencent-poaches-bytedance-researchers-china-ai-race-heats?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16469,
+            "guid": "1eeb10",
+            "headline": "Manus AI Agent Reaches $125 Million Annual Run Rate ",
+            "dek": "The Benchmark-backed startup is still figuring out how to generate enough revenue to build a sustainable business model.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Manus, an artificial intelligence agent that briefly went viral earlier this year and got financial backing from Benchmark, said Wednesday that its annual run rate has just reached $125 million, up from $90 million in August.</p>\n\n<p>A spokesperson for Manus also said that the AI agent’s annual recurring revenue, which consists of regular income from subscriptions, has just hit $100 million—eight months after Manus introduced paid subscription plans for users in April. Its current annual subscriptions start from $17 a month and the most expensive tier costs $167 a month.</p>\n\n<p>Launched in March, Manus uses AI foundation models from Anthropic and others to power its agent. Like many other AI agent startups, it is still figuring out how to generate enough revenue to build a sustainable business model.</p>\n\n<p>Manus, operated by a Singapore-based startup called Butterfly Effect, is one of the pioneers among startups building general-purpose AI agents this year. Butterfly Effect, founded by a group of tech entrepreneurs from China, raised $75 million in April in a funding round led by Benchmark at a valuation of $500 million, <a href=\"https://www.theinformation.com/articles/startup-behind-manus-ai-agent-navigates-u-s-china-tensions-benchmark-deal?rc=jnr9wn\">The Information reported</a> previously. The company now has 105 employees in Singapore, Tokyo and San Francisco, and plans to open a Paris office soon, the spokesperson said.</p>",
+            "published_at": "2025-12-17T09:06:20.822Z",
+            "url": "https://www.theinformation.com/briefings/manus-ai-agent-reaches-125-million-annual-run-rate?unlock=1eeb10&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/manus-ai-agent-reaches-125-million-annual-run-rate?unlock=1eeb10&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16468,
+            "guid": "cac8a3",
+            "headline": "Waymo Discusses Raising Billions at More Than $100 Billion Valuation",
+            "dek": "The new money would help fund an expansion into several more cities next year. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Waymo is in&nbsp;early talks with potential investors to raise more money at a valuation of at least $100 billion, <a href=\"https://www.theinformation.com/articles/waymo-discusses-raising-billions-100-billion?rc=zjctrx\">The Information first reported Tuesday</a>. The size of the round will at least be several billions of dollars, possibly even more than $10 billion.</p>\n\n<p>A new valuation at more than $100 billion would more than double the valuation of its last round. The self-driving car unit, which is controlled by Google-parent Alphabet, last October it said it had raised $5.6 billion, at a valuation of $45 billion, from Andreessen Horowitz, Tiger Global, Fidelity and others.</p>\n\n<p>Last week it said that its cars had made 14 million rides so far this year.</p>",
+            "published_at": "2025-12-17T04:58:12.806Z",
+            "url": "https://www.theinformation.com/briefings/waymo-discusses-raising-billions-100-billion-valuation?unlock=cac8a3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymo-discusses-raising-billions-100-billion-valuation?unlock=cac8a3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16467,
+            "guid": "ef93b3",
+            "headline": "Amazon in Talks to Make $10 Billion OpenAI Investment ",
+            "dek": "AWS would not be able to sell OpenAI models directly to its cloud customers, however.",
+            "source_url": "https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips",
+            "source_label": "The Information",
+            "body": "<p>Amazon is in talks to invest $10 billion or more in OpenAI at a valuation exceeding $500 billion, The Information reported on Tuesday.</p>\n\n<p>As part of the potential deal, OpenAI would use Amazon’s Trainium artificial intelligence chips, and the investment would help fund OpenAI’s massive cloud-infrastructure commitments, including to Amazon Web Services. Last month, OpenAI said it would spend $38 billion over the next seven years renting servers from AWS, making it one of at least five cloud providers OpenAI relies on to develop its AI.</p>\n\n<p>The discussions are ongoing and could include commerce partnership opportunities. AWS would not be able to sell OpenAI models directly to its cloud customers, however, because Microsoft, which owns about 27% of OpenAI equity, has secured an exclusive right to do so.</p>",
+            "published_at": "2025-12-17T04:52:07.313Z",
+            "url": "https://www.theinformation.com/briefings/amazon-talks-make-10-billion-openai-investment?unlock=ef93b3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-talks-make-10-billion-openai-investment?unlock=ef93b3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16267,
+                    "guid": "5d32c8f12b",
+                    "title": "OpenAI in Talks to Raise At Least $10 Billion From Amazon and Use Its AI Chips",
+                    "url": "https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16466,
+            "guid": "34cf1f",
+            "headline": "U.S. Threatens Retaliation Against European Tech Companies",
+            "dek": "The Trump administration singled out companies such as Mistral and Spotify.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump administration has threatened to impose penalties on European technology companies in response to a pattern of what it says&nbsp;are “discriminatory and harassing lawsuits, taxes, fines, and directives” against American tech companies.</p>\n\n<p>In a <a href=\"https://x.com/ustraderep/status/2000990028835508258?s=46\">post on X</a>, the Office of the U.S. Trade Representative pointed to several European firms, including Mistral, Spotify and Accenture, arguing these companies “operate freely” in the U.S. compared to U.S. tech companies in Europe. “If the EU and EU Member States insist on continuing to restrict, limit, and deter the competitiveness of U.S. service providers through discriminatory means, the United States will have no choice but to begin using every tool at its disposal to counter these unreasonable measures,” the post said.</p>\n\n<p>The European Union has taken a tough stance on big tech in recent years. It recently <a href=\"https://www.theinformation.com/briefings/eu-fines-elon-musks-x-140-million-blue-check-data-issues?rc=kfcki8\">fined Elon Musk’s X $140 million dollars</a>, and, a few months earlier, <a href=\"https://www.theinformation.com/briefings/european-commission-warns-may-mandate-google-ad-tech-breakup?rc=kfcki8\">fined Google around $3.5 billion</a>.</p>",
+            "published_at": "2025-12-17T00:52:12.061Z",
+            "url": "https://www.theinformation.com/briefings/u-s-threatens-retaliation-european-tech-companies?unlock=34cf1f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-s-threatens-retaliation-european-tech-companies?unlock=34cf1f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16465,
+            "guid": "95753a",
+            "headline": "Databricks Valued at $134 Billion in New Financing",
+            "dek": "The round will allow Databricks to continue to stay private while allowing employees to sell some shares. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Databricks said it had raised more than $4 billion from investors including Insight Partners, Fidelity Management and J.P. Morgan Asset Management, valuing the AI software firm at $134 billion.</p>\n\n<p>The round will allow Databricks to continue to stay private while allowing employees to sell some shares. The company expects to pull in more than $4 billion in revenue this year, and generate some cash for the year, The Information previously <a href=\"https://www.theinformation.com/articles/databricks-boosts-sales-forecast-driving-valuation-134-billion?rc=khe6an\">reported</a>.</p>",
+            "published_at": "2025-12-16T22:06:32.117Z",
+            "url": "https://www.theinformation.com/briefings/databricks-valued-134-billion-new-financing?unlock=95753a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/databricks-valued-134-billion-new-financing?unlock=95753a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16173,
+                    "guid": "413cca56d1",
+                    "title": "Databricks Boosts Sales Forecast, Driving Valuation to $134 Billion",
+                    "url": "https://www.theinformation.com/articles/databricks-boosts-sales-forecast-driving-valuation-134-billion?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16464,
+            "guid": "a3c9b1",
+            "headline": "Former UK Chancellor George Osborne to Join OpenAI as Head of OpenAI for Countries",
+            "dek": "Osborne will lead the expansion of OpenAI’s Stargate effort to build data centers around the world\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has hired former UK Chancellor George Osborne to a new position it’s calling the Head of OpenAI for Countries, according to Chief Global Affairs Officer Chris Lehane’s <a href=\"https://www.linkedin.com/posts/chris-lehane-2562535_ive-spent-enough-time-in-government-to-know-activity-7406755715211628546-NpvR/\">LinkedIn post</a>. Osborne will lead the company’s effort to expand its Stargate data center buildout across the rest of the world.</p>\n\n<p>Stargate, a $500 billion joint effort by OpenAI, SoftBank and Oracle to build data centers in the U.S., is aimed at providing OpenAI with enough compute to serve its roughly 900 million weekly active users. OpenAI plans to spend more than $450 billion on compute through 2030.</p>\n\n<p>The appointment adds to the number of former British politicians U.S. tech companies have hired in advisory roles. Microsoft and Anthropic in October appointed former UK Prime Minister and Chancellor Rishi Sunak as an advisor. Former UK Deputy Prime Minister Nick Clegg joined Meta in 2018 and served as the company’s President of Global Affairs until earlier this year.</p>",
+            "published_at": "2025-12-16T19:53:24.267Z",
+            "url": "https://www.theinformation.com/briefings/former-uk-chancellor-george-osborne-join-openai-head-openai-countries?unlock=a3c9b1&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/former-uk-chancellor-george-osborne-join-openai-head-openai-countries?unlock=a3c9b1&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16463,
+            "guid": "c658ec",
+            "headline": "Lightspeed, Dragoneer Raise Multibillion-Dollar Funds",
+            "dek": "The backers of Anthropic and OpenAI have over $12 billion more to spend on AI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Two venture capital firms bucked the industry’s year-long slump to raise multibillion dollar funds. Lightspeed Venture Partners on Monday announced it had raised more than $9 billion, including a $3.3 billion to make follow-on investments. And Dragoneer raised $4.3 billion in a new venture fund, higher than its $3.8 billion fund raised in 2022.</p>\n\n<p>The new raises give the VC firms more firepower to back increasingly large artificial intelligence deals and could improve what’s been a bleak year for fundraising. U.S. VC firms raised $45.7 billion in new funds in the first nine months of the year. At that pace, fundraising is headed for the lowest level since 2017.</p>\n\n<p>Lightspeed Venture Partners has been one of the most aggressive firms in AI, leading investments in Anthropic, Mistral, Fireworks AI and Glean. In its most recent cash haul, it raised five funds totalling $7.9 billion, topping its <a href=\"https://www.theinformation.com/articles/lightspeed-aims-to-raise-7-billion-in-new-funds?rc=zjctrx\">target of $7 billion</a>, as well as $1.25 billion in vehicles with a single investor this year.</p>\n\n<p>Dragoneer, founded by private equity investor Marc Stad in 2012, invests in public and private stocks. It has invested more than $3 billion in OpenAI, according to the company.</p>",
+            "published_at": "2025-12-16T04:26:44.103Z",
+            "url": "https://www.theinformation.com/briefings/lightspeed-dragoneer-raise-multibillion-dollar-funds?unlock=c658ec&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/lightspeed-dragoneer-raise-multibillion-dollar-funds?unlock=c658ec&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16462,
+            "guid": "7c9172",
+            "headline": "PayPal Applies to Become a Bank for Small Business Lending",
+            "dek": "The bank will originate small business loans and offer interest-bearing savings accounts.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>PayPal Holdings applied to set up a Utah-based bank, a move that would allow it to directly provide loans to customers instead of relying on third-party banks for much of the process.</p>\n\n<p>The 27-year old online payments company filed applications with the Utah Department of Financial Institutions and the Federal Deposit Insurance Corporation for what it’s calling PayPal Bank, it said Monday. The bank will originate small business loans and offer interest-bearing savings accounts, PayPal said.</p>\n\n<p>Mara McNeill, who was previously CEO of a bank catering to Toyota dealership owners and employees, will be the president of PayPal Bank. PayPal said it has provided access to more than $30 billion in loans and working capital since 2013.</p>",
+            "published_at": "2025-12-16T01:53:18.730Z",
+            "url": "https://www.theinformation.com/briefings/paypal-applies-become-bank-small-business-lending?unlock=7c9172&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/paypal-applies-become-bank-small-business-lending?unlock=7c9172&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16461,
+            "guid": "70e86a",
+            "headline": "Roomba Maker Files for Bankruptcy",
+            "dek": "IRobot announced that its main contract manufacturer will acquire its assets.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>IRobot, the company that makes the Roomba vacuum, is filing for bankruptcy, it announced Sunday. Shenzhen Picea Robotics Co., iRobot’s main contract manufacturer, will buy iRobot’s assets out of bankruptcy.</p>\n\n<p>Roombas were first released in 2002 and became the most popular home robots of the past two decades. The company reached a market capitalization of over $4.5 billion in early 2021, but its stock price has plummeted to its current capitalization of $41 million. Amazon previously looked into buying iRobot but regulatory opposition by the E.U. <a href=\"https://www.theinformation.com/briefings/before-amazon-ditched-irobot-deal-ftc-said-it-planned-to-sue\">and the Federal Trade Commission</a> scuttled the deal in early 2024.</p>\n\n<p>The transaction would take iRobot private and existing shareholders would not receive any equity in the reorganized company. IRobot said it plans to continue operating throughout the process.</p>\n\n<p>IRobot has faced growing competition in recent years as new companies, <a href=\"https://www.theinformation.com/articles/forget-humanoids-silicon-valley-going-nuts-pixar-like-robot\">such as Matic</a>, gain traction in the market for robot vacuums.</p>",
+            "published_at": "2025-12-15T22:52:12.555Z",
+            "url": "https://www.theinformation.com/briefings/roomba-maker-files-bankruptcy?unlock=70e86a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/roomba-maker-files-bankruptcy?unlock=70e86a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16460,
+            "guid": "6ed384",
+            "headline": "Tesla Stock Jumps After Elon Musk Says It’s Testing Driverless Robotaxi",
+            "dek": "Tesla currently offers rides to customers in two cities, though all customer rides in both regions currently have operators inside vehicles that can intervene if self-driving software malfunctions. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla shares were trading up 4% on Monday after CEO Elon Musk confirmed that the company has started testing its Robotaxi vehicles in Austin without human backups inside the cars.</p>\n\n<p>“Testing is underway with no occupants in the car,” Musk said in an X <a href=\"https://x.com/elonmusk/status/2000302654837371181\">post</a> on Sunday in response to a video of a Robotaxi on the road in Austin without a person inside it. In at least one <a href=\"https://www.reddit.com/r/SelfDrivingCars/comments/1pmnilm/second_fully_driverless_tesla_spotted_in_austin/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button\">video</a> of an empty Robotaxi, the vehicle was being followed closely by another Tesla, which some observers have interpreted to be a backup observation vehicle.</p>\n\n<p>Tesla currently offers rides to customers in Austin and the San Francisco Bay Area, though all customer rides in both regions currently have operators inside vehicles that can intervene if self-driving software malfunctions. Musk said in July that Tesla was aiming to offer Robotaxi to half the U.S. population by the end of 2025 before scaling that goal back to eight to 10 metro areas. Tesla has been driving test vehicles in <a href=\"https://www.theinformation.com/articles/teslas-scaled-back-robotaxi-timeline-still-faces-obstacles\">several other U.S. metro</a> areas but has yet to launch outside the two initial cities. That leaves the company far behind rival Waymo, which is offering rides without backup humans in five U.S. cities.</p>",
+            "published_at": "2025-12-15T19:38:28.021Z",
+            "url": "https://www.theinformation.com/briefings/tesla-stock-jumps-elon-musk-says-testing-driverless-robotaxi?unlock=6ed384&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-stock-jumps-elon-musk-says-testing-driverless-robotaxi?unlock=6ed384&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15989,
+                    "guid": "2d410cc91e",
+                    "title": "Tesla’s Scaled Back Robotaxi Timeline Still Faces Obstacles",
+                    "url": "https://www.theinformation.com/articles/teslas-scaled-back-robotaxi-timeline-still-faces-obstacles?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16459,
+            "guid": "14531b",
+            "headline": "Former Shopify Executive Joins OpenAI to Lead ChatGPT Apps Efforts",
+            "dek": "OpenAI has taken early steps to make ChatGPT the default way its users interact with other apps.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Former Shopify executive Glen Coates has joined OpenAI as the company’s head of app platform, he said in a LinkedIn <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7406370698065252352/\">post</a> Monday. OpenAI didn’t immediately respond to a request for comment.</p>\n\n<p>OpenAI has taken early steps to make ChatGPT the default way its users interact with other apps, and has struck early partnerships with companies including <a href=\"https://www.theinformation.com/briefings/instacart-launches-chatgpt-app-instant-checkout-feature?rc=d8mrkd\">Instacart</a> and Target to make their apps available through ChatGPT. <a href=\"https://www.theinformation.com/articles/chatgpt-product-chief-responding-code-red?rc=d8mrkd\">Nick Turley</a>, the product executive who leads ChatGPT, has prioritized enabling more personalization of the chatbot, in part by connecting it to other apps.</p>\n\n<p>Coates spent around six years at Shopify, where he oversaw product development for the company’s core software for hosting e-commerce storefronts. More recently, he also led <a href=\"https://www.theinformation.com/articles/leaders-ai-shopping-revolution?rc=d8mrkd\">teams</a> working on initiatives to help Shopify merchants share their product information with AI apps and agents. Coates left Shopify this summer, The Information <a href=\"https://www.theinformation.com/articles/shopifys-leadership-shake-affects-push-growth?rc=d8mrkd\">previously reported</a>.</p>",
+            "published_at": "2025-12-15T18:35:37.947Z",
+            "url": "https://www.theinformation.com/briefings/former-shopify-executive-joins-openai-lead-chatgpt-apps-efforts?unlock=14531b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/former-shopify-executive-joins-openai-lead-chatgpt-apps-efforts?unlock=14531b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16021,
+                    "guid": "43122cd834",
+                    "title": "OpenAI’s Commerce and Apps Efforts Divide Consumer Firms",
+                    "url": "https://www.theinformation.com/articles/openais-commerce-apps-efforts-divide-consumer-firms?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 15977,
+                    "guid": "b80e1e240d",
+                    "title": "How Shopify’s Leadership Shake-Up Affects Its Push for Growth",
+                    "url": "https://www.theinformation.com/articles/shopifys-leadership-shake-affects-push-growth?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16458,
+            "guid": "1fa723",
+            "headline": "Trump Administration Launches ‘Tech Force’ Recruitment Drive",
+            "dek": "Companies including OpenAI, Meta and xAI have signed on to be involved. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump administration has launched a new program, dubbed “Tech Force,” to recruit engineers to work on artificial intelligence inside federal agencies.</p>\n\n<p>People who sign up for the two-year program will “work in teams reporting directly to agency leadership” and will collaborate with partner tech companies&nbsp;including Google, Meta, Apple, OpenAI and xAI, according to a <a href=\"https://techforce.gov/\">government website</a>. Annual salaries are expected to range from $150,000 to $200,000, the website said.</p>\n\n<p>The Trump administration, working with Elon Musk’s Department of Government Efficiency, has tried to implement AI across federal agencies this year, including inside the <a href=\"https://www.theinformation.com/articles/doge-using-ai-target-sec-regulations-cutting?rc=kfcki8\">Securities and Exchange Commission</a>. However, the administration also laid off thousands of federal workers and <a href=\"https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/?oref=ng-author-river\">shut down</a> existing tech teams.</p>",
+            "published_at": "2025-12-15T17:48:44.803Z",
+            "url": "https://www.theinformation.com/briefings/trump-administration-launches-tech-force-recruitment-drive?unlock=1fa723&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-administration-launches-tech-force-recruitment-drive?unlock=1fa723&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16450,
+            "guid": "71b5db",
+            "headline": "Exclusive: OpenAI Hires an Executive from Google to Lead M&A",
+            "dek": "OpenAI sees acquisitions as an important source of future growth.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>OpenAI is hiring Albert Lee, a long-time corporate development executive at Google,&nbsp;as head of corporate development, according to people with knowledge of his move. His hire signals OpenAI’s interest in pursuing acquisitions and strategic investments as a key component of future growth, said a person close to OpenAI.</p>\n\n<p>Lee led corporate development for Google Cloud and Deepmind, according to his LinkedIn profile. He worked on Google’ $5.4 billion acquisition of cybersecurity firm Mandiant and its $2.6 billion purchase of data analytics provider Looker.</p>\n\n<p>He will start at OpenAI in January and will report to chief financial officer Sarah Friar. Lee’s move follows OpenAI’s recent hiring of former Amazon executive Torben Severson as global head of business development. Severson focuses on strategic partnerships while Lee will focus on acquisitions.</p>",
+            "published_at": "2025-12-15T17:00:52.023Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-openai-hires-executive-google-lead-m?unlock=71b5db&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-openai-hires-executive-google-lead-m?unlock=71b5db&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16457,
+            "guid": "6df0a7",
+            "headline": "ServiceNow Shares Dropped 10% on Armis Acquisition Report",
+            "dek": "The enterprise software giant is looking to enhance its ability in IT and security.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares of ServiceNow dropped around 10% on Monday morning, following a weekend report on Bloomberg that the enterprise software firm was in advanced talks to buy cybersecurity startup Armis for $7 billion.</p>\n\n<p>A potential deal with Armis would be ServiceNow’s second cybersecurity acquisition this year after it agreed to buy identity security startup Veza for more than $1 billion in early December. The enterprise software giant is looking to enhance its ability in IT and security, its president Amit Zavery <a href=\"https://www.theinformation.com/articles/servicenows-1-billion-plus-acquisition-aimed-winning-agent-war\">told</a> The Information earlier.</p>\n\n<p>Armis is considered an IPO candidate and the company said it crossed $300 million in annual recurring revenue in August.</p>",
+            "published_at": "2025-12-15T15:06:58.579Z",
+            "url": "https://www.theinformation.com/briefings/servicenow-shares-dropped-10-armis-acquisition-report?unlock=6df0a7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/servicenow-shares-dropped-10-armis-acquisition-report?unlock=6df0a7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16456,
+            "guid": "dc8881",
+            "headline": "Teardown Shows Huawei’s Progress and Limit in its Latest Chip ",
+            "dek": "Huawei’s latest smartphone chip Kirin 9030 shows progress in China’s chip industry, but it remains generations behind, TechInsights report showed.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>China’s tech giant Huawei Technologies and its manufacturing partner Semiconductor Manufacturing International Corp. have made some progress in chip production, but their products still lag far behind industry leaders, according to a teardown by research firm TechInsights last Thursday.</p>\n\n<p>The companies’ latest achievement is the Kirin 9030 processor, which powers Huawei’s Mate 80 Pro Max smartphone released last month. It represents China’s most advanced homegrown semiconductor manufacturing to date, achieved despite years of U.S. export control that has cut off the country’s access to cutting-edge chipmaking equipment.</p>\n\n<p>But the chip still falls significantly short of the industry-leading manufacturing technology used by Taiwan Semiconductor Manufacturing Company and South Korea’s Samsung Electronics, according to TechInsights’ teardown report. The production method is also likely struggling with yield issues, which means the vast majority of chips produced didn’t work properly, according to TechInsights. That’s because SMIC had to rely on older, less precise equipment to repeat certain chipmaking processes to create denser patterns on chips, the report showed.</p>\n\n<p>The development indicates that China continues to find ways to advance its domestic chip capabilities despite U.S. export restrictions, though the path forward appears increasingly difficult and costly. Huawei and SMIC can still squeeze more performance out of current technology through design innovations and engineering discipline, but the latest TechInsights analysis suggests that they’re approaching the limits of what’s possible without access to the next-generation manufacturing tools.</p>",
+            "published_at": "2025-12-15T06:37:08.932Z",
+            "url": "https://www.theinformation.com/briefings/teardown-shows-huaweis-progress-limit-latest-chip?unlock=dc8881&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/teardown-shows-huaweis-progress-limit-latest-chip?unlock=dc8881&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16455,
+            "guid": "fa1717",
+            "headline": "Oracle Strikes $150 Billion of Data Center Leases in November Quarter",
+            "dek": "Oracle's disclosure shows it is preparing to handle the flood of new cloud business it has struck in the past year.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Oracle struck about $150 billion worth of lease commitments on data centers in the three months ending November, it revealed in securities filing late last week,&nbsp;a sign it is preparing for the cloud deals that customers such as OpenAI have struck with Oracle.</p>\n\n<p>The filing showed that as of Nov. 30, Oracle&nbsp;had $248 billion of lease commitments “substantially all related to data centers and cloud capacity arrangements” that are due to start between now and fiscal 2028 that weren’t on the balance sheet. That compared with&nbsp;$99.8 billion of additional lease commitments Oracle reported having made as of Aug. 31, according to a filing over the summer. As of May, Oracle had just&nbsp;$43.4 billion of additional lease commitments.</p>\n\n<p>Also as of Nov. 30, Oracle had customer commitments totalling $523 billion, stretching out over more than five years. Oracle said in the securities filing 10% of these commitments were expected to be recognized over the next 12 months, with another 65% through the next five years.</p>",
+            "published_at": "2025-12-14T21:00:56.822Z",
+            "url": "https://www.theinformation.com/briefings/oracle-strikes-150-billion-data-center-lease-commitments-november-quarter?unlock=fa1717&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-strikes-150-billion-data-center-lease-commitments-november-quarter?unlock=fa1717&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16454,
+            "guid": "f4f027",
+            "headline": "Agnelli Family Rejects Tether’s Juventus Offer",
+            "dek": "The Agnelli family said it had no intention of selling any of its stake in Juventus.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Exor, the Agnelli family’s holding company, rejected an offer from stablecoin issuer Tether for its 65% stake in Italian soccer team Juventus, saying it had “no intention of selling any of its shares in Juventus.”</p>\n\n<p>In a statement, Exor said the Agnelli family was “fully committed to the Club, supporting its new management team in the execution of a clear strategy to deliver strong results both on and off the field.”</p>\n\n<p>Tether&nbsp;said Friday it has submitted an all-cash offer to buy the team from the Agnelli family. Tether is the largest stablecoin issuer with $186 billion of its USDT tokens in circulation. The company previously took an <a href=\"https://www.bloomberg.com/news/articles/2025-02-14/tether-says-it-acquired-minority-stake-in-juventus-football-club\">undisclosed minority stake</a> in Juventus in February. Italian-born Paolo Ardoino, Tether’s chief executive since 2023, said in a statement Friday that he “grew up with this team” and that “Tether is in a position of strong financial health and intends to support Juventus with stable capital and a long horizon.”</p>\n\n<p>Juventus is one of global soccer’s most famous clubs, having won 36 Serie A titles and two UEFA Champions League trophies. Since 1923, it has been owned and managed by the Agnelli family, whose patriarch founded Fiat automobiles and whose holdings now span Ferrari, The Economist magazine and health tech firm Philips, among others. John Elkann, heir to the Agnelli family and chief executive of Exor, was named to the board of Meta in January.</p>",
+            "published_at": "2025-12-14T19:30:37.860Z",
+            "url": "https://www.theinformation.com/briefings/agnelli-family-rejects-tethers-juventus-offer?unlock=f4f027&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/agnelli-family-rejects-tethers-juventus-offer?unlock=f4f027&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16453,
+            "guid": "30238e",
+            "headline": "OpenAI Ends Six Month Initial Vesting Period for Employee Equity",
+            "dek": "Competition for AI talent is as intense as ever, with the top tier of AI researchers able to jump around between big companies and startups.",
+            "source_url": "https://www.wsj.com/tech/ai/openai-ends-vesting-cliff-for-new-employees-in-compensation-policy-change-d4c4c2cd?mod=hp_lead_pos4",
+            "source_label": "Wall Street Journal",
+            "body": "<p>OpenAI ended a policy that required new hires to work for six months before their equity compensation vested, <a href=\"https://www.wsj.com/tech/ai/openai-ends-vesting-cliff-for-new-employees-in-compensation-policy-change-d4c4c2cd?mod=hp_lead_pos4\">the Wall Street Journal reported,</a> an effort to make the AI firm a more appealing place to work.</p>\n\n<p>The Journal said OpenAI had previously shortened the minimum period that new hires have to work for vesting to six months from 12 months. The new policy means new hires vest their stock from their first day.</p>\n\n<p>Competition for AI talent is as intense as ever, with the top tier of AI researchers able to jump around between big companies and startups, including Google, Meta, Microsoft, OpenAI and xAI.</p>",
+            "published_at": "2025-12-14T13:01:57.919Z",
+            "url": "https://www.theinformation.com/briefings/openai-ends-six-month-initial-vesting-period-employee-equity?unlock=30238e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-ends-six-month-initial-vesting-period-employee-equity?unlock=30238e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16452,
+            "guid": "390f05",
+            "headline": "ServiceNow Reportedly Close to $7 Billion Purchase of Armis",
+            "dek": "Armis works with big companies such as United Airlines and Colgate Palmolive. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2025-12-14/servicenow-said-to-near-deal-to-buy-armis-for-up-to-7-billion?srnd=homepage-americas&sref=qvN0c6kf",
+            "source_label": "Bloomberg",
+            "body": "<p>ServiceNow is in advanced talks to buy cybersecurity firm Armis in a deal worth around $7 billion, <a href=\"https://www.bloomberg.com/news/articles/2025-12-14/servicenow-said-to-near-deal-to-buy-armis-for-up-to-7-billion?srnd=homepage-americas&sref=qvN0c6kf\">Bloomberg reported</a> late Saturday.</p>\n\n<p>Such an acquisition would be the second multi billion dollar deal done by ServiceNow, an enterprise software firm, this year. In March ServiceNow <a href=\"https://www.theinformation.com/briefings/eb2cb1?rc=9byxri\">announced the $2.85 billion purchase</a> of Moveworks, an AI startup.</p>\n\n<p>Armis works with big companies such as United Airlines and Colgate Palmolive, it says on its web site. In August it said it passed $300 million in annual recurring revenue, growing&nbsp;from $200 million in less than a year. ServiceNow’s reported interest highlights the growing importance of cybersecurity as security breaches proliferate.</p>",
+            "published_at": "2025-12-14T02:26:24.185Z",
+            "url": "https://www.theinformation.com/briefings/servicenow-reportedly-close-7-billion-purchase-armis?unlock=390f05&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/servicenow-reportedly-close-7-billion-purchase-armis?unlock=390f05&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                }
+            ]
+        }
+    ]
+}
