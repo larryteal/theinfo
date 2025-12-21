@@ -1,0 +1,696 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16490,
+            "guid": "25fb6a",
+            "headline": "Google Sues Startup That Scrapes Its Search Results",
+            "dek": "Google’s suit against SerpApi may signal that Google is willing to be more aggressive now that its search monopoly case has been resolved in court.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google on Friday sued <a href=\"https://www.theinformation.com/articles/meet-google-scraping-startup-used-chatgpt-cursor-perplexity?rc=n9lbpq\">SerpApi</a>, a startup used by OpenAI and other tech companies to access Google’s search data. The suit, filed in federal court in California, accused SerpApi, which scrapes Google’s search results and sells those results to other companies, of bypassing technology restricting access to Google’s search access results pages. Because those pages contain copyrighted material such as the Knowledge Panels that Google licenses from partners, Google argued in the complaint that SerpApi’s actions violate the Copyright Act.</p>\n\n<p>In a statement, SerpApi said that its actions were protected by the First Amendment. “SerpApi has not been served with Google’s complaint, and prior to filing, Google did not contact us to raise any concerns or explore a constructive resolution,” SerpApi’s general counsel Chad Anson wrote.</p>\n\n<p>Earlier this month, a federal judge issued a final remedies judgment on how to address Google’s illegal search monopoly, including a requirement that Google must syndicate its search results to qualified competitors, which will likely include OpenAI. Google’s suit against SerpApi may signal that Google is willing to be more aggressive now that its search monopoly case has been resolved in court. Google has long known of SerpApi’s existence and has tried various techniques to make it harder for the firm to scrape high-quality information, The Information has previously <a href=\"https://www.theinformation.com/articles/openai-challenging-google-using-search-data?rc=n9lbpq\">reported</a>, but this is the first time Google has pursued legal action against the company.</p>",
+            "published_at": "2025-12-19T23:35:03.485Z",
+            "url": "https://www.theinformation.com/briefings/google-sues-startup-scrapes-search-results?unlock=25fb6a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-sues-startup-scrapes-search-results?unlock=25fb6a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15739,
+                    "guid": "2d86ad6116",
+                    "title": "Judge’s Google Data Sharing Order Leaves Small Rivals Hanging",
+                    "url": "https://www.theinformation.com/articles/judges-google-data-sharing-order-leaves-small-rivals-hanging?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 15630,
+                    "guid": "727dd4b697",
+                    "title": "OpenAI Is Challenging Google—While Using Its Search Data",
+                    "url": "https://www.theinformation.com/articles/openai-challenging-google-using-search-data?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16489,
+            "guid": "d16dca",
+            "headline": "Elon Musk’s 2018 Tesla Pay Package Reinstated by Delaware Court ",
+            "dek": "That means Musk will get options on about 304 million Tesla shares. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk’s 2018 CEO compensation package at Tesla, which had been overturned by a Delaware judge last year, must be reinstated, the state’s highest court ruled on Friday. That means Musk will get options on about 304 million shares, worth more than $139 billion today. The grant will increase his percentage stake to 19.8%.</p>\n\n<p>“We reverse the Court of Chancery’s rescission remedy and award $1 in nominal damages,” Delaware Supreme Court judges wrote in an <a href=\"https://courts.delaware.gov/Opinions/Download.aspx?id=389200\">opinion</a> issued Friday. The Chancery court had <a href=\"https://www.theinformation.com/articles/meet-the-lawyer-who-took-away-elon-musks-56-billion\">overturned</a> the 2018 compensation package in January 2024 in response to a shareholder lawsuit, finding that Musk had too much sway over the company’s board of directors. In Friday’s opinion, the supreme court said that the court’s decision to rescind Musk’s pay package was too extreme.</p>\n\n<p>The ruling further cements Musk’s control over Tesla. In November, he <a href=\"https://www.theinformation.com/articles/elon-musks-victory\">handily won shareholder approval</a> for a new compensation package worth $1 trillion if Tesla hits a series of ambitious financial and product goals over the next decade.</p>",
+            "published_at": "2025-12-19T22:18:00.306Z",
+            "url": "https://www.theinformation.com/briefings/elon-musks-2018-tesla-pay-package-reinstated-delaware-court?unlock=d16dca&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musks-2018-tesla-pay-package-reinstated-delaware-court?unlock=d16dca&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16488,
+            "guid": "d6093d",
+            "headline": "TikTok Tells U.S. Staff Compensation Structure Will Change Under Deal",
+            "dek": "Employees moved under the new joint venture will no longer receive ByteDance RSUs.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>TikTok employees working for the company’s U.S. Data Security division will be moved under a U.S. joint venture ownership company in January and will no longer be able to receive Restricted Stock Units from TikTik’s Chinese parent company, ByteDance, staff were told on Friday. The U.S. Data Security division is the part of TikTok that is going to be sold to a joint venture controlled by U.S. investors including Oracle and Silver Lake.</p>\n\n<p>In a note to employees that was viewed by The Information, Adam Presser, who leads USDS, said that “Upon completion of the transaction, JV employees can no longer qualify to receive ByteDance RSUs. As a result, the RSU portion of your Total Package will convert to cash-based compensation.”</p>\n\n<p>The joint venture will also introduce other compensation initiatives for staff such as a “Profit Sharing Incentive Plan,” which will “replace the role previously served by Performance Based RSUs,” Presser said. Any ByteDance RSUs that USDS staff accumulated before January 21, 2026—before the deadline for the deal closes—will be retained.</p>\n\n<p>The details come after TikTok CEO Shou Zi Chew on Thursday <a href=\"https://www.theinformation.com/briefings/bytedance-signs-deal-create-u-s-tiktok-venture?rc=kfcki8\">notified employees</a> that the company had signed agreements with investors to create a U.S.-based TikTok joint venture majority owned by American investors for the data security arm. TikTok’s commerce and ad operations will remain part of ByteDance’s TikTok global entity.</p>",
+            "published_at": "2025-12-19T21:46:26.454Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-tells-u-s-staff-compensation-structure-will-change-deal?unlock=d6093d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-tells-u-s-staff-compensation-structure-will-change-deal?unlock=d6093d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16487,
+            "guid": "e35ee6",
+            "headline": "Neobank Mercury Applies for National Banking Charter",
+            "dek": "Mercury is the latest in a rush of banking fintech startups to take advantage of an easing in the regulatory environment",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Neobank Mercury has applied for a national bank charter with the Office of the Comptroller of the Currency, the latest in a rush of banking fintech startups to take advantage of an easing in the regulatory environment under the Donald Trump Administration.</p>\n\n<p>Mercury was founded in 2017 and serves more than 200,000 mainly business customers, generating $650 million in annualized revenue. On Friday it said it had also applied for insurance with the Federal Deposit Insurance Corporation.</p>\n\n<p>Some fintechs have caused problems for banks by bringing in customers that may not meet the banks’ regulatory requirements. Led by Immad Akhund, Mercury has encountered difficulty with the banking partners it relies on to provide its services. Akhund said a charter will allow the bank to “deliver greater stability, long-term confidence, and trust, while continuing to redefine what radically different banking means.“</p>\n\n<p>Mercury this year ended its partnership with Evolve Bank after the Federal Reserve launched an enforcement action against the bank, which has struggled to manage a sprawling web of fintech partners.</p>\n\n<p>Choice Bank, another Mercury partner, was slapped with a consent order by the FDIC. The regulator in that case had criticized the bank for allowing Mercury to open thousands of accounts without proper customer identification, including accounts in legally risky countries, The Information <a href=\"https://www.theinformation.com/articles/inside-mercurys-stumble-from-fintech-hero-to-target-of-the-feds\">previously revealed</a>. A third banking partner, Patriot Bank, also recently received an OCC consent order. Last year, Mercury announced it had added a partnership with fintech-specialist bank Column.</p>",
+            "published_at": "2025-12-19T20:21:43.163Z",
+            "url": "https://www.theinformation.com/briefings/neobank-mercury-applies-national-banking-charter?unlock=e35ee6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/neobank-mercury-applies-national-banking-charter?unlock=e35ee6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16486,
+            "guid": "c8359f",
+            "headline": "OpenAI on Track to Top $13 Billion in Revenue",
+            "dek": "The growth comes as the ChatGPT maker discussings raising as much as $100 billion in a new funding round, ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI is&nbsp;on track to beat its 2025 revenue goal of $13 billion, up from around $4 billion last year, <a href=\"https://www.theinformation.com/articles/openai-discussed-raising-tens-billions-valuation-around-750-billion?rc=zjctrx\">The Information reported</a>. Annualized revenue, or the last month’s revenue multiplied by 12, by last month topped $19 billion, more than triple the pace in January.</p>\n\n<p>The growth comes as company begins early discussions to raise as much as $100 billion at a valuation of around $750 billion before the investment, 50% higher than its valuation two months ago during the share sale. The discussions suggest that private investors still have appetite for fast-growing AI startups even while worries about an AI bubble derail some public tech stocks.</p>",
+            "published_at": "2025-12-19T05:12:25.550Z",
+            "url": "https://www.theinformation.com/briefings/openai-track-top-13-billion-revenue?unlock=c8359f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-track-top-13-billion-revenue?unlock=c8359f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16277,
+                    "guid": "f79356547f",
+                    "title": "How OpenAI’s Organizational Problems Hurt ChatGPT",
+                    "url": "https://www.theinformation.com/articles/openais-organizational-problems-hurt-chatgpt?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16485,
+            "guid": "0ca05b",
+            "headline": "ByteDance Signs Deal to Create U.S. TikTok Venture",
+            "dek": "MGX, Oracle and Silver Lake will each own 15% of the new company, as part of a broader consortium holding a 50% stake.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>TikTok owner ByteDance reached agreements with investors to create a U.S.-based TikTok joint venture majority owned by American investors, according to an internal memo to employees viewed by The Information.</p>\n\n<p>ByteDance signed a deal with Abu Dhabi-based MGX, Oracle and investment firm Silver Lake to create the new company and is aiming to have the transaction finalized by January 22, according to the memo–one day before a deadline set by the White House for a sale of TikTok’s U.S. operations.</p>\n\n<p>MGX, Oracle and Silver Lake will each own 15% of the new company, as part of a broader consortium holding a 50% stake. Affiliates of existing ByteDance investors will own 30.1%, and ByteDance will own 19.9%.</p>\n\n<p>The agreement is in <a href=\"https://www.theinformation.com/briefings/mgx-reportedly-involved-tiktok-deal-talks?rc=zjctrx\">line with a proposed deal</a> mapped out this fall and&nbsp;brings ByteDance closer to ending the multi-year negotiations determining the fate of TikTok in the U.S. The new joint venture will be responsible for safeguarding U.S. user data in a cloud environment run by Oracle.</p>\n\n<p>A TikTok spokesperson did not immediately respond to a request for comment on the memo, which was first reported by Axios.</p>",
+            "published_at": "2025-12-18T23:40:21.062Z",
+            "url": "https://www.theinformation.com/briefings/bytedance-signs-deal-create-u-s-tiktok-venture?unlock=0ca05b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bytedance-signs-deal-create-u-s-tiktok-venture?unlock=0ca05b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                },
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16484,
+            "guid": "4db415",
+            "headline": "Meta Plans ‘Mango’ Video and Image AI Model for 2026 ",
+            "dek": "The company is also working on a text model code-named Avocado.",
+            "source_url": "https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7?mod=tech_lead_story",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Meta Platforms is working on two new AI models—one focused on images and video, and the other on text—for release in the first half of 2026, the company’s chief AI officer Alexandr Wang told employees on Thursday.</p>\n\n<p>The Wall Street Journal said Wang made his remarks about the video and image model, which is code-named Mango, and the text model, code-named Avocado, in a company question and answer session. Wang told employees that one of the priorities for the Avocado model is to improve its software coding abilities.</p>\n\n<p>Meta’s focus on an image and video model is no surprise. The company has already launched a video generation tool called Vibes, which uses technology from the startup Midjourney. OpenAI and Google have headstarts on Meta in the category with their Sora video- and Nano Banana image-making tools, respectively.</p>\n\n<p>Wang also told employees that Meta is in the early stages of working on world models, which process visual information to learn about physical environments. CNBC <a href=\"https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html\">previously reported</a> on the existence of the Avocado model.</p>",
+            "published_at": "2025-12-18T22:28:41.685Z",
+            "url": "https://www.theinformation.com/briefings/meta-plans-mango-video-image-ai-model-2026?unlock=4db415&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-plans-mango-video-image-ai-model-2026?unlock=4db415&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16483,
+            "guid": "f9aa6f",
+            "headline": "Exclusive: Figure CEO Brett Adcock Launches New AI Lab With $100 Million in Funding",
+            "dek": "The lab is part of a broader trend of neolabs aiming to exploit new approaches to developing AI models they say major developers like OpenAI and Anthropic have overlooked.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Brett Adcock, the CEO of robotics startup Figure AI, has started a new AI lab called Hark, which will be funded by $100 million of his personal capital, according to a copy of a memo Adcock sent to Figure employees and investors on Thursday seen by The Information.</p>\n\n<p>The AI lab will be focused on building “human-centric” AI, which can “think proactively, recursively improve and care deeply about people,” the memo said. Hark’s first cluster of graphics processing units went online on Monday, the memo said, though it couldn’t be learned how large the cluster was. Adcock will remain the CEO of Figure, in addition to his new role at Hark, according to a person with knowledge of the move.</p>\n\n<p>Hark continues the trend of AI startup CEOs founding new companies while remaining at their old one. Richard Socher, the CEO of search engine startup You.com, is similarly launching an AI lab which he is raising $1 billion in funding for, The Information has <a href=\"https://www.theinformation.com/articles/com-ceo-socher-seeks-1-billion-new-ai-lab\">reported</a>.</p>\n\n<p>More broadly, well-known researchers and executives <a href=\"https://www.theinformation.com/articles/investors-chase-neolabs-outflank-openai-anthropic\">have raised billions of dollars for so-called “neolabs” in recent months</a>, which hope to exploit new approaches to developing AI models and research they say major developers like OpenAI and Anthropic may have overlooked. These neolabs are taking on the larger AI labs despite the fact that those firms are already generating billions of dollars in revenue.</p>\n\n<p>Figure has <a href=\"https://www.theinformation.com/articles/humanoid-robotics-firm-figure-attracts-39-billion-valuation-and-questions\">previously raised</a> nearly $2 billion in funding from investors including Parkway Venture Capital, Nvidia, Microsoft and Bezos Expeditions and was last valued at $39 billion.</p>",
+            "published_at": "2025-12-18T19:02:12.034Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-figure-ceo-brett-adcock-launches-new-ai-lab-100-million-funding?unlock=f9aa6f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-figure-ceo-brett-adcock-launches-new-ai-lab-100-million-funding?unlock=f9aa6f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16482,
+            "guid": "39d034",
+            "headline": "Thinking Machines To Release Models in 2026",
+            "dek": "Thinking Machines was recently in discussions to raise between $4 billion and $5 billion in new funding at a valuation of at least $50 billion.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Thinking Machines Lab, the AI lab co-founded by former OpenAI Chief Technology Officer Mira Murati, is planning to release its own in-house models next year, co-founder and Chief Scientist John Schulman said on a podcast.</p>\n\n<p>So far, Thinking Machines has released Tinker, an application programming interface that allows developers to finetune, or tweak, open-source models. Murati <a href=\"https://www.theinformation.com/articles/10-billion-enigma-mira-murati\">has told investors</a> that the company aims to produce models customized to a company’s performance indicators or business metrics. It also plans to release a consumer product, such as an AI-powered assistant consumers can speak to.</p>\n\n<p>Thinking Machines is part of a growing group of startups called “neolabs” who hope to exploit new approaches to developing AI models and research they say major developers like OpenAI and Anthropic may have overlooked.</p>\n\n<p>The company was <a href=\"https://www.theinformation.com/briefings/exclusive-muratis-thinking-machines-aims-raise-5-billion\">recently in discussions</a> to raise between $4 billion and $5 billion in new funding at a valuation of at least $50 billion. It has so far raised $2 billion, most recently at a valuation of $10 billion, from investors including Andreessen Horowitz.</p>",
+            "published_at": "2025-12-18T16:06:38.609Z",
+            "url": "https://www.theinformation.com/briefings/thinking-machines-release-models-2026?unlock=39d034&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/thinking-machines-release-models-2026?unlock=39d034&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16481,
+            "guid": "082d5a",
+            "headline": "China Builds Prototype of EUV Machine Used in Chip Manufacturing",
+            "dek": "As the U.S. has blocked China’s access to key chipmaking equipment, Beijing is ramping up its effort to develop its own machines. ",
+            "source_url": "https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/",
+            "source_label": "Reuters ",
+            "body": "<p>China has built a prototype of an extreme ultraviolet lithography machine that’s&nbsp;critical&nbsp;for manufacturing advanced semiconductors, as the country steps up its effort to produce advanced chips without relying on Western technology suppliers, Reuters reported.</p>\n\n<p>The prototype of the&nbsp;EUV machine that&nbsp;etches circuits onto silicon wafers to make chips, was built in early 2025 by a team of former engineers of Dutch chip equipment maker ASML, according to Reuters. The team reverse-engineered ASML’s EUV machine to build the prototype. The Chinese government has set a goal of producing working chips using the prototype by 2028, the report said.</p>\n\n<p>As the U.S. tries to prevent China from building its own advanced chips, Washington has imposed export controls to restrict Chinese companies’ access to ASML’s EUV machines. But the existence of the prototype suggests that China may be overcoming technological hurdles to develop its own chip manufacturing equipment.</p>\n\n<p>Tech giant Huawei Technologies is playing a key role in China’s EUV project by working with thousands of engineers and coordinating many companies and government research institutes across the country, according to Reuters.</p>",
+            "published_at": "2025-12-18T09:19:23.519Z",
+            "url": "https://www.theinformation.com/briefings/china-builds-prototype-key-chip-manufacturing-machine?unlock=082d5a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-builds-prototype-key-chip-manufacturing-machine?unlock=082d5a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16480,
+            "guid": "93d75b",
+            "headline": "YouTube Will Broadcast the Oscars Starting in 2029",
+            "dek": "The deal, which will end ABC’s 50-plus year run broadcasting the Oscars, highlights the growing strength of the streaming platform.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>YouTube has struck a five-year exclusive deal to broadcast the Oscars, starting in 2029, YouTube and the Academy of Motion Picture Arts and Sciences announced on Wednesday.</p>\n\n<p>The deal, which will end ABC’s exclusive run broadcasting the Oscars, which began in 1976, highlights the growing strength of the streaming platform, which has also been muscling into live sports programming via its Sunday Ticket deal with the NFL. YouTube is the most popular streaming platform on televisions, according to Nielsen.</p>\n\n<p>According to the press announcement, the partnership also includes access to other Academy events like the Oscars Nominees Luncheon exclusively on the Oscars YouTube channel, and Google will help digitize some of the Academy’s collection of 52 million film-related items.</p>",
+            "published_at": "2025-12-18T00:45:59.591Z",
+            "url": "https://www.theinformation.com/briefings/youtube-will-broadcast-oscars-starting-2029?unlock=93d75b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/youtube-will-broadcast-oscars-starting-2029?unlock=93d75b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15992,
+                    "guid": "88f05dda82",
+                    "title": "YouTube Exec: Subscription Strength Prompted Reorg",
+                    "url": "https://www.theinformation.com/articles/youtube-exec-subscription-strength-prompted-reorg?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16479,
+            "guid": "ce0419",
+            "headline": "Coinbase Launches Prediction Markets, Stocks Trading ",
+            "dek": "The crypto platform is expanding beyond crypto in its bid to become an “everything exchange.” ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Coinbase <a href=\"https://www.coinbase.com/blog/system-update-the-future-of-finance-is-on-coinbase\">said</a> Wednesday it’s launching stock trading, prediction markets, stablecoin issuance, and other new features in payments and wealth advisory, in its bid to become an “everything exchange.”</p>\n\n<p>The move represents its biggest product shakeup in years and puts it in direct competition with Robinhood, which also offers stocks, crypto, and prediction markets. Like Robinhood, Coinbase will charge zero-fees for stock trading, according to Scott Shapiro, who leads trading business at Coinbase. The company hopes it will pave the way for its future launch of tokenized stocks by attracting users and boosting liquidity for stock trading on the platform.</p>\n\n<p>For prediction markets, Coinbase will partner with Kalshi to start and expects to add more partners later. Coinbase is also launching a service letting companies create their own custom-branded stablecoin with Coinbase, backed by collaterals including Circle’s USDC. It will also offer crypto perpetual futures, an AI-powered wealth advisor, and crypto payment features for enterprises.</p>",
+            "published_at": "2025-12-17T23:26:19.209Z",
+            "url": "https://www.theinformation.com/briefings/coinbase-launches-prediction-markets-stocks-trading?unlock=ce0419&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coinbase-launches-prediction-markets-stocks-trading?unlock=ce0419&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16129,
+                    "guid": "02fba375e1",
+                    "title": "Coinbase to Launch Prediction Market Powered by Kalshi",
+                    "url": "https://www.theinformation.com/articles/coinbase-launch-prediction-market-powered-kalshi?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16478,
+            "guid": "09f0f5",
+            "headline": "Salesforce Acquires AI Marketing Startup Qualified",
+            "dek": "The deal will give Salesforce access to Piper, an AI marketing agent that greets website visitors and gauges their interest in becoming customers. ",
+            "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-qualified/",
+            "source_label": "The Information",
+            "body": "<p>Salesforce has <a href=\"https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-qualified/\">struck an agreement</a> to acquire Qualified, a seven-year-old startup that helps Salesforce customers generate sales leads from their websites.</p>\n\n<p>Terms weren’t disclosed, but Salesforce is paying between $1 billion and $1.5&nbsp;billion for Qualified, according to a person with direct knowledge of the matter. A Salesforce spokesperson didn’t respond to a request for comment.&nbsp;Qualified&nbsp;hasn’t previously publicly disclosed its valuation.</p>\n\n<p>The deal reflects the large number of companies that are still using the web to generate sales leads. Qualified sells an AI agent called Piper that companies can use to greet website visitors, determine what products they’re interested in, and relay this information to human salespeople. Salesforce already offers similar features through its agent-building service, Agentforce, but Qualified,&nbsp;co-founded by former Salesforce executives,&nbsp;has deeper experience in this area.</p>\n\n<p>Qualified has raised more than $160 million from investors such as&nbsp;Salesforce Ventures, Redpoint Ventures, Norwest and Sapphire Ventures, according to Pitchbook. The company’s last funding came in 2022 when it raised a $95 million Series C round led by Sapphire Ventures.</p>",
+            "published_at": "2025-12-17T23:20:02.247Z",
+            "url": "https://www.theinformation.com/briefings/salesforce-acquires-ai-marketing-startup-qualified?unlock=09f0f5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/salesforce-acquires-ai-marketing-startup-qualified?unlock=09f0f5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                },
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16477,
+            "guid": "2cf7a9",
+            "headline": "Micron Shares Surge After Company Beat Revenue, Gross Margin Projections",
+            "dek": "The company is projecting faster top line growth and higher margins amid ballooning demand for its memory chips from AI firms.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Memory chip-maker Micron’s shares climbed 8% after it reported 57% growth in revenue of $13.64 billion for its first fiscal quarter, ended Nov. 27, well above its September projection that it would bring in as much as $12.8 billion in revenue. Executives also forecast Micron’s revenue growth to accelerate next quarter to a rate of 132% year-over-year.</p>\n\n<p>CEO Sanjay Mehrotra said the company had already locked in agreements on price and volume with its customers for its entire supply of high bandwidth memory chips in 2026.</p>\n\n<p>Memory chips such as the ones Micron manufactures <a href=\"https://www.theinformation.com/articles/memory-chip-rally-lifting-micron-done\">are in short supply</a> as AI companies seek to build up their stockpiles to use in data centers. OpenAI announced deals with Micron rivals SK Hynix and Samsung in October to double the current global manufacturing capacity for HBM. Mehrotra said he expected “strong industry demand” and “supply constraints” to continue contributing to “tight market conditions” beyond 2026.</p>\n\n<p>Micron’s pricing power, thanks to the surging demand from AI firms, was reflected in the 56% gross profit margin it notched in the November quarter, which was well above the guidance it had shared with investors in its previous earnings call. The company projected today that its gross profit margin would continue to climb in the second quarter to as high as 68%.</p>",
+            "published_at": "2025-12-17T22:41:18.270Z",
+            "url": "https://www.theinformation.com/briefings/micron-shares-surge-company-beat-revenue-gross-margin-projections?unlock=2cf7a9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/micron-shares-surge-company-beat-revenue-gross-margin-projections?unlock=2cf7a9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16271,
+                    "guid": "4029accdbf",
+                    "title": "The Memory-Chip Rally Lifting Micron Isn’t Done",
+                    "url": "https://www.theinformation.com/articles/memory-chip-rally-lifting-micron-done?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16476,
+            "guid": "658a75",
+            "headline": "Amazon Replaces Leader of AI Organization with AWS Exec",
+            "dek": "The company is also broadening its division focused on creating foundational models to also include efforts other efforts, like computing\r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon reorganized its AI development team, it said on Wednesday, by expanding it to also include quantum computing and silicon development, which includes development of Trainium chips. Those organizations were previously part of Amazon Web Services. Amazon’s AI team, which developed its Nova large language models over the past two years, reports directly to CEO Andy Jassy.</p>\n\n<p>The newly expanded team will be led by Peter DeSantis, a longtime AWS executive. Rohit Prasad, who was leading the AI lab over the past two years, is leaving Amazon. AI researcher Pieter Abbeel, will lead Amazon’s AI model research. Abbeel joined Amazon when the tech giant entered an agreement to license his robotics AI company Covariant’s technology in August 2024.</p>\n\n<p>Amazon spent much of its annual AWS Re:Invent conference touting its new class of Nova models, but they so far aren’t as popular as models from AI labs like OpenAI and Anthropic. Word of the changes came a day after The Information <a href=\"https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips\">broke</a> the news that Amazon is in talks to invest more than $10 billion in OpenAI. The company has also been an early investor in Anthropic.</p>",
+            "published_at": "2025-12-17T21:25:35.550Z",
+            "url": "https://www.theinformation.com/briefings/amazon-replaces-leader-ai-organization-aws-exec?unlock=658a75&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-replaces-leader-ai-organization-aws-exec?unlock=658a75&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16475,
+            "guid": "54cf77",
+            "headline": "Anthropic Taps Bitcoin Miner With Trump Family Ties For Data Centers",
+            "dek": "Hut 8 is one of several publicly-traded bitcoin miners trying to pivot to building AI data centers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic will get up to 2.3 gigawatts of computing power from data centers being developed by Hut 8, a bitcoin mining company with close ties to the Trump family.</p>\n\n<p>Hut 8 and cloud startup Fluidstack will develop a data center campus in Louisiana with an initial 245 megawatts of power and the potential for an additional 1 gigawatt over time, it said Wednesday. Anthropic,&nbsp;the customer for the campus, has the option to develop data centers consuming an additional 1.1 gigawatts of power with Hut8 as part of the agreement.</p>\n\n<p>Hut 8 is one of several publicly-traded bitcoin miners trying to pivot to building AI data centers. Google will backstop Fluidstack’s lease payments at the data center, similar to previously announced agreements with bitcoin miners Cipher Mining and TeraWulf.</p>\n\n<p>Hut 8 separately in March formed a bitcoin mining venture with Donald Trump Jr. and Eric Trump, who is listed as chief strategy officer of the company, American Bitcoin. Shares in Hut 8 rose about 10% in Wednesday trading following the announcements.</p>",
+            "published_at": "2025-12-17T20:31:07.235Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers?unlock=54cf77&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-taps-bitcoin-miner-trump-family-ties-data-centers?unlock=54cf77&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 6148,
+                    "name": "real estate"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16474,
+            "guid": "432795",
+            "headline": "Oracle Shares Fall After a Data Center Financier Decides Not to Fund its Michigan Facility",
+            "dek": "Blue Owl’s decision could spark concern across the industry that some large-scale projects might struggle to get financial backing. ",
+            "source_url": "https://www.ft.com/content/84c147a4-aabb-4243-8298-11fabf1022a3",
+            "source_label": "The Financial Times",
+            "body": "<p>Oracle shares fell 5% Wednesday morning after the Financial Times reported that data center investor Blue Owl would not participate in a $10 billion financing for one of Oracle’s artificial intelligence data centers being built for OpenAI in Michigan.</p>\n\n<p>Blue Owl decided not to invest because the lease and debt terms weren’t as attractive as previous Oracle-related projects it backed, according to a person with direct knowledge of the talks.</p>\n\n<p>Investment firm Blackstone could step in as a backer of the project, according to the report. Construction is set to begin in early 2026, the companies said in October. Oracle is working with developer Related Digital on the project, which aims to provide OpenAI with state-of-the-art servers for developing AI.</p>\n\n<p>Spokesperson for Oracle Michael Egbert said the Michigan project is proceeding as planned and that Related Digital “selected the best equity partner from a competitive group of options, which in this instance was not Blue Owl. Final negotiations for their equity deal are moving forward on schedule and according to plan.”</p>\n\n<p>Still, Blue Owl’s decision could spark concern across the industry that some large-scale projects might struggle to get financial backing.</p>",
+            "published_at": "2025-12-17T18:11:11.535Z",
+            "url": "https://www.theinformation.com/briefings/oracle-shares-fall-data-center-financier-decides-fund-michigan-facility?unlock=432795&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-shares-fall-data-center-financier-decides-fund-michigan-facility?unlock=432795&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16050,
+                    "guid": "bc900b5097",
+                    "title": "OpenAI’s Stargate Project Gets $3 Billion Blue Owl Investment",
+                    "url": "https://www.theinformation.com/articles/openais-stargate-project-gets-3-billion-blue-owl-investment?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16473,
+            "guid": "f7dee4",
+            "headline": "Coursera to Buy Udemy for $950 Million in Stock",
+            "dek": "The combination will give the companies more scale to compete as AI threatens their businesses.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Online education platform Coursera said on Wednesday it would buy rival Udemy for about $950 million in stock, giving the two companies more scale to compete as AI threatens their businesses.</p>\n\n<p>The companies are two of the largest US-based online learning providers but their growth has slowed sharply in recent years. Udemy’s growth flatlined in the third quarter and its revenue is up just 1.5% in the first nine months of the year. Coursera has done a bit better and reported 10% higher revenues in the third quarter.</p>\n\n<p>Both companies went public in 2021 and their shares are well below their&nbsp; IPO prices. Udemy has lately traded between $5 and $6, compared with its IPO price of $29, while Coursera has been trading around $8 compared with its IPO price of $33. Coursera is offering 0.8 of one of its shares for each Udemy share, valuing it around $6.40 a share. Udemy stock jumped 24% on the news while Coursera was trading up 5%. Qatalyst Partners advised Coursera while Morgan Stanley advised Udemy.</p>",
+            "published_at": "2025-12-17T16:06:49.789Z",
+            "url": "https://www.theinformation.com/briefings/coursera-buy-udemy-950-million-stock?unlock=f7dee4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coursera-buy-udemy-950-million-stock?unlock=f7dee4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16472,
+            "guid": "882380",
+            "headline": "WBD Rejects Paramount’s Offer ",
+            "dek": "Warner Bros Discovery questions the details of Larry Ellison's promised $41 billion equity backstop for the Paramount offer.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The board of Warner Bros. Discovery rejected Paramount Skydance’s $108 billion takeover offer, sticking with a deal it has already reached with Netflix, citing “significant risks” of the Paramount offer.</p>\n\n<p>In a securities filing, WBD outlined in detail the risks of the Paramount offer, which is backed by Oracle founder Larry Ellison, whose son David is the Paramount CEO and whose family controls Paramount. While the Ellison family has said it will “backstop” the roughly $41 billion in equity required to complete the WBD offer, WBD complained that Paramount’s arrangements “contain several loopholes” which created uncertainty about its acquisition closing.</p>\n\n<p>It noted that the backstop was based on Larry Ellison’s personal trust but said there was no details about the assets or liabilities of the trust. While Paramount said the trust held Ellison’s $209 billion stake in Oracle, WBD said Paraount had “not provided any evidence of this.”</p>",
+            "published_at": "2025-12-17T14:59:59.274Z",
+            "url": "https://www.theinformation.com/briefings/wbd-rejects-paramounts-offer?unlock=882380&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/wbd-rejects-paramounts-offer?unlock=882380&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16471,
+            "guid": "b09526",
+            "headline": "Tesla to Face 30-Day California Sales Suspension Unless it Changes Marketing",
+            "dek": "A California administrative law judge said Tuesday that the way Tesla markets its driver assistance software products misleads consumers about their capabilities. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla will face a possible 30-day ban on selling its vehicles in California unless it changes marketing practices that a state regulator says mislead consumers about the capabilities of its driver assistance software, according to the California Department of Motor Vehicles.</p>\n\n<p>A California administrative law judge said Tuesday that the way Tesla markets its driver assistance software products—called ”Autopilot” and “Full Self-Driving”—misleads consumers about their capabilities. Both features require at least some supervision by drivers. The California DMV said in a <a href=\"https://www.dmv.ca.gov/portal/news-and-media/news-releases/dmv-finds-tesla-violated-california-state-law/\">statement</a> that Tesla has 60 days to make changes to its marketing practices before the DMV will suspend its license.</p>\n\n<p>California is especially important to Tesla because it’s home to the company’s first factory and is the biggest market for electric vehicles in the U.S. Tesla shares were up about 1% early Wednesday. In a post on X, Tesla <a href=\"https://x.com/tesla_na/status/2001103872891486627\">said</a>: “This was a ‘consumer protection’ order about the use of the term ‘Autopilot’ in a case where not one single customer came forward to say there’s a problem. Sales in California will continue uninterrupted.”</p>",
+            "published_at": "2025-12-17T14:35:08.186Z",
+            "url": "https://www.theinformation.com/briefings/tesla-face-30-day-california-sales-suspension-unless-changes-marketing?unlock=b09526&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-face-30-day-california-sales-suspension-unless-changes-marketing?unlock=b09526&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        }
+    ]
+}
