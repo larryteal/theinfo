@@ -1,0 +1,685 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16509,
+            "guid": "2c7f9c",
+            "headline": "Nvidia to License AI Chip Startup Groq’s Technology  ",
+            "dek": "The deal is the latest among a string of AI chip startup acquisitions. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>AI chip startup Groq said Wednesday that it entered an agreement with Nvidia where the chipmaker would license its technology.</p>\n\n<p>Terms of the transaction weren’t disclosed, but CNBC reported that Nvidia is paying $20 billion in cash for Groq’s assets. Groq said in a blog post that it will continue to operate as an independent company and its cloud business remains in operation. Groq founder and CEO Jonathan Ross, president Sunny Madra and other senior executives will join Nvidia, according to the blog post.</p>\n\n<p>Founded in 2016, Groq was last valued at $6.9 billion in September and has raised money from investors including Blackrock and Neuberger Berman.</p>",
+            "published_at": "2025-12-24T22:36:25.900Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-license-ai-chip-startup-groqs-technology?unlock=2c7f9c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-license-ai-chip-startup-groqs-technology?unlock=2c7f9c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16508,
+            "guid": "422e6e",
+            "headline": "Waymo Upgrades Fleet in Response to San Francisco Outage ",
+            "dek": "The robotaxi firm says it is updating its software to give its cars more context about regional power issues. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Waymo on Tuesday provided further details about its decision on Saturday to temporarily pause its robotaxi service in San Francisco amid a citywide power outage that caused its driverless cars to stall traffic. The company said it made the decision so its vehicles wouldn’t obstruct first responders by idling at dark traffic signals, which its cars are trained to treat as four-way stops. It resumed service Sunday.</p>\n\n<p>The Google-owned business said it planned to prevent similar scenarios in the future by rolling out updates that give its vehicles more context about regional power outages so they can make decisions at dark intersections more decisively. Besides updating its software, the company also says it is updating its emergency response protocols, coordinating more closely with San Francisco Mayor Daniel Lurie’s office on preparedness planning, and expanding its first-responder training to incorporate lessons from the outage.</p>",
+            "published_at": "2025-12-24T20:24:44.566Z",
+            "url": "https://www.theinformation.com/briefings/waymo-upgrades-fleet-response-san-francisco-outage?unlock=422e6e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymo-upgrades-fleet-response-san-francisco-outage?unlock=422e6e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16507,
+            "guid": "5438c3",
+            "headline": "Binance Promotes Trump Family’s Stablecoin With 20% Yield",
+            "dek": " The stablecoin, USD1, saw its market circulation rising to nearly $3 billion on Wednesday.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Binance, the world’s largest crypto exchange, <a href=\"https://www.binance.com/en/support/announcement/detail/8597cc2f40b6437c8687f52ab96bf77e\">said</a> it will start offering users up to 20% annualized yield on USD1, the stablecoin issued by President Donald Trump’s family&nbsp;crypto venture World Liberty Financial.</p>\n\n<p>The promotion on Binance, set to last for a month, is designed to help drive usage of USD1. The market circulation of USD1 jumped to $2.9 billion on Wednesday from $2.7 billion on Tuesday, making it the 6th largest stablecoin in the world.</p>\n\n<p>“Nothing says Christmas like real-world adoption. USD1 running a massive holiday campaign on Binance is just the beginning,” Donald Trump Jr., co-founder of World Liberty, said in a tweet.</p>\n\n<p>Stablecoins are supposed to invest in safe assets to maintain their 1 to 1 peg against the dollar. Those assets pay roughly 3.6% today, meaning Binance or World Liberty Financial or both are losing money on the promotion.</p>\n\n<p>So far, most of USD1’s growth was driven by Abu Dhabi sovereign wealth fund MGX’s decision in May to use the stablecoin to pay for its $2 billion investment in Binance. The move has led to criticisms, such as by Senator Elizabeth Warren, that it boosted the fortune of Trump’s family business as Binance founder Changpeng Zhao successfully lobbied for a pardon. Binance has denied such claims.</p>",
+            "published_at": "2025-12-24T19:26:36.940Z",
+            "url": "https://www.theinformation.com/briefings/binance-promotes-trump-familys-stablecoin-20-yield?unlock=5438c3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/binance-promotes-trump-familys-stablecoin-20-yield?unlock=5438c3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16506,
+            "guid": "63fe68",
+            "headline": "More PE Firms Raise Cash Selling Stakes in Fees, Profits",
+            "dek": "The GP stakes give outside investors a slice of investment firms' profits and management fees. ",
+            "source_url": "https://www.wsj.com/articles/more-private-equity-firms-plan-to-sell-stakes-to-raise-cash-484e7630?mod=finance_lead_pos1",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Private equity firms sold $3.5 billion of general partner stakes through the end of October, on pace to set a record, the Wall Street Journal reported Wednesday, citing data from PitchBook.</p>\n\n<p>The GP stakes give outside investors a slice of investment firms’&nbsp;profits and management fees. More firms plan to try to sell such stakes in the coming years, the Journal reported, citing survey data. The deals are usually privately negotiated and complex, limiting their frequency.</p>\n\n<p>The fundraising helps PE firms as they grapple with dry spells of portfolio company sales and public offerings, limiting how much they can return back to limited partners.</p>",
+            "published_at": "2025-12-24T19:12:34.700Z",
+            "url": "https://www.theinformation.com/briefings/pe-firms-raise-cash-selling-stakes-fees-profits?unlock=63fe68&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pe-firms-raise-cash-selling-stakes-fees-profits?unlock=63fe68&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16505,
+            "guid": "dc3c36",
+            "headline": "VC Partner Midha in Talks to Establish 1 Gigawatt Data Center Venture",
+            "dek": "Midha was formerly a general partner at Andreessen Horowitz, where he helped the VC firm secure GPUs for its startups. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anjney Midha, a former Andreessen Horowitz general partner, is in discussions to secure more than $10 billion in capital for a coalition connected to his new venture, AMP, according to someone familiar with the deal.</p>\n\n<p>The coalition, which includes both strategic and financial partners, aims to build infrastructure that could deliver 1 gigawatt of AI data center capacity. Such a plan is ambitious. It couldn’t be learned how the venture will realize that goal. The coalition will also include a foundation to support open source model development in the world. The discussions haven’t previously been reported.</p>\n\n<p>In October, Midha told Andreessen Horowitz staff that he was setting up an outside venture called AMP to “provide compute and capital to frontier AI teams.” Midha joined the firm two years ago from social app Discord and was an early personal investor in <a href=\"https://www.theinformation.com/org-charts/anthropic\">Anthropic</a>.</p>\n\n<p>When Midha was full-time at Andreessen, he helped the firm’s startups gain access to highly sought-after graphics processing units. He remains a venture partner at the firm.</p>",
+            "published_at": "2025-12-24T17:56:58.468Z",
+            "url": "https://www.theinformation.com/briefings/vc-partner-midha-talks-establish-1-gigawatt-data-center-venture?unlock=dc3c36&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/vc-partner-midha-talks-establish-1-gigawatt-data-center-venture?unlock=dc3c36&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15952,
+                    "guid": "3ea820eb75",
+                    "title": "Andreessen Horowitz General Partner Midha to Establish Compute Firm",
+                    "url": "https://www.theinformation.com/articles/andreessen-horowitz-general-partner-midha-establish-compute-firm?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16504,
+            "guid": "a5938d",
+            "headline": "Intel Shares Fall After Nvidia Halts Chip Manufacturing Test",
+            "dek": "Nvidia in September invested $5 billion in Intel and said they were collaborating on custom data centers chips.",
+            "source_url": "https://www.reuters.com/world/us/how-silicon-valley-dealmaker-charmed-trump-gave-intel-lifeline-2025-12-24/",
+            "source_label": "Reuters",
+            "body": "<p>Nvidia has stopped testing an Intel process to manufacture its chips, Reuters reported, driving Intel’s shares down.</p>\n\n<p>Nvidia was recently testing an Intel production process known as 18A but decided to stop moving forward with the efforts, Reuters reported, citing two people familiar with the matter. The report didn’t say why Nvidia paused the testing.</p>\n\n<p>The two chipmakers have forged closer ties this year. Nvidia in September invested $5 billion in Intel and said they were collaborating on custom data centers chips.</p>\n\n<p>Representatives for Intel and Nvidia did not immediately respond to requests for comment. An Intel spokesperson told Reuters its 18A manufacturing technologies are “progressing well,” and it “continues to see strong interest” for a newer process called 14A.</p>",
+            "published_at": "2025-12-24T16:57:28.904Z",
+            "url": "https://www.theinformation.com/briefings/intel-shares-fall-nvidia-halts-chip-manufacturing-test?unlock=a5938d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/intel-shares-fall-nvidia-halts-chip-manufacturing-test?unlock=a5938d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16503,
+            "guid": "a8327f",
+            "headline": "Snowflake in Talks to Buy App Monitoring Startup Observe Inc. For Around $1 Billion",
+            "dek": "Businesses could use software tools like Observe's to monitor new AI applications they’re developing.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Snowflake is in&nbsp;talks to buy app monitoring startup Observe Inc. for around $1 billion, which would likely be the biggest deal in Snowflake’s history, <a href=\"https://www.theinformation.com/articles/snowflake-talks-buy-app-monitoring-startup-observe-inc-around-1-billion?rc=zjctrx\">The Information reported Tuesday</a>.</p>\n\n<p>Observe, based in San Mateo, Calif., sells so-called observability tools that help developers to understand how their applications are performing and allows them to spot disruptions and outages. The deal would bring Snowflake into closer competition with software firms Datadog and Cisco’s Splunk.</p>",
+            "published_at": "2025-12-24T07:07:12.001Z",
+            "url": "https://www.theinformation.com/briefings/snowflake-talks-buy-app-monitoring-startup-observe-inc-around-1-billion?unlock=a8327f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snowflake-talks-buy-app-monitoring-startup-observe-inc-around-1-billion?unlock=a8327f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16502,
+            "guid": "fcf6af",
+            "headline": "U.S. Delays Chinese Chip Tariffs Until 2027",
+            "dek": "The Trump administration is holding off on imposing the chip tariffs as it seeks to ease tensions with Beijing.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The U.S. will impose new tariffs on Chinese semiconductor imports in June 2027, the Trump administration announced on Tuesday. Those tariffs will stay at zero for the next 18 months, giving American companies a grace period before costs rise.</p>\n\n<p>The decision to hold off on imposing the chip tariffs shows how the administration is trying to avoid exacerbating tensions with Beijing, after President Donald Trump and Chinese leader Xi Jinping reached a truce in the trade war earlier this year. After China threatened to restrict exports of rare earth metals, the U.S. moved to ease tensions. As part of the negotiations, the U.S. also postponed other tech export restrictions.</p>\n\n<p>The chip tariffs stem from a yearlong investigation known as Section 301 that concluded China has been pouring billions of dollars in state subsidies into chipmaking plants to dominate the global market for less advanced legacy chips and undercut foreign competitors. While U.S .companies like Nvidia dominate the market for cutting-edge AI chips, China is supplying huge volumes of older chips that power home appliances and cars.</p>\n\n<p>For American companies, the 18-month window means they have more time for renegotiating contracts and finding new chip suppliers. The administration is also conducting a broader national security probe that could hit semiconductors from all countries.</p>",
+            "published_at": "2025-12-24T04:39:29.607Z",
+            "url": "https://www.theinformation.com/briefings/u-s-delays-chinese-chip-tariffs-2027?unlock=fcf6af&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-s-delays-chinese-chip-tariffs-2027?unlock=fcf6af&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16501,
+            "guid": "97493d",
+            "headline": "Motive Technologies’ IPO Filing Reveals Solid Growth, Growing Losses",
+            "dek": "The fleet management software-maker grew its revenue by 22% in the six months to September. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Motive Technologies, whose software helps companies in industries such as logistics and construction manage their physical operations, grew its revenue by 22% to $327 million in the nine months ended September 30th, the company revealed Tuesday in a securities filing ahead of its planned initial public offering. While that represents a faster top line growth rate than the 19% at which it expanded in all of 2024, the company also lost $139 million in the nine months to September—more than it lost in the same period last year—as its operating expenses rose.</p>\n\n<p>Motive, which until 2022 was called KeepTruckin, had roughly 100,000 corporate customers at the end of September. Besides selling subscription software, the company has a comparatively tiny, but growing, segment that provides cards for business expenses and generates its revenue from assessing interchange fees on those expenses. That segment made up 4% of its top line in the nine months to September.</p>\n\n<p>Motive’s backers include Google Ventures, Kleiner Perkins and Index Ventures.</p>",
+            "published_at": "2025-12-24T01:27:55.413Z",
+            "url": "https://www.theinformation.com/briefings/motive-technologies-ipo-filing-reveals-solid-growth-growing-losses-2?unlock=97493d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/motive-technologies-ipo-filing-reveals-solid-growth-growing-losses-2?unlock=97493d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16297,
+                    "guid": "1f2ec7278c",
+                    "title": "Poor Tech IPO Performance Clouds Outlook for New Listings",
+                    "url": "https://www.theinformation.com/articles/poor-tech-ipo-performance-clouds-outlook-new-listings?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16500,
+            "guid": "85396f",
+            "headline": "Motive Technologies’ IPO Filing Reveals Solid Growth, Growing Losses",
+            "dek": "The fleet management software-maker grew its revenue by 22% in the six months to September. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Motive Technologies, which makes AI-powered subscription software for companies to manage their physical operations, grew its revenue by 22% to $327 million in the nine months ended September 30th, the company revealed Tuesday in a now-public regulatory filing ahead of its planned initial public offering. While that represents a faster top line growth rate than the 19% at which it expanded in 2024, the company also lost $139 million in the nine months to September – more than it lost in the same period last year – as its operating expenses rose.</p>\n\n<p>Motive, which until 2022 was called KeepTruckin, had roughly 100,000 corporate customers at the end of September in industries including construction, oil and gas and agriculture. Besides selling its software, the company has a comparatively tiny, but growing, segment that provides cards for business expenses and generates its revenue from assessing interchange fees on those expenses. That segment made up 4% of its top line in the nine months to September.</p>\n\n<p>Motive’s backers include Google Ventures, Kleiner Perkins and Index Ventures.</p>",
+            "published_at": "2025-12-24T01:10:59.547Z",
+            "url": "https://www.theinformation.com/briefings/motive-technologies-ipo-filing-reveals-solid-growth-growing-losses?unlock=85396f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/motive-technologies-ipo-filing-reveals-solid-growth-growing-losses?unlock=85396f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16499,
+            "guid": "1d684a",
+            "headline": "Pentagon to Add xAI’s Grok to AI Service Early Next Year ",
+            "dek": "The service, called genAI.mil, launched earlier this month with only Google’s Gemini model available. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The U.S. Department of Defense will add xAI’s Grok to its artificial intelligence service for military and civilian employees early next year, the department said, alongside models from other AI firms.</p>\n\n<p>The service, called genAI.mil, launched earlier this month with only Google’s Gemini model available, with models from OpenAI, Anthropic and xAI listed as coming soon. The Pentagon announced contracts with all four companies worth up to $200 million each over the summer. In a <a href=\"https://www.war.gov/News/Releases/Release/Article/4366573/the-war-department-to-expand-ai-arsenal-on-genaimil-with-xai/\">press release</a> late Monday, the Pentagon touted Grok’s “advanced capabilities” and said that “users will also gain access to real‑time global insights from the X platform.”</p>\n\n<p>If the Grok launch is successful, it could help xAI pitch its chatbot to other enterprise customers. The Elon Musk-led company has built an enterprise sales team but has been struggling to win significant business, <a href=\"https://www.theinformation.com/articles/xai-uphill-battle-selling-grok-businesses\">The Information reported</a> earlier in December.</p>",
+            "published_at": "2025-12-23T15:42:38.881Z",
+            "url": "https://www.theinformation.com/briefings/pentagon-add-xais-grok-ai-service-early-next-year?unlock=1d684a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pentagon-add-xais-grok-ai-service-early-next-year?unlock=1d684a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16252,
+                    "guid": "940c137140",
+                    "title": "Why xAI Has an Uphill Battle Selling Grok to Businesses",
+                    "url": "https://www.theinformation.com/articles/xai-uphill-battle-selling-grok-businesses?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16498,
+            "guid": "53932a",
+            "headline": "ServiceNow to Acquire Armis for $7.75 Billion",
+            "dek": "The deal comes on the heels of several other large acquisitions by ServiceNow.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The enterprise software firm ServiceNow plans to acquire cybersecurity startup Armis for $7.75 billion, the companies said on Tuesday. The price is a step up in valuation for Armis, which had raised money last month at a $6.1 billion valuation.</p>\n\n<p>ServiceNow thinks the deal will help bolster its cybersecurity business and reach more customers who have security concerns about rolling out AI software in the enterprise, CEO Bill McDermott said in an interview.</p>\n\n<p>“[Customers] have been pulling us into end-to-end cybersecurity discussions and as the attack surface expands with AI they want more and more from ServiceNow,” McDermott said. “So Armis uniquely positions us to build out this opportunity for security and risk as a part of our core business.”</p>\n\n<p>ServiceNow’s cybersecurity business has roughly $1 billion in annual revenue, and McDermott said Armis has more than $340 million in annual recurring revenue, up from $300 million in August. The deal comes on the heels of several other large acquisitions by ServiceNow, including its $2.85 billion acquisition of Moveworks, which closed last month, and its recently announced plan to acquire the cybersecurity startup Veza for $1 billion.</p>",
+            "published_at": "2025-12-23T15:09:39.790Z",
+            "url": "https://www.theinformation.com/briefings/servicenow-acquire-armis-7-75-billion?unlock=53932a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/servicenow-acquire-armis-7-75-billion?unlock=53932a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16497,
+            "guid": "c91204",
+            "headline": "Former FTX US Head Raises $35 Million for New Exchange",
+            "dek": "Architect, which offers perpetual futures of traditional assets, is valued at $187 million. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Brett Harrison, the former president of FTX US, has raised $35 million for his startup Architect Financial Technologies, which offers a global perpetual futures exchange.</p>\n\n<p>The round, led by Miami International and Tioga Capital, values the company at $187 million, according to a person familiar with the fundraising. The exchange, AX, offers perpetual futures on traditional assets such as stocks and foreign currencies. Perpetual futures, a type of asset popularized by crypto exchanges like FTX, Binance and Hyperliquid, are futures that do not have an expiration date, giving investors leverage without the need to roll over contracts.</p>\n\n<p>“We think the biggest and most important markets are derivatives of traditional asset classes,” Harrison said in an interview, adding AX does not offer crypto perpetuals. “This is such a large market that we think is ripe for disruption using the new structure.”</p>\n\n<p>The exchange is regulated in Bermuda and is open to non-U.S. institutional investors. It is not available in the U.S. because perpetual futures have not been approved by U.S. regulators.</p>",
+            "published_at": "2025-12-23T14:00:40.913Z",
+            "url": "https://www.theinformation.com/briefings/former-ftx-head-raises-35-million-new-exchange?unlock=c91204&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/former-ftx-head-raises-35-million-new-exchange?unlock=c91204&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16496,
+            "guid": "67f600",
+            "headline": "Alphabet to Buy Data Center Developer Intersect for $4.75 Billion",
+            "dek": "The tech giant is expanding its data center footprint to power AI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Alphabet said Monday that it agreed to buy clean energy developer Intersect Power for $4.75 billion in cash plus existing debt, as the Google parent looks for more ways to power AI.</p>\n\n<p>Alphabet already took a minority stake in Intersect last December when the data center operator announced a funding round with Google and said they aim to provide $20 billion in data center capacity investment by the end of the decade.</p>\n\n<p>Data center-related mergers and acquisitions are soaring this year. Data center developer Rowan Digital Infrastructure is weighing a sale, The Information <a href=\"https://www.theinformation.com/articles/data-center-firm-rowan-explores-capital-raising-sale\">reported</a>. In October, an investor consortium including BlackRock and Abu Dhabi’s MGX agreed to buy one of the largest data center operators in the U.S. at a $40 billion valuation, including debt.</p>",
+            "published_at": "2025-12-22T21:50:25.660Z",
+            "url": "https://www.theinformation.com/briefings/alphabet-buy-data-center-operator-intersect-4-75-billion?unlock=67f600&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alphabet-buy-data-center-operator-intersect-4-75-billion?unlock=67f600&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16495,
+            "guid": "2b009e",
+            "headline": "Coinbase to Buy Prediction Market Startup The Clearing Co.",
+            "dek": "Coinbase is acquiring the young startup to double down its prediction market offering. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Coinbase <a href=\"https://www.coinbase.com/blog/Coinbase-to-acquire-The-Clearing-Company-Powering-the-future-of-prediction-markets\">said</a> it is buying The Clearing Company, a less than one-year old prediction market startup, bringing a team of specialized talent to the prediction business it launched last week. Terms of the deal were not disclosed.</p>\n\n<p>The Clearing Company, founded in March and based in San Francisco, was created to take on Polymarket and Kalshi, the two dominant platforms. Its founder Toni Gemayel worked as head of growth at both Polymarket and Kalshi. It <a href=\"https://www.clearing.co/blog/announcing-our-seed-round\">raised</a> $15 million in August from investors including Union Square Ventures, Haun Ventures and Coinbase Ventures.</p>\n\n<p>The race to launch prediction markets is heating up, with DraftKings and FanDuel entering the market this month. The industry could face more consolidation. The Clearing Co. has applied for a clearinghouse license with the Commodity Futures Trading Commission. If approved, the acquisition will bring a valuable license to Coinbase, which is currently using Kalshi as a vendor.</p>",
+            "published_at": "2025-12-22T19:57:42.022Z",
+            "url": "https://www.theinformation.com/briefings/coinbase-buy-prediction-market-startup-clearing-co?unlock=2b009e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coinbase-buy-prediction-market-startup-clearing-co?unlock=2b009e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16288,
+                    "guid": "f31eeca966",
+                    "title": "Sports Betting Everywhere: Prediction Markets Explode",
+                    "url": "https://www.theinformation.com/articles/sports-betting-everywhere-prediction-markets-explode?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16494,
+            "guid": "3e3d37",
+            "headline": "Palmer Luckey-Backed Erebor Bank Raises at Over $4 Billion Valuation",
+            "dek": "Erebor, a new crypto-friendly bank, is set to double its valuation.",
+            "source_url": "https://www.axios.com/2025/12/22/palmer-luckey-digital-bank",
+            "source_label": "Axios",
+            "body": "<p>Erebor, the new crypto-friendly bank backed by Anduril’s founder Palmer Luckey, has raised $350 million at a $4.35 billion valuation led by Lux Capital, Axios reported.</p>\n\n<p>Erebor, also backed by Peter Thiel’s Founders Fund, is set to join a small but growing number of banks, such as Lead Bank and Cross River Bank, that are willing to provide banking services for crypto firms. It plans to launch as soon as late January, The Information <a href=\"https://www.theinformation.com/articles/small-bank-critical-stablecoin-payments-tightens-risk-controls\">reported.</a></p>\n\n<p>The valuation is double what it fetched in its prior round in the summer, and came after Erebor won conditional approval for a federal bank charter in October. This month, it received approval for deposit insurance coverage from the Federal Deposit Insurance Corp. Erebor declined to comment on the fundraising report.</p>",
+            "published_at": "2025-12-22T19:52:28.213Z",
+            "url": "https://www.theinformation.com/briefings/palmer-luckey-backed-erebor-bank-raises-4-billion-valuation?unlock=3e3d37&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/palmer-luckey-backed-erebor-bank-raises-4-billion-valuation?unlock=3e3d37&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16493,
+            "guid": "36bffc",
+            "headline": " OpenAI Is Getting More Efficient at Running Its AI",
+            "dek": "The company benefited from a drop in computing costs. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI’s compute margin, or its share of revenue after the cost of running AI models for paying&nbsp;users, has jumped to about 70% in October from about 52% at the end of last year and roughly 35% in January 2024, <a href=\"https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show?rc=zjctrx\">The Information reported Sunday</a>.</p>\n\n<p>These gains compare favorably to rival Anthropic, which had a compute margin of about negative 90% last year. Anthropic has been on track to improve that margin to about 53% by the end of this year.</p>\n\n<p>OpenAI’s improvements followed an internal “code red” in February after the launch of a new model from China’s DeepSeek.&nbsp; OpenAI prioritized reducing its server costs to run its AI products, also known as inference. It also benefited&nbsp;because the cost of renting computing power fell throughout the year.</p>",
+            "published_at": "2025-12-22T06:31:55.338Z",
+            "url": "https://www.theinformation.com/briefings/openai-getting-efficient-running-ai?unlock=36bffc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-getting-efficient-running-ai?unlock=36bffc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16289,
+                    "guid": "58daec048f",
+                    "title": "OpenAI Is Getting More Efficient at Running Its AI, Internal Financials Show",
+                    "url": "https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16492,
+            "guid": "efaca0",
+            "headline": "Andreessen Horowitz, Sequoia Add to $1.2 Billion Funding Boom for Police Tech Startups",
+            "dek": "The companies make everything from Palantir-style software to surveillance drones. ",
+            "source_url": "https://www.theinformation.com/articles/local-crime-fighting-gets-anduril-ized-tech-startups-changing-city-police-forces?rc=sslhyj",
+            "source_label": "The Information",
+            "body": "<p>Over the past year, Andreessen Horowitz, Sequoia Capital and many of Silicon Valley’s other top venture capital firms have funneled at least $1.2 billion in funding to startups selling technology to city police departments and local public safety agencies.</p>\n\n<p>Those companies illustrate the technology industry’s growing enthusiasm for making software and hardware for the government and law enforcement—a trend that has accelerated over the last decade by the success of Palantir, SpaceX and Palmer Luckey’s Anduril. (You can read more about the boom <a href=\"https://www.theinformation.com/articles/local-crime-fighting-gets-anduril-ized-tech-startups-changing-city-police-forces?rc=sslhyj\">in our Weekend section’s latest Big Read</a>.)</p>\n\n<p>One of the fastest growing is Peregrine, which makes Palantir-style data-analytics software. It has seen its revenue go from $10 million in 2023 to $75 million in 2025. (In March, Sequoia led a funding round valuing Peregrine at $2.5 billion—up from $400 million in 2024.) Another is Flock Safety, which makes drones and cameras that can read license plates, technology that has proved to be controversial with privacy safety advocates, such as the ACLU.</p>",
+            "published_at": "2025-12-21T17:04:19.213Z",
+            "url": "https://www.theinformation.com/briefings/andreessen-horowitz-sequoia-add-1-2-billion-funding-boom-police-tech-startups?unlock=efaca0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/andreessen-horowitz-sequoia-add-1-2-billion-funding-boom-police-tech-startups?unlock=efaca0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1295534,
+                    "display_name": "Abram Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16491,
+            "guid": "748f5e",
+            "headline": "Waymo Resumes San Francisco Service After City Outage",
+            "dek": "Videos showed Waymos stalled on the street during the outage. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Waymo on Sunday resumed its self-driving car service in San Francisco after suspending the service Saturday during a&nbsp;broad power outage in the city.</p>\n\n<p>More than 130,000 homes and businesses lost power in San Francisco on Saturday afternoon, or nearly one-third of the utility’s customers, in part due to a fire in a substation. The outage cut off transit and shut down restaurants and businesses in large parts of the city.</p>\n\n<p>Some residents shared <a href=\"https://x.com/WhereIsMishaal/status/2002587200681390318\">videos on social media</a> of Waymo’s self-driving cars stalled at intersections during the outage. The autonomous vehicles treat non-functional signals as four-way stops, said a spokesperson. The scale of the outage led the vehicle to be stationary longer than usual as they confirmed the state of the intersections.</p>",
+            "published_at": "2025-12-21T15:16:26.037Z",
+            "url": "https://www.theinformation.com/briefings/waymo-suspends-san-francisco-service-city-outage?unlock=748f5e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymo-suspends-san-francisco-service-city-outage?unlock=748f5e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16490,
+            "guid": "25fb6a",
+            "headline": "Google Sues Startup That Scrapes Its Search Results",
+            "dek": "Google’s suit against SerpApi may signal that Google is willing to be more aggressive now that its search monopoly case has been resolved in court.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google on Friday sued <a href=\"https://www.theinformation.com/articles/meet-google-scraping-startup-used-chatgpt-cursor-perplexity?rc=n9lbpq\">SerpApi</a>, a startup used by OpenAI and other tech companies to access Google’s search data. The suit, filed in federal court in California, accused SerpApi, which scrapes Google’s search results and sells those results to other companies, of bypassing technology restricting access to Google’s search access results pages. Because those pages contain copyrighted material such as the Knowledge Panels that Google licenses from partners, Google argued in the complaint that SerpApi’s actions violate the Copyright Act.</p>\n\n<p>In a statement, SerpApi said that its actions were protected by the First Amendment. “SerpApi has not been served with Google’s complaint, and prior to filing, Google did not contact us to raise any concerns or explore a constructive resolution,” SerpApi’s general counsel Chad Anson wrote.</p>\n\n<p>Earlier this month, a federal judge issued a final remedies judgment on how to address Google’s illegal search monopoly, including a requirement that Google must syndicate its search results to qualified competitors, which will likely include OpenAI. Google’s suit against SerpApi may signal that Google is willing to be more aggressive now that its search monopoly case has been resolved in court. Google has long known of SerpApi’s existence and has tried various techniques to make it harder for the firm to scrape high-quality information, The Information has previously <a href=\"https://www.theinformation.com/articles/openai-challenging-google-using-search-data?rc=n9lbpq\">reported</a>, but this is the first time Google has pursued legal action against the company.</p>",
+            "published_at": "2025-12-19T23:35:03.485Z",
+            "url": "https://www.theinformation.com/briefings/google-sues-startup-scrapes-search-results?unlock=25fb6a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-sues-startup-scrapes-search-results?unlock=25fb6a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15739,
+                    "guid": "2d86ad6116",
+                    "title": "Judge’s Google Data Sharing Order Leaves Small Rivals Hanging",
+                    "url": "https://www.theinformation.com/articles/judges-google-data-sharing-order-leaves-small-rivals-hanging?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 15630,
+                    "guid": "727dd4b697",
+                    "title": "OpenAI Is Challenging Google—While Using Its Search Data",
+                    "url": "https://www.theinformation.com/articles/openai-challenging-google-using-search-data?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
