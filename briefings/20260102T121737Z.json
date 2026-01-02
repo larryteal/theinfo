@@ -1,0 +1,684 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16526,
+            "guid": "6958e6",
+            "headline": "Baidu’s AI Chip Unit Files for Hong Kong Listing",
+            "dek": "Baidu's move to spin off and list its chip business comes amid a wave of successful IPOs by Chinese AI chip companies. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese search giant Baidu said it AI chip subsidiary has filed confidentially for a Hong Kong listing. Baidu’s move to spin off the chip business and list it separately&nbsp;comes amid a wave of successful initial public offerings by Chinese AI chip companies.</p>\n\n<p>Kunlunxin (Beijing) Technology, Baidu’s non-wholly owned chip subsidiary, will “leverage its standalone listing to enhance its market profile, broaden financial channels, and better align management accountability with performance,” Baidu said in a statement. Baidu’s stock is listed in New York and Hong Kong.</p>\n\n<p>Baidu and Kunlunxin are betting on public market investors’ strong interest in China’s domestic semiconductor developers. The Chinese government is promoting the use of homegrown AI chips, as the country steps up its effort to reduce its dependence on U.S. chip giant Nvidia.</p>\n\n<p>On Friday, Biren Technology, Chinese AI chip firm Shanghai Biren Technology’s stock surged on its debut on the Hong Kong Stock Exchange. Biren’s stock opened 82% higher than its IPO price, after the firm raised 5.85 billion Hong Kong dollars ($717 million) in its IPO. Last month, Moore Threads, another Chinese AI chip developer, also made a strong trading debut on Shanghai’s STAR market.</p>",
+            "published_at": "2026-01-02T09:19:55.249Z",
+            "url": "https://www.theinformation.com/briefings/baidus-ai-chip-unit-files-hong-kong-listing?unlock=6958e6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/baidus-ai-chip-unit-files-hong-kong-listing?unlock=6958e6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16525,
+            "guid": "4e85ca",
+            "headline": "Chinese AI Chip Firm Biren Soars on Hong Kong Stock Market Debut ",
+            "dek": "Chinese AI chip developers like Biren are expected to play key roles in Beijing’s effort to reduce the country’s dependence on Nvidia.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares of Chinese AI chip developer Shanghai Biren Technology surged on their debut on the Hong Kong Stock Exchange Friday after the firm’s successful initial public offering.</p>\n\n<p>The stock’s rise is the latest indication of investors’ strong interest in China’s domestic semiconductor sector.</p>\n\n<p>On Friday, Biren’s stock opened 82% higher than its IPO price of 19.90 Hong Kong dollars. Biren’s IPO raised 5.85 billion Hong Kong dollars ($717 million).</p>\n\n<p>The company’s strong trading debut comes at a time when the Chinese government is stepping up its effort to reduce the country’s dependence on Nvidia by promoting the use of homegrown AI chips developed by domestic companies. While tech giant Huawei Technologies is the largest domestic supplier of AI chips, Biren is one of several upstart competitors in China that also develop such chips.</p>",
+            "published_at": "2026-01-02T05:23:43.652Z",
+            "url": "https://www.theinformation.com/briefings/chinese-ai-chip-firm-biren-soars-hong-kong-stock-market-debut?unlock=4e85ca&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinese-ai-chip-firm-biren-soars-hong-kong-stock-market-debut?unlock=4e85ca&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16524,
+            "guid": "8d24cc",
+            "headline": "OpenAI Asks Court to Toss xAI Trade Theft Suit Again ",
+            "dek": "OpenAI said xAI still has no evidence it “actually acquired or disclosed xAI’s trade secrets.\" ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI for a second time asked a judge to dismiss a lawsuit from xAI accusing the ChatGPT maker of stealing trade secrets through employees it poached from the Elon Musk-led startup.</p>\n\n<p>In a lawsuit first filed in September in northern California Federal Court, <a href=\"https://www.theinformation.com/briefings/xai-sues-openai-allegedly-stealing-trade-secrets\">xAI accused OpenAI</a> of hiring eight xAI employees, including engineers and a senior finance executive, as part of a “deliberate scheme” to steal confidential information. OpenAI first filed to dismiss the lawsuit in October, before xAI filed an amended complaint weeks later. In the new motion to dismiss filed late Tuesday, OpenAI described the amended version as “even more flawed” and said the company still has zero evidence OpenAI “actually acquired or disclosed xAI’s trade secrets.” A court hearing to consider the new motion to dismiss is scheduled for February.</p>\n\n<p>The trade secrets suit is part of several pieces of litigation Musk and his companies have filed against OpenAI. Musk is also <a href=\"https://www.theinformation.com/articles/elon-musks-lawsuit-cost-openai-1-billion\">continuing to fight OpenAI’s nonprofit restructuring</a> in court and separately sued <a href=\"https://www.theinformation.com/briefings/elon-musks-xai-sues-apple-openai-hurting-ai-competition\">both OpenAI and Apple</a> in August for allegedly colluding to boost OpenAI’s ChatGPT over xAI’s Grok in the Apple’s app store. In both motions to dismiss the trade secrets suit, OpenAI described the litigation as “yet another front in Elon Musk’s campaign to harass a competitor with unfounded legal claims, and to prevent OpenAI from achieving its mission to ensure that artificial general intelligence benefits all of humanity.”</p>",
+            "published_at": "2025-12-31T19:42:46.866Z",
+            "url": "https://www.theinformation.com/briefings/openai-asks-court-toss-xai-trade-theft-suit?unlock=8d24cc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-asks-court-toss-xai-trade-theft-suit?unlock=8d24cc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16523,
+            "guid": "2a61f6",
+            "headline": "Trump Media Firm To Launch To Crypto Coin",
+            "dek": "The crypto token may offer benefits to holders such as discounts tied to Trump Media products.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Trump Media and Technology Group, the company that operates President Donald Trump’s social media platform Truth Social, said it will issue a new cryptocurrency to shareholders, according to a <a href=\"https://www.globenewswire.com/news-release/2025/12/31/3211781/0/en/Trump-Media-Announces-Plans-to-Distribute-Digital-Tokens-to-DJT-Shareholders.html\">statement</a> on Wednesday.</p>\n\n<p>The planned crypto coin, which the company said will likely be issued in partnership with exchange <a href=\"http://crypto.com\">Crypto.com</a>, will be distributed on a one-to-one basis for each share that shareholders of Trump Media own, the company said. The crypto token may offer benefits to holders such as discounts tied to Trump Media products.</p>\n\n<p>The proposed crypto coin is the latest digital asset venture from the President’s family business, including meme coins $Trump and $Melania, the World Liberty Financial stablecoin project, and a Nasdaq-listed crypto deal to stockpile World Liberty’s token $WLFI. The ventures launched amid a more favorable regulatory environment for crypto businesses since Trump returned to the White House earlier this year.</p>",
+            "published_at": "2025-12-31T15:58:57.749Z",
+            "url": "https://www.theinformation.com/briefings/trump-media-firm-launch-crypto-coin?unlock=2a61f6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-media-firm-launch-crypto-coin?unlock=2a61f6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16522,
+            "guid": "db3c91",
+            "headline": "Chinese AI Startup MiniMax Seeks $538 Million in Hong Kong IPO",
+            "dek": "The Hong Kong listing will test public market appetite for unprofitable AI startups that are still looking for sustainable revenue. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>MiniMax, a major Chinese AI startup that develops foundation models, aims to raise as much as 4.19 billion Hong Kong dollars ($538 million) in its initial public offering, according to the firm’s latest filings on Wednesday.</p>\n\n<p>Cornerstone investors in MiniMax’s Hong Kong IPO include Abu Dhabi Investment Authority and Chinese tech giant Alibaba Group, which is an existing shareholder of MiniMax.</p>\n\n<p>Along with MiniMax, another Chinese AI model developer Knowledge Atlas Technology, better known as Zhipu, is also going public in Hong Kong, seeking to raise as much as 4.35 billion Hong Kong dollars ($559 million), according to its filings.</p>\n\n<p>MiniMax and Zhipu are set to become the first publicly traded AI model providers in the global stock market, ahead of expected future IPOs from OpenAI and Anthropic. The Chinese firms’ listings will test public market appetite for unprofitable AI startups that are still looking for sustainable revenue.</p>",
+            "published_at": "2025-12-31T06:40:05.934Z",
+            "url": "https://www.theinformation.com/briefings/chinese-ai-startup-minimax-seeks-538-million-hong-kong-ipo?unlock=db3c91&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinese-ai-startup-minimax-seeks-538-million-hong-kong-ipo?unlock=db3c91&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16521,
+            "guid": "72e4dd",
+            "headline": "Tesla Shares Analyst Projections for Vehicle Deliveries in Unusual Step ",
+            "dek": "The consensus implies analysts expect a 15% year over year drop in the number of vehicles Tesla will deliver in the fourth quarter of 2025.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla has shared a consensus it compiled of analyst predictions for how many vehicles it will deliver this quarter, an unusual move for the electric automaker. Notably,&nbsp;the <a href=\"https://ir.tesla.com/press-release/delivery-consensus-fourth-quarter-2025\">consensus</a> implies analysts expect a 15% year over year drop in the number of vehicles Tesla will deliver in the fourth quarter of 2025.</p>\n\n<p>That would mean the year would end with deliveries down 8% from last year. Fourth quarter 2025 sales have long been expected to shrink because a U.S. tax credit for electric vehicles expired on Sept. 30, causing some consumers to buy vehicles earlier in the year. But sales were depressed earlier in the year as well, with some attributing the decline to consumer dissatisfaction with Elon Musk’s political activities.</p>\n\n<p>Tesla usually posts delivery figures for each quarter on the first trading day of the following quarter, which would be this coming Friday for the fourth quarter of 2025. But it is unusual for Tesla to share compilations of analyst predictions before it releases delivery figures. The consensus posted by Tesla also showed sales recovering in 2026 and continuing to climb for the next few years.</p>",
+            "published_at": "2025-12-30T19:46:26.187Z",
+            "url": "https://www.theinformation.com/briefings/tesla-shares-analyst-projections-vehicle-deliveries-unusual-step?unlock=72e4dd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-shares-analyst-projections-vehicle-deliveries-unusual-step?unlock=72e4dd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16520,
+            "guid": "78de6c",
+            "headline": "Citi Flags Loss on Russian Divestment",
+            "dek": "The U.S. bank is selling its business to Renaissance Capital, one of Russia’s oldest investment banks.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Citigroup will lose $1.1 billion on the sale of its remaining operations in Russia, the bank said in a securities <a href=\"https://www.sec.gov/ix?doc=/Archives/edgar/data/0000831001/000110465925124865/c-20251229x8k.htm\">filing</a> Monday. The U.S. bank is selling its business to Renaissance Capital, one of Russia’s oldest investment banks.</p>\n\n<p>Citi said it plans to complete the divestment in the first half of 2026, which would complete the bank’s long-held plans to exit Russia amid escalating sanctions applied to the country by U.S. and European authorities. Russian President Vladimir Putin greenlit the deal in November.</p>\n\n<p>Citi said the loss largely related to currency exchange issues, but that the loss would not affect the bank’s overall capital. Citi warned that the figures could change in the event of further foreign exchange movements.</p>",
+            "published_at": "2025-12-30T15:53:08.599Z",
+            "url": "https://www.theinformation.com/briefings/citi-flags-loss-russian-divestment?unlock=78de6c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/citi-flags-loss-russian-divestment?unlock=78de6c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16519,
+            "guid": "6d9645",
+            "headline": "Meta’s Acquisition Values Manus at More Than $2 Billion",
+            "dek": "The deal offers the startup’s venture capital investors handsome returns less than a year after the Manus AI agent was launched.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms’ deal to acquire the Singapore-based startup behind Manus, a popular AI agent, values it at more than $2 billion, according to a person with direct knowledge of the deal. This gives the startup’s venture capital backers an exit with handsome returns less than a year after the product was launched.</p>\n\n<p>For example, Benchmark, which led the startup’s April funding round at a valuation of $500 million, gets to sell its stake just eight months later at more than four times the valuation. The Meta deal offers a big return for the startup’s earliest backer, Chinese venture capital firm ZhenFund. ZhenFund made a seed investment in the startup, Butterfly Effect, in February 2023, at a valuation of just $14 million, when Manus as a product didn’t exist yet and the team was working on an earlier project. ZhenFund, well-known in China for its focus on early-stage startups, participated in all the subsequent funding rounds for Butterfly Effect including this year’s Benchmark-led round.</p>\n\n<p>At the time of Meta’s deal, ZhenFund was the startup’s largest outside shareholder with a stake of more than 10%, according to the person. Other significant shareholders—Benchmark, Chinese VC firm HongShan (also known as HSG) and tech giant Tencent—each held a single-digit percentage stake.</p>\n\n<p>The acquisition came at an opportune time for the Manus team and its backers. Google’s recent launch of its highly capable Gemini 3 models and other AI products highlighted the tech giant’s strength in agentic AI, raising more questions about the long-term sustainability of independent AI agent startups.</p>",
+            "published_at": "2025-12-30T14:42:09.065Z",
+            "url": "https://www.theinformation.com/briefings/metas-acquisition-values-manus-2-billion?unlock=6d9645&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/metas-acquisition-values-manus-2-billion?unlock=6d9645&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16518,
+            "guid": "6661fe",
+            "headline": "Meta Acquires Manus AI Agent  ",
+            "dek": "The Singapore-based company was one of the pioneers among startups that launched general-purpose AI agents earlier this year.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platform is acquiring Manus, an artificial intelligence agent that went viral earlier this year and got financial backing from Benchmark, in the U.S. tech giant’s latest move to expand its AI offerings.</p>\n\n<p>The deal will give Manus, operated by a Singapore-based startup called Butterfly Effect, access to Meta’s massive user base that includes millions of businesses and billions of people. “Joining Meta allows us to build on a stronger, more sustainable foundation without changing how Manus works or how decisions are made,” said Xiao Hong, CEO of Manus, in a statement.</p>\n\n<p>The deal comes at a time when Manus, like most other AI startups, hasn’t figured out how to build a profitable business on its own. Earlier this month, Manus said that its annual run rate has just reached $125 million, up from $90 million in August.</p>\n\n<p>Launched in March, Manus uses AI foundation models from Anthropic and others to power its agent. It was one of the pioneers among startups that launched general-purpose AI agents earlier this year. The company now has 105 employees in Singapore, Tokyo and San Francisco, and plans to open a Paris office soon, the spokesperson said.</p>\n\n<p>The deal is a big win for venture capital firms backing Manus. Butterfly Effect, founded by a group of tech entrepreneurs from China, raised $75 million in April in a funding round led by Benchmark at a valuation of $500 million, <a href=\"https://www.theinformation.com/articles/startup-behind-manus-ai-agent-navigates-u-s-china-tensions-benchmark-deal?rc=jnr9wn\">The Information reported</a> previously. Its other backers include Chinese venture capital firms ZhenFund and HongShan, as well as Chinese tech giant Tencent.</p>",
+            "published_at": "2025-12-29T22:28:29.519Z",
+            "url": "https://www.theinformation.com/briefings/meta-acquires-manus-ai-agent?unlock=6661fe&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-acquires-manus-ai-agent?unlock=6661fe&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16517,
+            "guid": "d17454",
+            "headline": "Nvidia Completes $5 billion Investment in Intel",
+            "dek": "The AI chip giant and Intel announced the investment in mid-September, as part of a joint effort to develop \"custom data center and PC products.\"",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia completed its $5 billion investment in Intel, according to an Intel securities filing. As previously disclosed, Nvidia bought 214.8 million shares in Intel at $23.28 apiece.</p>\n\n<p>The AI chip giant and Intel announced the investment in mid-September, as part of a joint effort to develop “custom data center and PC products.” It followed a $8.9 billion investment by the U.S. government and a $2 billion investment by SoftBank, all part of a push to help get the once-iconic U.S. chipmaker back on its feet after a long decline.</p>\n\n<p>Nvidia has already made a good profit on its investment, which was completed on Dec. 26. Intel stock has risen 50% in recent weeks and closed up 1.3% at $36.68, translating to a profit of $2.9 billion.</p>",
+            "published_at": "2025-12-29T21:08:03.496Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-completes-5-billion-investment-intel?unlock=d17454&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-completes-5-billion-investment-intel?unlock=d17454&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16516,
+            "guid": "fdecf9",
+            "headline": "Trump Family Crypto Firm Fires Auditor Whose License Expired",
+            "dek": "A crypto company that struck a partnership with the Trump family’s World Liberty Financial has fired an audit firm it hired weeks earlier.",
+            "source_url": "",
+            "source_label": "Financial Times",
+            "body": "<p>A crypto company that struck a partnership with the Trump family’s World Liberty Financial has fired an audit firm it hired weeks earlier whose license was reported to have expired in August.</p>\n\n<p>Crypto processor <a href=\"https://www.theinformation.com/articles/trump-family-crypto-deal-runs-aground\">Alt5 Sigma</a> was a largely-unknown Nasdaq-listed company until August. Then&nbsp; it struck a $1.5 billion deal with World Liberty, a crypto company co-founded by the President’s two eldest sons, to use Alt5 as a vehicle to buy and store World Liberty’s crypto token, $WLFI.</p>\n\n<p>Shares in Alt5 have tumbled more than 80% since the deal. Two CEOs have departed Alt5 amid legal and regulatory problems, including the disclosure of a conviction for alleged money laundering in Rwanda, The Information <a href=\"https://www.theinformation.com/articles/trump-family-crypto-deal-runs-aground\">previously reported</a>. Several other senior executives have quit or have been fired.</p>\n\n<p>Alt5 in early December appointed Victor Mokuolo CPA PLLC as the company’s new independent auditor, following the resignation of the company’s previous auditor. Texas state filings show the license of the new audit firm expired in August, meaning the firm is currently barred from doing audit work, the Financial Times <a href=\"https://www.ft.com/content/342d01b2-bf0f-47d7-bb61-0f1aa0997ffd\">reported</a> on Monday.</p>\n\n<p>In a securities filing on Monday, Alt5 Sigma said it had “dismissed” the auditor on Christmas Day. Alt5 Sigma said it appointed L J Soldinger Associates, LLC its new auditor.</p>\n\n<p>Alt5 Sigma earlier told the Financial Times that Victor Mokuolo CPA PLLC was undergoing a peer review under the Texas State Board of Accountancy regulations, which was due to be completed in January 2026. The audit firm received a failing grade under the peer review process in 2023, and has received fines from the Public Company Accounting Oversight Board for reporting failures in 2023 and 2024.</p>",
+            "published_at": "2025-12-29T17:50:03.133Z",
+            "url": "https://www.theinformation.com/briefings/trump-family-crypto-firm-fires-auditor-whose-license-expired?unlock=fdecf9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-family-crypto-firm-fires-auditor-whose-license-expired?unlock=fdecf9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16515,
+            "guid": "901013",
+            "headline": "SoftBank to Buy Data Center Investor DigitalBridge for $4 Billion ",
+            "dek": "DigitalBridge owns several data center subsidiaries that are involved in large data center developments globally, including an OpenAI and Oracle “Stargate” project in Wisconsin.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SoftBank said Monday it would buy data center investment firm DigitalBridge for $4 billion, or $16 per share, a 15% premium to Friday’s closing price, its latest step to increase investment in infrastructure for data centers.</p>\n\n<p>DigitalBridge owns several data center subsidiaries that are involved in large data center developments globally, including an OpenAI and Oracle “Stargate” project in Wisconsin. SoftBank said Monday’s DigitalBridge deal would boost its “ability to build, scale, and finance the foundational infrastructure needed for next-generation AI services and applications.”</p>\n\n<p>Boca Raton, Fla.-based DigitalBridge will continue to operate separately once the deal closes, which is expected in the second half of 2026, SoftBank said in a <a href=\"https://group.softbank/en/news/press/20251229\">press release</a>. DigitalBridge CEO Marc Ganzi will continue to lead the unit.</p>",
+            "published_at": "2025-12-29T14:52:21.454Z",
+            "url": "https://www.theinformation.com/briefings/softbank-buy-data-center-investor-digitalbridge-4-billion?unlock=901013&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-buy-data-center-investor-digitalbridge-4-billion?unlock=901013&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16514,
+            "guid": "1ca1a8",
+            "headline": "China Issues Draft Rules for Human-Like AI Services ",
+            "dek": "Beijing’s move comes at a time when China is experiencing a rapid proliferation of AI products designed for consumers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>China’s top internet regulator issued draft rules to govern the use of AI services that involve human-like interactions, as Beijing tightens its oversight amid the country’s rapid AI adoption.</p>\n\n<p>The Cyberspace Administration of China presented the draft rules to the public on Saturday to accept comments until Jan. 25, 2026. The rules are aimed at regulating AI that simulates human characteristics, thinking patterns and communication styles—and interact with human users through text, audio, images, videos and other means, according to the regulator.</p>\n\n<p>The draft rules, for example, require AI service providers to introduce measures such as risk warnings and mental health protection, and intervene when users show signs of addiction.</p>\n\n<p>Beijing’s move comes at a time when China is experiencing a rapid proliferation of AI products designed for consumers. The government is moving quickly to establish new regulations for such products.</p>",
+            "published_at": "2025-12-29T05:11:24.866Z",
+            "url": "https://www.theinformation.com/briefings/china-issues-draft-rules-human-like-ai-services?unlock=1ca1a8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-issues-draft-rules-human-like-ai-services?unlock=1ca1a8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16513,
+            "guid": "b7f9c2",
+            "headline": "Nvidia Will Pay Groq Backers and Staff at Deal’s $20 Billion Valuation",
+            "dek": "Groq was valued at $6.9 billion recently, and staff and investors will mostly be paid out quickly.",
+            "source_url": "https://www.axios.com/2025/12/28/nvidia-groq-shareholders",
+            "source_label": "Axios",
+            "body": "<p>Groq shareholders and employees will get handsome payouts from Nvidia as part of a <a href=\"https://www.theinformation.com/articles/nvidia-struck-20-billion-megadeal-groq\">$20 billion acqui-hire deal,</a> Axios reported, ending speculation about the compensation in the unusual deal.</p>\n\n<p>Most Groq shareholders will get paid at the deal’s $20 billion valuation with 85% of the payouts coming up-front and the rest in 2026.&nbsp; Groq had been valued at $6.9 billion just a few months ago.</p>\n\n<p>Nvidia will be hiring roughly 90% of Groq’s employees. Groq employees will be paid for their vested shares at the deal’s value with their unvested shares being valued depending on where they end up.</p>\n\n<p>The deal, which is structured as a nonexclusive licensing agreement, could help Nvidia design server chips that are potentially cheaper and faster at running AI applications, compared to Nvidia’s current line of chips.</p>",
+            "published_at": "2025-12-28T21:50:36.613Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-will-pay-groq-backers-staff-deals-20-billion-valuation?unlock=b7f9c2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-will-pay-groq-backers-staff-deals-20-billion-valuation?unlock=b7f9c2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2326614,
+                    "display_name": "Ken Brown"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16315,
+                    "guid": "79dc6cb2cc",
+                    "title": "Why Nvidia Struck a $20 Billion Megadeal with Groq",
+                    "url": "https://www.theinformation.com/articles/nvidia-struck-20-billion-megadeal-groq?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16512,
+            "guid": "4f8165",
+            "headline": "New Competition for Mag 7 Stocks",
+            "dek": "Overseas markets trounced U.S. indexes despite growth of giant tech stocks.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The giant tech stocks have dominated the U.S. stock market for years, leading in profit growth and performance.</p>\n\n<p>Despite the power of these stocks, the U.S. market was left in the dust in 2025 by most of the world’s markets, according to Goldman Sachs. The S&amp;P 500 is up just under 18% so far in 2025, lagging Italy (54%), Spain (73%) and Korea (71%), and also behind emerging markets and global stocks generally.</p>\n\n<p>The Mag 7 tech stocks–Nvidia, Apple, Microsoft, Google, Amazon, Broadcom and Meta Platorms–account for 36% of the S&amp;P’s market capitalization.&nbsp;And a bigger share of its profit growth. Most analysts see these trends continuing.&nbsp;The&nbsp;scale of these companies means that almost all investors are heavily exposed to their big bets on AI.</p>\n\n<p>What’s underappreciated is the importance of these stocks to the rest of the world. The top 10 U.S. companies account for 22% of the market capitalization of all of the world’s stock markets.</p>",
+            "published_at": "2025-12-28T14:33:01.980Z",
+            "url": "https://www.theinformation.com/briefings/new-competition-mag-7-stocks?unlock=4f8165&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/new-competition-mag-7-stocks?unlock=4f8165&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2326614,
+                    "display_name": "Ken Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16511,
+            "guid": "f7f95c",
+            "headline": "Washington Seeks to Boost Control of Power Grid",
+            "dek": "White House wants to boost AI while keeping electricity prices down.",
+            "source_url": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce?mod=hp_lead_pos3",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>The White House is pushing the federal government to address power demands of AI by taking control of part of the nation’s power grid, The Wall Street Journal reported.</p>\n\n<p>State utility regulators are pushing back, saying the effort violates federal law, which splits control of the power grid between states and Washington. The White House is trying to address two issues–rising electricity prices and the power demands of AI.</p>\n\n<p>Some states are pushing back against the impact that data centers are having on electricity costs. The move by Washington is another example of its effort to control AI.</p>\n\n<p>The federal government wants to gain control of how data centers connect to the power grid. Officials say the shift could make it easier and faster for data centers to construct their own power supplies. The federal government is pushing to get the new rules passed quickly, addressing the slow pace of change in the utility industry.</p>",
+            "published_at": "2025-12-28T14:26:02.910Z",
+            "url": "https://www.theinformation.com/briefings/washington-seeks-boost-control-power-grid?unlock=f7f95c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/washington-seeks-boost-control-power-grid?unlock=f7f95c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2326614,
+                    "display_name": "Ken Brown"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 16372,
+                    "name": "economy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16510,
+            "guid": "a92c90",
+            "headline": "JPMorgan Freezes Accounts for Risky Stablecoin Payments",
+            "dek": "The bank has frozen accounts for two startups doing business in Venezuela and other legally risky countries.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>JPMorgan&nbsp;in recent months has frozen accounts used by at least two fast-growing stablecoin startups operating in high-risk countries like Venezuela, The Information <a href=\"https://www.theinformation.com/articles/stablecoin-startups-spark-trouble-jpmorgan\">reported</a> Friday. The bank’s moves highlight the risk that cryptocurrency transactions pose for banks, which are required to know the people they do business with and the source of their cash.</p>\n\n<p>The bank froze accounts for Blindpay and Kontigo, two startups funded by venture capital firm Y Combinator that largely focus on Latin America. The companies connected to the bank through digital payments firm Checkbook.</p>\n\n<p>The startups did business in Venezuela and other places that posed legal risks to the bank due to sanctions or other restrictions. JPMorgan said the freeze on the stablecoin companies’ accounts was not because of the nature of the businesses. “This has nothing to do with stablecoin companies,” a spokesperson for the bank said. “We bank both stablecoin issuers and stablecoin-related businesses, and we recently took a stablecoin issuer public.” The bank otherwise declined to comment on the matter.</p>",
+            "published_at": "2025-12-27T01:56:24.414Z",
+            "url": "https://www.theinformation.com/briefings/jpmorgan-freezes-accounts-risky-stablecoin-payments?unlock=a92c90&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/jpmorgan-freezes-accounts-risky-stablecoin-payments?unlock=a92c90&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16309,
+                    "guid": "5514e630b9",
+                    "title": "Stablecoin Startups Spark Trouble for JPMorgan",
+                    "url": "https://www.theinformation.com/articles/stablecoin-startups-spark-trouble-jpmorgan?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16509,
+            "guid": "2c7f9c",
+            "headline": "Nvidia Agrees to Pay Around $20 Billion to Access Groq’s AI Chip Tech and Hire Its Leaders",
+            "dek": "The deal is the latest in a string of AI chip startup acquisitions. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia on Wednesday struck a deal to license technology from Groq, one of its best-funded rivals developing AI chips, and hire the startup’s leaders for approximately $20 billion, <a href=\"https://www.theinformation.com/articles/nvidia-struck-20-billion-megadeal-groq\">The Information reported</a>. The companies didn’t disclose financial details but Nvidia said the deal is structured as a nonexclusive licensing arrangement rather than an outright acquisition, a tactic that may help the world’s most valuable company avoid immediate regulatory review. This follows a pattern of Nvidia using its financial might to cement its market position, including a similar, smaller licensing-and-hiring deal with networking startup Enfabrica.</p>\n\n<p>The Groq move gives Nvidia access to intellectual property for chips that process data faster for specific AI inference tasks, potentially allowing Nvidia to design server chips that are cheaper and more efficient for running AI applications compared to its current general-purpose graphics processing units. Groq’s chips aim to&nbsp;keep data on the processor itself&nbsp;rather than shuttling it back and forth to separate high-bandwidth memory chips, whereas Nvidia chips rely&nbsp;more heavily on HBM chips. That reliance exposes Nvidia to a memory supply chain controlled by a handful of firms.</p>\n\n<p>The Groq deal underscores the immense difficulty AI chip startups face in challenging Nvidia’s market dominance, even with billions in venture funding. Groq, for instance, recently had to slash its 2025 revenue projections by about 75%. It was recently valued at $6.9 billion in an equity funding, which explains why the $20 billion deal with Nvidia sent shockwaves across the business world.</p>",
+            "published_at": "2025-12-24T22:36:25.900Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-license-ai-chip-startup-groqs-technology?unlock=2c7f9c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-license-ai-chip-startup-groqs-technology?unlock=2c7f9c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16508,
+            "guid": "422e6e",
+            "headline": "Waymo Upgrades Fleet in Response to San Francisco Outage ",
+            "dek": "The robotaxi firm says it is updating its software to give its cars more context about regional power issues. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Waymo on Tuesday provided further details about its decision on Saturday to temporarily pause its robotaxi service in San Francisco amid a citywide power outage that caused its driverless cars to stall traffic. The company said it made the decision so its vehicles wouldn’t obstruct first responders by idling at dark traffic signals, which its cars are trained to treat as four-way stops. It resumed service Sunday.</p>\n\n<p>The Google-owned business said it planned to prevent similar scenarios in the future by rolling out updates that give its vehicles more context about regional power outages so they can make decisions at dark intersections more decisively. Besides updating its software, the company also says it is updating its emergency response protocols, coordinating more closely with San Francisco Mayor Daniel Lurie’s office on preparedness planning, and expanding its first-responder training to incorporate lessons from the outage.</p>",
+            "published_at": "2025-12-24T20:24:44.566Z",
+            "url": "https://www.theinformation.com/briefings/waymo-upgrades-fleet-response-san-francisco-outage?unlock=422e6e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymo-upgrades-fleet-response-san-francisco-outage?unlock=422e6e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16507,
+            "guid": "5438c3",
+            "headline": "Binance Promotes Trump Family’s Stablecoin With 20% Yield",
+            "dek": " The stablecoin, USD1, saw its market circulation rising to nearly $3 billion on Wednesday.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Binance, the world’s largest crypto exchange, <a href=\"https://www.binance.com/en/support/announcement/detail/8597cc2f40b6437c8687f52ab96bf77e\">said</a>&nbsp;Tuesday it will start offering users up to 20% annualized yield on USD1, the stablecoin issued by President Donald Trump’s family&nbsp;crypto venture World Liberty Financial.</p>\n\n<p>The promotion on Binance, set to last for a month, is designed to help drive usage of USD1. The market circulation of USD1 jumped to $2.9 billion on Wednesday from $2.7 billion on Tuesday, making it the 6th largest stablecoin in the world.</p>\n\n<p>“Nothing says Christmas like real-world adoption. USD1 running a massive holiday campaign on Binance is just the beginning,” Donald Trump Jr., co-founder of World Liberty, said in a tweet.</p>\n\n<p>Stablecoins are supposed to invest in safe assets to maintain their 1 to 1 peg against the dollar. Those assets pay roughly 3.6% today, meaning Binance or World Liberty Financial or both are losing money on the promotion.</p>\n\n<p>So far, most of USD1’s growth was driven by Abu Dhabi sovereign wealth fund MGX’s decision in May to use the stablecoin to pay for its $2 billion investment in Binance. The move has led to criticisms, such as by Senator Elizabeth Warren, that it boosted the fortune of Trump’s family business as Binance founder Changpeng Zhao successfully lobbied for a pardon. Binance has denied such claims.</p>",
+            "published_at": "2025-12-24T19:26:36.940Z",
+            "url": "https://www.theinformation.com/briefings/binance-promotes-trump-familys-stablecoin-20-yield?unlock=5438c3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/binance-promotes-trump-familys-stablecoin-20-yield?unlock=5438c3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        }
+    ]
+}
