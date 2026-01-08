@@ -1,0 +1,670 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16554,
+            "guid": "16bd74",
+            "headline": "Nvidia Faces Hurdle to sell H200 in China, Requires Strict Payment Terms ",
+            "dek": "The Chinese government tells companies to hold off any plans to purchase the H200 AI chips",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Chinese government has in recent days told companies to temporarily halt plans to buy Nvidia’s H200 AI chips, throwing up a possible roadblock in Nvidia’s hopes of restarting chip sales to one of its biggest markets, The Information reported on Wednesday.</p>\n\n<p>The instruction came roughly a month after President Donald Trump said he would allow Nvidia to sell H200s to China, marking the biggest rollback of Biden-era export restrictions. At the time, the reaction of the Chinese government was uncertain, as Beijing had been pushing local companies to buy locally made chips as a way of supporting the Chinese chip industry.</p>\n\n<p>Separately, Reuters <a href=\"https://www.reuters.com/world/china/nvidia-requires-full-upfront-payment-h200-chips-china-sources-say-2026-01-08/\">reported</a> on Thursday that Nvidia is imposing unusually strict payment terms on Chinese customers seeking to buy the H200. The chip giant is requiring full upfront payment and offers no options for cancellation or refund once orders are placed, according to the report, citing two people briefed on the matter.</p>\n\n<p>Nvidia usually requires advance payment such as deposits from Chinese customers, and the extra stringency for the payment of the H200 orders is due to the lack of clarity on whether the Chinese government would approve purchases of the chips, Reuters reported.</p>",
+            "published_at": "2026-01-08T08:41:17.352Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-faces-hurdle-sell-h200-china-requires-strict-payment-terms?unlock=16bd74&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-faces-hurdle-sell-h200-china-requires-strict-payment-terms?unlock=16bd74&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16228,
+                    "guid": "b118912c14",
+                    "title": "China Weighs Nvidia Chip Purchase in Emergency Meetings With Tech Companies",
+                    "url": "https://www.theinformation.com/articles/china-weighs-nvidia-chip-purchase-emergency-meetings-tech-companies?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16553,
+            "guid": "e40535",
+            "headline": "Microsoft Data Center Construction Executive Departs  ",
+            "dek": "Weitzel led the engineering, procurement and construction group under Microsoft’s cloud operations chief Noelle Walsh.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft executive Jennifer Weitzel, who oversaw the firm’s development of data centers for AI, left the company less than a year after starting her second stint at the company, according to someone with knowledge of the departure and her LinkedIn profile.</p>\n\n<p>Weitzel led the engineering, procurement and construction group under Microsoft’s cloud operations chief Noelle Walsh. Weitzel joined Microsoft at a time when it was under immense pressure to set up servers for OpenAI, its biggest cloud customer.</p>\n\n<p>Microsoft in recent years has faced construction delays involving some of OpenAI’s data centers, causing frustration between the two companies. OpenAI CEO Sam Altman in the past <a href=\"https://www.theinformation.com/articles/microsoft-let-openai-play-field\">pressed Walsh</a> on why her team couldn’t move faster.</p>\n\n<p>These issues contributed to OpenAI’s decision, eventually supported by Microsoft, to strike deals with other cloud providers instead of exclusively working with Microsoft. A spokesperson for Microsoft declined to comment on Weitzel’s departure. Weitzel did not respond to a request for comment.</p>\n\n<p>Weitzel previously worked at Microsoft from 2016 to 2022, focusing on data center leases, mergers and acquisitions.</p>",
+            "published_at": "2026-01-07T23:13:32.891Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-data-center-construction-executive-departs?unlock=e40535&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-data-center-construction-executive-departs?unlock=e40535&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15908,
+                    "guid": "de175bfe66",
+                    "title": "Why Microsoft Let OpenAI Play the Field",
+                    "url": "https://www.theinformation.com/articles/microsoft-let-openai-play-field?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16552,
+            "guid": "2406e5",
+            "headline": "Google Passes Apple to Become Second Most Valuable Company",
+            "dek": "Google shares have been on the upswing for the past five months, thanks to the conclusion of its antitrust challenges and gains in AI.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google’s parent Alphabet on Wednesday passed Apple in market capitalization to become the second most valuable company in the world, worth $3.885 trillion, compared to Apple’s value of $3.846 trillion. Nvidia, worth $4.595 trillion, is far and away the most valuable firm.</p>\n\n<p>Google shares have been on the upswing since the end of the summer, when a federal judge issued relatively light penalties over his earlier finding that Google had an illegal monopoly in the search business. Signs that Google had caught up to OpenAI on the AI front has further reinforced investor optimism. Google shares rose 65% in 2025, making it the best performer among the big tech stocks, and are up 2.9% so far this year.</p>\n\n<p>Shares of Apple, in contrast, rose only 8.6% last year and have fallen 4% so far this year.</p>",
+            "published_at": "2026-01-07T22:44:51.300Z",
+            "url": "https://www.theinformation.com/briefings/google-passes-apple-become-second-valuable-company?unlock=2406e5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-passes-apple-become-second-valuable-company?unlock=2406e5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16551,
+            "guid": "05823a",
+            "headline": "Musk Lawsuit Against OpenAI Headed to Trial",
+            "dek": "Microsoft will likely remain in the case.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Several of Elon Musk’s legal claims against OpenAI will go to a jury trial, the judge overseeing the lawsuit said in a federal courtroom in Oakland, Calif. on Wednesday. The trial is scheduled for the spring.</p>\n\n<p>Lawyers for OpenAI had asked the court to dismiss the claims on legal grounds, but Judge Yvonne Gonzalez Rogers found that the claims rested on disputes about the facts of the case that a jury should decide. Among the claims, Musk alleges that OpenAI committed fraud and violated its charitable duties by operating as a for-profit corporation after he co-founded the lab as a non-profit.</p>\n\n<p>Judge Rogers dismissed one of Musk’s arguments against Microsoft, but said she is “inclined” to allow Musk’s argument that Microsoft aided and abetted OpenAI’s breach of fiduciary duty to proceed to trial as well.</p>\n\n<p>“This case is going to trial,” Rogers said.</p>",
+            "published_at": "2026-01-07T22:34:00.240Z",
+            "url": "https://www.theinformation.com/briefings/musk-lawsuit-openai-headed-trial?unlock=05823a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-lawsuit-openai-headed-trial?unlock=05823a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16550,
+            "guid": "4d0599",
+            "headline": "Character.AI, Google Agree to Settle Lawsuits over Teen Suicides",
+            "dek": "The families alleged that Character’s chatbots contributed to their children killing or harming themselves. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The chatbot startup Character.AI and Google have reached agreements to settle multiple lawsuits brought by families who alleged that Character’s chatbots contributed to their children killing or harming themselves, according to court papers filed this week.</p>\n\n<p>In the highest profile case, Megan Garcia sued Character after her 14-year-old son, Sewell Setzer III, died by suicide after spending months talking to a Character chatbot modeled after a Game of Thrones character. According to the complaint, the chatbot asked Setzer whether he had a plan for committing suicide, and told Setzer that his worry about dying a painful death was “not a good reason to not go through with it.”</p>\n\n<p>Details of the settlements this week were not made public. A Character spokesperson declined to comment. A Google spokesperson did not immediately have a comment. A lawyer representing some&nbsp;of the families involved in the cases&nbsp;declined to comment.</p>\n\n<p>Character was founded by former star Google researchers Noam Shazeer and Daniel De Freitas. In 2024, Google signed a $2.7 billion deal to rehire both cofounders, hire other Character employees and license Character’s technology, although Character.AI remained a separate company. Shazeer and De Freitas were also named defendants in the lawsuits and are part of the settlements.</p>",
+            "published_at": "2026-01-07T22:14:55.053Z",
+            "url": "https://www.theinformation.com/briefings/character-ai-google-agree-settle-lawsuits-teen-suicides?unlock=4d0599&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/character-ai-google-agree-settle-lawsuits-teen-suicides?unlock=4d0599&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16549,
+            "guid": "0b89a8",
+            "headline": "Trump-backed World Liberty Applies For Bank Charter",
+            "dek": "World Liberty Financial has applied to the federal government for a national trust bank charter.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump family-founded crypto venture World Liberty Financial has applied to the federal government for a national trust bank charter, the company said in a <a href=\"https://www.businesswire.com/news/home/20260107876750/en/World-Liberty-Financial-Announces-that-WLTC-Holdings-LLC-has-Submitted-an-Application-for-a-National-Trust-Bank-Charter-to-Issue-and-Custody-USD1-Stablecoins\">statement</a>.</p>\n\n<p>The easing regulatory landscape for crypto firms ushered in by the second Trump administration has spurred a number of crypto-friendly banks to seek approval for bank charters.</p>\n\n<p>World Liberty said the proposed national trust bank would be focused on stablecoins and offer services to institutional clients, investment firms and exchanges. World Liberty issues its own cryptocurrency tied to the U.S. dollar. Zach Witkoff, the son of President Donald Trump’s Middle East and Russian envoy Steve Witkoff, is slated to be chairman of the proposed trust company.</p>",
+            "published_at": "2026-01-07T22:09:14.528Z",
+            "url": "https://www.theinformation.com/briefings/trump-backed-world-liberty-applies-bank-charter?unlock=0b89a8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-backed-world-liberty-applies-bank-charter?unlock=0b89a8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16548,
+            "guid": "a3f950",
+            "headline": "JPMorgan To Acquire Apple’s Credit Card Program ",
+            "dek": "JPMorgan has struck a deal to replace Goldman Sachs as the provider of Apple’s credit card program.",
+            "source_url": "",
+            "source_label": "Wall Street Journal",
+            "body": "<p>JPMorgan has struck a deal to replace Goldman Sachs as the provider of Apple’s credit card program, The Wall Street Journal <a href=\"https://www.wsj.com/finance/banking/jpmorgan-chase-reaches-a-deal-to-take-over-the-apple-credit-card-4e214fb2\">reported</a>.</p>\n\n<p>The largest U.S. bank will take over about $20 billion in customer balances from Goldman at a slight discount, which is rare for branded credit card programs, the report said. JPMorgan last year emerged as Apple’s preferred choice to take over the program following extended negotiations with the bank and other potential acquirers, including Capital One and American Express.</p>\n\n<p>The Apple partnership represented one prong of Goldman Sach’s ill-fated expansion into retail consumer banking. Goldman Sachs was fined in 2024 by the Consumer Financial Protection Bureau for mishandling the program.</p>",
+            "published_at": "2026-01-07T22:00:58.332Z",
+            "url": "https://www.theinformation.com/briefings/jpmorgan-acquire-apples-credit-card-program?unlock=a3f950&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/jpmorgan-acquire-apples-credit-card-program?unlock=a3f950&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16547,
+            "guid": "8a39f8",
+            "headline": "Intel Shares Jump After Exec Reveals New Gaming Chip, Software",
+            "dek": "Intel is once again focused on new products and technological advancements, as opposed to its turnaround efforts, and investors are taking notice. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Intel shares jumped around 10% today after one of its executives revealed yesterday at&nbsp;the Consumer Electronics Show that the chipmaker is developing a bespoke gaming chip and software for mobile gaming devices, according to Yahoo Finance.</p>\n\n<p>It’s not clear exactly what investors are reacting to, but Intel earlier this week&nbsp;launched its new AI chip for notebook PCs, called Panther Lake, which is the first product based on its new 18A manufacturing process. The new gaming chip is also based on Panther Lake.</p>\n\n<p>Intel has deep experience in gaming chips, and its new push suggests that it aims to challenge rivals AMD and Nvidia in one of the tech industry’s most competitive market segments. The fact that Intel is now talking&nbsp;about new technological&nbsp;advancements, as opposed to its years-long turnaround efforts, could explain investors’ enthusiasm.</p>",
+            "published_at": "2026-01-07T20:45:46.681Z",
+            "url": "https://www.theinformation.com/briefings/intel-shares-jump-exec-reveals-new-gaming-chip-software?unlock=8a39f8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/intel-shares-jump-exec-reveals-new-gaming-chip-software?unlock=8a39f8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16546,
+            "guid": "ae30f5",
+            "headline": "KKR Invests $1.5 Billion in European Data Center Company",
+            "dek": "Global Technical Realty began in 2020 with a $1 billion investment from KKR.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>European data center developer Global Technical Realty raised $1.9 billion from private investment firms KKR and Oak Hill Capital as it looks to expand across the continent.</p>\n\n<p>KKR invested $1.5 billion in the round of funding, mostly from its Global Infrastructure strategy, the firm said Wednesday. The firm said it has invested about $34 billion in digital infrastructure, which includes data centers, fiber and wireless towers.</p>\n\n<p>Global Technical Realty began in 2020 with a $1 billion investment from KKR and is led by CEO Franek Sodzawiczny, who previously sold two data center businesses. KKR said the funding would be used to expand into new European markets.</p>",
+            "published_at": "2026-01-07T19:16:56.674Z",
+            "url": "https://www.theinformation.com/briefings/kkr-invests-1-5-billion-european-data-center-company?unlock=ae30f5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/kkr-invests-1-5-billion-european-data-center-company?unlock=ae30f5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 6148,
+                    "name": "real estate"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16545,
+            "guid": "432346",
+            "headline": "Anthropic to Raise $10 Billion at a $350 Billion Valuation ",
+            "dek": "The round doubles its last valuation.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic has told potential investors it is planning to raise $10 billion at a valuation of $350 billion, according to a person familiar with the discussions. The valuation nearly doubles that of its last round in September. Singapore sovereign wealth fund GIC and Coatue Management are planning to lead the fundraising, said the person.</p>\n\n<p>The venture funding follows an acceleration of its business that was expected to encourage more private investment. Last summer it told investors <a href=\"https://www.theinformation.com/articles/anthropic-projects-70-billion-revenue-17-billion-cash-flow-2028?rc=zjctrx\">it expects revenue could as much as triple</a> this year, to $15 billion, and to rise as high as $70 billion by 2028. Because of that growth, the company was expected to target a valuation of between $300 billion to $400 billion in its next funding round, The Information previously reported.</p>\n\n<p>Anthropic’s compute needs are steep, totalling $60 billion over the next three years. That could lead it to issue shares in an initial public offering as soon as this year.&nbsp; The Wall Street Journal first reported new details of the funding.</p>",
+            "published_at": "2026-01-07T18:33:29.895Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-raise-10-billion-350-billion-valuation?unlock=432346&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-raise-10-billion-350-billion-valuation?unlock=432346&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16544,
+            "guid": "903749",
+            "headline": "Samsung Says Rising Memory Costs May Drive Up Consumer Product Prices",
+            "dek": "World’s largest memory maker says it may need to pass component cost burden to consumers as prices surge industrywide.",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-07/samsung-warns-of-price-hikes-as-rising-memory-costs-affect-all?srnd=phx-technology",
+            "source_label": "Bloomberg",
+            "body": "<p>Samsung Electronics expects memory chip supply shortages to drive up prices across the electronics industry, including potentially for its own consumer products, according to the company’s head of global marketing, Wonjin Lee.</p>\n\n<p>Lee said in an interview with Bloomberg that memory prices are rising “even as we speak.” “There’s going to be issues around semiconductor supplies, and it’s going to affect everyone,” Lee said. “Obviously, we don’t want to convey that burden to the consumers, but we’re going to be at a point where we have to actually consider repricing our products.”</p>\n\n<p>The AI data center buildout boom has created unprecedented demand for high-bandwidth memory, constraining supply for smartphones, laptops, and other consumer devices.</p>\n\n<p>Lee said the company is optimistic about 2026, particularly for AI-enabled mobile phones, and expects Samsung to outpace the broader market despite industrywide supply pressures.</p>",
+            "published_at": "2026-01-07T09:38:41.542Z",
+            "url": "https://www.theinformation.com/briefings/samsung-says-rising-memory-costs-may-drive-consumer-product-prices?unlock=903749&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/samsung-says-rising-memory-costs-may-drive-consumer-product-prices?unlock=903749&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16543,
+            "guid": "9b5817",
+            "headline": "Nvidia CEO Says Chinese Demand for H200 Chips “Quite High”",
+            "dek": "Jensen Huang said demand levels will be the “most conclusive sign” of Beijing’s views on advanced AI processors",
+            "source_url": "https://www.wsj.com/tech/ai/nvidia-ceo-says-chinese-demand-for-its-ai-chips-is-quite-high-05c8d680?mod=tech_lead_pos2",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Nvidia CEO Jensen Huang said on Tuesday that Chinese demand for the company’s H200 AI chips is “quite high” and that purchase orders from local tech firms will be the clearest signal of Beijing’s approval, The Wall Street Journal reported.</p>\n\n<p>At the Consumer Electronics Show, Huang told reporters that Nvidia has already asked its supply chain to ramp up production for H200, citing high demand. Huang added that he doesn’t anticipate problems from the Chinese side once U.S. officials complete licensing reviews.</p>\n\n<p>“We learn about everything through purchase orders. We’re not expecting any press releases or any large declarations,” Huang said, “It’s just going to be purchase orders. If the purchase orders come, it’s because they’re able to place purchase orders.”</p>\n\n<p>President Donald Trump said last month he planned to approve export licenses for the H200, the predecessor to Nvidia’s flagship Blackwell chips, in a deal that includes giving the federal government a 25% cut of sales. H200 was never allowed to sell to China under U.S. chip export controls that took effect in 2022.</p>",
+            "published_at": "2026-01-07T09:34:20.932Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-says-chinese-demand-h200-chips-quite-high?unlock=9b5817&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-says-chinese-demand-h200-chips-quite-high?unlock=9b5817&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16228,
+                    "guid": "b118912c14",
+                    "title": "China Weighs Nvidia Chip Purchase in Emergency Meetings With Tech Companies",
+                    "url": "https://www.theinformation.com/articles/china-weighs-nvidia-chip-purchase-emergency-meetings-tech-companies?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16542,
+            "guid": "66e300",
+            "headline": "China Reviews Meta’s $2 Billion acquisition of Manus",
+            "dek": "Manus founders moved to Singapore last year to de-emphasize its Chinese roots.",
+            "source_url": "https://www.ft.com/content/62f8f2c5-95c7-4437-b0f1-b8ecd507c330",
+            "source_label": "Financial Times",
+            "body": "<p>The Chinese government is reviewing Meta Platforms’ $2 billion acquisition of AI startup Manus for potential violations of technology export control, the Financial Times reported on Wednesday, citing two people familiar with the matter.</p>\n\n<p>China’s Ministry of Commerce has begun assessing whether the relocation of Manus’s staff and technology to Singapore from China, and the subsequent sale to Meta,&nbsp; required an export license under Chinese law, the FT reported.</p>\n\n<p>Manus, a general-purpose agentic AI application, was started in China and went viral with global users in the spring of last year. Butterfly Effect, the startup behind Manus, received funding from Benchmark in April last year and later set up new headquarters in Singapore, where its founders also live now. The move was to ensure that the startup can continue to do business in the U.S. and not be constrained by its Chinese roots, The Information reported previously.</p>",
+            "published_at": "2026-01-07T09:18:48.694Z",
+            "url": "https://www.theinformation.com/briefings/china-reviews-metas-2-billion-acquisition-manus?unlock=66e300&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-reviews-metas-2-billion-acquisition-manus?unlock=66e300&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14936,
+                    "guid": "09d45664d5",
+                    "title": "Startup Behind Manus AI Agent Navigates U.S.-China Tensions After Benchmark Deal",
+                    "url": "https://www.theinformation.com/articles/startup-behind-manus-ai-agent-navigates-u-s-china-tensions-benchmark-deal?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16541,
+            "guid": "31b975",
+            "headline": "Ilya Sutskever Had $4 Billion of Vested OpenAI Equity in 2023",
+            "dek": "The value of Sutskever’s financial stake has been a point of contention in Musk’s lawsuit.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI co-founder and former chief scientist Ilya Sutskever had $4 billion worth of vested equity in OpenAI in November 2023, according to text messages from chief operating officer Brad Lightcap that were made public Tuesday as part of Elon Musk’s lawsuit against OpenAI.</p>\n\n<p>Lightcap disclosed Sutskever’s financial stake after the OpenAI board fired CEO Sam Altman and Microsoft CEO Satya Nadella prepared to hire Altman and OpenAI colleagues. Lightcap wrote to Altman and Nadella that paying OpenAI employees for their equity would require $25 billion excluding Sutskever’s equity, or $29 billion including Sutskever’s vested units. (It’s not clear how much Sutskever had in unvested equity.)</p>\n\n<p>The day following the exchange, Microsoft chief technology officer Kevin Scott said publicly that Microsoft would hire and match the compensation of every OpenAI employee who chose to resign from the startup, in the event that Altman was not reinstated at OpenAI. Those hires never happened because the OpenAI board rehired Altman later that night.</p>\n\n<p>Sutskever’s $4 billion stock compensation shows that AI labs have been willing to provide lavish pay for top AI researchers even before last year’s intense war for talent. In 2023, OpenAI was valued at $29 billion and in the process of a tender offer that would value it at $86 billion. Altman has said he does not own equity in OpenAI.</p>\n\n<p>The value of Sutskever’s financial stake in OpenAI has been a matter of contention in the lawsuit. Sutskever refused to reveal the details during a deposition in October, but the court ordered him to sit for a second deposition because the judge found that “Sutskever’s financial interest in OpenAI is directly relevant” to whether his testimony is biased in favor of OpenAI, among other reasons.</p>",
+            "published_at": "2026-01-07T04:35:17.289Z",
+            "url": "https://www.theinformation.com/briefings/ilya-sutskever-4-billion-vested-openai-equity-2023?unlock=31b975&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ilya-sutskever-4-billion-vested-openai-equity-2023?unlock=31b975&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16540,
+            "guid": "7de7b4",
+            "headline": "Musk Pushed OpenAI to Link With Microsoft, Called Amazon’s Bezos a ‘Tool’",
+            "dek": "Google Co-Founder Sergey Brin Sought to Hire Greg Brockman, Nadella said.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk in 2016 told fellow OpenAI founder Sam Altman that the AI lab, then one year old, should pursue a cloud computing deal with Microsoft rather than Amazon, according to emails released Tuesday as evidence in Elon Musk’s federal lawsuit against OpenAI.</p>\n\n<p>Musk explained that he preferred Microsoft’s CEO Satya Nadella over Amazon’s CEO, who was then founder Jeff Bezos. “I think Jeff is a bit of a tool and Satya is not, so I slightly prefer Microsoft, but I hate their marketing dept.” Altman replied that “Amazon started really dicking us around on the [terms and conditions], especially on marketing commits. And their offering wasn’t that good technically anyway.”</p>\n\n<p>Microsoft three years later invested $1 billion in the startup, which it later increased to $13 billion, forging a landmark partnership in which Microsoft gets a share of OpenAI’s revenue until 2030 or until the startup develops human-level AI. Amazon made an early bet on Anthropic, though it’s been in talks <a href=\"https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips\">to invest $10 billion in OpenAI</a>, which would use Amazon’s AI chips.</p>\n\n<p>Nadella recounted in his own deposition how rivals quickly moved to recruit OpenAI’s leaders after the board fired Altman in late 2023. Google co-founder Sergey Brin “reached out to” OpenAI president Greg Brockman, Nadella said, according to the transcript of the September deposition, which was also made public Tuesday.</p>\n\n<p>One of Nadella’s goals at the time was “to make sure that Sam and Greg were not just standing up an alternative lab,” he said. But “some of them were getting calls from everybody else, from Sundar [Pichai] and Mark [Zuckerberg] and even Elon [Musk] in some cases.”</p>\n\n<p>In a text message that a lawyer read aloud at the meeting, former OpenAI chief technology officer Mira Murati wrote following Altman’s termination that “Satya said he’s helping with calming down Sam so he doesn’t do anything hypercompetitive,” such as starting a new AI company. Nadella, two days after Altman’s termination, <a href=\"https://x.com/satyanadella/status/1726509045803336122?s=20\">said</a> he had offered jobs to Altman and Brockman.</p>",
+            "published_at": "2026-01-07T01:02:56.652Z",
+            "url": "https://www.theinformation.com/briefings/musk-pushed-openai-link-microsoft-called-amazons-bezos-tool?unlock=7de7b4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-pushed-openai-link-microsoft-called-amazons-bezos-tool?unlock=7de7b4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16539,
+            "guid": "b1bbbf",
+            "headline": "MSCI Decides to Keep Crypto-Holding Stocks in Indexes ",
+            "dek": "Shares of Strategy, a bitcoin-holding stock, jumped after the index provider’s decision.  ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>MSCI, a major index provider, <a href=\"https://www.msci.com/indexes/index-resources/index-announcements?referrer=grok.com\">said</a> Tuesday that it decided to keep publicly-traded stocks whose primary activities are buying crypto in its global indexes “at this time.” The decision removes for now a potential threat to battered companies like Strategy.</p>\n\n<p>The decision was highly watched because a potential exclusion of the stocks from MSCI indexes could force index-tracking funds to sell their shares, putting further downward pressure on crypto prices.</p>\n\n<p>Strategy, the biggest bitcoin holding stock, jumped 6.7% in post-market trading after MSCI’s decision. MSCI said it “intends to open a broader consultation” on these stocks, and that feedback so far confirmed that some institutional investors are concerned the stocks are similar to investment funds, which are not eligible for inclusion in the indexes.</p>",
+            "published_at": "2026-01-06T23:34:47.213Z",
+            "url": "https://www.theinformation.com/briefings/msci-decides-keep-crypto-holding-stocks-indexes?unlock=b1bbbf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/msci-decides-keep-crypto-holding-stocks-indexes?unlock=b1bbbf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16538,
+            "guid": "188113",
+            "headline": "Former VP Sues Insight Partners for Gender Discrimination",
+            "dek": "Insight denies the allegations.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Katherine Lowry, who joined Insight Partners as a vice president in 2022, has filed a lawsuit in a California state court accusing her former employer of wrongful termination and gender discrimination.</p>\n\n<p>Lowry says her compensation was cut after taking medical leave from $750,000 to $500,000 in expected carried interest and alleges that her manager, a female executive, “berated” her and told her that “your work needs to be twice as good as male colleagues because you are a woman.”</p>\n\n<p>Insight said in a statement that the allegations are “baseless” and the complaint “paints a false picture of our workplace and employment practices and does not reflect the culture, values, or conduct of our organization.”</p>\n\n<p>Bloomberg first reported the news.</p>",
+            "published_at": "2026-01-06T22:05:56.079Z",
+            "url": "https://www.theinformation.com/briefings/former-vp-sues-insight-partners-gender-discrimination?unlock=188113&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/former-vp-sues-insight-partners-gender-discrimination?unlock=188113&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16537,
+            "guid": "d0af79",
+            "headline": "XAI Raises $20 Billion From Valor, Nvidia",
+            "dek": "Musk's AI lab said it had originally set out to raise $15 billion. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>XAI, Elon Musk’s AI lab, <a href=\"https://x.ai/news/series-e\">said Tuesday</a> it had raised $20 billion from investors including Valor Equity Partners, Stepstone Group, and Fidelity, as well as Nvidia and Cisco. That’s more money than the initial <a href=\"https://www.theinformation.com/briefings/xai-talks-raise-15-billion-230-billion-valuation?rc=zjctrx\">$15 billion the company had targeted</a>, at a $230 billion valuation. At that level, the financing would more than double the last valuation of the AI business, which combined with X (formerly Twitter) last year.</p>\n\n<p>The round,&nbsp; the two-year-old company’s Series E, will help the company with ambitious goals to expand the comput clusters powering its AI models. XAI recently bought a building for a third supersized data center it’s planning outside Memphis, Tennessee, <a href=\"https://www.theinformation.com/articles/elon-musks-xai-buys-building-third-supersized-data-center?rc=zjctrx\">The Information reported last week</a>. XAI said it has amassed chips with the computing capacity of 1 million Nvidia H100s.</p>",
+            "published_at": "2026-01-06T21:58:11.918Z",
+            "url": "https://www.theinformation.com/briefings/xai-raises-20-billion-valor-nvidia?unlock=d0af79&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/xai-raises-20-billion-valor-nvidia?unlock=d0af79&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16536,
+            "guid": "04cf76",
+            "headline": "AI Lab Hark Hires Leadership from Apple, Meta",
+            "dek": "The startup aims to develop its own AI devices.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Hark, the AI lab that Figure AI CEO Brett Adcock recently founded, has hired over 30 engineers, including Head of Design Abidur Chowdhury, who previously designed phones and laptops for Apple, according to a copy of a memo Adcock sent to senior Figure employees and investors on Tuesday seen by The Information.</p>\n\n<p>Chowdhury’s hire is a sign that Hark plans to differentiate itself from other AI labs by focusing on AI devices. “My view is simple: today’s AI models aren’t nearly intelligent enough, they feel quite dumb, and the devices we use to access them are fundamentally pre-AI,” Adcock wrote. “Our computers and phones are reactive - they sit idle, waiting for instructions - rather than proactive systems that truly work alongside us.”</p>\n\n<p>Hark also hired former Apple employees David Narajowski and Dave Wilkes to work on hardware, along with Eddie Lou, who previously worked on Meta glasses. Key AI hires also hail from Meta, including Mingbo Ma, Xubo Liu, Xianfeng Rui, Kainan Peng, Zhihong Lei and Pengwei Li.</p>\n\n<p>Hark has also hired engineers from Google and Amazon, according to the memo, and the startup could grow to 100 engineers during the first half of the year.</p>\n\n<p>Adcock is <a href=\"https://www.theinformation.com/briefings/exclusive-figure-ceo-brett-adcock-launches-new-ai-lab-100-million-funding\">funding Hark with $100 million</a> of his personal capital. Adcock said in his memo that he’s “already using the models daily” that the company has worked on since last month, and he expects its first public model to release this summer.</p>",
+            "published_at": "2026-01-06T19:30:55.019Z",
+            "url": "https://www.theinformation.com/briefings/hark-hires-leadership-apple-meta?unlock=04cf76&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/hark-hires-leadership-apple-meta?unlock=04cf76&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16535,
+            "guid": "371444",
+            "headline": "Amazon’s “Buy For Me” Feature Sparks Backlash From Small Retailers",
+            "dek": "Some retailers objected to their products being sold on Amazon through the feature without their permission first.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon has sparked blowback from some small retailers over a feature that displays items not sold on its site in Amazon search results, with some business owners objecting to Amazon not seeking permission before listing their products.</p>\n\n<p>Amazon launched the feature, called “Shop Other Stores Directly,” in April, but has been ramping up how many products are listed through the feature recently. When shoppers search for branded items on Amazon’s site, Amazon will show shoppers items sold on its own site, as well as products only available on outside sites. Some of the product listings include a “Buy For Me” button shoppers can use to buy from other sites without leaving Amazon. In recent days, in viral videos and social media posts, some retailers objected to their products being sold on Amazon through the feature, saying it was confusing for shoppers and sometimes resulted in erroneous orders.</p>\n\n<p>An Amazon spokesperson said that businesses can opt out of the feature at any time and that items will be removed promptly. “Shop Direct and Buy for Me are programs we’re testing that help customers discover brands and products not currently sold in Amazon’s store, while helping businesses reach new customers and drive incremental sales,” the spokesperson said.</p>",
+            "published_at": "2026-01-06T16:30:20.282Z",
+            "url": "https://www.theinformation.com/briefings/amazons-buy-feature-sparks-backlash-small-retailers?unlock=371444&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazons-buy-feature-sparks-backlash-small-retailers?unlock=371444&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        }
+    ]
+}
