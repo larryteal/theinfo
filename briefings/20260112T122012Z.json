@@ -1,0 +1,695 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16567,
+            "guid": "075154",
+            "headline": "Anthropic Unveils New Healthcare Features for Claude",
+            "dek": "The move comes just days after OpenAI announced personal health features for ChatGPT. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic isn’t leaving the healthcare sector to OpenAI. The AI startup behind the Claude AI models on Monday <a href=\"https://www.anthropic.com/news/healthcare-life-sciences\">announced</a> Claude for Healthcare, a new set of tools and resources that healthcare providers, payers and consumers can use for medical purposes.</p>\n\n<p>For example, Anthropic is adding tools that allow Claude to pull information from industry-standard systems and databases, making it easier for healthcare providers and payers to find and understand relevant information.The company also said it would add new capabilities for life sciences so Claude can provide more support in areas such as clinical trial management.</p>\n\n<p>Anthropic’s latest push into healthcare comes just days after <a href=\"https://www.theinformation.com/articles/openai-preps-personal-health-features-chatgpt?rc=9byxri\">OpenAI announced</a> it was adding personal health features to ChatGPT. OpenAI has highlighted how consumers use ChatGPT for guidance on healthcare.</p>",
+            "published_at": "2026-01-11T22:39:02.618Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-follows-openai-healthcare?unlock=075154&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-follows-openai-healthcare?unlock=075154&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                },
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16566,
+            "guid": "cd274e",
+            "headline": "Google Unveils AI Shopping Tools for Gemini",
+            "dek": "Google's new AI shopping tools follows earlier efforts by OpenAI to make ChatGPT a place for people to buy things.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Google is adding the ability for users to shop directly within its Gemini chatbot and AI Mode search tool, the company said Sunday, making it the latest firm to add AI-powered commerce features. Shoppers will be able to make purchases on Gemini using Google Pay, as well as link loyalty accounts they have with merchants to their Google account. (PayPal <a href=\"https://newsroom.paypal-corp.com/2025-01-11-From-Search-to-Checkout-PayPal-Supports-Trusted-AI-Checkout-with-Google\">said</a> shoppers will soon also be able to use PayPal to check out on Gemini.)</p>\n\n<p>Retailers will be able to offer shoppers special discounts and recommend add-on products before they complete their purchases. Those features are some of the first advertisements that have been added to AI shopping tools—OpenAI has been discussing <a href=\"https://www.theinformation.com/articles/openais-ads-push-starts-taking-shape?rc=d8mrkd\">ways to show ChatGPT users sponsored information</a>, but has yet to launch any ad features.</p>\n\n<p>The feature is powered by what Google calls the Universal Commerce Protocol, an underlying standard the company developed with retailers including Shopify, Etsy, Wayfair, Target and Walmart. The protocol is similar to other standards like OpenAI’s <a href=\"https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?rc=d8mrkd\">Agentic Commerce Protocol</a>, which aims to standardize how AI apps, merchants and payments processors communicate with each other for purchases made by AI agents.</p>\n\n<p>Google’s efforts come as OpenAI has been ramping up its shopping efforts in partnership with Stripe and Shopify. Also on Sunday, Google&nbsp;announced&nbsp;new agentic software, to be used by retailers on their own websites, to allow&nbsp;shoppers to describe to an AI agent what they’re looking for, such as “a velvet sofa in emerald green that can withstand pet hair, but it needs to be under 90 inches.” The agent would filter for those factors and the shopper’s budget.</p>\n\n<p>Google’s announcement cited executives from Kroger, Lowe’s and Woolworths about their plans to use Google’s new agentic software. The new software also has a food ordering&nbsp;agent for restaurants, which Google said would be used by Papa John’s. Similarly, Google also launched branded chatbots that appear in Google search results to help users research and answer questions. Google said in the coming months, the branded chatbots will be able to promote related products to shoppers and allow them to purchase directly from the chatbot.</p>",
+            "published_at": "2026-01-11T16:59:09.399Z",
+            "url": "https://www.theinformation.com/briefings/google-unveils-shopping-agent-software?unlock=cd274e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-unveils-shopping-agent-software?unlock=cd274e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16565,
+            "guid": "ef73c4",
+            "headline": "Indonesia Blocks Grok Over Sexual Imagery",
+            "dek": "Earlier this week some Democratic senators called on Apple and Google to take Grok out of their app stores over the same issue.",
+            "source_url": "https://www.reuters.com/legal/litigation/indonesia-temporarily-blocks-access-grok-over-sexualised-images-2026-01-10/",
+            "source_label": "Reuters",
+            "body": "<p>Indonesia blocked xAI’s Grok chatbot, due to the risk of sexual “deepfakes” on the service, <a href=\"https://www.reuters.com/legal/litigation/indonesia-temporarily-blocks-access-grok-over-sexualised-images-2026-01-10/\">Reuters reported</a>, the latest sign of rising criticism of sexual imagery on the site.</p>\n\n<p>Earlier this week <a href=\"https://www.cnbc.com/2026/01/09/grok-app-should-be-suspended-from-apple-google-democratic-senators.html\">some Democratic senators called on</a> Apple and Google to take Grok out of their app stores over the same issue. Reports that people could use Grok to create sexualized images—and post them on xAI’s X social media site—have been increasing. Earlier this month Grok acknowledged “lapses in safeguards” and this week Grok restricted its image generation bot <a href=\"https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery\">to paying subscribers.</a></p>\n\n<p><a href=\"https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok\">The Information has reported</a>&nbsp;that some trust and safety staff at X have raised concerns about the way Grok has been integrated into the service, including the potential that people could use the tool to generate sexualized images of real people without their consent.</p>",
+            "published_at": "2026-01-10T16:29:57.168Z",
+            "url": "https://www.theinformation.com/briefings/indonesia-blocks-grok-sexual-imagery?unlock=ef73c4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/indonesia-blocks-grok-sexual-imagery?unlock=ef73c4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16564,
+            "guid": "aef9bd",
+            "headline": "Andreessen Horowitz’s Crypto Funds Keep Outperforming Its Other Funds",
+            "dek": "The performance preceded a fall sell-off in crypto prices. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Andreessen Horowitz’s crypto funds have continued to produce better returns and distribute more cash than the firm’s general venture funds, according to new returns data published Friday.</p>\n\n<p>The firm’s second crypto fund, a $541 million vehicle raised in 2020, had a total value to paid-in capital of 4.1 times as of September 2025 and distributed 1.8 times its paid-in capital to investors, according to an edition of Paddy McCormick’s “Not Boring” newsletter published the day the VC firm revealed <a href=\"https://www.theinformation.com/briefings/andreessen-horowitz-raises-15-billion?rc=zjctrx\">it had raised $15 billion</a> in new funds. That 2020 fund’s performance improved on its performance from the year earlier, according to returns previously reported by <a href=\"https://www.theinformation.com/articles/andreessen-horowitzs-investment-returns-show-strength-crypto?rc=zjctrx\">The Information</a>.</p>\n\n<p>The 2020 crypto fund also performed twice as well by those measures as its flagship $1.4 billion venture fund launched the same year. The VC fund’s total value to invested capital was 1.7 and it distributed no cash to investors, the newsletter said.</p>\n\n<p>Andreessen’s crypto funds benefited from the rally in Solana and other crypto tokens, though their prices have fallen sharply since September.</p>\n\n<p>The firm’s third crypto fund, a $2.4 billion vehicle raised in 2021, had a total value of 1.5 times paid in capital and had distributed 0.2 times its capital, the newsletter said. By both measures, the crypto fund bested the late-stage general fund Andreessen raised the same year, which had a total value of 1.2 times its invested capital and hadn’t returned any cash.</p>\n\n<p>Its largest fund to date, a $5.1 billion late-stage fund raised in 2022, was worth 1.4 times its invested capital and had returned 0.1 of its invested money. That performance was enough to put it in the first quartile for all VC funds of that vintage, according to PitchBook benchmarks from the second quarter.</p>\n\n<p>Reflecting a still-sluggish IPO market, all but three of the firm’s 17 funds raised since 2020 hadn’t returned any cash to investors.</p>",
+            "published_at": "2026-01-09T23:46:00.355Z",
+            "url": "https://www.theinformation.com/briefings/andreessen-horowitzs-crypto-funds-keep-outperforming-funds?unlock=aef9bd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/andreessen-horowitzs-crypto-funds-keep-outperforming-funds?unlock=aef9bd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16563,
+            "guid": "12d2b2",
+            "headline": "OpenAI, SoftBank Invest $1 Billion in Data Center Developer",
+            "dek": "SB Energy is working on a Stargate site in Milam County, Texas, leased to OpenAI that could consume 1.2 gigawatts of energy.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI and SoftBank will each invest $500 million in SB Energy, a SoftBank-backed data center developer that’s building a site for the Stargate project.</p>\n\n<p>As part of the investment, the companies have agreed to work together on data centers using designs developed by OpenAI, according to a Friday statement. SB Energy is working on a Stargate site in Milam County, Texas, leased to OpenAI that could consume 1.2 gigawatts of energy.</p>\n\n<p>Ares Management, an existing investor in SB Energy, also purchased $800 million of redeemable preferred equity in the company last year. SB Energy recently bought Studio 151, a construction management firm with experience working on data centers, it said Friday.</p>\n\n<p>SoftBank&nbsp;<a href=\"https://www.theinformation.com/articles/softbank-invest-3-billion-factory-openai-data-centers\">plans to invest</a> up to $3 billion to remodel an electric vehicle plant at an Ohio-based Stargate&nbsp;site that will produce equipment for OpenAI data centers, The Information reported.</p>",
+            "published_at": "2026-01-09T23:13:56.382Z",
+            "url": "https://www.theinformation.com/briefings/openai-softbank-invest-1-billion-data-center-developer?unlock=12d2b2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-softbank-invest-1-billion-data-center-developer?unlock=12d2b2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16562,
+            "guid": "b5c601",
+            "headline": "Nvidia Taps Google Veteran as Its First Chief Marketing Officer",
+            "dek": "The hiring comes as Nvidia faces more competition from its own customers, many of whom are hyperscalers building their own AI chips to offer as an alternative.",
+            "source_url": "https://www.linkedin.com/posts/alisonwagonfeld_sharing-some-personal-news-after-nearly-activity-7415073758190944256-SUVX",
+            "source_label": "The Information",
+            "body": "<p>Nvidia is hiring its first chief marketing officer who will report directly to CEO Jensen Huang, an Nvidia spokesperson said.</p>\n\n<p>Alison Wagonfeld, who previously headed marketing at Google Cloud, <a href=\"https://www.linkedin.com/posts/alisonwagonfeld_sharing-some-personal-news-after-nearly-activity-7415073758190944256-SUVX\">announced</a> the move on Thursday on LinkedIn. Wagonfeld spent nearly a decade at Google and will join Huang’s leadership team to spearhead marketing and communications, she wrote. The spokesperson said she would begin in February.</p>\n\n<p>The hiring comes as Nvidia faces more competition from its own customers, many of whom are hyperscalers building their own AI chips to offer as a cheaper alternative to Nvidia’s products.</p>\n\n<p>Google, in particular, has been a significant <a href=\"https://www.theinformation.com/articles/googles-ai-chips-stack-nvidias\">competitor</a>, offering its tensor processing units for AI development to customers. This past year, it has signed deals to sell or lease its chips so they can run in any company’s data center, not just in Google Cloud, The Information previously <a href=\"https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push\">reported</a>.</p>",
+            "published_at": "2026-01-09T21:43:19.534Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-taps-google-veteran-first-chief-marketing-officer?unlock=b5c601&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-taps-google-veteran-first-chief-marketing-officer?unlock=b5c601&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16184,
+                    "guid": "741c30078d",
+                    "title": "How Google’s AI Chips Stack Up to Nvidia’s",
+                    "url": "https://www.theinformation.com/articles/googles-ai-chips-stack-nvidias?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16561,
+            "guid": "b2deed",
+            "headline": "Apple Keeps Board Leadership Intact As Succession Chatter Grows",
+            "dek": "Apple renominates Art Levinson for board chair",
+            "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0000320193/000130817926000008/aapl014016-def14a.htm",
+            "source_label": "The Information",
+            "body": "<p>If Apple Chief Executive Tim Cook is retiring anytime soon, the company didn’t provide any hints that such an event is imminent in its most recent proxy filing, released Thursday.</p>\n\n<p>In the filing, the company said the composition of its board of directors will remain unchanged for the next year. Previously, there was a possibility that longtime chairman Art Levinson would step down now that he’s 75. Apple has a policy that directors can’t stand for reelection after age 75. But Apple said in its filing that it will make an exception for Levinson, whom it is renominating as board chair, just as it has for board member Ron Sugar, who is 77.</p>\n\n<p>“In making this determination, the Board considered several factors, including the significant experience and expertise that each of Dr. Levinson and Dr. Sugar brings to the Board, their deep insight into the Company’s business and operations, and their individual contributions as highly engaged members of the Board,” the filing read.</p>\n\n<p>Cook’s future at the company and Apple’s succession planning for him has been the source of frequent reporting over the past several months, including <a href=\"https://www.theinformation.com/articles/silicon-valley-buzzing-apple-ceo-succession?rc=ndc4g0\">in The Information</a>.</p>\n\n<p>Cook’s air travel expenses amounted to $789,991 in 2025, up from $655,883 in 2024, but down from $1,621,468 in 2023. Cook’s compensation in 2025 was $74.3 million, down slightly from the $74.6 million he received in 2024, and up from $63.2 million in 2023.</p>",
+            "published_at": "2026-01-09T19:25:46.571Z",
+            "url": "https://www.theinformation.com/briefings/apple-keeps-board-leadership-intact-succession-chatter-grows?unlock=b2deed&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-keeps-board-leadership-intact-succession-chatter-grows?unlock=b2deed&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16206,
+                    "guid": "58ce35e176",
+                    "title": "Why Silicon Valley is Buzzing About Apple CEO Succession",
+                    "url": "https://www.theinformation.com/articles/silicon-valley-buzzing-apple-ceo-succession?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16560,
+            "guid": "0f8b4c",
+            "headline": "Amazon Plans Big-Box Retail Store",
+            "dek": "The e-commerce giant has recently been trying out more kinds of bricks-and-mortar outposts.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon has started laying the groundwork to open a big-box retail store in the Chicago suburbs, according to planning documents. That marks a return to similar <a href=\"https://www.theinformation.com/articles/how-amazons-bricks-and-mortar-dreams-hit-a-wall?rc=d8mrkd\">plans for a Target-like store that Amazon shelved</a> a few years ago. In recent weeks, Amazon has sought approval from the village of Orland Park, Ill., to construct a 225,000-square foot retail building that could be used for both in-store shopping and fulfillment of online orders. “The proposed development will offer a wide selection of products, including groceries and general merchandise, with accessory services and potentially dining locations for prepared food sold onsite,” Amazon wrote in a filing describing the development.</p>\n\n<p>Shoppers will also be able to receive deliveries from the site, which will have reserved space for delivery drivers to pick up orders, the filing said. “We regularly test new experiences designed to make customers’ lives better and easier every day, including physical stores,” an Amazon spokesperson said in a statement. “The site in question is our planned location for a new concept that we think customers will be excited about.”</p>\n\n<p>Amazon has recently started trying out more types of bricks-and-mortar outposts, a reversal after shuttering its bookstores and many of its high-tech <a href=\"https://www.theinformation.com/articles/amazon-learns-tech-isnt-everything-in-retail-stores?rc=d8mrkd\">Amazon Go convenience stores</a> over the past few years. In 2025, the e-commerce giant pushed aggressively to grow its grocery business, adding smaller Whole Foods Market stores and adding <a href=\"https://www.theinformation.com/articles/amazon-plans-new-u-s-ultrafast-delivery-offering?rc=d8mrkd\">30-minute delivery</a> for “everyday essentials.” The big-box store plans still need full approval from Orland Park’s municipal government, according to a <a href=\"https://patch.com/illinois/orlandpark/amazon-development-proposal-clears-orland-park-plan-commission-advances-next\">local news site</a>, and Amazon hasn’t detailed a timeline for when the store could open to shoppers.</p>",
+            "published_at": "2026-01-09T18:46:54.943Z",
+            "url": "https://www.theinformation.com/briefings/amazon-plans-big-box-retail-store?unlock=0f8b4c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-plans-big-box-retail-store?unlock=0f8b4c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16179,
+                    "guid": "f5ee8bd98b",
+                    "title": "Amazon Tests Ultrafast Delivery Offering",
+                    "url": "https://www.theinformation.com/articles/amazon-plans-new-u-s-ultrafast-delivery-offering?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 9721,
+                    "guid": "6143122fd1",
+                    "title": "How Amazon’s Bricks-and-Mortar Dreams Hit a Wall",
+                    "url": "https://www.theinformation.com/articles/how-amazons-bricks-and-mortar-dreams-hit-a-wall?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16559,
+            "guid": "d4c264",
+            "headline": "Andreessen Horowitz Raises $15 Billion ",
+            "dek": "It represents Andreessen Horowitz's biggest fundraising ever. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Andreessen Horowitz has raised over $15 billion across five new funds, its biggest fundraising ever.</p>\n\n<p>The venture capital firm raised $6.75 billion for its growth fund, which invests in more mature startups and $1.12 billion for American Dynamism, its fund focusing on defense, manufacturing and supply chain. The firm’s funds targeting AI applications and infrastructure each raised $1.7 billion. The remainder of the investments went to the firm’s biotech and healthcare fund and other venture capital strategies.</p>\n\n<p>This new fundraising topped the $9 billion raised in 2022 during the low-interest rate period. In a blog post, co-founder Ben Horowitz said the firm aims to ensure that “America wins the next 100 years of technology.”</p>",
+            "published_at": "2026-01-09T15:09:04.744Z",
+            "url": "https://www.theinformation.com/briefings/andreessen-horowitz-raises-15-billion?unlock=d4c264&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/andreessen-horowitz-raises-15-billion?unlock=d4c264&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16558,
+            "guid": "57e9b5",
+            "headline": "Musk’s xAI Burned Through $7.8 Billion in Cash in First Nine Months of 2025",
+            "dek": "Like other AI developers, xAI is burning cash as it races to dominate the AI model market.",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-09/musk-s-xai-reports-higher-quarterly-loss-plans-to-power-optimus?srnd=undefined&sref=qvN0c6kf",
+            "source_label": "Bloomberg",
+            "body": "<p>Elon Musk’s xAI burned through $7.8 billion in cash in the first nine months of 2025, Bloomberg reported Thursday evening, reflecting the high costs of AI development. XAI is responsible for the Grok AI models and chatbot.</p>\n\n<p>The Bloomberg report said xAI had reported a net loss of $1.46 billion in the September quarter, compared with $1 billion in the first quarter. XAI’s financial details are not publicly disclosed because the company is public, and the report gives the clearest window yet into xAI’s financial condition. The company said this week it had raised $20 billion in a new funding round.</p>\n\n<p>XAI’s revenue is lagging projections. Bloomberg reported the company had $200 million in revenue through September, compared with its projetion of $500 million for the year.</p>",
+            "published_at": "2026-01-09T14:24:59.603Z",
+            "url": "https://www.theinformation.com/briefings/musks-xai-burned-7-8-billion-cash-first-nine-months-2025?unlock=57e9b5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musks-xai-burned-7-8-billion-cash-first-nine-months-2025?unlock=57e9b5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16557,
+            "guid": "0680e4",
+            "headline": "Meta Agrees to Nuclear Deals to Power Its Data Centers",
+            "dek": "Meta will purchase electricity from nuclear power plants operated by Vistra Corp, Oklo and TerraPower",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms announced on Friday that it had agreed to a series of nuclear power deals for its data centers, making it one of the biggest corporate buyers of nuclear energy in the U.S.</p>\n\n<p>Meta will purchase electricity from three existing Vistra Corp plants as well as reactors from Sam Altman-backed Oklo and Bill Gates-backed TerraPower. The deals total 6.6 gigawatts, and will create thousands of construction jobs and hundreds of long-term operational jobs by 2035, according to Meta.</p>",
+            "published_at": "2026-01-09T11:52:43.108Z",
+            "url": "https://www.theinformation.com/briefings/meta-agrees-nuclear-deals-power-data-centers?unlock=0680e4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-agrees-nuclear-deals-power-data-centers?unlock=0680e4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16556,
+            "guid": "0334e2",
+            "headline": "Microsoft Adds Checkout Features to Copilot",
+            "dek": "The feature will use standards developed by OpenAI and Stripe to establish rules for AI purchases.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft is adding a buy button to its Copilot chatbot, the company said Thursday, making it the latest AI app to allow users to make purchases without leaving the chatbot window. The company said that shoppers will be able to purchase from retailers including Urban Outfitters and Etsy.</p>\n\n<p>Shopify merchants will automatically be enrolled in the feature following an opt-out window, Microsoft said. Merchants wanting to enroll via PayPal or Stripe can apply for access, which Microsoft said it will provide on a rolling basis. To help Copilot complete transactions and communicate with merchants, the feature will use the Agentic Commerce Protocol, a standard developed by OpenAI and Stripe to establish rules for how AI apps, merchants and payments firms communicate and complete transactions.</p>\n\n<p>Other AI-powered commerce features like OpenAI’s Instant Checkout have been rolling out slowly, The Information <a href=\"https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?rc=d8mrkd\">reported</a>, in part due to the need to work hands-on with merchants on structuring and sharing accurate product data. OpenAI said it is trying to learn from early uses and incorporate feedback from merchants and payments firms.</p>",
+            "published_at": "2026-01-08T19:22:41.680Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-adds-checkout-features-copilot?unlock=0334e2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-adds-checkout-features-copilot?unlock=0334e2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16373,
+                    "guid": "1f1a7c219d",
+                    "title": "OpenAI’s Shopping Ambitions Hit Messy Data Reality",
+                    "url": "https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16555,
+            "guid": "3a5d66",
+            "headline": "Snowflake Agrees to Acquire App Monitoring Startup Observe Inc.",
+            "dek": "The deal allows Snowflake to better compete with Datadog and Cisco’s Splunk",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Snowflake announced Thursday that it agreed to acquire app monitoring startup Observe Inc. The Information <a href=\"https://www.theinformation.com/articles/snowflake-talks-buy-app-monitoring-startup-observe-inc-around-1-billion\">earlier reported</a> that the two companies were in talks about a possible deal.</p>\n\n<p>Terms of the transaction weren’t disclosed. The Information previously reported that Snowflake would pay around $1 billion for the startup, which would be Snowflake’s biggest deal in its history. Observe has raised more than $470 million from investors including Sutter Hill Ventures and Madrona Ventures, and was valued at $848 million including the money, according to PitchBook.</p>\n\n<p>Founded in 2018, Observe sells so-called observability tools that help developers to understand how their applications are performing and allows them to spot disruptions and outages. Acquiring Observe would bring Snowflake into closer competition with software firms Datadog and Cisco’s Splunk.</p>",
+            "published_at": "2026-01-08T18:19:09.563Z",
+            "url": "https://www.theinformation.com/briefings/snowflake-agrees-acquire-app-monitoring-startup-observe-inc?unlock=3a5d66&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snowflake-agrees-acquire-app-monitoring-startup-observe-inc?unlock=3a5d66&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16302,
+                    "guid": "7b01df4980",
+                    "title": "Snowflake in Talks to Buy App Monitoring Startup Observe Inc. For Around $1 Billion",
+                    "url": "https://www.theinformation.com/articles/snowflake-talks-buy-app-monitoring-startup-observe-inc-around-1-billion?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16554,
+            "guid": "16bd74",
+            "headline": "Nvidia Faces Hurdle to sell H200 in China, Requires Strict Payment Terms ",
+            "dek": "The Chinese government tells companies to hold off any plans to purchase the H200 AI chips",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Chinese government has in recent days told companies to temporarily halt plans to buy Nvidia’s H200 AI chips, throwing up a possible roadblock in Nvidia’s hopes of restarting chip sales to one of its biggest markets, The Information reported on Wednesday.</p>\n\n<p>The instruction came roughly a month after President Donald Trump said he would allow Nvidia to sell H200s to China, marking the biggest rollback of Biden-era export restrictions. At the time, the reaction of the Chinese government was uncertain, as Beijing had been pushing local companies to buy locally made chips as a way of supporting the Chinese chip industry.</p>\n\n<p>Separately, Reuters <a href=\"https://www.reuters.com/world/china/nvidia-requires-full-upfront-payment-h200-chips-china-sources-say-2026-01-08/\">reported</a> on Thursday that Nvidia is imposing unusually strict payment terms on Chinese customers seeking to buy the H200. The chip giant is requiring full upfront payment and offers no options for cancellation or refund once orders are placed, according to the report, citing two people briefed on the matter.</p>\n\n<p>Nvidia usually requires advance payment such as deposits from Chinese customers, and the extra stringency for the payment of the H200 orders is due to the lack of clarity on whether the Chinese government would approve purchases of the chips, Reuters reported.</p>",
+            "published_at": "2026-01-08T08:41:17.352Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-faces-hurdle-sell-h200-china-requires-strict-payment-terms?unlock=16bd74&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-faces-hurdle-sell-h200-china-requires-strict-payment-terms?unlock=16bd74&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16228,
+                    "guid": "b118912c14",
+                    "title": "China Weighs Nvidia Chip Purchase in Emergency Meetings With Tech Companies",
+                    "url": "https://www.theinformation.com/articles/china-weighs-nvidia-chip-purchase-emergency-meetings-tech-companies?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16553,
+            "guid": "e40535",
+            "headline": "Microsoft Data Center Construction Executive Departs  ",
+            "dek": "Weitzel led the engineering, procurement and construction group under Microsoft’s cloud operations chief Noelle Walsh.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft executive Jennifer Weitzel, who oversaw the firm’s development of data centers for AI, left the company less than a year after starting her second stint at the company, according to someone with knowledge of the departure and her LinkedIn profile.</p>\n\n<p>Weitzel led the engineering, procurement and construction group under Microsoft’s cloud operations chief Noelle Walsh. Weitzel joined Microsoft at a time when it was under immense pressure to set up servers for OpenAI, its biggest cloud customer.</p>\n\n<p>Microsoft in recent years has faced construction delays involving some of OpenAI’s data centers, causing frustration between the two companies. OpenAI CEO Sam Altman in the past <a href=\"https://www.theinformation.com/articles/microsoft-let-openai-play-field\">pressed Walsh</a> on why her team couldn’t move faster.</p>\n\n<p>These issues contributed to OpenAI’s decision, eventually supported by Microsoft, to strike deals with other cloud providers instead of exclusively working with Microsoft. A spokesperson for Microsoft declined to comment on Weitzel’s departure. Weitzel did not respond to a request for comment.</p>\n\n<p>Weitzel previously worked at Microsoft from 2016 to 2022, focusing on data center leases, mergers and acquisitions.</p>",
+            "published_at": "2026-01-07T23:13:32.891Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-data-center-construction-executive-departs?unlock=e40535&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-data-center-construction-executive-departs?unlock=e40535&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15908,
+                    "guid": "de175bfe66",
+                    "title": "Why Microsoft Let OpenAI Play the Field",
+                    "url": "https://www.theinformation.com/articles/microsoft-let-openai-play-field?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16552,
+            "guid": "2406e5",
+            "headline": "Google Passes Apple to Become Second Most Valuable Company",
+            "dek": "Google shares have been on the upswing for the past five months, thanks to the conclusion of its antitrust challenges and gains in AI.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google’s parent Alphabet on Wednesday passed Apple in market capitalization to become the second most valuable company in the world, worth $3.885 trillion, compared to Apple’s value of $3.846 trillion. Nvidia, worth $4.595 trillion, is far and away the most valuable firm.</p>\n\n<p>Google shares have been on the upswing since the end of the summer, when a federal judge issued relatively light penalties over his earlier finding that Google had an illegal monopoly in the search business. Signs that Google had caught up to OpenAI on the AI front has further reinforced investor optimism. Google shares rose 65% in 2025, making it the best performer among the big tech stocks, and are up 2.9% so far this year.</p>\n\n<p>Shares of Apple, in contrast, rose only 8.6% last year and have fallen 4% so far this year.</p>",
+            "published_at": "2026-01-07T22:44:51.300Z",
+            "url": "https://www.theinformation.com/briefings/google-passes-apple-become-second-valuable-company?unlock=2406e5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-passes-apple-become-second-valuable-company?unlock=2406e5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16551,
+            "guid": "05823a",
+            "headline": "Musk Lawsuit Against OpenAI Headed to Trial",
+            "dek": "Microsoft will likely remain in the case.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Several of Elon Musk’s legal claims against OpenAI will go to a jury trial, the judge overseeing the lawsuit said in a federal courtroom in Oakland, Calif. on Wednesday. The trial is scheduled for the spring.</p>\n\n<p>Lawyers for OpenAI had asked the court to dismiss the claims on legal grounds, but Judge Yvonne Gonzalez Rogers found that the claims rested on disputes about the facts of the case that a jury should decide. Among the claims, Musk alleges that OpenAI committed fraud and violated its charitable duties by operating as a for-profit corporation after he co-founded the lab as a non-profit.</p>\n\n<p>Judge Rogers dismissed one of Musk’s arguments against Microsoft, but said she is “inclined” to allow Musk’s argument that Microsoft aided and abetted OpenAI’s breach of fiduciary duty to proceed to trial as well.</p>\n\n<p>“This case is going to trial,” Rogers said.</p>",
+            "published_at": "2026-01-07T22:34:00.240Z",
+            "url": "https://www.theinformation.com/briefings/musk-lawsuit-openai-headed-trial?unlock=05823a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-lawsuit-openai-headed-trial?unlock=05823a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16550,
+            "guid": "4d0599",
+            "headline": "Character.AI, Google Agree to Settle Lawsuits over Teen Suicides",
+            "dek": "The families alleged that Character’s chatbots contributed to their children killing or harming themselves. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The chatbot startup Character.AI and Google have reached agreements to settle multiple lawsuits brought by families who alleged that Character’s chatbots contributed to their children killing or harming themselves, according to court papers filed this week.</p>\n\n<p>In the highest profile case, Megan Garcia sued Character after her 14-year-old son, Sewell Setzer III, died by suicide after spending months talking to a Character chatbot modeled after a Game of Thrones character. According to the complaint, the chatbot asked Setzer whether he had a plan for committing suicide, and told Setzer that his worry about dying a painful death was “not a good reason to not go through with it.”</p>\n\n<p>Details of the settlements this week were not made public. A Character spokesperson declined to comment. A Google spokesperson did not immediately have a comment. A lawyer representing some&nbsp;of the families involved in the cases&nbsp;declined to comment.</p>\n\n<p>Character was founded by former star Google researchers Noam Shazeer and Daniel De Freitas. In 2024, Google signed a $2.7 billion deal to rehire both cofounders, hire other Character employees and license Character’s technology, although Character.AI remained a separate company. Shazeer and De Freitas were also named defendants in the lawsuits and are part of the settlements.</p>",
+            "published_at": "2026-01-07T22:14:55.053Z",
+            "url": "https://www.theinformation.com/briefings/character-ai-google-agree-settle-lawsuits-teen-suicides?unlock=4d0599&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/character-ai-google-agree-settle-lawsuits-teen-suicides?unlock=4d0599&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16549,
+            "guid": "0b89a8",
+            "headline": "Trump-backed World Liberty Applies For Bank Charter",
+            "dek": "World Liberty Financial has applied to the federal government for a national trust bank charter.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump family-founded crypto venture World Liberty Financial has applied to the federal government for a national trust bank charter, the company said in a <a href=\"https://www.businesswire.com/news/home/20260107876750/en/World-Liberty-Financial-Announces-that-WLTC-Holdings-LLC-has-Submitted-an-Application-for-a-National-Trust-Bank-Charter-to-Issue-and-Custody-USD1-Stablecoins\">statement</a>.</p>\n\n<p>The easing regulatory landscape for crypto firms ushered in by the second Trump administration has spurred a number of crypto-friendly banks to seek approval for bank charters.</p>\n\n<p>World Liberty said the proposed national trust bank would be focused on stablecoins and offer services to institutional clients, investment firms and exchanges. World Liberty issues its own cryptocurrency tied to the U.S. dollar. Zach Witkoff, the son of President Donald Trump’s Middle East and Russian envoy Steve Witkoff, is slated to be chairman of the proposed trust company.</p>",
+            "published_at": "2026-01-07T22:09:14.528Z",
+            "url": "https://www.theinformation.com/briefings/trump-backed-world-liberty-applies-bank-charter?unlock=0b89a8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-backed-world-liberty-applies-bank-charter?unlock=0b89a8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16548,
+            "guid": "a3f950",
+            "headline": "JPMorgan To Acquire Apple’s Credit Card Program ",
+            "dek": "JPMorgan has struck a deal to replace Goldman Sachs as the provider of Apple’s credit card program.",
+            "source_url": "",
+            "source_label": "Wall Street Journal",
+            "body": "<p>JPMorgan has struck a deal to replace Goldman Sachs as the provider of Apple’s credit card program, The Wall Street Journal <a href=\"https://www.wsj.com/finance/banking/jpmorgan-chase-reaches-a-deal-to-take-over-the-apple-credit-card-4e214fb2\">reported</a>.</p>\n\n<p>The largest U.S. bank will take over about $20 billion in customer balances from Goldman at a slight discount, which is rare for branded credit card programs, the report said. JPMorgan last year emerged as Apple’s preferred choice to take over the program following extended negotiations with the bank and other potential acquirers, including Capital One and American Express.</p>\n\n<p>The Apple partnership represented one prong of Goldman Sach’s ill-fated expansion into retail consumer banking. Goldman Sachs was fined in 2024 by the Consumer Financial Protection Bureau for mishandling the program.</p>",
+            "published_at": "2026-01-07T22:00:58.332Z",
+            "url": "https://www.theinformation.com/briefings/jpmorgan-acquire-apples-credit-card-program?unlock=a3f950&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/jpmorgan-acquire-apples-credit-card-program?unlock=a3f950&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        }
+    ]
+}
