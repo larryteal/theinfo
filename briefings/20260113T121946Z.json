@@ -1,0 +1,674 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16580,
+            "guid": "590349",
+            "headline": "TSMC to Significantly Expand Chipmaking Investments in the U.S.",
+            "dek": "The investments are part of trade negotiations between the U.S. and Taiwan",
+            "source_url": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
+            "source_label": "The New York Times",
+            "body": "<p>The Trump administration is close to reaching a trade deal with Taiwan that involves significantly more investments from the island’s largest company, Taiwan Semiconductor Manufacturing Company, according to The New York Times, citing people familiar with the matter.</p>\n\n<p>The potential deal will cut U.S. tariffs on Taiwanese imports to 15% and require TSMC to build at least five more chip fabrication facilities in Arizona, doubling the number of plants the company has previously committed to in the state.</p>\n\n<p>TSMC, which produces 90% of the world’s advanced chips, announced in March that it would invest $100 billion to build three new chip-making plants, in addition to three facilities planned previously. President Donald Trump hailed the deal as the largest foreign direct investment in U.S. history.</p>",
+            "published_at": "2026-01-13T10:59:29.374Z",
+            "url": "https://www.theinformation.com/briefings/tsmc-significantly-expand-chipmaking-investments-u-s?unlock=590349&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tsmc-significantly-expand-chipmaking-investments-u-s?unlock=590349&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16579,
+            "guid": "a23600",
+            "headline": "House Passes Bill to Limit China’s Remote Access to U.S. Chips",
+            "dek": "The bill could close the loophole in existing export controls where Chinese companies can access advanced chips via overseas data centers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The House of Representatives on Monday <a href=\"https://chinaselectcommittee.house.gov/media/press-releases/house-passes-bipartisan-legislation-to-limit-adversaries-remote-access-to-critical-technology\">passed</a> a bipartisan bill that expands U.S. export controls to restrict Chinese companies’ ability to remotely access advanced American AI chips at data centers outside China.</p>\n\n<p>The bill, the Remote Access Security Act, is the latest step in Washington’s effort to limit China’s use of critical U.S. technologies due to national security concerns. It is aimed at regulating Chinese companies that use cloud computing services to rent servers equipped with Nvidia’s AI chips at data centers located in Southeast Asia or other regions outside China.</p>\n\n<p>Such offshore arrangements have become common among Chinese companies as a way to get around U.S. export controls that ban the sale of advanced U.S. chips to China, <a href=\"https://www.theinformation.com/articles/google-microsoft-help-chinese-firms-skirt-ban-on-nvidia-chips?rc=jnr9wn\">The Information reported</a> previously. The demand from Chinese companies has helped accelerate the construction of more AI data centers in Southeast Asia. If the bill passes the Senate and becomes law, it could have a big impact on existing cloud server deals involving Chinese companies.</p>\n\n<p>“This bill brings our laws into the digital age and makes it clear that cloud compute is subject to U.S. export control law, just like physical chips. Closing these loopholes will strengthen U.S. national security and protect American innovation,” said John Moolenaar, chairman of the U.S. House Select Committee on China.</p>",
+            "published_at": "2026-01-13T04:19:51.088Z",
+            "url": "https://www.theinformation.com/briefings/house-passes-bill-limit-chinas-remote-access-u-s-chips?unlock=a23600&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/house-passes-bill-limit-chinas-remote-access-u-s-chips?unlock=a23600&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 13384,
+                    "guid": "86a41555af",
+                    "title": "Nvidia AI Chip Smuggling to China Becomes an Industry",
+                    "url": "https://www.theinformation.com/articles/nvidia-ai-chip-smuggling-to-china-becomes-an-industry?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 13232,
+                    "guid": "0371d7bc5f",
+                    "title": "Google, Microsoft Help Chinese Firms Skirt Ban on Nvidia Chips",
+                    "url": "https://www.theinformation.com/articles/google-microsoft-help-chinese-firms-skirt-ban-on-nvidia-chips?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16578,
+            "guid": "a5d1fa",
+            "headline": "Trump Signals White House Working With Microsoft, Others on Electricity Costs ",
+            "dek": "He said Americans should not “pick up the tab” for the electricity consumed by data centers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump said in a Truth Social post on Monday that his administration is working with technology companies, including Microsoft, to prevent data centers from driving up household electricity bills.</p>\n\n<p>Trump blamed rising utility costs on former President Joe Biden and said Americans should not “pay higher Electricity bills because of data centers.”</p>\n\n<p>“First up is Microsoft, who my team has been working with, and which will make major changes beginning this week to ensure that Americans don’t ‘pick up the tab’ for their power consumption, in the form of paying higher utility bills,” he wrote. He added that there will be more announcements in the coming weeks.</p>\n\n<p>Microsoft&nbsp;is expected to make an announcement on Tuesday related to Trump’s comments.</p>",
+            "published_at": "2026-01-13T02:12:38.716Z",
+            "url": "https://www.theinformation.com/briefings/trump-signals-white-house-working-microsoft-others-electricity-costs?unlock=a5d1fa&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-signals-white-house-working-microsoft-others-electricity-costs?unlock=a5d1fa&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16577,
+            "guid": "a1656e",
+            "headline": "Anthropic’s Amodei: AI Could Make CRISPR-Level Advances ",
+            "dek": "Anthropic aims to use AI to solve problems in healthcare and the life sciences.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic CEO Dario Amodei on Monday laid out the startup’s vision for how AI could solve problems in healthcare and the life sciences, from speeding up drug approvals by streamlining clinical trial paperwork to treating or even eradicating tropical diseases.</p>\n\n<p>AI could play a “central role in multiple discoveries that are on the level of significance of [gene-editing] tech CRISPR,” he said at an event in San Francisco<strong>.</strong></p>\n\n<p>Anthropic held the event a day after announcing new features for its Claude chatbot and AI models that allow healthcare providers, patients and insurance companies to use its AI for medical tasks. These tasks could range from pulling information from large databases, such as those that determine medicare coverage, and prioritizing urgent issues from hundreds of patient messages.</p>\n\n<p>Amodei envisioned a future in which doctors and large language models work together&nbsp; “to both empower the patient and enable the doctor to get the most out of the LLM and learn from the LLM.” Still, he noted, AI is “not a replacement for a doctor,” but rather, “it’s a second opinion.”</p>\n\n<p>Amodei, chief product officer Mike Krieger and Anthropic’s head of biology and life sciences, Eric Kauderer-Abrams, made the presentation as competition with OpenAI intensifies. Last week, OpenAI unveiled new healthcare features for ChatGPT and on Monday agreed to buy healthcare startup Torch.</p>",
+            "published_at": "2026-01-13T02:11:08.147Z",
+            "url": "https://www.theinformation.com/briefings/anthropics-amodei-ai-make-crispr-level-advances?unlock=a1656e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropics-amodei-ai-make-crispr-level-advances?unlock=a1656e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16576,
+            "guid": "67311c",
+            "headline": "OpenAI to Buy Healthcare App Torch in $100 Million Deal",
+            "dek": "Employees from the startup are joining OpenAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has agreed&nbsp;to buy Torch, a one-year-old AI healthcare app, for about $100 million in equity, <a href=\"https://www.theinformation.com/articles/openai-agrees-buy-ai-healthcare-app-100-million?rc=zjctrx\">The Information reported Monday</a>.</p>\n\n<p>Torch enables customers to view and analyze their health data from health systems such as Kaiser Permanente, medical scanning firms like Prenuvo, and apps that track physical activities such as Apple Health. The deal value includes $60 million now and the rest in equity to retain employees, the report said. Four of the startup’s employees, including its CEO, plan to join OpenAI.</p>\n\n<p>OpenAI is&nbsp;planning&nbsp;to offer&nbsp;<a href=\"https://www.theinformation.com/articles/openai-preps-personal-health-features-chatgpt?rc=zjctrx\">a personalized healthcare assistant</a>&nbsp;in ChatGPT that analyzes medical records and advises customers on health issues.</p>",
+            "published_at": "2026-01-13T00:07:46.610Z",
+            "url": "https://www.theinformation.com/briefings/openai-buy-healthcare-app-torch-100-million?unlock=67311c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-buy-healthcare-app-torch-100-million?unlock=67311c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16390,
+                    "guid": "4cf458685e",
+                    "title": "OpenAI Agrees to Buy AI Healthcare App For About $100 Million",
+                    "url": "https://www.theinformation.com/articles/openai-agrees-buy-ai-healthcare-app-100-million?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16575,
+            "guid": "ef1edc",
+            "headline": "CoreWeave Hits First Data Center Milestone in Texas, Internal Message Shows",
+            "dek": "The site was the focus of the data center delay CoreWeave encountered late last year. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>CoreWeave hit its first chip delivery milestone at a data center in Denton, Texas, that it’s building for OpenAI, according to an internal Slack message from executives. Late last year, it warned investors that its fourth quarter revenue would take a hit because of delays with one of its data center providers.</p>\n\n<p>The delay in Denton became a high profile example of <a href=\"https://www.theinformation.com/articles/ai-data-centers-face-delays-blame-game-begins\">the growing “blame game”</a> among data center builders, as construction and deployment delays become more common across the AI infrastructure industry.</p>\n\n<p>“We’ve hit this milestone under an intense spotlight,” CoreWeave executives wrote in the Slack message. “The last several months tested us in ways few companies ever experience. There were setbacks from partners and factors outside our control.”</p>\n\n<p>CoreWeave told employees that it went from a <strong>“</strong>few racks delivered in mid-November” to more than 16,000 GPUs by the end of December. Leaders noted that there was a single day when it brought more than 2,000 GPUs online. The Slack message was from Chief Operating Officer Sachin Jain, Chief Technology Officer Peter Salanki and Senior Vice President of Engineering Chen Goldberg.</p>",
+            "published_at": "2026-01-12T23:35:36.576Z",
+            "url": "https://www.theinformation.com/briefings/coreweave-hits-first-data-center-milestone-texas-internal-message-shows?unlock=ef1edc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coreweave-hits-first-data-center-milestone-texas-internal-message-shows?unlock=ef1edc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16574,
+            "guid": "c755ec",
+            "headline": "Crypto Custodian BitGo Eyes Up to $1.96 Billion Valuation in IPO",
+            "dek": "BitGo is set up to be the first crypto IPO in 2026. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>BitGo, a crypto custody firm, <a href=\"https://www.businesswire.com/news/home/20260112528419/en/BitGo-Holdings-Announces-Launch-of-Initial-Public-Offering\">said</a> Monday it’s launching its initial public offering, seeking to raise as much as $201 million at a valuation of up to $1.96 billion. The company began pitching the shares to investors today, meaning they will likely start trading within the next two weeks.</p>\n\n<p>BitGo is set to be the first crypto IPO in 2026, after a government shutdown and crypto market crash late last year delayed the planned debuts of several crypto firms. Crypto exchange Kraken and crypto asset manager Grayscale have also filed to go public.</p>\n\n<p>BitGo is offering 11 million shares and existing shareholders are offering 821,595 shares, at an IPO price of between $15 to $17 per share, according to an amended filing.&nbsp;In 2023, BitGO raised funding at a $1.75 billion valuation. It reported net income of $35.3 million for the first nine months last year on $10 billion revenue during the period.</p>",
+            "published_at": "2026-01-12T22:20:06.218Z",
+            "url": "https://www.theinformation.com/briefings/crypto-custodian-bitgo-eyes-1-96-billion-valuation-ipo?unlock=c755ec&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/crypto-custodian-bitgo-eyes-1-96-billion-valuation-ipo?unlock=c755ec&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16573,
+            "guid": "a2631d",
+            "headline": "Meta Plans to Cut 10% of Reality Labs Employees, Report Says",
+            "dek": "The cuts signal that Meta CEO Mark Zuckerberg is curtailing Reality Labs' spending after years of steadily mounting losses. ",
+            "source_url": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
+            "source_label": "New York Times",
+            "body": "<p>Meta Platforms plans to cut about 10% of its Reality Labs employees, <a href=\"https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html\">the New York Times reported,</a> with the cuts coming as soon as Tuesday. The report follows a <a href=\"https://www.businessinsider.com/meta-cto-andrew-bosworth-reality-labs-all-hands-meeting-2026-1\">Business Insider report</a> late last week that said Reality Labs chief Andrew Bosworth had called an all-hands meeting for Tuesday, and stressed everyone should attend.</p>\n\n<p>Reality Labs has about 15,000 people, so a 10% cut would only amount to 1,500 people. Still, it would signal that Meta CEO Mark Zuckerberg is curtailing Reality Labs’ spending after years of steadily mounting losses. Reality Labs has lost $70 billion since 2021. The cuts come as Meta is massively ramping up its spending on AI.</p>",
+            "published_at": "2026-01-12T21:27:19.878Z",
+            "url": "https://www.theinformation.com/briefings/meta-plans-cut-10-reality-labs-employees-report-says?unlock=a2631d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-plans-cut-10-reality-labs-employees-report-says?unlock=a2631d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16572,
+            "guid": "7d9849",
+            "headline": "Paramount Plans Proxy Battle for WBD Board Seats",
+            "dek": "The Ellison family's Paramount isn't giving up its battle for control of Warner Bros. Discovery.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Ellison family’s Paramount Skydance plans to run a proxy battle to win seats on Warner Bros. Discovery’s board at this spring’s annual meeting, Paramount said on Monday, outlining its next steps in its fight to win the bidding war for WBD. Paramount said it also sued WBD in Delaware Chancery Court.</p>\n\n<p>Paramount has offered $30 a share in cash for WBD, but the entertainment company has rejected the offer in favor of a deal to sell its streaming operations an film studio to Netflix, while separating its cable channels into a separate company. Paramount said the window for nominating candidates for WBD’s board at the annual meeting opens in three weeks, and it plans to nominate a slate of candidates who would strike a deal to sell the company to Paramount.</p>\n\n<p>In its suit in Delaware, Paramount is asking the court to direct WBD to provide more information about the Netflix deal. As Paramount noted, WBD has not said how it values the standalone cable channel company, or how WBD’s debt will be allocated between the cable channel offshoot and the operations being sold to Netflix. WBD shareholders need the information, Paramount said, to be able to make an “informed investment decision” on its offer.</p>",
+            "published_at": "2026-01-12T20:29:18.816Z",
+            "url": "https://www.theinformation.com/briefings/paramount-plans-proxy-battle-wbd-board-seats?unlock=7d9849&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/paramount-plans-proxy-battle-wbd-board-seats?unlock=7d9849&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16571,
+            "guid": "fe82eb",
+            "headline": "Anthropic Announces Virtual Coworker Tool",
+            "dek": "Cowork is yet another example of Anthropic’s push into enterprises, the main customer for its Claude models.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic on Monday announced Cowork, a version of its popular Claude Code coding agent designed to handle non-coding tasks on a user’s device. The tool will initially be available for Claude Max subscribers, who pay $100 or $200 per month for the premium tier depending on usage.</p>\n\n<p>Through Cowork, users can give Anthropic’s Claude model a task to do—like creating a spreadsheet of expenses based on screenshots—and access to the relevant folders on their computers, which will allow the AI to read, edit or create files. Claude can also use other integrations, like “Claude in Chrome,” to complete browser-related tasks or to access information in external applications.</p>\n\n<p>Cowork is yet another example of Anthropic’s push into enterprises, the main customer for its Claude models. The release also comes after its developer-focused Claude Code tool has exploded in popularity in recent months.</p>",
+            "published_at": "2026-01-12T20:17:57.864Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-announces-virtual-coworker-tool?unlock=fe82eb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-announces-virtual-coworker-tool?unlock=fe82eb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16570,
+            "guid": "145588",
+            "headline": "Apple Partners with Google for Upcoming Siri Overhaul",
+            "dek": "Apple promises to maintain privacy",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple has struck a multi-year partnership with Alphabet-owned Google to help the iPhone maker get its artificial intelligence products back on track. Google’s Gemini will power the company’s Apple Intelligence features, including the delayed overhaul of Apple’s lagging Siri voice assistant.</p>\n\n<p>“After careful evaluation, Apple determined that Google’s Al technology provides the most capable foundation for Apple Foundation Models and is excited about the innovative new experiences it will unlock for Apple users,” an Apple spokesperson sent in a statement.</p>\n\n<p>Apple said that the Google partnership won’t violate the company’s existing privacy commitments. The AI will run either on device or through Apple-owned servers it calls Private Cloud Compute.</p>\n\n<p>Apple was evaluating its internal models and external versions from Google, OpenAI and Anthropic as part of its plan to bolster its AI strategy. Google has improved Gemini a considerable amount since the AI model’s initial release in late 2023, but the longstanding relationship between Apple and Google also likely helped. Google has been Apple’s default search engine provider since the early 2000s.</p>",
+            "published_at": "2026-01-12T19:02:10.374Z",
+            "url": "https://www.theinformation.com/briefings/apple-partners-google-upcoming-siri-overhaul?unlock=145588&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-partners-google-upcoming-siri-overhaul?unlock=145588&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15430,
+                    "guid": "ec9b467197",
+                    "title": "Why Apple Is Losing Ground in the AI Talent War (It’s Not Just Money)",
+                    "url": "https://www.theinformation.com/articles/apple-losing-ground-ai-talent-war-just-money?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 14835,
+                    "guid": "8ba3e6fbb3",
+                    "title": "How Apple Fumbled Siri’s AI Makeover",
+                    "url": "https://www.theinformation.com/articles/apple-fumbled-siris-ai-makeover?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16569,
+            "guid": "e959d3",
+            "headline": "Meta Forms New Initiative to Plan for Compute Needs",
+            "dek": "Meta Compute will be co-led by the Meta executives Santosh Janardhan and Daniel Gross",
+            "source_url": "https://www.facebook.com/zuck/posts/pfbid02ZL5513GnvhGVn1oYr9eqgohK2TpML2ZTQf9omg3HYtXCHCuCEPTwXWGWxp8LuWmil",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms CEO Mark Zuckerberg said the company has created a new “top-level” effort called Meta Compute to oversee the construction and long term planning for the company’s data center needs.</p>\n\n<p>In a <a href=\"https://www.facebook.com/zuck/posts/pfbid02ZL5513GnvhGVn1oYr9eqgohK2TpML2ZTQf9omg3HYtXCHCuCEPTwXWGWxp8LuWmil\">post on his Facebook account</a>, Zuckerberg said Meta Compute will be co-led by Santosh Janardhan, Meta’s head of global infrastructure, and Daniel Gross, a vice president of product. Janardhan will continue to oversee the design, building and operation of Meta’s fleet of global datacenters, while Gross will lead a new group responsible for capacity strategy, Zuckerberg wrote. The two executives will work closely with Dina Powell McCormick, who joined Meta on Monday as its president and vice chairman, he wrote.</p>\n\n<p>Meta is pouring billions of dollars into its AI efforts. Zuckerberg said the company plans to build tens of gigawatts of computing capacity this decade and hundreds of gigawatts or more over time.</p>",
+            "published_at": "2026-01-12T18:49:50.840Z",
+            "url": "https://www.theinformation.com/briefings/meta-forms-new-initiative-plan-compute-needs?unlock=e959d3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-forms-new-initiative-plan-compute-needs?unlock=e959d3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16568,
+            "guid": "3518fa",
+            "headline": "Meta Appoints Dina Powell McCormick as President and Vice Chair",
+            "dek": "The appointment installs an executive with long experience in both government and global finance to help the social media company as it spends heavily on AI development. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Meta Platforms appointed former Goldman Sachs banker and White House official Dina Powell McCormick as president and vice chairman, bringing in an executive with long experience in both government and global finance to help the social media company as it spends heavily on AI development.</p>\n\n<p>In a statement, Meta CEO Mark Zuckerberg said McCormick’s experience “makes her uniquely suited to help Meta manage this next phase of growth.” McCormick had joined the board of Meta last year but resigned just before Christmas. The company said in the statement that McCormick “will partner with the compute and infrastructure teams to ensure our multi-billion dollar investments executive against our goals.”</p>\n\n<p>McCormick was deputy national security advisor to President Trump in his first term and also worked in the administration of President George W. Bush. In a <a href=\"https://truthsocial.com/@realDonaldTrump/115882511750475574\">Truth Social post,</a> Trump lauded McCormick as “fantastic and very talented,” making clear she will help Meta’s relations with the White House. McCormick also spent 16 years at Goldman Sachs and most recently was vice chair and president of BDT &amp; MSD Partners.</p>",
+            "published_at": "2026-01-12T14:23:18.855Z",
+            "url": "https://www.theinformation.com/briefings/meta-appoints-dina-powell-mccormick-president-vice-chair?unlock=3518fa&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-appoints-dina-powell-mccormick-president-vice-chair?unlock=3518fa&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16567,
+            "guid": "075154",
+            "headline": "Anthropic Unveils New Healthcare Features for Claude",
+            "dek": "The move comes just days after OpenAI announced personal health features for ChatGPT. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic isn’t leaving the healthcare sector to OpenAI. The AI startup behind the Claude AI models on Monday <a href=\"https://www.anthropic.com/news/healthcare-life-sciences\">announced</a> Claude for Healthcare, a new set of tools and resources that healthcare providers, payers and consumers can use for medical purposes.</p>\n\n<p>For example, Anthropic is adding tools that allow Claude to pull information from industry-standard systems and databases, making it easier for healthcare providers and payers to find and understand relevant information.The company also said it would add new capabilities for life sciences so Claude can provide more support in areas such as clinical trial management.</p>\n\n<p>Anthropic’s latest push into healthcare comes just days after <a href=\"https://www.theinformation.com/articles/openai-preps-personal-health-features-chatgpt?rc=9byxri\">OpenAI announced</a> it was adding personal health features to ChatGPT. OpenAI has highlighted how consumers use ChatGPT for guidance on healthcare.</p>",
+            "published_at": "2026-01-11T22:39:02.618Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-follows-openai-healthcare?unlock=075154&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-follows-openai-healthcare?unlock=075154&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                },
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16566,
+            "guid": "cd274e",
+            "headline": "Google Unveils AI Shopping Tools for Gemini",
+            "dek": "Google's new AI shopping tools follows earlier efforts by OpenAI to make ChatGPT a place for people to buy things.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Google is adding the ability for users to shop directly within its Gemini chatbot and AI Mode search tool, the company said Sunday, making it the latest firm to add AI-powered commerce features. Shoppers will be able to make purchases on Gemini using Google Pay, as well as link loyalty accounts they have with merchants to their Google account. (PayPal <a href=\"https://newsroom.paypal-corp.com/2025-01-11-From-Search-to-Checkout-PayPal-Supports-Trusted-AI-Checkout-with-Google\">said</a> shoppers will soon also be able to use PayPal to check out on Gemini.)</p>\n\n<p>Retailers will be able to offer shoppers special discounts and recommend add-on products before they complete their purchases. Those features are some of the first advertisements that have been added to AI shopping tools—OpenAI has been discussing <a href=\"https://www.theinformation.com/articles/openais-ads-push-starts-taking-shape?rc=d8mrkd\">ways to show ChatGPT users sponsored information</a>, but has yet to launch any ad features.</p>\n\n<p>The feature is powered by what Google calls the Universal Commerce Protocol, an underlying standard the company developed with retailers including Shopify, Etsy, Wayfair, Target and Walmart. The protocol is similar to other standards like OpenAI’s <a href=\"https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?rc=d8mrkd\">Agentic Commerce Protocol</a>, which aims to standardize how AI apps, merchants and payments processors communicate with each other for purchases made by AI agents.</p>\n\n<p>Google’s efforts come as OpenAI has been ramping up its shopping efforts in partnership with Stripe and Shopify. Also on Sunday, Google&nbsp;announced&nbsp;new agentic software, to be used by retailers on their own websites, to allow&nbsp;shoppers to describe to an AI agent what they’re looking for, such as “a velvet sofa in emerald green that can withstand pet hair, but it needs to be under 90 inches.” The agent would filter for those factors and the shopper’s budget.</p>\n\n<p>Google’s announcement cited executives from Kroger, Lowe’s and Woolworths about their plans to use Google’s new agentic software. The new software also has a food ordering&nbsp;agent for restaurants, which Google said would be used by Papa John’s. Similarly, Google also launched branded chatbots that appear in Google search results to help users research and answer questions. Google said in the coming months, the branded chatbots will be able to promote related products to shoppers and allow them to purchase directly from the chatbot.</p>",
+            "published_at": "2026-01-11T16:59:09.399Z",
+            "url": "https://www.theinformation.com/briefings/google-unveils-shopping-agent-software?unlock=cd274e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-unveils-shopping-agent-software?unlock=cd274e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16565,
+            "guid": "ef73c4",
+            "headline": "Indonesia Blocks Grok Over Sexual Imagery",
+            "dek": "Earlier this week some Democratic senators called on Apple and Google to take Grok out of their app stores over the same issue.",
+            "source_url": "https://www.reuters.com/legal/litigation/indonesia-temporarily-blocks-access-grok-over-sexualised-images-2026-01-10/",
+            "source_label": "Reuters",
+            "body": "<p>Indonesia blocked xAI’s Grok chatbot, due to the risk of sexual “deepfakes” on the service, <a href=\"https://www.reuters.com/legal/litigation/indonesia-temporarily-blocks-access-grok-over-sexualised-images-2026-01-10/\">Reuters reported</a>, the latest sign of rising criticism of sexual imagery on the site.</p>\n\n<p>Earlier this week <a href=\"https://www.cnbc.com/2026/01/09/grok-app-should-be-suspended-from-apple-google-democratic-senators.html\">some Democratic senators called on</a> Apple and Google to take Grok out of their app stores over the same issue. Reports that people could use Grok to create sexualized images—and post them on xAI’s X social media site—have been increasing. Earlier this month Grok acknowledged “lapses in safeguards” and this week Grok restricted its image generation bot <a href=\"https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery\">to paying subscribers.</a></p>\n\n<p><a href=\"https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok\">The Information has reported</a>&nbsp;that some trust and safety staff at X have raised concerns about the way Grok has been integrated into the service, including the potential that people could use the tool to generate sexualized images of real people without their consent.</p>",
+            "published_at": "2026-01-10T16:29:57.168Z",
+            "url": "https://www.theinformation.com/briefings/indonesia-blocks-grok-sexual-imagery?unlock=ef73c4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/indonesia-blocks-grok-sexual-imagery?unlock=ef73c4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16564,
+            "guid": "aef9bd",
+            "headline": "Andreessen Horowitz’s Crypto Funds Keep Outperforming Its Other Funds",
+            "dek": "The performance preceded a fall sell-off in crypto prices. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Andreessen Horowitz’s crypto funds have continued to produce better returns and distribute more cash than the firm’s general venture funds, according to new returns data published Friday.</p>\n\n<p>The firm’s second crypto fund, a $541 million vehicle raised in 2020, had a total value to paid-in capital of 4.1 times as of September 2025 and distributed 1.8 times its paid-in capital to investors, according to an edition of Paddy McCormick’s “Not Boring” newsletter published the day the VC firm revealed <a href=\"https://www.theinformation.com/briefings/andreessen-horowitz-raises-15-billion?rc=zjctrx\">it had raised $15 billion</a> in new funds. That 2020 fund’s performance improved on its performance from the year earlier, according to returns previously reported by <a href=\"https://www.theinformation.com/articles/andreessen-horowitzs-investment-returns-show-strength-crypto?rc=zjctrx\">The Information</a>.</p>\n\n<p>The 2020 crypto fund also performed twice as well by those measures as its flagship $1.4 billion venture fund launched the same year. The VC fund’s total value to invested capital was 1.7 and it distributed no cash to investors, the newsletter said.</p>\n\n<p>Andreessen’s crypto funds benefited from the rally in Solana and other crypto tokens, though their prices have fallen sharply since September.</p>\n\n<p>The firm’s third crypto fund, a $2.4 billion vehicle raised in 2021, had a total value of 1.5 times paid in capital and had distributed 0.2 times its capital, the newsletter said. By both measures, the crypto fund bested the late-stage general fund Andreessen raised the same year, which had a total value of 1.2 times its invested capital and hadn’t returned any cash.</p>\n\n<p>Its largest fund to date, a $5.1 billion late-stage fund raised in 2022, was worth 1.4 times its invested capital and had returned 0.1 of its invested money. That performance was enough to put it in the first quartile for all VC funds of that vintage, according to PitchBook benchmarks from the second quarter.</p>\n\n<p>Reflecting a still-sluggish IPO market, all but three of the firm’s 17 funds raised since 2020 hadn’t returned any cash to investors.</p>",
+            "published_at": "2026-01-09T23:46:00.355Z",
+            "url": "https://www.theinformation.com/briefings/andreessen-horowitzs-crypto-funds-keep-outperforming-funds?unlock=aef9bd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/andreessen-horowitzs-crypto-funds-keep-outperforming-funds?unlock=aef9bd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16563,
+            "guid": "12d2b2",
+            "headline": "OpenAI, SoftBank Invest $1 Billion in Data Center Developer",
+            "dek": "SB Energy is working on a Stargate site in Milam County, Texas, leased to OpenAI that could consume 1.2 gigawatts of energy.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI and SoftBank will each invest $500 million in SB Energy, a SoftBank-backed data center developer that’s building a site for the Stargate project.</p>\n\n<p>As part of the investment, the companies have agreed to work together on data centers using designs developed by OpenAI, according to a Friday statement. SB Energy is working on a Stargate site in Milam County, Texas, leased to OpenAI that could consume 1.2 gigawatts of energy.</p>\n\n<p>Ares Management, an existing investor in SB Energy, also purchased $800 million of redeemable preferred equity in the company last year. SB Energy recently bought Studio 151, a construction management firm with experience working on data centers, it said Friday.</p>\n\n<p>SoftBank&nbsp;<a href=\"https://www.theinformation.com/articles/softbank-invest-3-billion-factory-openai-data-centers\">plans to invest</a> up to $3 billion to remodel an electric vehicle plant at an Ohio-based Stargate&nbsp;site that will produce equipment for OpenAI data centers, The Information reported.</p>",
+            "published_at": "2026-01-09T23:13:56.382Z",
+            "url": "https://www.theinformation.com/briefings/openai-softbank-invest-1-billion-data-center-developer?unlock=12d2b2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-softbank-invest-1-billion-data-center-developer?unlock=12d2b2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16562,
+            "guid": "b5c601",
+            "headline": "Nvidia Taps Google Veteran as Its First Chief Marketing Officer",
+            "dek": "The hiring comes as Nvidia faces more competition from its own customers, many of whom are hyperscalers building their own AI chips to offer as an alternative.",
+            "source_url": "https://www.linkedin.com/posts/alisonwagonfeld_sharing-some-personal-news-after-nearly-activity-7415073758190944256-SUVX",
+            "source_label": "The Information",
+            "body": "<p>Nvidia is hiring its first chief marketing officer who will report directly to CEO Jensen Huang, an Nvidia spokesperson said.</p>\n\n<p>Alison Wagonfeld, who previously headed marketing at Google Cloud, <a href=\"https://www.linkedin.com/posts/alisonwagonfeld_sharing-some-personal-news-after-nearly-activity-7415073758190944256-SUVX\">announced</a> the move on Thursday on LinkedIn. Wagonfeld spent nearly a decade at Google and will join Huang’s leadership team to spearhead marketing and communications, she wrote. The spokesperson said she would begin in February.</p>\n\n<p>The hiring comes as Nvidia faces more competition from its own customers, many of whom are hyperscalers building their own AI chips to offer as a cheaper alternative to Nvidia’s products.</p>\n\n<p>Google, in particular, has been a significant <a href=\"https://www.theinformation.com/articles/googles-ai-chips-stack-nvidias\">competitor</a>, offering its tensor processing units for AI development to customers. This past year, it has signed deals to sell or lease its chips so they can run in any company’s data center, not just in Google Cloud, The Information previously <a href=\"https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push\">reported</a>.</p>",
+            "published_at": "2026-01-09T21:43:19.534Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-taps-google-veteran-first-chief-marketing-officer?unlock=b5c601&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-taps-google-veteran-first-chief-marketing-officer?unlock=b5c601&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16184,
+                    "guid": "741c30078d",
+                    "title": "How Google’s AI Chips Stack Up to Nvidia’s",
+                    "url": "https://www.theinformation.com/articles/googles-ai-chips-stack-nvidias?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16561,
+            "guid": "b2deed",
+            "headline": "Apple Keeps Board Leadership Intact As Succession Chatter Grows",
+            "dek": "Apple renominates Art Levinson for board chair",
+            "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0000320193/000130817926000008/aapl014016-def14a.htm",
+            "source_label": "The Information",
+            "body": "<p>If Apple Chief Executive Tim Cook is retiring anytime soon, the company didn’t provide any hints that such an event is imminent in its most recent proxy filing, released Thursday.</p>\n\n<p>In the filing, the company said the composition of its board of directors will remain unchanged for the next year. Previously, there was a possibility that longtime chairman Art Levinson would step down now that he’s 75. Apple has a policy that directors can’t stand for reelection after age 75. But Apple said in its filing that it will make an exception for Levinson, whom it is renominating as board chair, just as it has for board member Ron Sugar, who is 77.</p>\n\n<p>“In making this determination, the Board considered several factors, including the significant experience and expertise that each of Dr. Levinson and Dr. Sugar brings to the Board, their deep insight into the Company’s business and operations, and their individual contributions as highly engaged members of the Board,” the filing read.</p>\n\n<p>Cook’s future at the company and Apple’s succession planning for him has been the source of frequent reporting over the past several months, including <a href=\"https://www.theinformation.com/articles/silicon-valley-buzzing-apple-ceo-succession?rc=ndc4g0\">in The Information</a>.</p>\n\n<p>Cook’s air travel expenses amounted to $789,991 in 2025, up from $655,883 in 2024, but down from $1,621,468 in 2023. Cook’s compensation in 2025 was $74.3 million, down slightly from the $74.6 million he received in 2024, and up from $63.2 million in 2023.</p>",
+            "published_at": "2026-01-09T19:25:46.571Z",
+            "url": "https://www.theinformation.com/briefings/apple-keeps-board-leadership-intact-succession-chatter-grows?unlock=b2deed&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-keeps-board-leadership-intact-succession-chatter-grows?unlock=b2deed&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16206,
+                    "guid": "58ce35e176",
+                    "title": "Why Silicon Valley is Buzzing About Apple CEO Succession",
+                    "url": "https://www.theinformation.com/articles/silicon-valley-buzzing-apple-ceo-succession?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        }
+    ]
+}
