@@ -1,0 +1,669 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16591,
+            "guid": "9d1226",
+            "headline": "China’s Zhipu Launches AI Model Trained Entirely With Huawei Chips",
+            "dek": "The move aligns with Beijing’s effort to promote domestic chips and reduce the country’s dependence on Nvidia.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese AI developer Zhipu on Wednesday released a new open-source AI image model trained entirely with chips from Huawei Technologies. The move is the latest example of how China is ramping up its effort to reduce its dependence on American AI chips and become more self-sufficient in critical areas of technology.</p>\n\n<p>Beijing-based Zhipu described the new model, GLM-Image, as China’s first state-of-the-art AI model that completed the entire process of training on domestic chips. The company said it hopes that the new model will serve as “valuable references” for the industry to tap into the potential of China’s domestic chips.</p>\n\n<p>The company’s Hong Kong-listed shares soared 19% on Wednesday following the announcement. Zhipu, founded by a group of researchers at Tsinghua University, went public on Friday under its corporate name, Knowledge Atlas Technology. The stock has increased more than 36% since the debut.</p>\n\n<p>Zhipu’s launch of the Huawei-trained model aligns with the Chinese government’s policy of promoting domestic alternatives to Nvidia. The Information <a href=\"https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?rc=jnr9wn\">reported</a> on Tuesday that the Chinese government told some tech companies it would only approve their H200 purchases under special circumstances, such as for university research and development labs.</p>",
+            "published_at": "2026-01-14T11:38:44.426Z",
+            "url": "https://www.theinformation.com/briefings/chinas-zhipu-launches-ai-model-trained-entirely-huawei-chips?unlock=9d1226&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-zhipu-launches-ai-model-trained-entirely-huawei-chips?unlock=9d1226&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16590,
+            "guid": "69495d",
+            "headline": "Beijing Restricts Nvidia’s H200 Purchase, Banning the Chips From Entering China",
+            "dek": "The Chinese government has told companies not to buy Nvidia’s chips unless necessary, banning the chips from entering the country",
+            "source_url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances",
+            "source_label": "The Information",
+            "body": "<p>The Chinese government this week told companies it would only approve their purchases of Nvidia’s H200 AI chips under special circumstances, such as for university research and development labs, The Information reported on Tuesday.</p>\n\n<p>The directive comes roughly one month after President Donald Trump announced that he would allow Nvidia to sell the H200 chip to China, marking the biggest rollback of Biden-era semiconductor export restrictions. The H200 would be the most advanced AI chip allowed for export to China, despite being one generation behind the Blackwell that’s being used by U.S. companies now.</p>\n\n<p>Separately, Reuters <a href=\"https://www.reuters.com/world/china/chinas-customs-agents-told-nvidias-h200-chips-are-not-permitted-sources-say-2026-01-14/\">reported</a> on Wednesday that Chinese customs authorities this week told customs brokers that the H200 chips are not permitted to enter the country, citing people briefed on the matter.</p>\n\n<p>Customs authorities did not offer any explanation for their directive, nor provided further guidance on whether the ban would be permanent or just temporary, according to Reuters.</p>",
+            "published_at": "2026-01-14T08:47:02.761Z",
+            "url": "https://www.theinformation.com/briefings/beijing-restricts-nvidias-h200-purchase-banning-chips-entering-china?unlock=69495d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/beijing-restricts-nvidias-h200-purchase-banning-chips-entering-china?unlock=69495d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16589,
+            "guid": "bb965f",
+            "headline": "Chinese AI Video Generator Kling Hits $240 Million Annual Run Rate ",
+            "dek": "Shares of Kling’s owner, Kuaishou, rose on the news of growing revenue.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese social media firm Kuaishou Technology said its AI video generator, Kling AI, achieved monthly revenue of $20 million in December, boosting its annualized run rate to $240 million from $100 million in March. Kuaishou’s Hong Kong-listed stock closed up 4.5% on Wednesday following the announcement.</p>\n\n<p>Kling’s revenue figure is significant compared to other Chinese AI video generators. For example, Kling’s major competitor Hailuo AI, operated by MiniMax Group, generated $17.5 million in revenue over a nine-month period through September 2025, according to MiniMax’s IPO filings.</p>\n\n<p>MiniMax’s IPO filing also showed that the company is <a href=\"https://www.theinformation.com/articles/two-ipo-bound-ai-model-developers-reveal-losses?rc=jnr9wn\">unprofitable</a>. Unlike MiniMax and other upstart rivals that specialize in AI models and apps, Kuaishou earns most of its revenue and profit from its short-video app that competes with ByteDance in China. This means Kuaishou doesn’t need to rely on Kling for profit. Kuaishou’s revenue in the third quarter of 2025 grew 14% to $5.1 billion from the same period a year ago.</p>",
+            "published_at": "2026-01-14T08:42:12.985Z",
+            "url": "https://www.theinformation.com/briefings/chinese-ai-video-generator-kling-hits-240-million-annual-run-rate?unlock=bb965f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinese-ai-video-generator-kling-hits-240-million-annual-run-rate?unlock=bb965f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16588,
+            "guid": "058461",
+            "headline": "DeepSeek Proposes Technique to Increase Efficiency in New Paper",
+            "dek": "The paper was released when the Chinese AI developer is nearing the launch of its next-generation AI model.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>In a new <a href=\"https://www.arxiv.org/pdf/2601.07372\">research paper</a> published this week, DeepSeek’s founder and researchers proposed a new technique that makes AI models more efficient by allowing them to retrieve simple factual information without relying on a compute-intensive process.</p>\n\n<p>The technique, called Engram, enables AI models to look up basic, static factual information in a separate memory system, instead of reconstructing that knowledge every time, which requires significantly more computing power. By doing so, the technique can free up computing resources to be used for more complex reasoning tasks.</p>\n\n<p>DeepSeek is close to launching its next-generation flagship AI model, V4, which features strong coding capabilities, The Information <a href=\"https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?rc=jnr9wn\">reported</a> last week. V4, a successor to the V3 model the firm released in December 2024, is expected to be released around the Lunar New Year in mid-February.</p>\n\n<p>The research paper, entitled “Conditional Memory via Scalable Lookup,” was co-authored by DeepSeek founder Liang Wenfeng and several DeepSeek researchers, as well as a few researchers from Peking University.&nbsp; DeepSeek also released the code for Engam on Github.</p>",
+            "published_at": "2026-01-14T08:10:14.889Z",
+            "url": "https://www.theinformation.com/briefings/deepseek-proposes-technique-increase-efficiency-new-paper?unlock=058461&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/deepseek-proposes-technique-increase-efficiency-new-paper?unlock=058461&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16382,
+                    "guid": "29f102e910",
+                    "title": "DeepSeek To Release Next Flagship AI Model With Strong Coding Ability",
+                    "url": "https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16587,
+            "guid": "6a8c01",
+            "headline": "U.K. Prime Minister Backs Investigation into Elon Musk’s X Over Grok AI Images ",
+            "dek": "The probe is prompted by concerns that X is allowing users to create non-consensual sexualized images with the Grok AI tool. \r\n",
+            "source_url": "https://www.bbc.com/news/articles/cq845glnvl1o",
+            "source_label": "BBC ",
+            "body": "<p>U.K.&nbsp;Prime Minister Keir Starmer said it will back an investigation launched earlier this week by its online safety watchdog into Elon Musk’s X over concerns that the social media site’s Grok AI tool allows nonconsensual sexual imagery.</p>\n\n<p>“If X cannot control Grok, we will,” Starmer said, according to BBC.</p>\n\n<p>The watchdog, Ofcom, said earlier this week that there have been “deeply concerning reports” of undressed images of people and sexualized images of children being created and shared on X.</p>\n\n<p>If the probe finds that the company has broken U.K.’s Online Safety Act, the watchdog could impose fines of up to 10% of X’s worldwide revenue. In the most serious case&nbsp;of “ongoing non-compliance,” it could seek a court order to force internet providers to block access to the site in the U.K., Ofcom added.</p>\n\n<p>U.K. Technology Secretary Liz Kendall also told BBC that she welcomed the watchdog’s investigation and urged it to complete it as soon as possible.</p>",
+            "published_at": "2026-01-14T05:54:04.865Z",
+            "url": "https://www.theinformation.com/briefings/u-k-government-backs-investigation-elon-musks-x-grok-ai-images?unlock=6a8c01&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-k-government-backs-investigation-elon-musks-x-grok-ai-images?unlock=6a8c01&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16586,
+            "guid": "7884c9",
+            "headline": "Anthropic Moves Chief Product Officer Krieger to Labs Group",
+            "dek": "The company credited the Labs group with Claude Code, its virtual assistant Cowork and other new products. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic said Tuesday it was moving Mike Krieger, the Instagram co-founder who has been its chief product officer for the past two years, to a new Labs group that will focus on experimental products based on its Claude models.</p>\n\n<p>Ami Vora, who joined the AI startup in December after holding senior product roles at e-commerce company Faire as well as Meta’s WhatsApp and Facebook, will become the new chief product officer.&nbsp;The reorg follows the release <a href=\"https://www.theinformation.com/briefings/anthropic-announces-virtual-coworker-tool?rc=zjctrx\">earlier this week of Cowork</a>,&nbsp; a version of its popular Claude Code coding agent designed to handle non-coding tasks on a user’s device.</p>\n\n<p>“The speed of advancement in AI demands a different approach to how we build, how we organize, and where we focus,“&nbsp;said Daniela Amodei, President of Anthropic.&nbsp;“Labs gives us room to break the mold and explore.”</p>",
+            "published_at": "2026-01-14T05:19:05.915Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-moves-chief-product-officer-krieger-labs-group?unlock=7884c9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-moves-chief-product-officer-krieger-labs-group?unlock=7884c9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16585,
+            "guid": "93bdf0",
+            "headline": "Amazon Backs Away From Tariff Concessions to Vendors",
+            "dek": "The impact of Trump’s tariffs were not as bad as feared\r\n",
+            "source_url": "https://www.ft.com/content/6f7ad580-a237-4cb7-86bc-f68e4e44f511",
+            "source_label": "Financial Times ",
+            "body": "<p>Amazon is cutting what it pays suppliers for products affected by President Trump’s tariffs, the Financial Times reported.&nbsp;Amazon last year agreed to pay more to some suppliers to help them deal with the cost of the tariffs and in an effort to keep the cost of goods on the platform low. But the impact of the tariffs have not been as intense as originally feared, prompting Amazon’s change of heart, the Financial Times report said.</p>\n\n<p>Amazon’s change of mind comes as the Supreme Court is expected to rule on the legality of Trump’s tariffs as soon as this week. An Amazon spokesperson told The Information that their annual vendor negotiation cycles have not changed and that prices of products in their store have not increased outside normal fluctuations. Amazon says the company talked to suppliers about cost reductions based on the reduction of tariff rates to China in November.</p>",
+            "published_at": "2026-01-13T23:03:17.761Z",
+            "url": "https://www.theinformation.com/briefings/amazon-backs-away-tariff-concessions-vendors?unlock=93bdf0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-backs-away-tariff-concessions-vendors?unlock=93bdf0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16584,
+            "guid": "a8d5c6",
+            "headline": "Penske Media Sues Google, Alleging Illegal Manipulation of Ad Market",
+            "dek": "In the past two years, Google lost a pair of monopoly suits brought by the Justice Department, and companies have started to sue Google based on the monopoly findings.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Penske Media, the publisher of Rolling Stone and other entertainment brands, sued Google on Tuesday, alleging that Penske and its subsidiary SheMedia have lost money as a result of what a federal judge ruled last year was Google’s illegal monopoly over the market for advertising technology.</p>\n\n<p>Penske alleged that Google’s monopoly over selling digital advertising resulted in lower advertising prices and excluded rival exchanges, thus depressing Penske’s revenue. In a statement, a Google spokesperson called Penske’s allegations “meritless.” “Advertisers and publishers have many choices and when they choose Google’s ad tech tools it’s because they are effective, affordable and easy to use,” the spokesperson said.</p>\n\n<p>In the past two years, Google lost a pair of monopoly suits brought by the Justice Department, with federal judges ruling that Google had used exclusive distribution deals to illegally maintain its search monopoly, and that Google had a monopoly in the part of its ad tech business that helps independent websites sell ad space. Companies have started to sue Google based on the monopoly findings. Yelp sued Google in 2024, alleging that Google used its monopoly in search to gain an advantage over competitors like Yelp in the local search business.</p>\n\n<p>Penske’s lawsuit follows a suit it filed against Google last September over traffic drops it blamed on AI Overviews, arguing that Google was illegally tying inclusion in its AI Overviews product, which some publishers have complained about, to being indexed in search, a lifeblood for most website publishers. Google on Monday filed to dismiss the September suit, arguing that Penske’s claims weren’t supported by the law.</p>",
+            "published_at": "2026-01-13T22:36:24.234Z",
+            "url": "https://www.theinformation.com/briefings/penske-media-sues-google-alleging-illegal-manipulation-ad-market?unlock=a8d5c6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/penske-media-sues-google-alleging-illegal-manipulation-ad-market?unlock=a8d5c6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16583,
+            "guid": "69b047",
+            "headline": "Slack Gives Its Digital Assistant an AI Upgrade",
+            "dek": "While the Slack digital assistant has long handled basic tasks like helping new users get started on the service, Salesforce has much bigger aspirations for it. ",
+            "source_url": "https://www.businesswire.com/news/home/20260113400793/en/Salesforce-Announces-the-General-Availability-of-Slackbot-Your-Personal-Agent-for-Work",
+            "source_label": "The Information",
+            "body": "<p>Salesforce’s Slack unit has officially <a href=\"https://www.businesswire.com/news/home/20260113400793/en/Salesforce-Announces-the-General-Availability-of-Slackbot-Your-Personal-Agent-for-Work\">launched</a> an overhauled version of Slackbot, a digital assistant that has long handled basic tasks like sending alerts to users, in the latest sign of the software provider’s growing focus on using AI to improve products.</p>\n\n<p>The new version of Slackbot lets users ask questions and get answers by tapping into and understanding the context of Slack conversations as well as data from Salesforce’s applications. It is similar in some ways to enterprise search startup&nbsp;Glean, although it doesn’t currently have as many connections to applications and data from other software providers.</p>\n\n<p>The revamped Slackbot launch is one of Salesforce’s biggest upgrades to Slack since it plunked down nearly $28 billion to buy the workplace chat firm more than five years ago. And it sheds more light on what Salesforce co-founder and CTO Parker Harris has been working on since assuming the role of Slack CTO two years ago.</p>",
+            "published_at": "2026-01-13T22:01:44.168Z",
+            "url": "https://www.theinformation.com/briefings/slack-gives-digital-assistant-ai-upgrade?unlock=69b047&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/slack-gives-digital-assistant-ai-upgrade?unlock=69b047&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16582,
+            "guid": "34f97c",
+            "headline": "Meta Considers Doubling Ray-Ban Glasses Production",
+            "dek": "The company is scaling back its hardware efforts as it goes big on smart glasses.",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-13/meta-said-to-discuss-doubling-ray-ban-glasses-output-after-surge-in-demand?srnd=all&sref=qvN0c6kf",
+            "source_label": "Bloomberg",
+            "body": "<p>Meta Platforms and EssilorLuxottica have discussed the possibility of doubling production of their AI-powered smart glasses this year, as demand grows and more competitors <a href=\"https://www.theinformation.com/articles/google-challenges-meta-smarter-glasses?rc=kfcki8\">enter the market</a>. According to Bloomberg, Meta has floated the idea of increasing production capacity to 20 million units, or perhaps more, in 2026.</p>\n\n<p>The discussions show how Meta is putting more resources into its smart glasses, as the company gears its business toward artificial intelligence and scales back its broader hardware efforts. Meta is beginning this week to <a href=\"https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones\">lay off around 10% of its Reality Labs division</a>, which has around 15,000 employees.</p>\n\n<p>Meta CEO Mark Zuckerberg spent billions of dollars in recent years on building out his vision for the “metaverse.” However the company’s virtual reality headsets have struggled to gain mainstream traction. More recently, Zuckerberg has pivoted the company’s focus to AI, zeroing in on the smart glasses as a product that can incorporate the technology and potentially reach a bigger audience. Meta’s partnership with European eyewear giant EssilorLuxottica has been central to that effort: in 2024, Meta purchased a small stake in the company.</p>",
+            "published_at": "2026-01-13T16:00:41.017Z",
+            "url": "https://www.theinformation.com/briefings/meta-considers-doubling-ray-ban-glasses-production?unlock=34f97c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-considers-doubling-ray-ban-glasses-production?unlock=34f97c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 984841,
+                    "display_name": "Sylvia Varnham O'Regan"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16581,
+            "guid": "fc28e7",
+            "headline": "Microsoft Pledges to Pay Higher Electricity Rates for Data Centers, Curb Costs for Households",
+            "dek": "The announcement comes amid growing political opposition to new data centers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft president Brad Smith on Tuesday promised that the company will pay more for electricity and will subsidize the expansion of the electrical grid in an attempt to head off higher costs for individual households. The company’s promise follows growing concern about new data centers driving up people’s electricity bills.</p>\n\n<p>“We will pay our way as a company to ensure our data centers don’t increase your electricity bill,” Smith said at a Washington, D.C. event Tuesday morning alongside lawmakers and union leaders.</p>\n\n<p>Microsoft also promised to reduce how much water its data centers use by 40% by 2030; to invest in local jobs and skilling programs where it builds data centers; and said it wouldn’t ask local municipalities to grant it tax breaks for new data center projects.</p>\n\n<p>The announcement comes amid <a href=\"https://www.theinformation.com/articles/ai-backlash-shape-midterm-elections?rc=geicgp\">growing political opposition to new data centers</a>, with candidates in this year’s midterm elections seizing on fears about rising electricity costs. Local governments in states like Virginia and Pennsylvania have already moved to <a href=\"https://www.theinformation.com/articles/bragawatt-data-center-era-brings-reality-checks-energy-breakthroughs?rc=geicgp\">block the construction of new data centers</a> in recent months. President Donald Trump heralded Microsoft’s pledge in a <a href=\"https://www.theinformation.com/briefings/trump-signals-white-house-working-microsoft-others-electricity-costs?rc=geicgp\">social media post</a> on Monday night, stating that Microsoft had been working with the White House on its announcement.</p>",
+            "published_at": "2026-01-13T14:26:03.640Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-pledges-pay-higher-electricity-rates-data-centers-curb-costs-households?unlock=fc28e7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-pledges-pay-higher-electricity-rates-data-centers-curb-costs-households?unlock=fc28e7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16580,
+            "guid": "590349",
+            "headline": "TSMC to Significantly Expand Chipmaking Investments in the U.S.",
+            "dek": "The investments are part of trade negotiations between the U.S. and Taiwan",
+            "source_url": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
+            "source_label": "The New York Times",
+            "body": "<p>The Trump administration is close to reaching a trade deal with Taiwan that involves significantly more investments from the island’s largest company, Taiwan Semiconductor Manufacturing Company, according to The New York Times, citing people familiar with the matter.</p>\n\n<p>The potential deal will cut U.S. tariffs on Taiwanese imports to 15% and require TSMC to build at least five more chip fabrication facilities in Arizona, doubling the number of plants the company has previously committed to in the state.</p>\n\n<p>TSMC, which produces 90% of the world’s advanced chips, announced in March that it would invest $100 billion to build three new chip-making plants, in addition to three facilities planned previously. President Donald Trump hailed the deal as the largest foreign direct investment in U.S. history.</p>",
+            "published_at": "2026-01-13T10:59:29.374Z",
+            "url": "https://www.theinformation.com/briefings/tsmc-significantly-expand-chipmaking-investments-u-s?unlock=590349&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tsmc-significantly-expand-chipmaking-investments-u-s?unlock=590349&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16579,
+            "guid": "a23600",
+            "headline": "House Passes Bill to Limit China’s Remote Access to U.S. Chips",
+            "dek": "The bill could close the loophole in existing export controls where Chinese companies can access advanced chips via overseas data centers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The House of Representatives on Monday <a href=\"https://chinaselectcommittee.house.gov/media/press-releases/house-passes-bipartisan-legislation-to-limit-adversaries-remote-access-to-critical-technology\">passed</a> a bipartisan bill that expands U.S. export controls to restrict Chinese companies’ ability to remotely access advanced American AI chips at data centers outside China.</p>\n\n<p>The bill, the Remote Access Security Act, is the latest step in Washington’s effort to limit China’s use of critical U.S. technologies due to national security concerns. It is aimed at regulating Chinese companies that use cloud computing services to rent servers equipped with Nvidia’s AI chips at data centers located in Southeast Asia or other regions outside China.</p>\n\n<p>Such offshore arrangements have become common among Chinese companies as a way to get around U.S. export controls that ban the sale of advanced U.S. chips to China, <a href=\"https://www.theinformation.com/articles/google-microsoft-help-chinese-firms-skirt-ban-on-nvidia-chips?rc=jnr9wn\">The Information reported</a> previously. The demand from Chinese companies has helped accelerate the construction of more AI data centers in Southeast Asia. If the bill passes the Senate and becomes law, it could have a big impact on existing cloud server deals involving Chinese companies.</p>\n\n<p>“This bill brings our laws into the digital age and makes it clear that cloud compute is subject to U.S. export control law, just like physical chips. Closing these loopholes will strengthen U.S. national security and protect American innovation,” said John Moolenaar, chairman of the U.S. House Select Committee on China.</p>",
+            "published_at": "2026-01-13T04:19:51.088Z",
+            "url": "https://www.theinformation.com/briefings/house-passes-bill-limit-chinas-remote-access-u-s-chips?unlock=a23600&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/house-passes-bill-limit-chinas-remote-access-u-s-chips?unlock=a23600&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 13384,
+                    "guid": "86a41555af",
+                    "title": "Nvidia AI Chip Smuggling to China Becomes an Industry",
+                    "url": "https://www.theinformation.com/articles/nvidia-ai-chip-smuggling-to-china-becomes-an-industry?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 13232,
+                    "guid": "0371d7bc5f",
+                    "title": "Google, Microsoft Help Chinese Firms Skirt Ban on Nvidia Chips",
+                    "url": "https://www.theinformation.com/articles/google-microsoft-help-chinese-firms-skirt-ban-on-nvidia-chips?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16578,
+            "guid": "a5d1fa",
+            "headline": "Trump Signals White House Working With Microsoft, Others on Electricity Costs ",
+            "dek": "He said Americans should not “pick up the tab” for the electricity consumed by data centers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump said in a Truth Social post on Monday that his administration is working with technology companies, including Microsoft, to prevent data centers from driving up household electricity bills.</p>\n\n<p>Trump blamed rising utility costs on former President Joe Biden and said Americans should not “pay higher Electricity bills because of data centers.”</p>\n\n<p>“First up is Microsoft, who my team has been working with, and which will make major changes beginning this week to ensure that Americans don’t ‘pick up the tab’ for their power consumption, in the form of paying higher utility bills,” he wrote. He added that there will be more announcements in the coming weeks.</p>\n\n<p>Microsoft&nbsp;is expected to make an announcement on Tuesday related to Trump’s comments.</p>",
+            "published_at": "2026-01-13T02:12:38.716Z",
+            "url": "https://www.theinformation.com/briefings/trump-signals-white-house-working-microsoft-others-electricity-costs?unlock=a5d1fa&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/trump-signals-white-house-working-microsoft-others-electricity-costs?unlock=a5d1fa&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16577,
+            "guid": "a1656e",
+            "headline": "Anthropic’s Amodei: AI Could Make CRISPR-Level Advances ",
+            "dek": "Anthropic aims to use AI to solve problems in healthcare and the life sciences.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic CEO Dario Amodei on Monday laid out the startup’s vision for how AI could solve problems in healthcare and the life sciences, from speeding up drug approvals by streamlining clinical trial paperwork to treating or even eradicating tropical diseases.</p>\n\n<p>AI could play a “central role in multiple discoveries that are on the level of significance of [gene-editing] tech CRISPR,” he said at an event in San Francisco<strong>.</strong></p>\n\n<p>Anthropic held the event a day after announcing new features for its Claude chatbot and AI models that allow healthcare providers, patients and insurance companies to use its AI for medical tasks. These tasks could range from pulling information from large databases, such as those that determine medicare coverage, and prioritizing urgent issues from hundreds of patient messages.</p>\n\n<p>Amodei envisioned a future in which doctors and large language models work together&nbsp; “to both empower the patient and enable the doctor to get the most out of the LLM and learn from the LLM.” Still, he noted, AI is “not a replacement for a doctor,” but rather, “it’s a second opinion.”</p>\n\n<p>Amodei, chief product officer Mike Krieger and Anthropic’s head of biology and life sciences, Eric Kauderer-Abrams, made the presentation as competition with OpenAI intensifies. Last week, OpenAI unveiled new healthcare features for ChatGPT and on Monday agreed to buy healthcare startup Torch.</p>",
+            "published_at": "2026-01-13T02:11:08.147Z",
+            "url": "https://www.theinformation.com/briefings/anthropics-amodei-ai-make-crispr-level-advances?unlock=a1656e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropics-amodei-ai-make-crispr-level-advances?unlock=a1656e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16576,
+            "guid": "67311c",
+            "headline": "OpenAI to Buy Healthcare App Torch in $100 Million Deal",
+            "dek": "Employees from the startup are joining OpenAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has agreed&nbsp;to buy Torch, a one-year-old AI healthcare app, for about $100 million in equity, <a href=\"https://www.theinformation.com/articles/openai-agrees-buy-ai-healthcare-app-100-million?rc=zjctrx\">The Information reported Monday</a>.</p>\n\n<p>Torch enables customers to view and analyze their health data from health systems such as Kaiser Permanente, medical scanning firms like Prenuvo, and apps that track physical activities such as Apple Health. The deal value includes $60 million now and the rest in equity to retain employees, the report said. Four of the startup’s employees, including its CEO, plan to join OpenAI.</p>\n\n<p>OpenAI is&nbsp;planning&nbsp;to offer&nbsp;<a href=\"https://www.theinformation.com/articles/openai-preps-personal-health-features-chatgpt?rc=zjctrx\">a personalized healthcare assistant</a>&nbsp;in ChatGPT that analyzes medical records and advises customers on health issues.</p>",
+            "published_at": "2026-01-13T00:07:46.610Z",
+            "url": "https://www.theinformation.com/briefings/openai-buy-healthcare-app-torch-100-million?unlock=67311c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-buy-healthcare-app-torch-100-million?unlock=67311c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16390,
+                    "guid": "4cf458685e",
+                    "title": "OpenAI Agrees to Buy AI Healthcare App For About $100 Million",
+                    "url": "https://www.theinformation.com/articles/openai-agrees-buy-ai-healthcare-app-100-million?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16575,
+            "guid": "ef1edc",
+            "headline": "CoreWeave Hits First Data Center Milestone in Texas, Internal Message Shows",
+            "dek": "The site was the focus of the data center delay CoreWeave encountered late last year. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>CoreWeave hit its first chip delivery milestone at a data center in Denton, Texas, that it’s building for OpenAI, according to an internal Slack message from executives. Late last year, it warned investors that its fourth quarter revenue would take a hit because of delays with one of its data center providers.</p>\n\n<p>The delay in Denton became a high profile example of <a href=\"https://www.theinformation.com/articles/ai-data-centers-face-delays-blame-game-begins\">the growing “blame game”</a> among data center builders, as construction and deployment delays become more common across the AI infrastructure industry.</p>\n\n<p>“We’ve hit this milestone under an intense spotlight,” CoreWeave executives wrote in the Slack message. “The last several months tested us in ways few companies ever experience. There were setbacks from partners and factors outside our control.”</p>\n\n<p>CoreWeave told employees that it went from a <strong>“</strong>few racks delivered in mid-November” to more than 16,000 GPUs by the end of December. Leaders noted that there was a single day when it brought more than 2,000 GPUs online. The Slack message was from Chief Operating Officer Sachin Jain, Chief Technology Officer Peter Salanki and Senior Vice President of Engineering Chen Goldberg.</p>",
+            "published_at": "2026-01-12T23:35:36.576Z",
+            "url": "https://www.theinformation.com/briefings/coreweave-hits-first-data-center-milestone-texas-internal-message-shows?unlock=ef1edc&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/coreweave-hits-first-data-center-milestone-texas-internal-message-shows?unlock=ef1edc&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16574,
+            "guid": "c755ec",
+            "headline": "Crypto Custodian BitGo Eyes Up to $1.96 Billion Valuation in IPO",
+            "dek": "BitGo is set up to be the first crypto IPO in 2026. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>BitGo, a crypto custody firm, <a href=\"https://www.businesswire.com/news/home/20260112528419/en/BitGo-Holdings-Announces-Launch-of-Initial-Public-Offering\">said</a> Monday it’s launching its initial public offering, seeking to raise as much as $201 million at a valuation of up to $1.96 billion. The company began pitching the shares to investors today, meaning they will likely start trading within the next two weeks.</p>\n\n<p>BitGo is set to be the first crypto IPO in 2026, after a government shutdown and crypto market crash late last year delayed the planned debuts of several crypto firms. Crypto exchange Kraken and crypto asset manager Grayscale have also filed to go public.</p>\n\n<p>BitGo is offering 11 million shares and existing shareholders are offering 821,595 shares, at an IPO price of between $15 to $17 per share, according to an amended filing.&nbsp;In 2023, BitGO raised funding at a $1.75 billion valuation. It reported net income of $35.3 million for the first nine months last year on $10 billion revenue during the period.</p>",
+            "published_at": "2026-01-12T22:20:06.218Z",
+            "url": "https://www.theinformation.com/briefings/crypto-custodian-bitgo-eyes-1-96-billion-valuation-ipo?unlock=c755ec&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/crypto-custodian-bitgo-eyes-1-96-billion-valuation-ipo?unlock=c755ec&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16573,
+            "guid": "a2631d",
+            "headline": "Meta Plans to Cut 10% of Reality Labs Employees, Report Says",
+            "dek": "The cuts signal that Meta CEO Mark Zuckerberg is curtailing Reality Labs' spending after years of steadily mounting losses. ",
+            "source_url": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
+            "source_label": "New York Times",
+            "body": "<p>Meta Platforms plans to cut about 10% of its Reality Labs employees, <a href=\"https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html\">the New York Times reported,</a> with the cuts coming as soon as Tuesday. The report follows a <a href=\"https://www.businessinsider.com/meta-cto-andrew-bosworth-reality-labs-all-hands-meeting-2026-1\">Business Insider report</a> late last week that said Reality Labs chief Andrew Bosworth had called an all-hands meeting for Tuesday, and stressed everyone should attend.</p>\n\n<p>Reality Labs has about 15,000 people, so a 10% cut would only amount to 1,500 people. Still, it would signal that Meta CEO Mark Zuckerberg is curtailing Reality Labs’ spending after years of steadily mounting losses. Reality Labs has lost $70 billion since 2021. The cuts come as Meta is massively ramping up its spending on AI.</p>",
+            "published_at": "2026-01-12T21:27:19.878Z",
+            "url": "https://www.theinformation.com/briefings/meta-plans-cut-10-reality-labs-employees-report-says?unlock=a2631d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-plans-cut-10-reality-labs-employees-report-says?unlock=a2631d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16572,
+            "guid": "7d9849",
+            "headline": "Paramount Plans Proxy Battle for WBD Board Seats",
+            "dek": "The Ellison family's Paramount isn't giving up its battle for control of Warner Bros. Discovery.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Ellison family’s Paramount Skydance plans to run a proxy battle to win seats on Warner Bros. Discovery’s board at this spring’s annual meeting, Paramount said on Monday, outlining its next steps in its fight to win the bidding war for WBD. Paramount said it also sued WBD in Delaware Chancery Court.</p>\n\n<p>Paramount has offered $30 a share in cash for WBD, but the entertainment company has rejected the offer in favor of a deal to sell its streaming operations an film studio to Netflix, while separating its cable channels into a separate company. Paramount said the window for nominating candidates for WBD’s board at the annual meeting opens in three weeks, and it plans to nominate a slate of candidates who would strike a deal to sell the company to Paramount.</p>\n\n<p>In its suit in Delaware, Paramount is asking the court to direct WBD to provide more information about the Netflix deal. As Paramount noted, WBD has not said how it values the standalone cable channel company, or how WBD’s debt will be allocated between the cable channel offshoot and the operations being sold to Netflix. WBD shareholders need the information, Paramount said, to be able to make an “informed investment decision” on its offer.</p>",
+            "published_at": "2026-01-12T20:29:18.816Z",
+            "url": "https://www.theinformation.com/briefings/paramount-plans-proxy-battle-wbd-board-seats?unlock=7d9849&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/paramount-plans-proxy-battle-wbd-board-seats?unlock=7d9849&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        }
+    ]
+}
