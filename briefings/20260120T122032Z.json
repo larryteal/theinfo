@@ -1,0 +1,676 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16614,
+            "guid": "72b329",
+            "headline": "OpenAI’s First Hardware Device Slated to Appear This Year",
+            "dek": "The device is being developed with the help of former Apple designer Jony Ive.",
+            "source_url": "https://www.axios.com/2026/01/19/openai-device-2026-lehane-jony-ive",
+            "source_label": "Axios",
+            "body": "<p>A top OpenAI executive said the company is planning to introduce its first hardware device in the latter half of 2026.</p>\n\n<p>In an interview with Axios at an event in Davos, Switzerland, Chris Lehane, OpenAI’s chief global affairs officer, said the AI startup is “on track” to show the product later in the year. That timing is consistent with past messages from OpenAI about its first device.</p>\n\n<p>OpenAI’s hardware devices will be the result of a collaboration between the company and Jony Ive, Apple’s former design chief. Last year, OpenAI acquired a device startup that Ive co-founded, io, though Ive still works for his independent design firm, LoveFrom. Lehane declined to discuss what type of device OpenAI’s first hardware product will be.</p>",
+            "published_at": "2026-01-19T22:20:51.041Z",
+            "url": "https://www.theinformation.com/briefings/openais-first-hardware-device-slated-appear-year?unlock=72b329&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openais-first-hardware-device-slated-appear-year?unlock=72b329&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16613,
+            "guid": "2276b9",
+            "headline": "Google Sees Surge in Developer Demand for Gemini",
+            "dek": "The growth could boost Google Cloud’s revenue. ",
+            "source_url": "https://www.theinformation.com/articles/googles-gemini-sees-skyrocketing-business-sales?rc=ndc4g0",
+            "source_label": "The Information",
+            "body": "<p>Google’s Gemini saw a doubling in developer demand during a five month period last year.</p>\n\n<p>The Information reported that, in August, Google saw around 85 billion requests from developers sent to its Gemini application programming interface, up from about 35 billion in March. Those requests, known as API calls, are the primary method through which Google sells access to those AI models.</p>\n\n<p>The growing demand could help lift revenues in Google’s cloud unit, which handles sales of Gemini to developers for the company. Another Google AI offering, Gemini Enterprise, has grown to 8 million subscribers, The Information reported. Gemini Enterprise combines access to the Gemini chatbot with the ability to search across a company’s internal data. It also includes a platform for building and using AI agents.</p>",
+            "published_at": "2026-01-19T21:03:16.316Z",
+            "url": "https://www.theinformation.com/briefings/google-sees-surge-developer-demand-gemini?unlock=2276b9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-sees-surge-developer-demand-gemini?unlock=2276b9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16423,
+                    "guid": "655fa98be9",
+                    "title": "Google’s Gemini Sees Developer Requests More Than Double in Five Months",
+                    "url": "https://www.theinformation.com/articles/googles-gemini-sees-skyrocketing-business-sales?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16612,
+            "guid": "3ffb38",
+            "headline": "OpenAI CFO Says Revenue Has Grown With Compute",
+            "dek": "OpenAI CFO Sarah Friar said the company's compute and revenue have tripled year over year for the last three years.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI Chief Financial Officer Sarah Friar said in a <a href=\"https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/\">blog post</a> on Sunday that the company’s annualized revenue has grown at approximately the same rate as its consumption of computational resources.</p>\n\n<p>Friar said that OpenAI’s compute has tripled year over year—from 0.2 gigawatts in 2023 to 0.6 gigawatts in 2024 and 1.9 gigawatts in 2025—while revenue has similarly tripled year over year—from $2 billion in annualized revenue in 2023 to $6 billion in 2024 to more than $20 billion in 2025.</p>\n\n<p>Friar also added in the post that the “next phase is agents and workflow automation that run continuously, carry context over time, and take action across tools.” This includes AI that “manages projects, coordinates plans, and executes tasks” for individuals and AI that “becomes an operating layer for knowledge work” for organizations, she wrote.</p>\n\n<p>Friar’s post comes as OpenAI looks to grow its access to computational resources even more. The company has struck deals with multiple cloud providers and chipmakers, including Oracle, Nvidia and Cerebras Systems, in recent months. It has also found new avenues to make money, including, most recently, adding advertisements to its free and cheaper tiers of ChatGPT.</p>",
+            "published_at": "2026-01-19T15:20:29.063Z",
+            "url": "https://www.theinformation.com/briefings/openai-cfo-says-revenue-grown-compute?unlock=3ffb38&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-cfo-says-revenue-grown-compute?unlock=3ffb38&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16611,
+            "guid": "844e40",
+            "headline": "Thinking Machines Departures Could Complicate Fundraising",
+            "dek": "Five Thinking Machines staffers left the startup last week, four of whom joined OpenAI",
+            "source_url": "https://www.theinformation.com/articles/thinking-machines-exodus-tests-investor-appetite-50-billion-valuation?rc=ndc4g0",
+            "source_label": "The Information",
+            "body": "<p>An exodus of staffers from Thinking Machines Lab this week has rattled some investors in the AI startup led by Mira Murati.</p>\n\n<p>The Information <a href=\"https://www.theinformation.com/articles/thinking-machines-exodus-tests-investor-appetite-50-billion-valuation?rc=ndc4g0\">reported</a> that Murati and other Thinking Machines employees were caught off guard earlier this week when two senior researchers at the startup, Luke Metz and Sam Schoenholz, posted their resignations to the company Slack during an all hands meeting. Murati used the all hands meeting to announce she had fired a Thinking Machines co-founder and chief technology officer, Barret Zoph. In total, five Thinking Machines staffers left the startup last week, four of whom joined OpenAI.</p>\n\n<p>The talent raid could complicate Thinking Machines’ efforts to close an ambitious funding round that aims to value the one-year-old company at $50 billion.</p>",
+            "published_at": "2026-01-19T01:31:40.459Z",
+            "url": "https://www.theinformation.com/briefings/thinking-machines-departures-complicate-fundraising?unlock=844e40&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/thinking-machines-departures-complicate-fundraising?unlock=844e40&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16422,
+                    "guid": "117987b18f",
+                    "title": "Thinking Machines Exodus Tests Investor Appetite for a $50 Billion Valuation",
+                    "url": "https://www.theinformation.com/articles/thinking-machines-exodus-tests-investor-appetite-50-billion-valuation?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16610,
+            "guid": "8b4ba2",
+            "headline": "Sequoia Plans Big Anthropic Investment",
+            "dek": "The venture firm is already a significant investor in OpenAI and xAI.",
+            "source_url": "https://www.ft.com/content/53220829-2ab2-471c-9a00-30d24beb8d48",
+            "source_label": "The Financial Times",
+            "body": "<p>Sequoia Capital is set to make a significant first-time investment in the AI start-up Anthropic as part of a major funding round expected to raise $25 billion or more, The Financial Times reported.</p>\n\n<p>Anthropic is seeking a valuation of $350 billion as part of the effort, more than double its valuation from just four months prior, The FT reported. The round is expected to include contributions from GIC, Coatue, Microsoft and Nvidia. Sequoia’s involvement is notable because the firm is also a backer of Anthropic’s rivals, including OpenAI and xAI, suggesting a belief that the AI market is large enough for multiple successful companies.</p>\n\n<p>Spokespeople for Sequoia and Anthropic didn’t respond to requests for comment.</p>",
+            "published_at": "2026-01-19T01:14:24.172Z",
+            "url": "https://www.theinformation.com/briefings/sequoia-plans-big-anthropic-investment?unlock=8b4ba2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/sequoia-plans-big-anthropic-investment?unlock=8b4ba2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16609,
+            "guid": "832dcd",
+            "headline": "Figure Countersues Former Safety Head",
+            "dek": "Figure alleges its former head of product safety saved company documents to his personal Google account.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Figure AI, the humanoid robotics startup, responded to a lawsuit from its former head of product safety Rob Gruendel and countersued Gruendel, according to court filings made public on Friday.</p>\n\n<p>Figure alleged in a filing that Gruendel violated trade secret law and company policy by saving company documents to his personal Google account, likely costing Figure at least $75,000 in damages. Figure also says that Gruendel refused to repay his $90,000 signing bonus as required by his employment contract, since he worked at the company for less than a full year.</p>\n\n<p>Gruendel sued Figure for wrongful termination and whistleblower retaliation in November, alleging that Figure had deprioritized safety and fired him for raising safety concerns. In the latest filings, Figure counters that it takes safety seriously and Gruendel was fired for poor performance.</p>\n\n<p>“Gruendel failed at his job,” Figure wrote in its countersuit. “Instead of assisting the company in fulfilling its safety mission, Gruendel’s tenure at Figure was marked by a fundamental inability to distinguish between safety engineering and compliance theater. The company terminated him after it concluded that he was wholly incapable of fulfilling the role for which he was hired: helping the company build a safe robot.”</p>\n\n<p>Figure pointed out in its filings that humanoid robotics are too early to have dedicated industrial safety standards. <a href=\"https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids\">As we have reported</a>, the U.S. is fast-tracking such guidance, after Gruendel suggested at a standards meeting last year that he could work with a different standards group to write a competing standard that is less strict than a forthcoming international standard.</p>",
+            "published_at": "2026-01-18T03:29:29.377Z",
+            "url": "https://www.theinformation.com/briefings/figure-countersues-safety-whistleblower?unlock=832dcd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/figure-countersues-safety-whistleblower?unlock=832dcd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16608,
+            "guid": "99a74e",
+            "headline": "Musk Seeks Up to $110 Billion from OpenAI",
+            "dek": "Musk argues OpenAI should give up the benefits that came from his donations years ago.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>If Elon Musk wins his breach of charitable trust lawsuit against OpenAI, the company should have to give up between $65.5&nbsp;billion and $109.43 billion to Musk, lawyers for the billionaire argued in a court filing Friday. Microsoft, which Musk alleges aided and abetted OpenAI’s breach of fiduciary duty, is on the hook for between $13.3&nbsp;billion and $25.06 billion, Musk’s lawyers argued.</p>\n\n<p>Though Musk only donated about $38 million to help establish OpenAI, his lawyers argue that OpenAI should have to forfeit all of the benefits they <a href=\"https://www.theinformation.com/articles/elon-musks-lawsuit-cost-openai-1-billion\">gained as a result of those donations</a>. The estimates of those benefits that Musk’s lawyers cited in their recent filing came from C. Paul Wazzan, an expert witness that Musk’s lawyers retained. Wazzan is an economist at Berkeley Research Group, an economic consulting firm. He arrived at the figures by taking the OpenAI nonprofit’s share of OpenAI’s business and assuming that Musk contributed between 50% and 75% of that value.</p>\n\n<p>Lawyers for OpenAI have objected to Wazzan’s methodology and asked the court to toss out much of his testimony. For instance, OpenAI’s lawyers argue that Wazzan did not adequately explain how he came up with Musk’s share of the nonprofit’s value.</p>\n\n<p><em>This brief has been updated to include OpenAI’s response to Wazzan’s testimony.</em></p>",
+            "published_at": "2026-01-18T03:27:24.047Z",
+            "url": "https://www.theinformation.com/briefings/musk-seeks-110-billion-openai?unlock=99a74e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-seeks-110-billion-openai?unlock=99a74e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16607,
+            "guid": "bffdff",
+            "headline": "Databricks Rival Clickhouse Valued at $15 Billion ",
+            "dek": "The company also bought observability startup Langfuse",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Clickhouse, a database management startup competing with Snowflake and Databricks, said Friday it had raised $400 million in a financing led by Dragoneer Investment Group. The round values the startup at $15 billion including the new investment, a spokesperson said. That’s more than double the valuation of its last round in May.</p>\n\n<p>The company also said it had bought Langfuse, a German startup that monitors AI systems. The acquisition follows <a href=\"https://www.theinformation.com/articles/snowflake-talks-buy-app-monitoring-startup-observe-inc-around-1-billion?rc=zjctrx\">Snowflake’s purchase of observability startup Observe</a>.</p>\n\n<p>Clickhouse software stores and manages digital event data, such as when a person clicks a button or fails to log in to an app. Some investors think ClickHouse’s data will be in more demand as developers turn to AI agents. The company said its annual recurring revenue rose 250% year over year. In the first quarter of 2025, it was generating roughly $70 million in annual recurring revenue, <a href=\"https://www.theinformation.com/articles/snowflake-challenger-clickhouse-targets-6-billion-valuation?rc=zjctrx\">The Information previously reported</a>. Over the last three months, customers Capital One, Lovable, Decagon, Polymarket&nbsp;and Airwallex have started to use the company’s services or expanded their business.</p>\n\n<p>Clickhouse was spun out of the Dutch parent of Russian search engine company Yandex in 2021. That parent company, renamed Nebius, owns a little less than 30% of Clickhouse. Shares of Nebius, <a href=\"https://www.theinformation.com/articles/coreweaves-quiet-rival-may-better-bet?rc=zjctrx\">which competes with Coreweave</a>, rose 5% on Friday. Bessemer Venture Partners, GIC and Index Ventures were among the other investors in the new round.</p>",
+            "published_at": "2026-01-17T18:41:25.879Z",
+            "url": "https://www.theinformation.com/briefings/databricks-rival-clickhouse-valued-15-billion?unlock=bffdff&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/databricks-rival-clickhouse-valued-15-billion?unlock=bffdff&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16606,
+            "guid": "511c49",
+            "headline": "Thinking Machines Leaders Confronted CTO Over Office Relationship Before Firing ",
+            "dek": "The executive's relationship could have contributed to his departure earlier this week.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Mira Murati, the chief executive of Thinking Machines Lab, told employees during a Wednesday allhands that the startup’s cofounder and then-CTO Barret Zoph lied about his relationship with another person&nbsp;leading up to his firing, according to a person with direct knowledge of the comments.</p>\n\n<p>Leaders at Thinking Machines Lab confronted Zoph over an alleged relationship with another employee last summer, Wired first reported.</p>\n\n<p>Murati also told employees that Zoph had performance issues at the company&nbsp;and that he had been talking with competitors. Zoph had recently met with leaders of Meta Superintelligence Labs, according to the person with knowledge of the situation.</p>\n\n<p>Since then, Zoph, along with another Thinking Machines cofounder and at least two other staffers, have been rehired by OpenAI. Fidji Simo, OpenAI’s CEO of Applications, said in a memo to staff this week that OpenAI does “not share these concerns” regarding reports that Zoph had been fired for “unethical conduct.”</p>\n\n<p>A spokesperson from Thinking Machines Lab declined to comment. Zoph could not be reached for a comment.</p>",
+            "published_at": "2026-01-17T02:37:34.010Z",
+            "url": "https://www.theinformation.com/briefings/thinking-machines-leaders-confronted-cto-office-relationship-firing?unlock=511c49&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/thinking-machines-leaders-confronted-cto-office-relationship-firing?unlock=511c49&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                },
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16605,
+            "guid": "b910ee",
+            "headline": "White House Asks for Emergency Power Auction in Mid-Atlantic",
+            "dek": "The intervention shows how President Donald Trump is trying to balance the growing electricity needs of AI data centers with rising costs for consumers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The White House and a bipartisan group of governors called on the largest U.S. electrical grid operator to hold an emergency auction for tech companies to buy power for data centers in the Mid-Atlantic region.</p>\n\n<p>U.S. energy officials asked PJM Interconnection to hold an auction for 15-year power contracts and require tech companies to pay for any new generation resources built for them. The White House said these measures could support the construction of $15 billion in new power plants.</p>\n\n<p>The intervention shows how President Donald Trump is trying to balance the growing electricity needs of AI data centers with rising costs for consumers, as tech companies clamor for energy resources to power apps like ChatGPT.</p>\n\n<p>A PJM spokesperson said it was reviewing the White House’s proposals and would consider them alongside other requests to speed up the connection of large new data centers to the grid.</p>",
+            "published_at": "2026-01-16T20:48:02.721Z",
+            "url": "https://www.theinformation.com/briefings/white-house-asks-emergency-power-auction-mid-atlantic?unlock=b910ee&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/white-house-asks-emergency-power-auction-mid-atlantic?unlock=b910ee&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16604,
+            "guid": "322fd4",
+            "headline": "OpenAI to Start Testing Ads, to Intro $8 Per Month ChatGPT Subscription",
+            "dek": "The company is bringing ChatGPT Go, priced at $8 per month, to the U.S.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI said Friday it will begin testing ads in ChatGPT in the coming weeks. The ads will show up for nonpaying users as well as for users of ChatGPT Go, a low-cost subscription tier <a href=\"https://www.theinformation.com/articles/openai-meta-seek-ai-alliance-indias-reliance?rc=8tzurb\">first launched in India</a> and now available in 171 countries. U.S. users will now have access to ChatGPT Go for $8 a month.</p>\n\n<p>In 2025, OpenAI also introduced a lower-cost subscription plan, ChatGPT Go, in countries like India, where it costs roughly $5 per month.</p>\n\n<p>The company says the ads will show up when there’s a relevant query to a sponsored product or service, confirming <a href=\"https://www.theinformation.com/articles/openais-ads-push-starts-taking-shape?rc=8tzurb\">The Information’s previous reporting</a>. OpenAI says the ad will also be clearly labeled and shown separately to ChatGPT’s organic responses.</p>\n\n<p>Users will be able to understand why an ad is being shown and dismiss ads. These ads will only be shown to adult ChatGPT users and won’t be included as part of sensitive or regulated issues, such as mental health.</p>\n\n<p>OpenAI has previously told investors it expects to grow the <a href=\"https://www.theinformation.com/articles/openais-international-conundrum?rc=8tzurb\">average revenue per nonpaying user</a> from $2 in 2026 to $15 by the end of 2030. The $8 monthly Go tier could help the company generate revenue from the more than the 5% of roughly 900 million weekly active users that pay for its subscriptions.</p>",
+            "published_at": "2026-01-16T20:15:43.607Z",
+            "url": "https://www.theinformation.com/briefings/openai-start-testing-ads-intro-8-per-month-chatgpt-subscription?unlock=322fd4&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-start-testing-ads-intro-8-per-month-chatgpt-subscription?unlock=322fd4&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16352,
+                    "guid": "2cd4bb07a8",
+                    "title": "OpenAI’s International Conundrum",
+                    "url": "https://www.theinformation.com/articles/openais-international-conundrum?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 16306,
+                    "guid": "0f25d810d6",
+                    "title": "OpenAI’s Ads Push Starts Taking Shape",
+                    "url": "https://www.theinformation.com/articles/openais-ads-push-starts-taking-shape?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16603,
+            "guid": "63bc3e",
+            "headline": "DoorDash’s Chief Revenue Officer Leaves After Five Months",
+            "dek": "Lee Brown had joined DoorDash after six years overseeing advertising at Spotify.",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-16/doordash-revenue-chief-lee-brown-departs-after-short-stint",
+            "source_label": "Bloomberg",
+            "body": "<p>DoorDash chief revenue officer Lee Brown is departing, just a few months after joining, DoorDash confirmed. The news was reported earlier by&nbsp;<a href=\"https://www.bloomberg.com/news/articles/2026-01-16/doordash-revenue-chief-lee-brown-departs-after-short-stint\">Bloomberg.</a></p>\n\n<p>Brown had joined DoorDash last summer after nearly six years at Spotify, where he was the global head of advertising. At DoorDash, Brown dealt with&nbsp;business development and accounting management with restaurants, grocery stores and other merchants, reporting to Chief Operating Officer Prabir Adarkar.</p>\n\n<p>Brown will be succeeded by DoorDash’s vice president of enterprise sales and business development, Shanna Preve. In a statement sent by DoorDash, Preve said her focus would be on “continuing to perfect our disciplined execution.” Brown was quoted saying he was “fortunate to have a front-row seat to how a world-class team scales and operates a global three-sided marketplace with extraordinary rigor. DoorDash continues to out-execute its competitive set, and I’m confident the business, strategy, and leadership position the company for an even stronger future.”</p>",
+            "published_at": "2026-01-16T15:27:17.612Z",
+            "url": "https://www.theinformation.com/briefings/doordashs-chief-revenue-officer-leaves-five-months?unlock=63bc3e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/doordashs-chief-revenue-officer-leaves-five-months?unlock=63bc3e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16602,
+            "guid": "1ccd5d",
+            "headline": "China’s Kuaishou to Raise $2 Billion in Bond Offering",
+            "dek": "The Chinese social media firm, which develops its own AI video models, is ramping up its AI-related investments. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Kuaishou Technology, which competes with ByteDance in China, on Friday announced a bond sale of $2 billion, in a move that could enable it to ramp up its AI investments.</p>\n\n<p>Hong Kong-listed Kuaishou is issuing $1.5 billion in U.S.-dollar denominated notes and about $500 million in offshore yuan notes, according to the company’s filings.</p>\n\n<p>Kuaishou, operates a popular short-video app and also develops its own AI video generation models known as Kling. The bond fundraising comes as Kling faces fierce competition in the AI video sector from Google and ByteDance as well as upstart Chinese firms like MiniMax and PixVerse.</p>\n\n<p>Last month, Kuaishou launched a new AI video model called O1, which not only creates videos but also offers various editing capabilities, such as modifying the background, adding and removing objects, or turning real-life videos into animation.</p>",
+            "published_at": "2026-01-16T06:38:09.881Z",
+            "url": "https://www.theinformation.com/briefings/chinas-kuaishou-raise-2-billion-bond-offering?unlock=1ccd5d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-kuaishou-raise-2-billion-bond-offering?unlock=1ccd5d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16601,
+            "guid": "fabb38",
+            "headline": "Two More AI Staffers Depart Murati’s Thinking Machines",
+            "dek": "The moves follow several other recent departures of senior researchers at Thinking Machines Lab.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Lia Guy and Ian O’Connell, members of technical staff at Thinking Machines Lab, which is led by former OpenAI Chief Technology Officer Mira Murati, are departing the company, according to a person with knowledge of the departures.</p>\n\n<p>Guy, who focuses on AI model research, will be returning to OpenAI, where she previously worked before joining Thinking Machines, the person said. O’Connell’s next move couldn’t be learned. He works in infrastructure engineering.</p>\n\n<p>The moves come a day after Thinking Machines Chief Technology Officer Barret Zoph and two other senior AI research staffers,&nbsp;Luke Metz and Sam Schoenholz, agreed to return to OpenAI, where they had worked together before leaving about a year ago to help establish Thinking Machines. Before the departures, Thinking Machines had more than 40 staffers.</p>\n\n<p>Spokespeople from OpenAI and Thinking Machines declined to comment. Guy and O’Connell didn’t respond to a request for comment.</p>\n\n<p>At the end of last year, Thinking Machines was in talks to raise between $4 billion and $5 billion in new funding at a valuation of at least $50 billion. It previously raised $2 billion at a $10 billion pre-investment valuation.</p>",
+            "published_at": "2026-01-15T21:23:18.287Z",
+            "url": "https://www.theinformation.com/briefings/two-ai-staffers-depart-muratis-thinking-machines?unlock=fabb38&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/two-ai-staffers-depart-muratis-thinking-machines?unlock=fabb38&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                },
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16600,
+            "guid": "97c28b",
+            "headline": "BlackRock Partnership Raises $12.5 Billion for Data Center Bets",
+            "dek": "The partnership is aiming to invest $30 billion in equity and as much as $100 billion when including debt.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>BlackRock raised $12.5 billion for the AI investment partnership it formed in 2024 with Microsoft and United Arab Emirates-backed MGX, giving it more firepower to invest in data centers and energy resources.</p>\n\n<p>Larry Fink, CEO of BlackRock, said Thursday it raised the money from the founders of the partnership, Global AI Infrastructure Investment Partnership, and outside investors. The partnership is aiming to invest $30 billion in equity and as much as $100 billion when including debt.</p>\n\n<p>The partnership last year invested in a $40 billion consortium deal to acquire Aligned Data Centers that’s expected to close in the first half of this year. MGX, which made an additional investment as part of the consortium, will be Aligned’s largest shareholder following the sale, The Information <a href=\"https://www.theinformation.com/articles/uae-fund-mgx-quietly-becomes-one-biggest-data-center-financiers\">reported</a>.</p>",
+            "published_at": "2026-01-15T17:59:18.462Z",
+            "url": "https://www.theinformation.com/briefings/blackrock-partnership-raises-12-5-billion-data-center-bets?unlock=97c28b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blackrock-partnership-raises-12-5-billion-data-center-bets?unlock=97c28b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16599,
+            "guid": "93939d",
+            "headline": "AWS Signs Copper Supply Deal With Rio Tinto ",
+            "dek": "The price of copper, a key material for data centers, hit record highs this month. \r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon Web Services has inked a deal with Rio Tinto to become the first buyer of copper that the mining giant is producing using a new mining technology.</p>\n\n<p>As part of the two-year supply deal,&nbsp; Rio Tinto will use AWS’ cloud and analytics services. The copper will come from an Arizona mine where Rio Tinto is using bioleaching technology to extract copper from deposits that previously were too expensive to process.</p>\n\n<p>The announcement comes as Amazon and other big tech companies rush to secure raw materials, power and other supplies needed to build and run data centers. The price of copper, which is used in wiring and other applications inside data centers, hit a record high earlier this month.</p>",
+            "published_at": "2026-01-15T16:32:50.597Z",
+            "url": "https://www.theinformation.com/briefings/aws-signs-copper-supply-deal-rio-tinto?unlock=93939d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-signs-copper-supply-deal-rio-tinto?unlock=93939d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16598,
+            "guid": "ccc49f",
+            "headline": "TSMC Announces Record Capital Spending of Up to $56 Billion to Ease Capacity Shortage",
+            "dek": "The world’s largest chipmaker projected 30% revenue growth for 2026 while working to boost production capacity for advanced AI chips.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Taiwan Semiconductor Manufacturing Company on Thursday announced a record capital expenditure between $52 billion and $56 billion for 2026, as it tries to ease the capacity constraint on its production facilities.</p>\n\n<p>About 70% to 80% of the spending will go to manufacturing equipment for cutting-edge chips, with the remainder split between chips for automotive and industrial uses, and advanced packaging technologies, TSMC CFO Wendell Huang said on an earnings call. By comparison, the company’s capital expenditure was $40.9 billion in 2025 and $29.8 billion in 2024.</p>\n\n<p>TSMC, which manufactures more than 90% of the world’s most advanced semiconductors, projects its revenue will grow nearly 30% this year. The company reported revenue in the December quarter grew 25.5% to $33.7 billion from a year earlier, and full-year 2025 revenue climbed 35.9% to $122 billion. The revenue growth is driven by tech companies racing to build AI infrastructure.</p>\n\n<p>CEO C.C. Wei said on the call that demand for cutting-edge AI chips continues to outstrip what TSMC can produce. Since new factories take two to three years to build, the company plans to squeeze more output from existing plants and upgrade older equipment to help bridge the gap over the next two years.</p>\n\n<p>Wei addressed concerns about whether demand for AI chips can last. “You’re trying to ask us whether AI demand is real or not. I’m also very nervous about it,” he told analysts. “If we don’t do it carefully, that’d be a big disaster for TSMC.”</p>",
+            "published_at": "2026-01-15T11:17:56.414Z",
+            "url": "https://www.theinformation.com/briefings/tsmc-announces-record-capital-spending-56-billion-ease-capacity-shortage?unlock=ccc49f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tsmc-announces-record-capital-spending-56-billion-ease-capacity-shortage?unlock=ccc49f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16402,
+                    "guid": "53762d5f1d",
+                    "title": "TSMC Can’t Make AI Chips Fast Enough",
+                    "url": "https://www.theinformation.com/articles/tsmc-make-ai-chips-fast-enough?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16597,
+            "guid": "f3390f",
+            "headline": "Alibaba Announces Major Upgrade of AI App for Consumers",
+            "dek": "The Qwen AI app, which went through a makeover in November, is now the centerpiece of Alibaba’s AI strategy for consumers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Chinese tech giant Alibaba Group is connecting its Qwen AI app with the company’s e-commerce, online travel and payment platforms, in a major upgrade that enables the chatbot to serve as an agent helping users with real-life tasks like ordering food online and booking trips.</p>\n\n<p>The upgrade allows the Qwen app to tap into Alibaba’s major platforms like the Taobao shopping app and the Fliggy travel app, as well as affiliate Ant Group’s Alipay app. The move shows how the Qwen chatbot app, which went through a complete makeover and was relaunched as a new app in November, is now the centerpiece of Alibaba’s AI strategy for consumers. Alibaba said the app, powered by the company’s own <a href=\"https://www.theinformation.com/articles/alibaba-helped-china-take-lead-u-s-open-source-ai?rc=jnr9wn\">AI foundation models</a>, now has 100 million monthly active users.</p>\n\n<p>Alibaba said the latest upgrade is part of its strategy to bring advanced AI capabilities into “practical, everyday use.” For example, the integration with Taobao’s instant commerce service—which offers a one-hour delivery of groceries and other everyday items—allows the Qwen app to order food and beverages online and complete the purchases for users.</p>\n\n<p>The latest upgrade comes after the Qwen app last month integrated Alibaba’s popular mapping app, Amap. The access to Amap enabled Qwen to offer more accurate and relevant travel planning as well as restaurant and hotel recommendations.</p>",
+            "published_at": "2026-01-15T06:59:23.341Z",
+            "url": "https://www.theinformation.com/briefings/alibaba-announces-major-upgrade-ai-app-consumers?unlock=f3390f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibaba-announces-major-upgrade-ai-app-consumers?unlock=f3390f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16596,
+            "guid": "2c847a",
+            "headline": "OpenAI Hires Three AI Researchers From Murati’s Thinking Machines Lab",
+            "dek": "It's a coup for OpenAI after the three men departed more than a year ago to help establish a younger rival.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI has rehired prominent AI researchers Barret Zoph, Luke Metz, and Sam Schoenholz, who had been working at rival Thinking Machines Lab, according to an X post from OpenAI&nbsp;applications chief Fidji Simo.</p>\n\n<p>The three researchers&nbsp;left OpenAI in late 2024 to help establish&nbsp;Thinking Machines, a high-profile startup led by former OpenAI Chief Technology Officer Mira Murati, who left around the same time. Zoph was CTO at Thinking Machines and will now report to Simo, who oversees ChatGPT. Previously, Zoph led post-training, or techniques the company uses to improve AI performance after their initial development.</p>\n\n<p>When the three researchers left OpenAI more than a year ago, OpenAI was facing adversity because of a string of departures from its vaunted research organization.</p>\n\n<p>Murati on Wednesday said in a post on X that Soumith Chintala, a well-known AI researcher hired in November, will be the new CTO of Thinking Machines.</p>\n\n<p>Thinking Machines is looking to make a name for itself in an increasingly crowded field of so-called neolabs, startups that hope to use new approaches to developing AI models they say major firms such as OpenAI and Anthropic may have overlooked. Thinking Machines, which was last valued at $10 billion, was <a href=\"https://www.theinformation.com/briefings/exclusive-muratis-thinking-machines-aims-raise-5-billion\">in talks at the end of last year to raise between $4 billion and $5 billion</a> in new funding at a valuation of at least $50 billion.</p>",
+            "published_at": "2026-01-15T00:08:53.267Z",
+            "url": "https://www.theinformation.com/briefings/muratis-thinking-machines-lab-removes-cto?unlock=2c847a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/muratis-thinking-machines-lab-removes-cto?unlock=2c847a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                },
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16595,
+            "guid": "aba464",
+            "headline": "OpenAI Signs $10 Billion Compute Deal With Chipmaker Cerebras ",
+            "dek": "OpenAI commits to spend 750 megawatts of computing power from Cerebras\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI on Wednesday announced a computing partnership with AI chip startup Cerebras Systems. As part of the deal, OpenAI plans to purchase 750 megawatts of computing power from the company through 2028, according to an OpenAI blog post.</p>\n\n<p>The deal is worth at least $10 billion, reported The Wall Street Journal.</p>\n\n<p>“OpenAI’s compute strategy is to build a resilient portfolio that matches the right systems to the right workloads,” said OpenAI’s Sachin Katti in the company’s blog post.&nbsp; Cerebras chips will help with faster responses and “more natural interactions” for its AI.</p>\n\n<p>Cerebras, backed by OpenAI CEO Sam Altman, is in talks to raise about $1 billion at a $22 billion pre-money valuation, <a href=\"https://www.theinformation.com/articles/chipmaker-cerebras-talks-raise-1-billion-22-billion-valuation?rc=8tzurb\">The Information previously reported</a>. The company is also expected to list in the coming months.</p>",
+            "published_at": "2026-01-14T22:31:42.315Z",
+            "url": "https://www.theinformation.com/briefings/openai-signs-compute-deal-worth-least-10-billion-chipmaker-cerebras?unlock=aba464&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-signs-compute-deal-worth-least-10-billion-chipmaker-cerebras?unlock=aba464&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
