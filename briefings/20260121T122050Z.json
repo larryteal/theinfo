@@ -1,0 +1,674 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16624,
+            "guid": "588d80",
+            "headline": "Nvidia CEO Plans China Visit After Beijing Restricts H200 Purchase",
+            "dek": "Jensen Huang heads to China amid fresh regulatory hurdles threatening Nvidia’s access to one of its most valuable markets",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-21/nvidia-s-huang-plans-to-visit-china-as-he-works-to-reopen-market?srnd=phx-technology",
+            "source_label": "Bloomberg",
+            "body": "<p>Nvidia CEO Jensen Huang is preparing for a trip to China later this month as the company works to regain its footing in this strategically important market, Bloomberg reported, citing a person with knowledge of the plans.</p>\n\n<p>Huang will join company festivities ahead of the Lunar New Year, a tradition he’s held in the last few years, while potentially making a stop in Beijing, according to Bloomberg. Whether he’ll secure face time with senior government officials remains uncertain and the itinerary hinges on whether key meetings actually come together, Bloomberg reported.</p>\n\n<p>The trip comes as Nvidia faces mounting regulatory hurdles in China. Beijing has narrowed the window for H200 purchases dramatically, telling companies last week imports could only be permitted in special circumstances, The Information reported.</p>\n\n<p>The planned visit shows Huang hasn’t relented his efforts to maintain access to China, where AI developers continue to have high demand for Nvidia’s advanced computing chips. The visit comes two months after President Donald Trump authorized the H200 chip sale to China, marking the biggest rollback of Biden-era semiconductor restrictions to date. While the H200 is the most powerful AI chip currently accessible to Chinese buyers, it still lags behind Nvidia’s latest Blackwell chips.</p>",
+            "published_at": "2026-01-21T10:10:39.572Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-china-visit-beijing-restricts-h200-purchase?unlock=588d80&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-china-visit-beijing-restricts-h200-purchase?unlock=588d80&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16623,
+            "guid": "453870",
+            "headline": "OpenAI Asks Advertisers to Spend Less Than $1 Million in Trial",
+            "dek": "The requests are part of a trial period for its new ChatGPT ads product",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI is asking a small group of advertisers for spending commitments of less than $1 million each over a several week trial period, as the company tests new ads within its ChatGPT chatbot, <a href=\"https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=zjctrx\">The Information reported on Tuesday</a>.</p>\n\n<p>The ads will launch as soon as February. To start, the company is charging on the basis of ad views as opposed to per-ad clicks that are typical at large sellers of search ads like Google and Amazon. OpenAI is also working on self-service ads.</p>\n\n<p>While OpenAI last week said it was introducing ads in ChatGPT for nonpaying users and subscribers in the U.S. to a new $8 a month tier, details of the ad model&nbsp;and cost weren’t known. Advertisers have been keen to test ads in OpenAI’s products, given the company’s reach of about 900 million weekly active users.</p>",
+            "published_at": "2026-01-21T03:32:44.339Z",
+            "url": "https://www.theinformation.com/briefings/openai-asks-advertisers-spend-less-1-million-trial?unlock=453870&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-asks-advertisers-spend-less-1-million-trial?unlock=453870&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                },
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16622,
+            "guid": "c3de84",
+            "headline": "Amazon Taps Former Microsoft Teams Engineer to Lead Key AI Product",
+            "dek": "A former Microsoft engineer who helped build that company's Teams product joins Amazon to lead Quick Suite, a collection of search and productivity tools. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon has tapped former Microsoft executive Jigar Thakkar to lead Quick Suite, a collection of enterprise search and agent-building tools it launched in October as part of a broader push to develop compelling AI applications.</p>\n\n<p>Thakkar, whose title is vice president of Quick Suite, is a key&nbsp;hire for Amazon, which hasn’t had the same level of traction for its cloud applications as it has in cloud infrastructure services. During his nearly two decades at Microsoft, he was&nbsp;part of a group that built its Teams workplace collaboration product.&nbsp;Thakkar spent the past seven-plus years as CTO and head of engineering at MCSI, a financial services firm.</p>\n\n<p>Quick Suite, which is similar to products from companies like Glean and Atlassian, is off to a good start internally, with “hundreds of thousands of users,” according to a company spokesperson. In a sign of its importance, Amazon CEO Andy Jassy personally announced Quick Suite when it launched in October.</p>",
+            "published_at": "2026-01-20T23:50:12.146Z",
+            "url": "https://www.theinformation.com/briefings/amazon-taps-former-microsoft-teams-engineer-lead-key-ai-product?unlock=c3de84&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-taps-former-microsoft-teams-engineer-lead-key-ai-product?unlock=c3de84&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16621,
+            "guid": "65c698",
+            "headline": "FTC Appeals Meta Ruling",
+            "dek": "The appeal of the November ruling will be heard by the U.S. Court of Appeals for the District of Columbia.",
+            "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+            "source_label": "The Information ",
+            "body": "<p>The Federal Trade Commission said it is appealing a November ruling that cleared Meta Platforms of accusations that the company improperly monopolized the social media business.</p>\n\n<p>In a statement, the FTC said the appeal will be heard by the U.S. Court of Appeals for the District of Columbia. The agency said after the November ruling that the judge in that case erred in finding that Meta did not have a monopoly in social media. A loss in the case could have forced Meta to divest from two of its biggest acquisitions, the apps Instagram and WhatsApp.</p>\n\n<p>“The Trump-Vance FTC will continue fighting its historic case against Meta to ensure that competition can thrive across the country to the benefit of all Americans and U.S. businesses,” the agency’s Bureau of Competition Director Daniel Guarnera said in a statement.</p>\n\n<p>In a statement, a Meta spokesperson said: “The District Court’s decision to reject the FTC’s arguments is correct, and recognizes the fierce competition we face. We will remain focused on innovating and investing in America.”</p>",
+            "published_at": "2026-01-20T22:58:52.622Z",
+            "url": "https://www.theinformation.com/briefings/ftc-appeals-meta-ruling?unlock=65c698&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ftc-appeals-meta-ruling?unlock=65c698&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16620,
+            "guid": "65e5d0",
+            "headline": "Amazon Could Open Up to AI Shopping Agents, Jassy Says",
+            "dek": "Amazon blocked AI shopping agents from its retail site last year. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon CEO Andy Jassy said on Tuesday that the retail giant is open to working with other companies to run their AI shopping assistants on its site, where it already offers its own shopping chatbot.</p>\n\n<p>“I think that over time we will work with other third-party agents as well,” Jassy&nbsp;said, speaking in an interview with The Information’s Jessica Lessin at the World Economic Forum in Davos.&nbsp;Amazon&nbsp;last year <a href=\"https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents\">took steps to block</a> AI shopping agents from companies including Google and OpenAI from its retail site.</p>\n\n<p>Jassy said that&nbsp;AI shopping agents often get product information or pricing wrong right now, but he expects that to improve and for retailers and AI firms to also hammer out agreeable financial terms. “I am optimistic that those will work out. We’re having conversations with lots of people and I’m very bullish on agentic commerce,” he said.</p>",
+            "published_at": "2026-01-20T22:26:20.126Z",
+            "url": "https://www.theinformation.com/briefings/amazon-open-ai-shopping-agents-jassy-says?unlock=65e5d0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-open-ai-shopping-agents-jassy-says?unlock=65e5d0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16428,
+                    "guid": "eb5f36a136",
+                    "title": "My Interview With Andy Jassy: OpenAI, Trump, Power and the Future of AWS",
+                    "url": "https://www.theinformation.com/articles/amazon-ceo-weighs-ai-shopping-wars-openai-relationship?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16619,
+            "guid": "344cb5",
+            "headline": "Netflix Reports Higher Than Projected Q4 Revenue",
+            "dek": "Netflix stock fell in after-hours trading after the company projected a growth slowdown in 2026.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Netflix reported 17.6% higher revenue in the fourth quarter, ahead of its projections, and revealed that its ad revenue had more than doubled in 2025 to $1.5 billion. That was the first time the company had given a precise number for its ad business, which was launched just over three years ago.</p>\n\n<p>But Netflix stock fell nearly 5% in after-hours trading after the company forecast that its revenue growth rate would slow to between 12% and 14% for 2026, well below last year’s 16% growth. That growth rate is despite the company’s expectation that its ad revenue would double again in 2026.</p>\n\n<p>Netflix also said it now had more than 325 million paid subscribers, the first time in a year it has given a number of subscribers. Netflix used to disclose the subscriber count every quarter but ceased a year ago.</p>",
+            "published_at": "2026-01-20T21:33:55.335Z",
+            "url": "https://www.theinformation.com/briefings/netflix-reports-higher-projected-q4-revenue?unlock=344cb5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/netflix-reports-higher-projected-q4-revenue?unlock=344cb5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16618,
+            "guid": "32bcd8",
+            "headline": "ServiceNow to Use OpenAI Models in Business Software",
+            "dek": "ServiceNow will pay OpenAI based on how much customers use the models. Exact terms of the deal were not disclosed.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>ServiceNow has signed a multi-year deal to pay for OpenAI’s artificial intelligence models in its business software, the two companies said on Tuesday. Under the agreement, OpenAI will now be the “preferred” AI model provider in ServiceNow’s software. In the past, ServiceNow let customers choose between AI models from OpenAI or other providers including Google and Anthropic.</p>\n\n<p>ServiceNow will pay OpenAI based on how much customers use the models, according to a spokesperson. Exact terms of the deal were not disclosed.</p>\n\n<p>The partnership reflects how both established enterprise software firms and AI labs are aiming to convince companies to spend more on AI software. OpenAI has been prioritizing growing enterprise use of its software because, unlike non-paying individual users of ChatGPT, <a href=\"https://www.theinformation.com/articles/openai-projected-least-220-million-people-will-pay-chatgpt-2030?rc=geicgp\">enterprises pay each time they use the models, helping margins</a>. Meanwhile, ServiceNow is one of many software firms racing to convince customers to spend more on <a href=\"https://www.theinformation.com/articles/snowflake-sierra-every-enterprise-software-firm-selling-ai-agents?rc=geicgp\">AI features that automate white collar tasks</a> like resolving IT help desk tickets or onboarding new employees, for example.</p>",
+            "published_at": "2026-01-20T21:27:06.131Z",
+            "url": "https://www.theinformation.com/briefings/servicenow-use-openai-models-business-software?unlock=32bcd8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/servicenow-use-openai-models-business-software?unlock=32bcd8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16617,
+            "guid": "e36e7b",
+            "headline": "Musk and Altman Tussle Over Reports of ChatGPT-Linked Deaths ",
+            "dek": "Altman took jabs at Musk’s companies Tesla and xAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk and Sam Altman traded barbs on X this week over media reports of deaths linked to OpenAI’s ChatGPT and other AI-related safety issues. On Monday, Musk <a href=\"https://x.com/elonmusk/status/2013269354817691703\">shared a post</a> about a man who committed a murder-suicide after a series of delusional conversations with ChatGPT, calling the story “diabolical” and saying that AI should “not pander to delusions.” On Tuesday, he followed up with <a href=\"https://x.com/elonmusk/status/2013646828768518163\">another post</a> saying “don’t let your loved ones use ChatGPT.”</p>\n\n<p>In response, Altman <a href=\"https://x.com/sama/status/2013703158459978076?s=20\">wrote</a> Tuesday that “we need to protect vulnerable users, while also making sure our guardrails still allow all of our users to benefit from our tools.” He also said that Musk had previously complained about ChatGPT’s moderation being too restrictive.</p>\n\n<p>In addition, Altman took jabs at Musk’s companies Tesla and xAI, writing: “Apparently more than 50 people have died from crashes related to Autopilot. I only ever rode in a car using it once, some time ago, but my first thought was that it was far from a safe thing for Tesla to have released. I won’t even start on some of the Grok decisions.” xAI has faced criticism in the past few weeks after Grok allowed some users to create <a href=\"https://www.theinformation.com/briefings/xais-grok-posts-sexualized-images-minors-x\">sexualized images of real people</a>, including minors.</p>",
+            "published_at": "2026-01-20T20:47:14.296Z",
+            "url": "https://www.theinformation.com/briefings/musk-altman-tussle-reports-chatgpt-linked-deaths?unlock=e36e7b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-altman-tussle-reports-chatgpt-linked-deaths?unlock=e36e7b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16616,
+            "guid": "729974",
+            "headline": "Pinterest Hires Lee Brown as Chief Business Officer",
+            "dek": "The appointment signals a shakeup by CEO Bill Ready, replacing veteran executive Bill Watkins with Brown.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Pinterest named former Spotify ads chief Lee Brown as its first Chief Business Officer, overseeing sales, content, “ad product marketing” and “customer-facing operations.” The appointment comes days after Brown quit DoorDash after just a few months.</p>\n\n<p>At the same time, Pinterest said Chief Revenue Officer Bill Watkins has decided to leave the company. Watkins had been with the firm for 12 years, helping Pinterest scale from zero to more than $4 billion in revenue, the company noted.</p>\n\n<p>Pinterest also hired Claudine Cheever from Amazon as Chief Marketing Officer, to oversee marketing and communications.</p>",
+            "published_at": "2026-01-20T15:31:14.548Z",
+            "url": "https://www.theinformation.com/briefings/pinterest-hires-lee-brown-chief-business-officer?unlock=729974&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pinterest-hires-lee-brown-chief-business-officer?unlock=729974&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16615,
+            "guid": "82dfe3",
+            "headline": "Netflix Makes WBD Offer All Cash",
+            "dek": "Netflix is only buying the film studio and streaming operations of WBD, leaving its cable channels to be spun off into a separate company.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Netflix is converting its offer for Warner Bros. Discovery to make it all cash, but at the same $27.75 a share level that the companies agreed in early December, both companies said Tuesday.</p>\n\n<p>The revised offer reflects pressure from bidder Paramount Skydance, which is offering $30 a share for all of Warner Bros. Discovery. Netflix is only buying the film studio and streaming operations of WBD, leaving aside its cable channels. WBD plans to spin off the cable channels as a separate company before the Netflix acquisition is completed.</p>\n\n<p>Netflix’s original offer was a mix of cash and stock but since the deal was announced, Netflix’s stock price has fallen, reducing the value of the offer. Meanwhile, Paramount has argued that its offer is superior because the cable channel spin off won’t trade at a very high level.</p>",
+            "published_at": "2026-01-20T14:12:57.114Z",
+            "url": "https://www.theinformation.com/briefings/netflix-makes-wbd-offer-cash?unlock=82dfe3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/netflix-makes-wbd-offer-cash?unlock=82dfe3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16614,
+            "guid": "72b329",
+            "headline": "OpenAI’s First Hardware Device Slated to Appear This Year",
+            "dek": "The device is being developed with the help of former Apple designer Jony Ive.",
+            "source_url": "https://www.axios.com/2026/01/19/openai-device-2026-lehane-jony-ive",
+            "source_label": "Axios",
+            "body": "<p>A top OpenAI executive said the company is planning to introduce its first hardware device in the latter half of 2026.</p>\n\n<p>In an interview with Axios at an event in Davos, Switzerland, Chris Lehane, OpenAI’s chief global affairs officer, said the AI startup is “on track” to show the product later in the year. That timing is consistent with past messages from OpenAI about its first device.</p>\n\n<p>OpenAI’s hardware devices will be the result of a collaboration between the company and Jony Ive, Apple’s former design chief. Last year, OpenAI acquired a device startup that Ive co-founded, io, though Ive still works for his independent design firm, LoveFrom. Lehane declined to discuss what type of device OpenAI’s first hardware product will be.</p>",
+            "published_at": "2026-01-19T22:20:51.041Z",
+            "url": "https://www.theinformation.com/briefings/openais-first-hardware-device-slated-appear-year?unlock=72b329&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openais-first-hardware-device-slated-appear-year?unlock=72b329&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16613,
+            "guid": "2276b9",
+            "headline": "Google Sees Surge in Developer Demand for Gemini",
+            "dek": "The growth could boost Google Cloud’s revenue. ",
+            "source_url": "https://www.theinformation.com/articles/googles-gemini-sees-skyrocketing-business-sales?rc=ndc4g0",
+            "source_label": "The Information",
+            "body": "<p>Google’s Gemini saw a doubling in developer demand during a five month period last year.</p>\n\n<p>The Information reported that, in August, Google saw around 85 billion requests from developers sent to its Gemini application programming interface, up from about 35 billion in March. Those requests, known as API calls, are the primary method through which Google sells access to those AI models.</p>\n\n<p>The growing demand could help lift revenues in Google’s cloud unit, which handles sales of Gemini to developers for the company. Another Google AI offering, Gemini Enterprise, has grown to 8 million subscribers, The Information reported. Gemini Enterprise combines access to the Gemini chatbot with the ability to search across a company’s internal data. It also includes a platform for building and using AI agents.</p>",
+            "published_at": "2026-01-19T21:03:16.316Z",
+            "url": "https://www.theinformation.com/briefings/google-sees-surge-developer-demand-gemini?unlock=2276b9&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-sees-surge-developer-demand-gemini?unlock=2276b9&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16423,
+                    "guid": "655fa98be9",
+                    "title": "Google’s Gemini Sees Developer Requests More Than Double in Five Months",
+                    "url": "https://www.theinformation.com/articles/googles-gemini-sees-skyrocketing-business-sales?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16612,
+            "guid": "3ffb38",
+            "headline": "OpenAI CFO Says Revenue Has Grown With Compute",
+            "dek": "OpenAI CFO Sarah Friar said the company's compute and revenue have tripled year over year for the last three years.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI Chief Financial Officer Sarah Friar said in a <a href=\"https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/\">blog post</a> on Sunday that the company’s annualized revenue has grown at approximately the same rate as its consumption of computational resources.</p>\n\n<p>Friar said that OpenAI’s compute has tripled year over year—from 0.2 gigawatts in 2023 to 0.6 gigawatts in 2024 and 1.9 gigawatts in 2025—while revenue has similarly tripled year over year—from $2 billion in annualized revenue in 2023 to $6 billion in 2024 to more than $20 billion in 2025.</p>\n\n<p>Friar also added in the post that the “next phase is agents and workflow automation that run continuously, carry context over time, and take action across tools.” This includes AI that “manages projects, coordinates plans, and executes tasks” for individuals and AI that “becomes an operating layer for knowledge work” for organizations, she wrote.</p>\n\n<p>Friar’s post comes as OpenAI looks to grow its access to computational resources even more. The company has struck deals with multiple cloud providers and chipmakers, including Oracle, Nvidia and Cerebras Systems, in recent months. It has also found new avenues to make money, including, most recently, adding advertisements to its free and cheaper tiers of ChatGPT.</p>",
+            "published_at": "2026-01-19T15:20:29.063Z",
+            "url": "https://www.theinformation.com/briefings/openai-cfo-says-revenue-grown-compute?unlock=3ffb38&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-cfo-says-revenue-grown-compute?unlock=3ffb38&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16611,
+            "guid": "844e40",
+            "headline": "Thinking Machines Departures Could Complicate Fundraising",
+            "dek": "Five Thinking Machines staffers left the startup last week, four of whom joined OpenAI",
+            "source_url": "https://www.theinformation.com/articles/thinking-machines-exodus-tests-investor-appetite-50-billion-valuation?rc=ndc4g0",
+            "source_label": "The Information",
+            "body": "<p>An exodus of staffers from Thinking Machines Lab this week has rattled some investors in the AI startup led by Mira Murati.</p>\n\n<p>The Information <a href=\"https://www.theinformation.com/articles/thinking-machines-exodus-tests-investor-appetite-50-billion-valuation?rc=ndc4g0\">reported</a> that Murati and other Thinking Machines employees were caught off guard earlier this week when two senior researchers at the startup, Luke Metz and Sam Schoenholz, posted their resignations to the company Slack during an all hands meeting. Murati used the all hands meeting to announce she had fired a Thinking Machines co-founder and chief technology officer, Barret Zoph. In total, five Thinking Machines staffers left the startup last week, four of whom joined OpenAI.</p>\n\n<p>The talent raid could complicate Thinking Machines’ efforts to close an ambitious funding round that aims to value the one-year-old company at $50 billion.</p>",
+            "published_at": "2026-01-19T01:31:40.459Z",
+            "url": "https://www.theinformation.com/briefings/thinking-machines-departures-complicate-fundraising?unlock=844e40&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/thinking-machines-departures-complicate-fundraising?unlock=844e40&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16422,
+                    "guid": "117987b18f",
+                    "title": "Thinking Machines Exodus Tests Investor Appetite for a $50 Billion Valuation",
+                    "url": "https://www.theinformation.com/articles/thinking-machines-exodus-tests-investor-appetite-50-billion-valuation?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16610,
+            "guid": "8b4ba2",
+            "headline": "Sequoia Plans Big Anthropic Investment",
+            "dek": "The venture firm is already a significant investor in OpenAI and xAI.",
+            "source_url": "https://www.ft.com/content/53220829-2ab2-471c-9a00-30d24beb8d48",
+            "source_label": "The Financial Times",
+            "body": "<p>Sequoia Capital is set to make a significant first-time investment in the AI start-up Anthropic as part of a major funding round expected to raise $25 billion or more, The Financial Times reported.</p>\n\n<p>Anthropic is seeking a valuation of $350 billion as part of the effort, more than double its valuation from just four months prior, The FT reported. The round is expected to include contributions from GIC, Coatue, Microsoft and Nvidia. Sequoia’s involvement is notable because the firm is also a backer of Anthropic’s rivals, including OpenAI and xAI, suggesting a belief that the AI market is large enough for multiple successful companies.</p>\n\n<p>Spokespeople for Sequoia and Anthropic didn’t respond to requests for comment.</p>",
+            "published_at": "2026-01-19T01:14:24.172Z",
+            "url": "https://www.theinformation.com/briefings/sequoia-plans-big-anthropic-investment?unlock=8b4ba2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/sequoia-plans-big-anthropic-investment?unlock=8b4ba2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16609,
+            "guid": "832dcd",
+            "headline": "Figure Countersues Former Safety Head",
+            "dek": "Figure alleges its former head of product safety saved company documents to his personal Google account.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Figure AI, the humanoid robotics startup, responded to a lawsuit from its former head of product safety Rob Gruendel and countersued Gruendel, according to court filings made public on Friday.</p>\n\n<p>Figure alleged in a filing that Gruendel violated trade secret law and company policy by saving company documents to his personal Google account, likely costing Figure at least $75,000 in damages. Figure also says that Gruendel refused to repay his $90,000 signing bonus as required by his employment contract, since he worked at the company for less than a full year.</p>\n\n<p>Gruendel sued Figure for wrongful termination and whistleblower retaliation in November, alleging that Figure had deprioritized safety and fired him for raising safety concerns. In the latest filings, Figure counters that it takes safety seriously and Gruendel was fired for poor performance.</p>\n\n<p>“Gruendel failed at his job,” Figure wrote in its countersuit. “Instead of assisting the company in fulfilling its safety mission, Gruendel’s tenure at Figure was marked by a fundamental inability to distinguish between safety engineering and compliance theater. The company terminated him after it concluded that he was wholly incapable of fulfilling the role for which he was hired: helping the company build a safe robot.”</p>\n\n<p>Figure pointed out in its filings that humanoid robotics are too early to have dedicated industrial safety standards. <a href=\"https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids\">As we have reported</a>, the U.S. is fast-tracking such guidance, after Gruendel suggested at a standards meeting last year that he could work with a different standards group to write a competing standard that is less strict than a forthcoming international standard.</p>",
+            "published_at": "2026-01-18T03:29:29.377Z",
+            "url": "https://www.theinformation.com/briefings/figure-countersues-safety-whistleblower?unlock=832dcd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/figure-countersues-safety-whistleblower?unlock=832dcd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16608,
+            "guid": "99a74e",
+            "headline": "Musk Seeks Up to $110 Billion from OpenAI",
+            "dek": "Musk argues OpenAI should give up the benefits that came from his donations years ago.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>If Elon Musk wins his breach of charitable trust lawsuit against OpenAI, the company should have to give up between $65.5&nbsp;billion and $109.43 billion to Musk, lawyers for the billionaire argued in a court filing Friday. Microsoft, which Musk alleges aided and abetted OpenAI’s breach of fiduciary duty, is on the hook for between $13.3&nbsp;billion and $25.06 billion, Musk’s lawyers argued.</p>\n\n<p>Though Musk only donated about $38 million to help establish OpenAI, his lawyers argue that OpenAI should have to forfeit all of the benefits they <a href=\"https://www.theinformation.com/articles/elon-musks-lawsuit-cost-openai-1-billion\">gained as a result of those donations</a>. The estimates of those benefits that Musk’s lawyers cited in their recent filing came from C. Paul Wazzan, an expert witness that Musk’s lawyers retained. Wazzan is an economist at Berkeley Research Group, an economic consulting firm. He arrived at the figures by taking the OpenAI nonprofit’s share of OpenAI’s business and assuming that Musk contributed between 50% and 75% of that value.</p>\n\n<p>Lawyers for OpenAI have objected to Wazzan’s methodology and asked the court to toss out much of his testimony. For instance, OpenAI’s lawyers argue that Wazzan did not adequately explain how he came up with Musk’s share of the nonprofit’s value.</p>\n\n<p><em>This brief has been updated to include OpenAI’s response to Wazzan’s testimony.</em></p>",
+            "published_at": "2026-01-18T03:27:24.047Z",
+            "url": "https://www.theinformation.com/briefings/musk-seeks-110-billion-openai?unlock=99a74e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-seeks-110-billion-openai?unlock=99a74e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16607,
+            "guid": "bffdff",
+            "headline": "Databricks Rival Clickhouse Valued at $15 Billion ",
+            "dek": "The company also bought observability startup Langfuse",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Clickhouse, a database management startup competing with Snowflake and Databricks, said Friday it had raised $400 million in a financing led by Dragoneer Investment Group. The round values the startup at $15 billion including the new investment, a spokesperson said. That’s more than double the valuation of its last round in May.</p>\n\n<p>The company also said it had bought Langfuse, a German startup that monitors AI systems. The acquisition follows <a href=\"https://www.theinformation.com/articles/snowflake-talks-buy-app-monitoring-startup-observe-inc-around-1-billion?rc=zjctrx\">Snowflake’s purchase of observability startup Observe</a>.</p>\n\n<p>Clickhouse software stores and manages digital event data, such as when a person clicks a button or fails to log in to an app. Some investors think ClickHouse’s data will be in more demand as developers turn to AI agents. The company said its annual recurring revenue rose 250% year over year. In the first quarter of 2025, it was generating roughly $70 million in annual recurring revenue, <a href=\"https://www.theinformation.com/articles/snowflake-challenger-clickhouse-targets-6-billion-valuation?rc=zjctrx\">The Information previously reported</a>. Over the last three months, customers Capital One, Lovable, Decagon, Polymarket&nbsp;and Airwallex have started to use the company’s services or expanded their business.</p>\n\n<p>Clickhouse was spun out of the Dutch parent of Russian search engine company Yandex in 2021. That parent company, renamed Nebius, owns a little less than 30% of Clickhouse. Shares of Nebius, <a href=\"https://www.theinformation.com/articles/coreweaves-quiet-rival-may-better-bet?rc=zjctrx\">which competes with Coreweave</a>, rose 5% on Friday. Bessemer Venture Partners, GIC and Index Ventures were among the other investors in the new round.</p>",
+            "published_at": "2026-01-17T18:41:25.879Z",
+            "url": "https://www.theinformation.com/briefings/databricks-rival-clickhouse-valued-15-billion?unlock=bffdff&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/databricks-rival-clickhouse-valued-15-billion?unlock=bffdff&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16606,
+            "guid": "511c49",
+            "headline": "Thinking Machines Leaders Confronted CTO Over Office Relationship Before Firing ",
+            "dek": "The executive's relationship could have contributed to his departure earlier this week.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Mira Murati, the chief executive of Thinking Machines Lab, told employees during a Wednesday allhands that the startup’s cofounder and then-CTO Barret Zoph lied about his relationship with another person&nbsp;leading up to his firing, according to a person with direct knowledge of the comments.</p>\n\n<p>Leaders at Thinking Machines Lab confronted Zoph over an alleged relationship with another employee last summer, Wired first reported.</p>\n\n<p>Murati also told employees that Zoph had performance issues at the company&nbsp;and that he had been talking with competitors. Zoph had recently met with leaders of Meta Superintelligence Labs, according to the person with knowledge of the situation.</p>\n\n<p>Since then, Zoph, along with another Thinking Machines cofounder and at least two other staffers, have been rehired by OpenAI. Fidji Simo, OpenAI’s CEO of Applications, said in a memo to staff this week that OpenAI does “not share these concerns” regarding reports that Zoph had been fired for “unethical conduct.”</p>\n\n<p>A spokesperson from Thinking Machines Lab declined to comment. Zoph could not be reached for a comment.</p>",
+            "published_at": "2026-01-17T02:37:34.010Z",
+            "url": "https://www.theinformation.com/briefings/thinking-machines-leaders-confronted-cto-office-relationship-firing?unlock=511c49&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/thinking-machines-leaders-confronted-cto-office-relationship-firing?unlock=511c49&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                },
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16605,
+            "guid": "b910ee",
+            "headline": "White House Asks for Emergency Power Auction in Mid-Atlantic",
+            "dek": "The intervention shows how President Donald Trump is trying to balance the growing electricity needs of AI data centers with rising costs for consumers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The White House and a bipartisan group of governors called on the largest U.S. electrical grid operator to hold an emergency auction for tech companies to buy power for data centers in the Mid-Atlantic region.</p>\n\n<p>U.S. energy officials asked PJM Interconnection to hold an auction for 15-year power contracts and require tech companies to pay for any new generation resources built for them. The White House said these measures could support the construction of $15 billion in new power plants.</p>\n\n<p>The intervention shows how President Donald Trump is trying to balance the growing electricity needs of AI data centers with rising costs for consumers, as tech companies clamor for energy resources to power apps like ChatGPT.</p>\n\n<p>A PJM spokesperson said it was reviewing the White House’s proposals and would consider them alongside other requests to speed up the connection of large new data centers to the grid.</p>",
+            "published_at": "2026-01-16T20:48:02.721Z",
+            "url": "https://www.theinformation.com/briefings/white-house-asks-emergency-power-auction-mid-atlantic?unlock=b910ee&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/white-house-asks-emergency-power-auction-mid-atlantic?unlock=b910ee&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
