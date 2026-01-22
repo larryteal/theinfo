@@ -1,0 +1,683 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16634,
+            "guid": "3717c7",
+            "headline": "Alibaba Prepares Chipmaking Unit for IPO",
+            "dek": "The move follows the listings of several Chinese chip designers recently. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-22/alibaba-is-said-to-plan-ipo-for-ai-chipmaking-unit-t-head",
+            "source_label": "Bloomberg",
+            "body": "<p>Alibaba Group is preparing to list its chipmaking unit T-Head, taking advantage of strong investor demand for companies developing AI processors to reduce China’s reliance on Nvidia, Bloomberg reported.</p>\n\n<p>Alibaba will first restructure the unit as a business partly owned by employees, before exploring an initial public offering, the timing of which is uncertain, the report said, citing people&nbsp; familiar with the matter.</p>\n\n<p>Several Chinese chip designers, including Moore Threads, MetaX Integrated Circuits, Biren Technology and Iluvatar Corex, went public in stock exchanges in Hong Kong and Shanghai over the past month, as China seeks to indigenize the supply of AI chips.</p>\n\n<p>Baidu also is poised to list its chipmaking subsidiary Kunlunxin.</p>",
+            "published_at": "2026-01-22T11:39:52.733Z",
+            "url": "https://www.theinformation.com/briefings/alibaba-prepares-chipmaking-unit-ipo?unlock=3717c7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibaba-prepares-chipmaking-unit-ipo?unlock=3717c7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16633,
+            "guid": "d3d2bf",
+            "headline": "Anthropic Lowered Gross Margin Projection as Costs to Run AI Rose",
+            "dek": "Higher inference costs weighed on gross margins.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p><a href=\"https://www.theinformation.com/org-charts/anthropic\">Anthropic</a>&nbsp;last month&nbsp;projected it would generate a 40% gross profit margin from selling AI to businesses and application developers in 2025,&nbsp; 10 percentage points lower than its&nbsp;earlier optimistic expectations, <a href=\"https://www.theinformation.com/articles/anthropic-lowers-profit-margin-projection-revenue-skyrockets?rc=zjctrx\">The Information reported</a> late Wednesday.</p>\n\n<p>The lower-than-expected gross profit margin resulted from the costs of running Anthropic models for paying customers, in a process known as inference, on servers from Google and Amazon. Those inference costs were 23% higher than the company had anticipated, the projections showed. Anthropic calculates gross margins by subtracting inference costs and other costs of selling its products. Its margin still improved from the year earlier.</p> &nbsp;",
+            "published_at": "2026-01-22T05:20:51.978Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-lowered-gross-margin-projection-costs-run-ai-rose?unlock=d3d2bf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-lowered-gross-margin-projection-costs-run-ai-rose?unlock=d3d2bf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16444,
+                    "guid": "45377d5bca",
+                    "title": "Anthropic Lowers Gross Margin Projection as Revenue Skyrockets",
+                    "url": "https://www.theinformation.com/articles/anthropic-lowers-profit-margin-projection-revenue-skyrockets?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16630,
+            "guid": "e943d6",
+            "headline": "Amazon Launches AI Assistant For One Medical Customers",
+            "dek": "The chatbot can draw on patients’ existing medical records\r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon-owned primary care chain One Medical said it is launching an AI health assistant, a move that comes on the heels of similar healthcare chatbot announcements from Anthropic and OpenAI.</p>\n\n<p>One Medical members, who pay an annual fee for virtual and in person health care services, can use the assistant for medical advice, booking appointments and interpreting lab results. One Medical’s&nbsp;chatbot uses models available on AWS service Bedrock. Amazon started testing the chatbot last year.</p>\n\n<p>Anthropic and OpenAI both said earlier this month that they were launching consumer healthcare services, and OpenAI also recently acquired Torch, a healthcare AI app that can collate medical data from various providers.</p>",
+            "published_at": "2026-01-22T04:22:13.584Z",
+            "url": "https://www.theinformation.com/briefings/amazon-launches-ai-assistant-one-medical-customers?unlock=e943d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-launches-ai-assistant-one-medical-customers?unlock=e943d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16632,
+            "guid": "433a02",
+            "headline": "Apple Developing AI Wearable Pin in Challenge to OpenAI, Meta",
+            "dek": "The device would position Apple to compete more effectively with OpenAI and Meta Platforms, which are planning or already selling their own AI-powered devices.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple is developing an AI-powered wearable pin that could be released as early as 2027, according to people with direct knowledge of the matter.</p>\n\n<p>The device would position Apple to compete more effectively with OpenAI, which is planning its own AI-powered devices, and Meta Platforms, which is already selling smart glasses.</p>\n\n<p>Apple’s pin is a thin, flat, circular disc with an aluminum-and-glass shell and features two cameras—a standard lens and a wide-angle lens—on its front face, designed to capture photos and videos of the user’s surroundings. It includes three microphones to pick up sounds in the area surrounding the person wearing it.</p>\n\n<p>It also has a speaker, a physical button along one of its edges and a magnetic inductive charging interface on its back, similar to the one used on the Apple Watch. Apple engineers are aiming to make the pin the same size as an AirTag, only slightly thicker.</p>",
+            "published_at": "2026-01-21T23:49:41.534Z",
+            "url": "https://www.theinformation.com/briefings/apple-developing-ai-wearable-pin-challenge-openai-meta?unlock=433a02&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-developing-ai-wearable-pin-challenge-openai-meta?unlock=433a02&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16631,
+            "guid": "c6aec2",
+            "headline": "Apple Plans a Conversational Siri, Discusses Google TPU Deal",
+            "dek": "Apple may use Google’s cloud and chips to launch a new Siri",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai",
+            "source_label": "Bloomberg",
+            "body": "<p>Apple plans to bring more conversational capabilities to Siri, turning it more into a chatbot like ChatGPT, Bloomberg reported. The update, codenamed Campos, will take advantage of Google’s Gemini AI model, part of a deal Apple announced with Google last week, the news outlet said. The Information also <a href=\"https://www.theinformation.com/newsletters/ai-agenda/apple-using-gemini-give-chatgpt-like-answers\">reported</a> last week that Apple plans to bring more conversational capabilities to Siri using Google’s technology.</p>\n\n<p>Bloomberg also reported that Apple is in talks with Google about using the company’s cloud infrastructure, including its AI chips, tensor processing units, to launch the updated Siri. If those discussions turn into a deal, it would amount to a reversal of Apple’s previous plans, which involved running its AI features only on Apple devices or in Apple’s new private cloud system, called Private Cloud Compute.</p>",
+            "published_at": "2026-01-21T23:33:13.301Z",
+            "url": "https://www.theinformation.com/briefings/apple-plans-conversational-siri-discusses-google-tpu-deal?unlock=c6aec2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-plans-conversational-siri-discusses-google-tpu-deal?unlock=c6aec2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16439,
+                    "guid": "6ec41fc4f2",
+                    "title": "Apple Developing AI Wearable Pin",
+                    "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16629,
+            "guid": "61dd83",
+            "headline": "Yelp to Buy AI Agent Startup for $300 Million ",
+            "dek": "The startup, Hatch, offers contractors and other service providers AI-powered agents to respond to customer requests for a month fee. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Recommendation app Yelp on Wednesday said it agreed to acquire AI agent startup Hatch for $300 million, or roughly 12 times the startup’s annual recurring revenue.</p>\n\n<p>Hatch charges a monthly fee for AI-powered agents that can respond to customer inquiries and make appointments. Yelp, which has a $1.8 billion market capitalization, said it plans to operate Hatch as a standalone business as well as offer Hatch’s services to plumbers, contractors and other professionals that list on Yelp.</p>\n\n<p>Automating such tasks is “an area that’s been exploding rapidly&nbsp;pretty much since 2023 or so with the release of ChatGPT….that ignited the opportunity that Hatch was really a first mover on,” said Yelp CEO Jeremy Stoppelman.</p>\n\n<p>Founded in 2018, New York-based Hatch employs about 150 people. It has raised about $14 million from Bessemer Venture Partners, Y Combinator and other investors.</p>\n\n<p>The deal is expected to close next month. Yelp said it is paying $270 million in cash and will spend $30 million for employee retention to be paid out over two to three years. Yelp said Hatch is generating $25 million annual recurring revenue, up 70% year over year. The purchase price as a multiple of forward revenue is <a href=\"https://www.theinformation.com/newsletters/dealmaker/numbers-behind-snowflakes-1-billion-app-monitoring-acquisition?rc=zjctrx\">less than some other recent AI startup acquisitions</a>.</p>\n\n<p>Hatch’s subscription revenue could diversify Yelp’s business, which is largely based on selling advertising. Yelp in October launched its own AI agents which take calls on behalf of a service provider or restaurant.</p>",
+            "published_at": "2026-01-21T21:05:46.024Z",
+            "url": "https://www.theinformation.com/briefings/yelp-buy-ai-agent-startup-300-million?unlock=61dd83&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/yelp-buy-ai-agent-startup-300-million?unlock=61dd83&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16628,
+            "guid": "55458d",
+            "headline": "Technical Committee Members Named in Google Search Remedy",
+            "dek": "The technical committee is tasked with enforcing the remedy against Google.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Department of Justice on Wednesday named three people to a technical committee that will oversee the implementation of the remedy for Google’s illegal search monopoly. The three are&nbsp;Tammy Savage, a former Microsoft general manager; Gerry Campbell, a longtime search executive who has worked at AOL and Alta Vista; and John Abowd, a professor emeritus of economics, statistics and data science at Cornell University, according to a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1475.1.pdf\">filing</a> from the DOJ.</p>\n\n<p>The technical committee is tasked with enforcing the remedy against Google, which includes banning exclusive distribution agreements for Google Search and forcing some data sharing with Google’s rivals. The technical committee will consult on details of the remedy, such as how often Google has to share data and how search competitors can use search results syndicated from Google.</p>\n\n<p>The technical committee requirement mirrors the technical committee installed after Microsoft’s antitrust loss, more than two decades ago. The three members named on Wednesday will select the remaining two members of the five-person committee. Savage, chosen by the Department of Justice, will chair the committee. Abowd, who was chosen by Google, has published research focusing on data security and privacy. During the remedies portion of the trial, Google repeatedly criticized plaintiffs’ proposed remedies for posing data security concerns.</p>",
+            "published_at": "2026-01-21T20:54:29.427Z",
+            "url": "https://www.theinformation.com/briefings/technical-committee-members-named-google-search-remedy?unlock=55458d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/technical-committee-members-named-google-search-remedy?unlock=55458d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16627,
+            "guid": "55ba0f",
+            "headline": "Blue Origin Plans Enterprise Rival to SpaceX’s Starlink and Amazon Leo ",
+            "dek": "Unlike Starlink or Leo, which are targeting both individual consumers and enterprise customers, TeraWave is aimed only at large customers who need especially fast internet speeds. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Jeff Bezos’ space company Blue Origin is planning to build an ultra-fast satellite internet service aimed at large companies, data centers and governments, the company <a href=\"https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity\">said</a> Wednesday. The service, called TeraWave, would put Blue Origin in competition with SpaceX’s Starlink and Amazon Leo.</p>\n\n<p>Blue Origin plans to launch the first TeraWave satellites in the fourth quarter of 2027. Unlike Starlink or Leo, which are targeting both individual consumers and enterprise customers, TeraWave is aimed only at large customers who need especially fast internet speeds.</p>\n\n<p>Blue Origin said it plans to launch more than 5,000 satellites to support the service, which will provide internet speeds of up to 6 terabits per second. Currently, SpaceX’s Starlink is by far the leader in satellite internet, with more than 9 million customers and billions of dollars in revenue. Amazon Leo has launched 180 satellites and began an “enterprise preview” in November, but has yet to make its service widely available.</p>",
+            "published_at": "2026-01-21T20:32:13.247Z",
+            "url": "https://www.theinformation.com/briefings/blue-origin-plans-enterprise-rival-spacexs-starlink-amazon-leo?unlock=55ba0f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blue-origin-plans-enterprise-rival-spacexs-starlink-amazon-leo?unlock=55ba0f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16626,
+            "guid": "67d33a",
+            "headline": "ChatGPT Checkouts to Take 4% Cut of Shopify Merchant Sales",
+            "dek": "Shopify told its merchants their products will start appearing in AI chats later this month.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shopify has told merchants that use its commerce software that it will open up sales through AI chatbots like ChatGPT later this month, according to its site and communications with sellers. Merchants will pay OpenAI a 4% fee on sales made through ChatGPT’s checkout feature, a Shopify spokesperson confirmed, on top of typical transaction fees Shopify charges such as payments processing.</p>\n\n<p>OpenAI, Google and Microsoft have all announced chatbot checkout features in recent months. Beginning Jan. 26, Shopify will begin making its merchants’ products available for purchase through the checkout features in AI apps including ChatGPT, Google’s AI Mode and Gemini and Microsoft Copilot, the company told merchants. As part of that rollout, most Shopify merchants’ product details will be available to the AI apps through a data-sharing setup that Shopify announced late last year.</p>\n\n<p>Merchants’ products will be available for purchase by default in AI checkout features that don’t charge an additional fee. For now, sales made through Google and Microsoft’s chatbot checkouts will not carry additional fees, the Shopify spokesperson said. For checkouts that charge a fee, such as ChatGPT, merchants will need to opt in to make their products available for purchase. Merchants can toggle AI platforms on or off individually to choose which channels to sell in, but their products will still appear in AI responses with links to their own websites. To keep products from appearing in AI responses, merchants must contact the AI companies or prevent their listings from being indexed by web crawlers.</p>",
+            "published_at": "2026-01-21T18:52:23.052Z",
+            "url": "https://www.theinformation.com/briefings/chatgpt-checkouts-take-4-cut-shopify-merchant-sales?unlock=67d33a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chatgpt-checkouts-take-4-cut-shopify-merchant-sales?unlock=67d33a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16396,
+                    "guid": "f307ae4fc5",
+                    "title": "Google Flips OpenAI’s Shopping Strategy on Its Head",
+                    "url": "https://www.theinformation.com/articles/google-flips-openais-shopping-strategy-head?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16625,
+            "guid": "658d32",
+            "headline": "OpenAI CFO Responds to Google Criticism, Touts Infrastructure Progress at Davos",
+            "dek": "In response to Google criticism about OpenAI's ad plans, Friar said “I am trying to create as much optionality as possible.” ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CFO Sarah Friar said the company’s custom inference chip is being “taped out”—the final step before manufacturing—and touted the progress of its more than $500 billion Stargate infrastructure project in a panel at the World Economic Forum Wednesday.</p>\n\n<p>In a conversation I moderated, Friar also pushed back against shots fired at OpenAI by Google Deep Mind CEO Demis Hassabis at Davos. In interviews with multiple media outlets, Hassabis said he was&nbsp; “surprised” that OpenAI was moving to introduce ads. In response to the criticism, Friar said: “I am trying to create as much optionality as possible.”</p>\n\n<p>“Early is a weird word because in ad models you have to be at scale,” she added. On Stargate, which was announced one year ago, she said that the project is “well over halfway built out” and OpenAI is already training models on servers at Oracle’s Stargate campus. “It’s gone better than we all dreamed,” she said.</p>",
+            "published_at": "2026-01-21T13:40:43.879Z",
+            "url": "https://www.theinformation.com/briefings/openai-cfo-responds-google-criticism-touts-infrastructure-progress-davos?unlock=658d32&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-cfo-responds-google-criticism-touts-infrastructure-progress-davos?unlock=658d32&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16624,
+            "guid": "588d80",
+            "headline": "Nvidia CEO Plans China Visit After Beijing Restricts H200 Purchase",
+            "dek": "Jensen Huang heads to China amid fresh regulatory hurdles threatening Nvidia’s access to one of its most valuable markets",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-21/nvidia-s-huang-plans-to-visit-china-as-he-works-to-reopen-market?srnd=phx-technology",
+            "source_label": "Bloomberg",
+            "body": "<p>Nvidia CEO Jensen Huang is preparing for a trip to China later this month as the company works to regain its footing in this strategically important market, Bloomberg reported, citing a person with knowledge of the plans.</p>\n\n<p>Huang will join company festivities ahead of the Lunar New Year, a tradition he’s held in the last few years, while potentially making a stop in Beijing, according to Bloomberg. Whether he’ll secure face time with senior government officials remains uncertain and the itinerary hinges on whether key meetings actually come together, Bloomberg reported.</p>\n\n<p>The trip comes as Nvidia faces mounting regulatory hurdles in China. Beijing has narrowed the window for H200 purchases dramatically, telling companies last week imports could only be permitted in special circumstances, The Information reported.</p>\n\n<p>The planned visit shows Huang hasn’t relented his efforts to maintain access to China, where AI developers continue to have high demand for Nvidia’s advanced computing chips. The visit comes two months after President Donald Trump authorized the H200 chip sale to China, marking the biggest rollback of Biden-era semiconductor restrictions to date. While the H200 is the most powerful AI chip currently accessible to Chinese buyers, it still lags behind Nvidia’s latest Blackwell chips.</p>",
+            "published_at": "2026-01-21T10:10:39.572Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-china-visit-beijing-restricts-h200-purchase?unlock=588d80&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-plans-china-visit-beijing-restricts-h200-purchase?unlock=588d80&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16623,
+            "guid": "453870",
+            "headline": "OpenAI Asks Advertisers to Spend Less Than $1 Million in Trial",
+            "dek": "The requests are part of a trial period for its new ChatGPT ads product",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI is asking a small group of advertisers for spending commitments of less than $1 million each over a several week trial period, as the company tests new ads within its ChatGPT chatbot, <a href=\"https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=zjctrx\">The Information reported on Tuesday</a>.</p>\n\n<p>The ads will launch as soon as February. To start, the company is charging on the basis of ad views as opposed to per-ad clicks that are typical at large sellers of search ads like Google and Amazon. OpenAI is also working on self-service ads.</p>\n\n<p>While OpenAI last week said it was introducing ads in ChatGPT for nonpaying users and subscribers in the U.S. to a new $8 a month tier, details of the ad model&nbsp;and cost weren’t known. Advertisers have been keen to test ads in OpenAI’s products, given the company’s reach of about 900 million weekly active users.</p>",
+            "published_at": "2026-01-21T03:32:44.339Z",
+            "url": "https://www.theinformation.com/briefings/openai-asks-advertisers-spend-less-1-million-trial?unlock=453870&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-asks-advertisers-spend-less-1-million-trial?unlock=453870&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                },
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16622,
+            "guid": "c3de84",
+            "headline": "Amazon Taps Former Microsoft Teams Engineer to Lead Key AI Product",
+            "dek": "A former Microsoft engineer who helped build that company's Teams product joins Amazon to lead Quick Suite, a collection of search and productivity tools. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon has tapped former Microsoft executive Jigar Thakkar to lead Quick Suite, a collection of enterprise search and agent-building tools it launched in October as part of a broader push to develop compelling AI applications.</p>\n\n<p>Thakkar, whose title is vice president of Quick Suite, is a key&nbsp;hire for Amazon, which hasn’t had the same level of traction for its cloud applications as it has in cloud infrastructure services. During his nearly two decades at Microsoft, he was&nbsp;part of a group that built its Teams workplace collaboration product.&nbsp;Thakkar spent the past seven-plus years as CTO and head of engineering at MCSI, a financial services firm.</p>\n\n<p>Quick Suite, which is similar to products from companies like Glean and Atlassian, is off to a good start internally, with “hundreds of thousands of users,” according to a company spokesperson. In a sign of its importance, Amazon CEO Andy Jassy personally announced Quick Suite when it launched in October.</p>",
+            "published_at": "2026-01-20T23:50:12.146Z",
+            "url": "https://www.theinformation.com/briefings/amazon-taps-former-microsoft-teams-engineer-lead-key-ai-product?unlock=c3de84&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-taps-former-microsoft-teams-engineer-lead-key-ai-product?unlock=c3de84&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16621,
+            "guid": "65c698",
+            "headline": "FTC Appeals Meta Ruling",
+            "dek": "The appeal of the November ruling will be heard by the U.S. Court of Appeals for the District of Columbia.",
+            "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case",
+            "source_label": "The Information ",
+            "body": "<p>The Federal Trade Commission said it is appealing a November ruling that cleared Meta Platforms of accusations that the company improperly monopolized the social media business.</p>\n\n<p>In a statement, the FTC said the appeal will be heard by the U.S. Court of Appeals for the District of Columbia. The agency said after the November ruling that the judge in that case erred in finding that Meta did not have a monopoly in social media. A loss in the case could have forced Meta to divest from two of its biggest acquisitions, the apps Instagram and WhatsApp.</p>\n\n<p>“The Trump-Vance FTC will continue fighting its historic case against Meta to ensure that competition can thrive across the country to the benefit of all Americans and U.S. businesses,” the agency’s Bureau of Competition Director Daniel Guarnera said in a statement.</p>\n\n<p>In a statement, a Meta spokesperson said: “The District Court’s decision to reject the FTC’s arguments is correct, and recognizes the fierce competition we face. We will remain focused on innovating and investing in America.”</p>",
+            "published_at": "2026-01-20T22:58:52.622Z",
+            "url": "https://www.theinformation.com/briefings/ftc-appeals-meta-ruling?unlock=65c698&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ftc-appeals-meta-ruling?unlock=65c698&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 3158,
+                    "display_name": "Nick Wingfield"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16620,
+            "guid": "65e5d0",
+            "headline": "Amazon Could Open Up to AI Shopping Agents, Jassy Says",
+            "dek": "Amazon blocked AI shopping agents from its retail site last year. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon CEO Andy Jassy said on Tuesday that the retail giant is open to working with other companies to run their AI shopping assistants on its site, where it already offers its own shopping chatbot.</p>\n\n<p>“I think that over time we will work with other third-party agents as well,” Jassy&nbsp;said, speaking in an interview with The Information’s Jessica Lessin at the World Economic Forum in Davos.&nbsp;Amazon&nbsp;last year <a href=\"https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents\">took steps to block</a> AI shopping agents from companies including Google and OpenAI from its retail site.</p>\n\n<p>Jassy said that&nbsp;AI shopping agents often get product information or pricing wrong right now, but he expects that to improve and for retailers and AI firms to also hammer out agreeable financial terms. “I am optimistic that those will work out. We’re having conversations with lots of people and I’m very bullish on agentic commerce,” he said.</p>",
+            "published_at": "2026-01-20T22:26:20.126Z",
+            "url": "https://www.theinformation.com/briefings/amazon-open-ai-shopping-agents-jassy-says?unlock=65e5d0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-open-ai-shopping-agents-jassy-says?unlock=65e5d0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16428,
+                    "guid": "eb5f36a136",
+                    "title": "My Interview With Andy Jassy: OpenAI, Trump, Power and the Future of AWS",
+                    "url": "https://www.theinformation.com/articles/amazon-ceo-weighs-ai-shopping-wars-openai-relationship?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16619,
+            "guid": "344cb5",
+            "headline": "Netflix Reports Higher Than Projected Q4 Revenue",
+            "dek": "Netflix stock fell in after-hours trading after the company projected a growth slowdown in 2026.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Netflix reported 17.6% higher revenue in the fourth quarter, ahead of its projections, and revealed that its ad revenue had more than doubled in 2025 to $1.5 billion. That was the first time the company had given a precise number for its ad business, which was launched just over three years ago.</p>\n\n<p>But Netflix stock fell nearly 5% in after-hours trading after the company forecast that its revenue growth rate would slow to between 12% and 14% for 2026, well below last year’s 16% growth. That growth rate is despite the company’s expectation that its ad revenue would double again in 2026.</p>\n\n<p>Netflix also said it now had more than 325 million paid subscribers, the first time in a year it has given a number of subscribers. Netflix used to disclose the subscriber count every quarter but ceased a year ago.</p>",
+            "published_at": "2026-01-20T21:33:55.335Z",
+            "url": "https://www.theinformation.com/briefings/netflix-reports-higher-projected-q4-revenue?unlock=344cb5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/netflix-reports-higher-projected-q4-revenue?unlock=344cb5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16618,
+            "guid": "32bcd8",
+            "headline": "ServiceNow to Use OpenAI Models in Business Software",
+            "dek": "ServiceNow will pay OpenAI based on how much customers use the models. Exact terms of the deal were not disclosed.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>ServiceNow has signed a multi-year deal to pay for OpenAI’s artificial intelligence models in its business software, the two companies said on Tuesday. Under the agreement, OpenAI will now be a “preferred” AI model provider in ServiceNow’s software. ServiceNow lets customers choose between AI models from OpenAI or other providers including Google and Anthropic, but the new partnership embeds several of OpenAI’s models directly in ServiceNow’s product for customers who choose them.</p>\n\n<p>ServiceNow will pay OpenAI based on how much customers use the models, according to a spokesperson. Exact terms of the deal were not disclosed.</p>\n\n<p>The partnership reflects how both established enterprise software firms and AI labs are aiming to convince companies to spend more on AI software. OpenAI has been prioritizing growing enterprise use of its software because, unlike non-paying individual users of ChatGPT, <a href=\"https://www.theinformation.com/articles/openai-projected-least-220-million-people-will-pay-chatgpt-2030?rc=geicgp\">enterprises pay each time they use the models, helping margins</a>. Meanwhile, ServiceNow is one of many software firms racing to convince customers to spend more on <a href=\"https://www.theinformation.com/articles/snowflake-sierra-every-enterprise-software-firm-selling-ai-agents?rc=geicgp\">AI features that automate white collar tasks</a> like resolving IT help desk tickets or onboarding new employees, for example.</p>",
+            "published_at": "2026-01-20T21:27:06.131Z",
+            "url": "https://www.theinformation.com/briefings/servicenow-use-openai-models-business-software?unlock=32bcd8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/servicenow-use-openai-models-business-software?unlock=32bcd8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16617,
+            "guid": "e36e7b",
+            "headline": "Musk and Altman Tussle Over Reports of ChatGPT-Linked Deaths ",
+            "dek": "Altman took jabs at Musk’s companies Tesla and xAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk and Sam Altman traded barbs on X this week over media reports of deaths linked to OpenAI’s ChatGPT and other AI-related safety issues. On Monday, Musk <a href=\"https://x.com/elonmusk/status/2013269354817691703\">shared a post</a> about a man who committed a murder-suicide after a series of delusional conversations with ChatGPT, calling the story “diabolical” and saying that AI should “not pander to delusions.” On Tuesday, he followed up with <a href=\"https://x.com/elonmusk/status/2013646828768518163\">another post</a> saying “don’t let your loved ones use ChatGPT.”</p>\n\n<p>In response, Altman <a href=\"https://x.com/sama/status/2013703158459978076?s=20\">wrote</a> Tuesday that “we need to protect vulnerable users, while also making sure our guardrails still allow all of our users to benefit from our tools.” He also said that Musk had previously complained about ChatGPT’s moderation being too restrictive.</p>\n\n<p>In addition, Altman took jabs at Musk’s companies Tesla and xAI, writing: “Apparently more than 50 people have died from crashes related to Autopilot. I only ever rode in a car using it once, some time ago, but my first thought was that it was far from a safe thing for Tesla to have released. I won’t even start on some of the Grok decisions.” xAI has faced criticism in the past few weeks after Grok allowed some users to create <a href=\"https://www.theinformation.com/briefings/xais-grok-posts-sexualized-images-minors-x\">sexualized images of real people</a>, including minors.</p>",
+            "published_at": "2026-01-20T20:47:14.296Z",
+            "url": "https://www.theinformation.com/briefings/musk-altman-tussle-reports-chatgpt-linked-deaths?unlock=e36e7b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/musk-altman-tussle-reports-chatgpt-linked-deaths?unlock=e36e7b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16616,
+            "guid": "729974",
+            "headline": "Pinterest Hires Lee Brown as Chief Business Officer",
+            "dek": "The appointment signals a shakeup by CEO Bill Ready, replacing veteran executive Bill Watkins with Brown.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Pinterest named former Spotify ads chief Lee Brown as its first Chief Business Officer, overseeing sales, content, “ad product marketing” and “customer-facing operations.” The appointment comes days after Brown quit DoorDash after just a few months.</p>\n\n<p>At the same time, Pinterest said Chief Revenue Officer Bill Watkins has decided to leave the company. Watkins had been with the firm for 12 years, helping Pinterest scale from zero to more than $4 billion in revenue, the company noted.</p>\n\n<p>Pinterest also hired Claudine Cheever from Amazon as Chief Marketing Officer, to oversee marketing and communications.</p>",
+            "published_at": "2026-01-20T15:31:14.548Z",
+            "url": "https://www.theinformation.com/briefings/pinterest-hires-lee-brown-chief-business-officer?unlock=729974&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pinterest-hires-lee-brown-chief-business-officer?unlock=729974&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16615,
+            "guid": "82dfe3",
+            "headline": "Netflix Makes WBD Offer All Cash",
+            "dek": "Netflix is only buying the film studio and streaming operations of WBD, leaving its cable channels to be spun off into a separate company.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Netflix is converting its offer for Warner Bros. Discovery to make it all cash, but at the same $27.75 a share level that the companies agreed in early December, both companies said Tuesday.</p>\n\n<p>The revised offer reflects pressure from bidder Paramount Skydance, which is offering $30 a share for all of Warner Bros. Discovery. Netflix is only buying the film studio and streaming operations of WBD, leaving aside its cable channels. WBD plans to spin off the cable channels as a separate company before the Netflix acquisition is completed.</p>\n\n<p>Netflix’s original offer was a mix of cash and stock but since the deal was announced, Netflix’s stock price has fallen, reducing the value of the offer. Meanwhile, Paramount has argued that its offer is superior because the cable channel spin off won’t trade at a very high level.</p>",
+            "published_at": "2026-01-20T14:12:57.114Z",
+            "url": "https://www.theinformation.com/briefings/netflix-makes-wbd-offer-cash?unlock=82dfe3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/netflix-makes-wbd-offer-cash?unlock=82dfe3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        }
+    ]
+}
