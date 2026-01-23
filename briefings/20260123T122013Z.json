@@ -1,0 +1,697 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16644,
+            "guid": "b70580",
+            "headline": "TikTok Completes Sale of Data Security Arm to Joint Venture",
+            "dek": "The deal, blessed by President Trump last September, doesn't entirely sever TikTok from ByteDance.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>TikTok announced it has completed a restructuring in which its data security arm is being sold into a joint venture,&nbsp;owned by a group of investors including Oracle, MGX&nbsp;and Silver Lake, to bring the popular app into compliance with a 2024 law. The law had required TikTok’s U.S. operations to sever its ties with its Chinese parent ByteDance or face a ban.</p>\n\n<p>The deal, blessed by President Trump last September, doesn’t entirely sever TikTok from ByteDance. As previously reported, and confirmed in today’s announcement, the joint venture will oversee the protection of TikTok’s U.S. user data, the security of the algorithm that governs what people see on the app and oversee content moderation. TikTok’s business—the sale of advertising and the running of TikTok Shop—remains part of ByteDance.</p>\n\n<p>Thursday’s announcement named the board members for the new joint venture. They include TikTok CEO Shou Chew, as well as Mark Dooley, a representative&nbsp;of ByteDance investors Susquehanna International Group, as well as Silver Lake co-CEO Egon Durban, Timothy Dattels from TPG Global, Oracle executive Ken Glueck and MGX executive David Scott. As expected, TikTok executive Adam Presser will run the joint venture, confirming an earlier report by The Information.</p>\n\n<p>TikTok also revealed the identity of other investors, including Michael Dell, affiliates of ByteDance investors&nbsp;Susquehanna and&nbsp;General Atlantic, as well as a Yuri Milner and&nbsp;Xavier Niel, a French entrepreneur and a ByteDance board member. ByteDance keeps 19.9% of the venture.</p>",
+            "published_at": "2026-01-23T01:11:59.514Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-completes-sale-data-security-arm-joint-venture?unlock=b70580&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-completes-sale-data-security-arm-joint-venture?unlock=b70580&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14682,
+                    "guid": "1ab59715d0",
+                    "title": "Oracle Is Leading Contender to Help Run TikTok in New Deal",
+                    "url": "https://www.theinformation.com/articles/oracle-leading-contender-help-run-tiktok-new-deal?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 15844,
+                    "guid": "0b5c11b321",
+                    "title": "TikTok Insiders Bet No. 2, Adam Presser, Will Run New Venture",
+                    "url": "https://www.theinformation.com/articles/tiktok-insiders-bet-2-adam-presser-will-run-new-venture?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16643,
+            "guid": "880872",
+            "headline": "Microsoft Outage Takes Down Outlook Email For Hours",
+            "dek": "It’s one of the most notable Microsoft outages since July last year, when an Outlook was down for 21 hours.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft said Thursday it was investigating an outage that took down Office 365 apps such as its Outlook email service and Teams messaging app in North America throughout the day. The company said it was aware of customers who were unable to send or receive emails through Outlook.</p>\n\n<p>It’s one of the most notable Microsoft outages since July last year, when an Outlook was down for 21 hours.</p>\n\n<p>Microsoft first acknowledged the outage around 1:30 p.m. Pacific Time. Two hours later the company said most of the service had been restored but customers might experience “degraded service” while it investigates the issue.</p>",
+            "published_at": "2026-01-23T00:01:48.417Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-outage-takes-outlook-email-hours?unlock=880872&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-outage-takes-outlook-email-hours?unlock=880872&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16642,
+            "guid": "7e1db6",
+            "headline": "Capital One Agrees to Buy Brex for $5 Billion, a Discount to Last Private Valuation",
+            "dek": "Capital One struck a deal to buy payments and credit card startup Brex.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Capital One struck a deal to buy payments and credit card startup Brex for $5.15 billion, the U.S. bank said on Thursday. That is a far cry from Brex’s last valuation of $12 billion during a 2022 fundraising, though the sale means investors in the nine-year-old startup will be able to cash out of their investments during a sluggish period for initial public offerings</p>\n\n<p>The purchase of Brex, which offers corporate credit card programs and sought to take on American Express, will be funded with an even split of cash and stock, Capital One said in a statement accompanying its latest quarterly results.</p>\n\n<p>Venture capital investors Greenoaks and TCV led Brex’s $300 million fundraising round in 2022. More recently, Brex took on $235 million of debt from Citi and private equity firm TPG. Brex was <a href=\"https://www.theinformation.com/articles/make-mistake-brex-ramp-fintechs-software-makers?rc=zjctrx\">generating more than $700 million</a> in annualized revenue as of September.</p>\n\n<p>Brex’s main rival, Ramp, raised money at a $22.5 billion valuation last summer and $32 billion valuation in November, after taking business away from Brex and competitors by offering slick software and more credit card rewards.</p>\n\n<p>Brex was founded by Brazilian entrepreneurs Henrique Dubugras and Pedro Franceschi, who ran the startup as co-CEOs until Dubugras stepped aside to serve as chairman in 2024. In a <a href=\"https://x.com/brexHQ/status/2014451666850840777\">post</a> on X, Brex said it was excited about “the largest bank-fintech deal in history” and the resources of Capital One would allow the startup to invest even more aggressively in automation and AI. In a <a href=\"https://x.com/pedroh96/status/2014450912497201289\">post</a> on X, Franceschi said he would continue as Brex’s CEO.</p>",
+            "published_at": "2026-01-22T22:11:01.775Z",
+            "url": "https://www.theinformation.com/briefings/capital-one-agrees-buy-brex-5-billion-discount-last-private-valuation?unlock=7e1db6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/capital-one-agrees-buy-brex-5-billion-discount-last-private-valuation?unlock=7e1db6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16641,
+            "guid": "b5f412",
+            "headline": "Donald Trump Launches Debanking Lawsuit Against JPMorgan",
+            "dek": "President Donald Trump sued JPMorgan and the bank’s CEO Jamie Dimon for closing his bank accounts.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump sued JPMorgan and the bank’s CEO Jamie Dimon for closing his bank accounts in 2021 shortly after the January 6 riots in the U.S. Capital.</p>\n\n<p>The lawsuit, which was filed in Miami-Dade County and Thursday, claims accounts owned by Trump and his related entities were closed “as a result of political and social motivations.” Trump is seeking at least $5 billion in damages for allegedly cutting off his banking services. In a statement, JPMorgan said the suit has “no merit.”</p>\n\n<p>JPMorgan disclosed to investors last year that it was facing reviews and investigations related to the government’s probe of “debanking” in the financial sector. The lawsuit was filed after Dimon earlier this month criticized the Trump administration’s criminal probe into Federal Reserve chair Jerome Powell.</p>\n\n<p>“We respect the President’s right to sue us and our right to defend ourselves - that’s what courts are for,” JPMorgan said. The Trump Organization is suing Capital One over similar debanking allegations.</p>",
+            "published_at": "2026-01-22T21:54:39.857Z",
+            "url": "https://www.theinformation.com/briefings/donald-trump-launches-debanking-lawsuit-jpmorgan?unlock=b5f412&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/donald-trump-launches-debanking-lawsuit-jpmorgan?unlock=b5f412&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16640,
+            "guid": "c46e19",
+            "headline": "Intel’s Sales Slump Persists Despite AI Growth",
+            "dek": "The chipmaker's revenue fell 4% in the fourth quarter, largely a result of a decline in its unit that sells CPUs for use in personal computers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Intel’s fourth quarter revenue fell 4%, the chip firm reported Thursday, at the high end of the company’s projections. The result reflected a 7% decline in its largest unit, through which it sells CPUs for use in personal computers and other consumer products. Intel stock, which has more than doubled in recent years, fell 6.6% in after-hours trading.</p>\n\n<p>That decline was partly offset by a 9% increase in its artificial intelligence data center CPU business and a 4% boost in sales from its chip manufacturing arm. Intel projected first quarter&nbsp; revenue would be between $11.7 and $12.7 billion in revenue, which would be as much as 7.8% lower than a year earlier. Intel generated $12.7 billion in revenue in the first quarter last year.</p>\n\n<p>Chief financial officer David Zinsner attributed the expected downturn in the current quarter to supply shortages, saying in the company’s earnings release that it expects available supply to be “at its lowest level in Q1 before improving in Q2 and beyond.”</p>",
+            "published_at": "2026-01-22T21:42:02.480Z",
+            "url": "https://www.theinformation.com/briefings/intels-sales-slump-persists-despite-ai-growth?unlock=c46e19&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/intels-sales-slump-persists-despite-ai-growth?unlock=c46e19&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16446,
+                    "guid": "9e5751b78b",
+                    "title": "Intel is Now Pricier Than TSMC: That Makes No Sense",
+                    "url": "https://www.theinformation.com/articles/intel-now-pricier-tsmc-makes-sense?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16639,
+            "guid": "978096",
+            "headline": "Caroline Ellison, Former Alameda CEO, Released From Jail",
+            "dek": "Ellison was sentenced for two years for her role in the collapse of FTX crypto exchange. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Caroline Ellison, the former chief executive officer of Alameda Research and ex-girlfriend of Sam Bankman-Fried, was released from jail Wednesday, according to the Federal Bureau of Prisons’ inmate record.</p>\n\n<p>Ellison was sentenced for two years in prison, after she pleaded guilty to fraud in 2023 for the collapse of FTX, the crypto exchange founded by Bankman-Fried that misappropriated customer funds. She was a key government witness and cooperated with prosecutors.</p>\n\n<p>Bankman-Fried is currently serving a 25-year sentence in California, set to be released in 2044. He and his family members have been petitioning President Donald Trump for a pardon.</p>",
+            "published_at": "2026-01-22T19:52:07.180Z",
+            "url": "https://www.theinformation.com/briefings/caroline-ellison-former-alameda-ceo-released-jail?unlock=978096&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/caroline-ellison-former-alameda-ceo-released-jail?unlock=978096&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16638,
+            "guid": "207126",
+            "headline": "BitGo Jumps in First Crypto IPO This Year ",
+            "dek": "Crypto custodian BitGo and its holders raised $213 million in IPO. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>BitGo, a crypto custodian, opened up 25% on the New York Stock Exchange Thursday, becoming the first crypto company to go public this year.</p>\n\n<p>The company and its shareholders raised $213 million in its initial public offering, at a price of $18 per share, giving it a valuation of about $2.1 billion. It opened trading at $22.43 per share.</p>\n\n<p>BitGo’s performance could bode well for other crypto firms that are preparing to go public. Crypto exchange Kraken and asset manager Grayscale have also filed for IPOs. The crypto markets have cooled since the market fell last October. Bitcoin now trades at $89,376, down 28% from early October.</p>",
+            "published_at": "2026-01-22T19:50:35.177Z",
+            "url": "https://www.theinformation.com/briefings/bitgo-jumps-first-crypto-ipo-year?unlock=207126&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bitgo-jumps-first-crypto-ipo-year?unlock=207126&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16637,
+            "guid": "d8a8c8",
+            "headline": "Tesla Starts Limited Robotaxi Rides Without Backup Humans in Austin  ",
+            "dek": "Tesla has repeatedly blown through deadlines that Elon Musk announced for Robotaxi. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla has started offering rides to customers in a few of its Robotaxi vehicles without backup human supervisors for the first time, the company’s top AI executive said on Thursday. The move in Austin is a key initial step toward catching up with Alphabet’s Waymo, which offers autonomous rides to customers without backup humans in more than 2,000 vehicles across six U.S. cities.</p>\n\n<p>In a <a href=\"https://x.com/aelluswamy/status/2014398853991301538\">post on X</a>, Tesla’s vice president of autopilot and AI software Ashok Elluswamy said Tesla was “starting with a few unsupervised vehicles mixed in with the broader robotaxi fleet with safety monitors” and that the “ratio will increase over time.” Elluswamy did not say when Tesla plans to fully remove humans from Robotaxi vehicles in Austin or start doing so in any other cities. Tesla shares were up about 4% Thursday afternoon.</p>\n\n<p>Tesla has blown through deadlines that Elon Musk announced for Robotaxi. Musk said in July that Robotaxi would be available to half the U.S. population by the end of 2025, “subject to regulatory approvals.” In October, Musk scaled back that target to eight to 10 U.S. metro areas and said that the company would remove backup supervisors in Austin by the end of the year. But the service is still only available in Austin and the San Francisco Bay Area. In California, Tesla is offering Robotaxi rides with humans in the driver’s seat and is <a href=\"https://www.theinformation.com/articles/teslas-scaled-back-robotaxi-timeline-still-faces-obstacles\">operating under a permit</a> that only allows a human driver to drive a traditional vehicle, making the removal of humans more difficult than in Texas.</p>",
+            "published_at": "2026-01-22T19:25:34.730Z",
+            "url": "https://www.theinformation.com/briefings/tesla-starts-limited-robotaxi-rides-without-backup-humans-austin?unlock=d8a8c8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-starts-limited-robotaxi-rides-without-backup-humans-austin?unlock=d8a8c8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16636,
+            "guid": "1f6a38",
+            "headline": "Elon Musk Says Tesla Will Sell Optimus Robots By End of 2027 ",
+            "dek": "The company slashed Optimus production goals in 2025 due to problems perfecting the robots’ hands and other technical challenges, The Information has reported.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla plans to start selling its Optimus humanoid robots to the general public by the end of 2027, CEO Elon Musk said at the World Economic Forum in Davos on Thursday. By then, Musk said&nbsp;Tesla expects the robots to be “high reliability, high safety.”</p>\n\n<p>While Musk has promised that the Optimus program is the future of Tesla, the company slashed production goals in 2025 due to problems perfecting the robots’ hands and other technical challenges, <a href=\"https://www.theinformation.com/articles/elon-musk-preps-teslas-optimus-prime-time-big-hurdles-remain\">The Information has reported</a>. Musk said Thursday that Tesla was using Optimus for “simple tasks” inside its factories and was hoping to have the robots doing “more complex tasks” by the end of 2026.</p>\n\n<p>Musk also shared other optimistic projections for Tesla on Thursday, including that its supervised Full Self-Driving software would receive approval in Europe and China by the end of February. Tesla has <a href=\"https://www.theinformation.com/newsletters/the-briefing/elon-musks-promises-self-driving-ai-robots-clashed-reality\">blown through several previous timelines</a> shared by Musk for progress on autonomous driving software.</p>",
+            "published_at": "2026-01-22T16:27:52.388Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-will-sell-optimus-robots-end-2027?unlock=1f6a38&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-will-sell-optimus-robots-end-2027?unlock=1f6a38&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15861,
+                    "guid": "6e1694b828",
+                    "title": "As Elon Musk Preps Tesla’s Optimus for Prime Time, Big Hurdles Remain",
+                    "url": "https://www.theinformation.com/articles/elon-musk-preps-teslas-optimus-prime-time-big-hurdles-remain?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16635,
+            "guid": "61830d",
+            "headline": "PayPal Acquires Startup to Boost AI Shopping Efforts",
+            "dek": "Other commerce and payments companies like Stripe have previously weighed similar deals.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>PayPal <a href=\"https://newsroom.paypal-corp.com/2026-01-22-PayPal-to-Acquire-Cymbio,-Accelerating-Agentic-Commerce-Capabilities\">said</a> Thursday it would acquire the e-commerce startup Cymbio, which makes software that helps brands make their product catalogs available to AI search apps and agents. The deal is aimed at helping PayPal quickly build up more features to help merchants make sales through AI chatbots like ChatGPT, Google Gemini and Microsoft Copilot. Terms of the deal weren’t disclosed.</p>\n\n<p>Ensuring that merchants are able to easily share standardized, accurate data with AI agents so that their products show up in search results and can be made available for purchase has been one of the biggest challenges in building AI shopping features. PayPal&nbsp;rival Stripe had previously weighed making a similar acquisition to help speed work on AI shopping, The Information previously <a href=\"https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?rc=d8mrkd\">reported</a>.</p>\n\n<p>Cymbio was founded in 2015, and its investors include PayPal Ventures and FJ Labs, according to PitchBook.</p>",
+            "published_at": "2026-01-22T14:53:42.121Z",
+            "url": "https://www.theinformation.com/briefings/paypal-acquires-startup-boost-ai-shopping-efforts?unlock=61830d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/paypal-acquires-startup-boost-ai-shopping-efforts?unlock=61830d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16373,
+                    "guid": "1f1a7c219d",
+                    "title": "OpenAI’s Shopping Ambitions Hit Messy Data Reality",
+                    "url": "https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16634,
+            "guid": "3717c7",
+            "headline": "Alibaba Prepares Chipmaking Unit for IPO",
+            "dek": "The move follows the listings of several Chinese chip designers recently. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-22/alibaba-is-said-to-plan-ipo-for-ai-chipmaking-unit-t-head",
+            "source_label": "Bloomberg",
+            "body": "<p>Alibaba Group is preparing to take public its chipmaking unit T-Head, taking advantage of strong investor demand for companies developing AI processors to reduce China’s reliance on Nvidia, Bloomberg reported.</p>\n\n<p>Alibaba will first restructure the unit as a business partly owned by employees, before exploring an initial public offering, the timing of which is uncertain, the report said, citing people&nbsp; familiar with the matter.</p>\n\n<p>Several Chinese chip designers, including Moore Threads, MetaX Integrated Circuits, Biren Technology and Iluvatar Corex, went public in stock exchanges in Hong Kong and Shanghai over the past month, as China seeks to indigenize the supply of AI chips.</p>\n\n<p>Baidu also is poised to list its chipmaking subsidiary Kunlunxin.</p>",
+            "published_at": "2026-01-22T11:39:52.733Z",
+            "url": "https://www.theinformation.com/briefings/alibaba-prepares-chipmaking-unit-ipo?unlock=3717c7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibaba-prepares-chipmaking-unit-ipo?unlock=3717c7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16633,
+            "guid": "d3d2bf",
+            "headline": "Anthropic Lowered Gross Margin Projection as Costs to Run AI Rose",
+            "dek": "Higher inference costs weighed on gross margins.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p><a href=\"https://www.theinformation.com/org-charts/anthropic\">Anthropic</a>&nbsp;last month&nbsp;projected it would generate a 40% gross profit margin from selling AI to businesses and application developers in 2025,&nbsp; 10 percentage points lower than its&nbsp;earlier optimistic expectations, <a href=\"https://www.theinformation.com/articles/anthropic-lowers-profit-margin-projection-revenue-skyrockets?rc=zjctrx\">The Information reported</a> late Wednesday.</p>\n\n<p>The lower-than-expected gross profit margin resulted from the costs of running Anthropic models for paying customers, in a process known as inference, on servers from Google and Amazon. Those inference costs were 23% higher than the company had anticipated, the projections showed. Anthropic calculates gross margins by subtracting inference costs and other costs of selling its products. Its margin still improved from the year earlier.</p> &nbsp;",
+            "published_at": "2026-01-22T05:20:51.978Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-lowered-gross-margin-projection-costs-run-ai-rose?unlock=d3d2bf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-lowered-gross-margin-projection-costs-run-ai-rose?unlock=d3d2bf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16444,
+                    "guid": "45377d5bca",
+                    "title": "Anthropic Lowers Gross Margin Projection as Revenue Skyrockets",
+                    "url": "https://www.theinformation.com/articles/anthropic-lowers-profit-margin-projection-revenue-skyrockets?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16630,
+            "guid": "e943d6",
+            "headline": "Amazon Launches AI Assistant For One Medical Customers",
+            "dek": "The chatbot can draw on patients’ existing medical records\r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon-owned primary care chain One Medical said it is launching an AI health assistant, a move that comes on the heels of similar healthcare chatbot announcements from Anthropic and OpenAI.</p>\n\n<p>One Medical members, who pay an annual fee for virtual and in person health care services, can use the assistant for medical advice, booking appointments and interpreting lab results. One Medical’s&nbsp;chatbot uses models available on AWS service Bedrock. Amazon started testing the chatbot last year.</p>\n\n<p>Anthropic and OpenAI both said earlier this month that they were launching consumer healthcare services, and OpenAI also recently acquired Torch, a healthcare AI app that can collate medical data from various providers.</p>",
+            "published_at": "2026-01-22T04:22:13.584Z",
+            "url": "https://www.theinformation.com/briefings/amazon-launches-ai-assistant-one-medical-customers?unlock=e943d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-launches-ai-assistant-one-medical-customers?unlock=e943d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16632,
+            "guid": "433a02",
+            "headline": "Apple Developing AI Wearable Pin in Challenge to OpenAI, Meta",
+            "dek": "The device would position Apple to compete more effectively with OpenAI and Meta Platforms, which are planning or already selling their own AI-powered devices.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple is developing an AI-powered wearable pin that could be released as early as 2027, according to people with direct knowledge of the matter.</p>\n\n<p>The device would position Apple to compete more effectively with OpenAI, which is planning its own AI-powered devices, and Meta Platforms, which is already selling smart glasses.</p>\n\n<p>Apple’s pin is a thin, flat, circular disc with an aluminum-and-glass shell and features two cameras—a standard lens and a wide-angle lens—on its front face, designed to capture photos and videos of the user’s surroundings. It includes three microphones to pick up sounds in the area surrounding the person wearing it.</p>\n\n<p>It also has a speaker, a physical button along one of its edges and a magnetic inductive charging interface on its back, similar to the one used on the Apple Watch. Apple engineers are aiming to make the pin the same size as an AirTag, only slightly thicker.</p>",
+            "published_at": "2026-01-21T23:49:41.534Z",
+            "url": "https://www.theinformation.com/briefings/apple-developing-ai-wearable-pin-challenge-openai-meta?unlock=433a02&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-developing-ai-wearable-pin-challenge-openai-meta?unlock=433a02&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16631,
+            "guid": "c6aec2",
+            "headline": "Apple Plans a Conversational Siri, Discusses Google TPU Deal",
+            "dek": "Apple may use Google’s cloud and chips to launch a new Siri",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai",
+            "source_label": "Bloomberg",
+            "body": "<p>Apple plans to bring more conversational capabilities to Siri, turning it more into a chatbot like ChatGPT, Bloomberg reported. The update, codenamed Campos, will take advantage of Google’s Gemini AI model, part of a deal Apple announced with Google last week, the news outlet said. The Information also <a href=\"https://www.theinformation.com/newsletters/ai-agenda/apple-using-gemini-give-chatgpt-like-answers\">reported</a> last week that Apple plans to bring more conversational capabilities to Siri using Google’s technology.</p>\n\n<p>Bloomberg also reported that Apple is in talks with Google about using the company’s cloud infrastructure, including its AI chips, tensor processing units, to launch the updated Siri. If those discussions turn into a deal, it would amount to a reversal of Apple’s previous plans, which involved running its AI features only on Apple devices or in Apple’s new private cloud system, called Private Cloud Compute.</p>",
+            "published_at": "2026-01-21T23:33:13.301Z",
+            "url": "https://www.theinformation.com/briefings/apple-plans-conversational-siri-discusses-google-tpu-deal?unlock=c6aec2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-plans-conversational-siri-discusses-google-tpu-deal?unlock=c6aec2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16439,
+                    "guid": "6ec41fc4f2",
+                    "title": "Apple Developing AI Wearable Pin",
+                    "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16629,
+            "guid": "61dd83",
+            "headline": "Yelp to Buy AI Agent Startup for $300 Million ",
+            "dek": "The startup, Hatch, offers contractors and other service providers AI-powered agents to respond to customer requests for a month fee. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Recommendation app Yelp on Wednesday said it agreed to acquire AI agent startup Hatch for $300 million, or roughly 12 times the startup’s annual recurring revenue.</p>\n\n<p>Hatch charges a monthly fee for AI-powered agents that can respond to customer inquiries and make appointments. Yelp, which has a $1.8 billion market capitalization, said it plans to operate Hatch as a standalone business as well as offer Hatch’s services to plumbers, contractors and other professionals that list on Yelp.</p>\n\n<p>Automating such tasks is “an area that’s been exploding rapidly&nbsp;pretty much since 2023 or so with the release of ChatGPT….that ignited the opportunity that Hatch was really a first mover on,” said Yelp CEO Jeremy Stoppelman.</p>\n\n<p>Founded in 2018, New York-based Hatch employs about 150 people. It has raised about $14 million from Bessemer Venture Partners, Y Combinator and other investors.</p>\n\n<p>The deal is expected to close next month. Yelp said it is paying $270 million in cash and will spend $30 million for employee retention to be paid out over two to three years. Yelp said Hatch is generating $25 million annual recurring revenue, up 70% year over year. The purchase price as a multiple of forward revenue is <a href=\"https://www.theinformation.com/newsletters/dealmaker/numbers-behind-snowflakes-1-billion-app-monitoring-acquisition?rc=zjctrx\">less than some other recent AI startup acquisitions</a>.</p>\n\n<p>Hatch’s subscription revenue could diversify Yelp’s business, which is largely based on selling advertising. Yelp in October launched its own AI agents which take calls on behalf of a service provider or restaurant.</p>",
+            "published_at": "2026-01-21T21:05:46.024Z",
+            "url": "https://www.theinformation.com/briefings/yelp-buy-ai-agent-startup-300-million?unlock=61dd83&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/yelp-buy-ai-agent-startup-300-million?unlock=61dd83&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16628,
+            "guid": "55458d",
+            "headline": "Technical Committee Members Named in Google Search Remedy",
+            "dek": "The technical committee is tasked with enforcing the remedy against Google.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Department of Justice on Wednesday named three people to a technical committee that will oversee the implementation of the remedy for Google’s illegal search monopoly. The three are&nbsp;Tammy Savage, a former Microsoft general manager; Gerry Campbell, a longtime search executive who has worked at AOL and Alta Vista; and John Abowd, a professor emeritus of economics, statistics and data science at Cornell University, according to a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1475.1.pdf\">filing</a> from the DOJ.</p>\n\n<p>The technical committee is tasked with enforcing the remedy against Google, which includes banning exclusive distribution agreements for Google Search and forcing some data sharing with Google’s rivals. The technical committee will consult on details of the remedy, such as how often Google has to share data and how search competitors can use search results syndicated from Google.</p>\n\n<p>The technical committee requirement mirrors the technical committee installed after Microsoft’s antitrust loss, more than two decades ago. The three members named on Wednesday will select the remaining two members of the five-person committee. Savage, chosen by the Department of Justice, will chair the committee. Abowd, who was chosen by Google, has published research focusing on data security and privacy. During the remedies portion of the trial, Google repeatedly criticized plaintiffs’ proposed remedies for posing data security concerns.</p>",
+            "published_at": "2026-01-21T20:54:29.427Z",
+            "url": "https://www.theinformation.com/briefings/technical-committee-members-named-google-search-remedy?unlock=55458d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/technical-committee-members-named-google-search-remedy?unlock=55458d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16627,
+            "guid": "55ba0f",
+            "headline": "Blue Origin Plans Enterprise Rival to SpaceX’s Starlink and Amazon Leo ",
+            "dek": "Unlike Starlink or Leo, which are targeting both individual consumers and enterprise customers, TeraWave is aimed only at large customers who need especially fast internet speeds. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Jeff Bezos’ space company Blue Origin is planning to build an ultra-fast satellite internet service aimed at large companies, data centers and governments, the company <a href=\"https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity\">said</a> Wednesday. The service, called TeraWave, would put Blue Origin in competition with SpaceX’s Starlink and Amazon Leo.</p>\n\n<p>Blue Origin plans to launch the first TeraWave satellites in the fourth quarter of 2027. Unlike Starlink or Leo, which are targeting both individual consumers and enterprise customers, TeraWave is aimed only at large customers who need especially fast internet speeds.</p>\n\n<p>Blue Origin said it plans to launch more than 5,000 satellites to support the service, which will provide internet speeds of up to 6 terabits per second. Currently, SpaceX’s Starlink is by far the leader in satellite internet, with more than 9 million customers and billions of dollars in revenue. Amazon Leo has launched 180 satellites and began an “enterprise preview” in November, but has yet to make its service widely available.</p>",
+            "published_at": "2026-01-21T20:32:13.247Z",
+            "url": "https://www.theinformation.com/briefings/blue-origin-plans-enterprise-rival-spacexs-starlink-amazon-leo?unlock=55ba0f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/blue-origin-plans-enterprise-rival-spacexs-starlink-amazon-leo?unlock=55ba0f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16626,
+            "guid": "67d33a",
+            "headline": "ChatGPT Checkouts to Take 4% Cut of Shopify Merchant Sales",
+            "dek": "Shopify told its merchants their products will start appearing in AI chats later this month.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shopify has told merchants that use its commerce software that it will open up sales through AI chatbots like ChatGPT later this month, according to its site and communications with sellers. Merchants will pay OpenAI a 4% fee on sales made through ChatGPT’s checkout feature, a Shopify spokesperson confirmed, on top of typical transaction fees Shopify charges such as payments processing.</p>\n\n<p>OpenAI, Google and Microsoft have all announced chatbot checkout features in recent months. Beginning Jan. 26, Shopify will begin making its merchants’ products available for purchase through the checkout features in AI apps including ChatGPT, Google’s AI Mode and Gemini and Microsoft Copilot, the company told merchants. As part of that rollout, most Shopify merchants’ product details will be available to the AI apps through a data-sharing setup that Shopify announced late last year.</p>\n\n<p>Merchants’ products will be available for purchase by default in AI checkout features that don’t charge an additional fee. For now, sales made through Google and Microsoft’s chatbot checkouts will not carry additional fees, the Shopify spokesperson said. For checkouts that charge a fee, such as ChatGPT, merchants will need to opt in to make their products available for purchase. Merchants can toggle AI platforms on or off individually to choose which channels to sell in, but their products will still appear in AI responses with links to their own websites. To keep products from appearing in AI responses, merchants must contact the AI companies or prevent their listings from being indexed by web crawlers.</p>",
+            "published_at": "2026-01-21T18:52:23.052Z",
+            "url": "https://www.theinformation.com/briefings/chatgpt-checkouts-take-4-cut-shopify-merchant-sales?unlock=67d33a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chatgpt-checkouts-take-4-cut-shopify-merchant-sales?unlock=67d33a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16396,
+                    "guid": "f307ae4fc5",
+                    "title": "Google Flips OpenAI’s Shopping Strategy on Its Head",
+                    "url": "https://www.theinformation.com/articles/google-flips-openais-shopping-strategy-head?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16625,
+            "guid": "658d32",
+            "headline": "OpenAI CFO Responds to Google Criticism, Touts Infrastructure Progress at Davos",
+            "dek": "In response to Google criticism about OpenAI's ad plans, Friar said “I am trying to create as much optionality as possible.” ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI CFO Sarah Friar said the company’s custom inference chip is being “taped out”—the final step before manufacturing—and touted the progress of its more than $500 billion Stargate infrastructure project in a panel at the World Economic Forum Wednesday.</p>\n\n<p>In a conversation I moderated, Friar also pushed back against shots fired at OpenAI by Google Deep Mind CEO Demis Hassabis at Davos. In interviews with multiple media outlets, Hassabis said he was&nbsp; “surprised” that OpenAI was moving to introduce ads. In response to the criticism, Friar said: “I am trying to create as much optionality as possible.”</p>\n\n<p>“Early is a weird word because in ad models you have to be at scale,” she added. On Stargate, which was announced one year ago, she said that the project is “well over halfway built out” and OpenAI is already training models on servers at Oracle’s Stargate campus. “It’s gone better than we all dreamed,” she said.</p>",
+            "published_at": "2026-01-21T13:40:43.879Z",
+            "url": "https://www.theinformation.com/briefings/openai-cfo-responds-google-criticism-touts-infrastructure-progress-davos?unlock=658d32&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-cfo-responds-google-criticism-touts-infrastructure-progress-davos?unlock=658d32&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
