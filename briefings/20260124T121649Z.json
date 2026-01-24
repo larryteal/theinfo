@@ -1,0 +1,686 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16650,
+            "guid": "e2e815",
+            "headline": "Judge Questions Google, Epic Games Over $800 Million Deal",
+            "dek": "A federal judge questioned whether an $800 million sales deal between Epic Games and Google was contributing to the parties opting for an antitrust settlement.",
+            "source_url": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement",
+            "source_label": "The Verge",
+            "body": "<p>A federal judge on Thursday questioned whether a previously undisclosed $800 million sales deal between Epic Games and Google was contributing to the parties opting for an antitrust settlement, The Verge reported.</p>\n\n<p>As part of the transaction, Epic would help Google market device operating system Android, and Google would help Epic market its Fortnite game, California district judge James Donato said at the hearing. Epic would pay $800 million to Google over six years for services associated with the deal, which may be tied to the services agreement.</p>\n\n<p>Donato asked whether the deal could constitute a “quid pro quo” incentivizing Epic to soften its demands for terms favoring other Android developers, The Verge reported. The current settlement, which Epic supports, would require Google to reduce its app store fees and make it easier to download alternative app stores. Epic CEO Tim Sweeney pushed back on the judge’s assessment, according to the Verge, noting that Epic was paying Google, not the other way around.</p>",
+            "published_at": "2026-01-24T02:13:33.821Z",
+            "url": "https://www.theinformation.com/briefings/judge-questions-google-epic-games-800-million-deal?unlock=e2e815&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/judge-questions-google-epic-games-800-million-deal?unlock=e2e815&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16649,
+            "guid": "bd8966",
+            "headline": "Exclusive: Google Acquires 3D Image Generator Startup",
+            "dek": "Google has acquired Common Sense Machines, a Cambridge, Mass.,-based startup developing generative artificial intelligence models to create three-dimensional content from two-dimensional images.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google has acquired Common Sense Machines, a Cambridge, Mass.,-based startup developing generative artificial intelligence models to create three-dimensional assets from two-dimensional images, a Google spokesperson confirmed.</p>\n\n<p>The deal closed this week, according to the spokesperson. The spokesperson declined to provide a price. The company had around a dozen employees, according to its LinkedIn page, and was last valued at $15 million after raising $10 million from investors including Andreessen Horowitz, according to PitchBook. One of Common Sense Machines’ co-CEOs, Tejas Kulkarni, worked as a research scientist at Google DeepMind before cofounding the company in 2020.</p>\n\n<p>The deal suggests that Google is continuing to lean further into image generation and multimodal AI after the success of its Nano Banana model, which creates images from text prompts. DeepMind chief Demis Hassabis has also talked about the importance of “world models,” which simulate the physical world. Common Sense Machines’ former employees will work at Google DeepMind, the spokesperson said.</p>",
+            "published_at": "2026-01-24T02:00:33.489Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-google-acquires-3d-image-generator-startup?unlock=bd8966&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-google-acquires-3d-image-generator-startup?unlock=bd8966&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                },
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16648,
+            "guid": "f7ed43",
+            "headline": "Geothermal Power Startup Fervo Files for Public Offering",
+            "dek": "Fervo is one of several power companies looking to go public as tech companies race to secure electricity for AI data centers.",
+            "source_url": "https://www.axios.com/pro/climate-deals/2026/01/22/fervo-ipo-s1-geothermal-energy",
+            "source_label": "Axios",
+            "body": "<p>Fervo Energy, a startup developing geothermal power projects, filed confidential paperwork for an initial public offering, Axios reported.</p>\n\n<p>JPMorgan and Bank of America are working with Fervo on the potential offering, Axios reported. Fervo in December said it raised $462 million in funding led by venture firm B Capital to help build projects such as its Cape Station site in Utah, which the company said would begin delivering 100 megawatts of power to the grid this year. Google also made an investment in the company.</p>\n\n<p>Fervo is one of several power companies looking to go public as tech companies race to secure electricity for AI data centers. Renewable power developer Hecate Energy on Friday filed to go public by merging with a blank-check company in a deal valuing it at $1.2 billion.</p>\n\n<p>Representatives for Fervo and Bank of America did not respond to requests for comment. A JPMorgan spokesperson declined to comment.</p>",
+            "published_at": "2026-01-23T22:37:38.955Z",
+            "url": "https://www.theinformation.com/briefings/geothermal-power-startup-fervo-files-public-offering?unlock=f7ed43&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/geothermal-power-startup-fervo-files-public-offering?unlock=f7ed43&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16647,
+            "guid": "216902",
+            "headline": "DOJ Opens Criminal Probe Into Deel-Rippling Spy Claims",
+            "dek": "The Justice Department has launched a criminal investigation into allegations payroll startup Deel recruited and paid a spy inside a Rippling, according to the WSJ.",
+            "source_url": "",
+            "source_label": "Wall Street Journal",
+            "body": "<p>The Justice Department has launched a criminal investigation into allegations payroll startup Deel recruited and paid a spy inside a Rippling office in Ireland, according to the <a href=\"https://www.wsj.com/us-news/law/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations-9afe1eec\">Wall Street Journal</a>. In recent weeks, prosecutors have distributed subpoenas for a grand jury, the Journal reported.</p>\n\n<p>Detectives from the Anti-Bribery and Corruption Unit of Ireland’s Garda National Economic Crime Bureau recently searched the home of Keith O’Brien, the alleged spy, according to a report by <a href=\"https://www.independent.ie/irish-news/courts/us-justice-department-opens-probe-in-alleged-corporate-spy-plot-involving-irish-executive/a1757789873.html\">The Irish Independent</a> on Friday. Garda Headquarters said the search was “part of an ongoing criminal investigation into alleged corruption and money laundering involving an international software company,” according to the report.</p>\n\n<p>A spokesperson for Deel said the company was&nbsp;not aware of any investigation. “We will always cooperate with the relevant authorities and provide any necessary information in response to valid inquiries,” Deel said.</p>\n\n<p>Court filings that were unsealed in November, in a civil lawsuit Rippling launched against Deel, showed Deel labeled as an expense a $6,000 payment it made to the wife of the company’s chief operating officer. That cash was immediately sent to O’Brien. Deel has denied Rippling’s civil suit allegations and launched a separate defamation case against its rival. A Deel spokesperson said its lawsuit shows Rippling made misleading claims about Deel, including in a separate civil case in Florida that&nbsp;was recently dismissed. That lawsuit,&nbsp;backed by a Rippling investor and lawyer, alleged lapses in Deel’s compliance controls.</p>\n\n<p>In November, Deel CEO Alex Bouaziz added Morrison Foerster partner William Frentzen, a&nbsp;former DOJ lawyer, to his legal team. Bouaziz also recently credited Andreessen Horowitz, which holds a multi-billion dollar stake in Deel, for helping to manage the fallout from Rippling’s allegations. Bouaziz told substack publication <a href=\"https://www.notboring.co/p/a16z-the-power-brokers\">Not Boring</a>, that the venture firm was “figuring things out, helping me figure out how to manage it, getting the best people to help, getting their own hands dirty. When a lot of this bullshit came out, I couldn’t have asked for a better partner.” Andreessen Horowitz did not respond immediately to a request for comment.</p>\n\n<p><em>This story&nbsp;has been updated to include comments&nbsp;from Deel.</em></p>",
+            "published_at": "2026-01-23T18:28:57.420Z",
+            "url": "https://www.theinformation.com/briefings/doj-opens-criminal-probe-deel-rippling-spy-claims?unlock=216902&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/doj-opens-criminal-probe-deel-rippling-spy-claims?unlock=216902&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16646,
+            "guid": "6c07ec",
+            "headline": "Google Invests in Japan’s Sakana AI",
+            "dek": "The partnership with Sakana could help Google increase its presence in Japan’s AI market. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google invested in Sakana AI, a Tokyo-based developer of AI models and applications, Sakana said Friday. Google invested at the same valuation as the Japanese company’s <a href=\"https://www.theinformation.com/briefings/japans-sakana-ai-worth-2-6-billion-new-round?rc=jnr9wn\">recently announced funding round</a>, which valued it at $2.5 billion without the newly raised capital, according to Sakana cofounder and CEO David Ha. He didn’t disclose how much Google invested.</p>\n\n<p>Sakana, Japan’s most highly valued AI startup,&nbsp;also announced a strategic partnership with Google that will allow it to use the U.S. tech giant’s state-of-the-art AI models to build its technologies and products. “This partnership allows us to push the boundaries of automated scientific discovery and agentic AI even further,” Sakana&nbsp;said.</p>\n\n<p>The partnership with Sakana could also help Google increase its presence in Japan’s domestic AI model market, where OpenAI has so far been the frontrunner.</p>\n\n<p>Sakana, which means fish in Japanese, was founded in 2023 by former Google researchers Ha and Llion Jones, one of the co-authors of the <a href=\"https://www.theinformation.com/articles/eight-research-papers-behind-the-ai-boom\">original Google research paper</a> that outlined the transformer model architecture that underlies today’s most popular large language models like OpenAI’s GPT and Google’s Gemini.</p>",
+            "published_at": "2026-01-23T15:40:51.337Z",
+            "url": "https://www.theinformation.com/briefings/google-invests-japans-sakana-ai?unlock=6c07ec&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-invests-japans-sakana-ai?unlock=6c07ec&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16645,
+            "guid": "3859f3",
+            "headline": "Amazon Plans Thousands of Corporate Layoffs Next Week",
+            "dek": "Amazon laid off 14,000 employees in October, and is planning on eliminating a similar number of corporate employees soon\r\n",
+            "source_url": "https://www.reuters.com/business/world-at-work/amazon-plans-thousands-more-corporate-job-cuts-next-week-sources-say-2026-01-22/",
+            "source_label": "Reuters",
+            "body": "<p>Amazon will begin a round of layoffs next week, which could affect thousands of corporate employees, Reuters reported. In October, Amazon announced it was laying off 14,000 employees to help reduce management layers and bureaucracy.</p>\n\n<p>The upcoming layoffs will affect roughly the same number of employees as those in October, bringing the total number of laid off employees to as many as 30,000, Reuters reported. Affected units include Amazon Web Services, Prime Video, retail and human resources, the report said.</p>\n\n<p>Amazon CEO Andy Jassy <a href=\"https://www.theinformation.com/articles/amazon-ceo-weighs-ai-shopping-wars-openai-relationship\">told</a> The Information in an interview at Davos earlier this week that layoffs at Amazon aren’t about AI replacing human workers, but about improving the company’s culture after adding lots of employees in recent years. “Where we see layers stripping ownership, we’re going to try and take those layers away and we’re going to try and flatten it,” he said.</p>",
+            "published_at": "2026-01-23T15:27:27.659Z",
+            "url": "https://www.theinformation.com/briefings/amazon-plans-thousands-corporate-layoffs-next-week?unlock=3859f3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-plans-thousands-corporate-layoffs-next-week?unlock=3859f3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16644,
+            "guid": "b70580",
+            "headline": "TikTok Completes Creation of Data Security Joint Venture",
+            "dek": "The deal, blessed by President Trump last September, doesn't entirely sever TikTok from ByteDance.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>TikTok announced it has completed a restructuring in which its data security arm is being transferred into a joint venture,&nbsp;owned by a group of investors including Oracle, MGX&nbsp;and Silver Lake, to bring the popular app into compliance with a 2024 law. The law had required TikTok’s U.S. operations to sever its ties with its Chinese parent ByteDance or face a ban.</p>\n\n<p>The deal, blessed by President Trump last September, doesn’t entirely sever TikTok from ByteDance. As previously reported, and confirmed in today’s announcement, the joint venture will oversee the protection of TikTok’s U.S. user data, the security of the algorithm that governs what people see on the app and oversee content moderation. TikTok’s business—the sale of advertising and the running of TikTok Shop—remains part of ByteDance.</p>\n\n<p>Thursday’s announcement named the board members for the new joint venture. They include TikTok CEO Shou Chew, as well as Mark Dooley, a representative&nbsp;of ByteDance investors Susquehanna International Group, as well as Silver Lake co-CEO Egon Durban, former TPG Global executive Timothy Dattels, Oracle executive Ken Glueck and MGX executive David Scott. As expected, TikTok executive Adam Presser will run the joint venture, confirming an earlier report by The Information.</p>\n\n<p>TikTok also revealed the identity of other investors, including Michael Dell, affiliates of ByteDance investors&nbsp;Susquehanna and&nbsp;General Atlantic, as well as a Yuri Milner and&nbsp;Xavier Niel, a French entrepreneur and a ByteDance board member. ByteDance keeps 19.9% of the venture.</p>",
+            "published_at": "2026-01-23T01:11:59.514Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-completes-sale-data-security-arm-joint-venture?unlock=b70580&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-completes-sale-data-security-arm-joint-venture?unlock=b70580&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14682,
+                    "guid": "1ab59715d0",
+                    "title": "Oracle Is Leading Contender to Help Run TikTok in New Deal",
+                    "url": "https://www.theinformation.com/articles/oracle-leading-contender-help-run-tiktok-new-deal?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 15844,
+                    "guid": "0b5c11b321",
+                    "title": "TikTok Insiders Bet No. 2, Adam Presser, Will Run New Venture",
+                    "url": "https://www.theinformation.com/articles/tiktok-insiders-bet-2-adam-presser-will-run-new-venture?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16643,
+            "guid": "880872",
+            "headline": "Microsoft Outage Takes Down Outlook Email For Hours",
+            "dek": "It’s one of the most notable Microsoft outages since July last year, when an Outlook was down for 21 hours.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft said Thursday it was investigating an outage that took down Office 365 apps such as its Outlook email service and Teams messaging app in North America throughout the day. The company said it was aware of customers who were unable to send or receive emails through Outlook.</p>\n\n<p>It’s one of the most notable Microsoft outages since July last year, when an Outlook was down for 21 hours.</p>\n\n<p>Microsoft first acknowledged the outage around 1:30 p.m. Pacific Time. Two hours later the company said most of the service had been restored but customers might experience “degraded service” while it investigates the issue.</p>",
+            "published_at": "2026-01-23T00:01:48.417Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-outage-takes-outlook-email-hours?unlock=880872&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-outage-takes-outlook-email-hours?unlock=880872&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16642,
+            "guid": "7e1db6",
+            "headline": "Capital One Agrees to Buy Brex for $5 Billion, a Discount to Last Private Valuation",
+            "dek": "Capital One struck a deal to buy payments and credit card startup Brex.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Capital One struck a deal to buy payments and credit card startup Brex for $5.15 billion, the U.S. bank said on Thursday. That is a far cry from Brex’s last valuation of $12 billion during a 2022 fundraising, though the sale means investors in the nine-year-old startup will be able to cash out of their investments during a sluggish period for initial public offerings</p>\n\n<p>The purchase of Brex, which offers corporate credit card programs and sought to take on American Express, will be funded with an even split of cash and stock, Capital One said in a statement accompanying its latest quarterly results.</p>\n\n<p>Venture capital investors Greenoaks and TCV led Brex’s $300 million fundraising round in 2022. More recently, Brex took on $235 million of debt from Citi and private equity firm TPG. Brex was <a href=\"https://www.theinformation.com/articles/make-mistake-brex-ramp-fintechs-software-makers?rc=zjctrx\">generating more than $700 million</a> in annualized revenue as of September.</p>\n\n<p>Brex’s main rival, Ramp, raised money at a $22.5 billion valuation last summer and $32 billion valuation in November, after taking business away from Brex and competitors by offering slick software and more credit card rewards.</p>\n\n<p>Brex was founded by Brazilian entrepreneurs Henrique Dubugras and Pedro Franceschi, who ran the startup as co-CEOs until Dubugras stepped aside to serve as chairman in 2024. In a <a href=\"https://x.com/brexHQ/status/2014451666850840777\">post</a> on X, Brex said it was excited about “the largest bank-fintech deal in history” and the resources of Capital One would allow the startup to invest even more aggressively in automation and AI. In a <a href=\"https://x.com/pedroh96/status/2014450912497201289\">post</a> on X, Franceschi said he would continue as Brex’s CEO.</p>",
+            "published_at": "2026-01-22T22:11:01.775Z",
+            "url": "https://www.theinformation.com/briefings/capital-one-agrees-buy-brex-5-billion-discount-last-private-valuation?unlock=7e1db6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/capital-one-agrees-buy-brex-5-billion-discount-last-private-valuation?unlock=7e1db6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16641,
+            "guid": "b5f412",
+            "headline": "Donald Trump Launches Debanking Lawsuit Against JPMorgan",
+            "dek": "President Donald Trump sued JPMorgan and the bank’s CEO Jamie Dimon for closing his bank accounts.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump sued JPMorgan and the bank’s CEO Jamie Dimon for closing his bank accounts in 2021 shortly after the January 6 riots in the U.S. Capital.</p>\n\n<p>The lawsuit, which was filed in Miami-Dade County and Thursday, claims accounts owned by Trump and his related entities were closed “as a result of political and social motivations.” Trump is seeking at least $5 billion in damages for allegedly cutting off his banking services. In a statement, JPMorgan said the suit has “no merit.”</p>\n\n<p>JPMorgan disclosed to investors last year that it was facing reviews and investigations related to the government’s probe of “debanking” in the financial sector. The lawsuit was filed after Dimon earlier this month criticized the Trump administration’s criminal probe into Federal Reserve chair Jerome Powell.</p>\n\n<p>“We respect the President’s right to sue us and our right to defend ourselves - that’s what courts are for,” JPMorgan said. The Trump Organization is suing Capital One over similar debanking allegations.</p>",
+            "published_at": "2026-01-22T21:54:39.857Z",
+            "url": "https://www.theinformation.com/briefings/donald-trump-launches-debanking-lawsuit-jpmorgan?unlock=b5f412&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/donald-trump-launches-debanking-lawsuit-jpmorgan?unlock=b5f412&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16640,
+            "guid": "c46e19",
+            "headline": "Intel’s Sales Slump Persists Despite AI Growth",
+            "dek": "The chipmaker's revenue fell 4% in the fourth quarter, largely a result of a decline in its unit that sells CPUs for use in personal computers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Intel’s fourth quarter revenue fell 4%, the chip firm reported Thursday, at the high end of the company’s projections. The result reflected a 7% decline in its largest unit, through which it sells CPUs for use in personal computers and other consumer products. Intel stock, which has more than doubled in recent years, fell 6.6% in after-hours trading.</p>\n\n<p>That decline was partly offset by a 9% increase in its artificial intelligence data center CPU business and a 4% boost in sales from its chip manufacturing arm. Intel projected first quarter&nbsp; revenue would be between $11.7 and $12.7 billion in revenue, which would be as much as 7.8% lower than a year earlier. Intel generated $12.7 billion in revenue in the first quarter last year.</p>\n\n<p>Chief financial officer David Zinsner attributed the expected downturn in the current quarter to supply shortages, saying in the company’s earnings release that it expects available supply to be “at its lowest level in Q1 before improving in Q2 and beyond.”</p>",
+            "published_at": "2026-01-22T21:42:02.480Z",
+            "url": "https://www.theinformation.com/briefings/intels-sales-slump-persists-despite-ai-growth?unlock=c46e19&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/intels-sales-slump-persists-despite-ai-growth?unlock=c46e19&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16446,
+                    "guid": "9e5751b78b",
+                    "title": "Intel is Now Pricier Than TSMC: That Makes No Sense",
+                    "url": "https://www.theinformation.com/articles/intel-now-pricier-tsmc-makes-sense?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16639,
+            "guid": "978096",
+            "headline": "Caroline Ellison, Former Alameda CEO, Released From Jail",
+            "dek": "Ellison was sentenced for two years for her role in the collapse of FTX crypto exchange. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Caroline Ellison, the former chief executive officer of Alameda Research and ex-girlfriend of Sam Bankman-Fried, was released from jail Wednesday, according to the Federal Bureau of Prisons’ inmate record.</p>\n\n<p>Ellison was sentenced for two years in prison, after she pleaded guilty to fraud in 2023 for the collapse of FTX, the crypto exchange founded by Bankman-Fried that misappropriated customer funds. She was a key government witness and cooperated with prosecutors.</p>\n\n<p>Bankman-Fried is currently serving a 25-year sentence in California, set to be released in 2044. He and his family members have been petitioning President Donald Trump for a pardon.</p>",
+            "published_at": "2026-01-22T19:52:07.180Z",
+            "url": "https://www.theinformation.com/briefings/caroline-ellison-former-alameda-ceo-released-jail?unlock=978096&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/caroline-ellison-former-alameda-ceo-released-jail?unlock=978096&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16638,
+            "guid": "207126",
+            "headline": "BitGo Jumps in First Crypto IPO This Year ",
+            "dek": "Crypto custodian BitGo and its holders raised $213 million in IPO. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>BitGo, a crypto custodian, opened up 25% on the New York Stock Exchange Thursday, becoming the first crypto company to go public this year.</p>\n\n<p>The company and its shareholders raised $213 million in its initial public offering, at a price of $18 per share, giving it a valuation of about $2.1 billion. It opened trading at $22.43 per share.</p>\n\n<p>BitGo’s performance could bode well for other crypto firms that are preparing to go public. Crypto exchange Kraken and asset manager Grayscale have also filed for IPOs. The crypto markets have cooled since the market fell last October. Bitcoin now trades at $89,376, down 28% from early October.</p>",
+            "published_at": "2026-01-22T19:50:35.177Z",
+            "url": "https://www.theinformation.com/briefings/bitgo-jumps-first-crypto-ipo-year?unlock=207126&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bitgo-jumps-first-crypto-ipo-year?unlock=207126&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                },
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16637,
+            "guid": "d8a8c8",
+            "headline": "Tesla Starts Limited Robotaxi Rides Without Backup Humans in Austin  ",
+            "dek": "Tesla has repeatedly blown through deadlines that Elon Musk announced for Robotaxi. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla has started offering rides to customers in a few of its Robotaxi vehicles without backup human supervisors for the first time, the company’s top AI executive said on Thursday. The move in Austin is a key initial step toward catching up with Alphabet’s Waymo, which offers autonomous rides to customers without backup humans in more than 2,000 vehicles across six U.S. cities.</p>\n\n<p>In a <a href=\"https://x.com/aelluswamy/status/2014398853991301538\">post on X</a>, Tesla’s vice president of autopilot and AI software Ashok Elluswamy said Tesla was “starting with a few unsupervised vehicles mixed in with the broader robotaxi fleet with safety monitors” and that the “ratio will increase over time.” Elluswamy did not say when Tesla plans to fully remove humans from Robotaxi vehicles in Austin or start doing so in any other cities. Tesla shares were up about 4% Thursday afternoon.</p>\n\n<p>Tesla has blown through deadlines that Elon Musk announced for Robotaxi. Musk said in July that Robotaxi would be available to half the U.S. population by the end of 2025, “subject to regulatory approvals.” In October, Musk scaled back that target to eight to 10 U.S. metro areas and said that the company would remove backup supervisors in Austin by the end of the year. But the service is still only available in Austin and the San Francisco Bay Area. In California, Tesla is offering Robotaxi rides with humans in the driver’s seat and is <a href=\"https://www.theinformation.com/articles/teslas-scaled-back-robotaxi-timeline-still-faces-obstacles\">operating under a permit</a> that only allows a human driver to drive a traditional vehicle, making the removal of humans more difficult than in Texas.</p>",
+            "published_at": "2026-01-22T19:25:34.730Z",
+            "url": "https://www.theinformation.com/briefings/tesla-starts-limited-robotaxi-rides-without-backup-humans-austin?unlock=d8a8c8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-starts-limited-robotaxi-rides-without-backup-humans-austin?unlock=d8a8c8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16636,
+            "guid": "1f6a38",
+            "headline": "Elon Musk Says Tesla Will Sell Optimus Robots By End of 2027 ",
+            "dek": "The company slashed Optimus production goals in 2025 due to problems perfecting the robots’ hands and other technical challenges, The Information has reported.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla plans to start selling its Optimus humanoid robots to the general public by the end of 2027, CEO Elon Musk said at the World Economic Forum in Davos on Thursday. By then, Musk said&nbsp;Tesla expects the robots to be “high reliability, high safety.”</p>\n\n<p>While Musk has promised that the Optimus program is the future of Tesla, the company slashed production goals in 2025 due to problems perfecting the robots’ hands and other technical challenges, <a href=\"https://www.theinformation.com/articles/elon-musk-preps-teslas-optimus-prime-time-big-hurdles-remain\">The Information has reported</a>. Musk said Thursday that Tesla was using Optimus for “simple tasks” inside its factories and was hoping to have the robots doing “more complex tasks” by the end of 2026.</p>\n\n<p>Musk also shared other optimistic projections for Tesla on Thursday, including that its supervised Full Self-Driving software would receive approval in Europe and China by the end of February. Tesla has <a href=\"https://www.theinformation.com/newsletters/the-briefing/elon-musks-promises-self-driving-ai-robots-clashed-reality\">blown through several previous timelines</a> shared by Musk for progress on autonomous driving software.</p>",
+            "published_at": "2026-01-22T16:27:52.388Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-will-sell-optimus-robots-end-2027?unlock=1f6a38&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-says-tesla-will-sell-optimus-robots-end-2027?unlock=1f6a38&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15861,
+                    "guid": "6e1694b828",
+                    "title": "As Elon Musk Preps Tesla’s Optimus for Prime Time, Big Hurdles Remain",
+                    "url": "https://www.theinformation.com/articles/elon-musk-preps-teslas-optimus-prime-time-big-hurdles-remain?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16635,
+            "guid": "61830d",
+            "headline": "PayPal Acquires Startup to Boost AI Shopping Efforts",
+            "dek": "Other commerce and payments companies like Stripe have previously weighed similar deals.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>PayPal <a href=\"https://newsroom.paypal-corp.com/2026-01-22-PayPal-to-Acquire-Cymbio,-Accelerating-Agentic-Commerce-Capabilities\">said</a> Thursday it would acquire the e-commerce startup Cymbio, which makes software that helps brands make their product catalogs available to AI search apps and agents. The deal is aimed at helping PayPal quickly build up more features to help merchants make sales through AI chatbots like ChatGPT, Google Gemini and Microsoft Copilot. Terms of the deal weren’t disclosed.</p>\n\n<p>Ensuring that merchants are able to easily share standardized, accurate data with AI agents so that their products show up in search results and can be made available for purchase has been one of the biggest challenges in building AI shopping features. PayPal&nbsp;rival Stripe had previously weighed making a similar acquisition to help speed work on AI shopping, The Information previously <a href=\"https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?rc=d8mrkd\">reported</a>.</p>\n\n<p>Cymbio was founded in 2015, and its investors include PayPal Ventures and FJ Labs, according to PitchBook.</p>",
+            "published_at": "2026-01-22T14:53:42.121Z",
+            "url": "https://www.theinformation.com/briefings/paypal-acquires-startup-boost-ai-shopping-efforts?unlock=61830d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/paypal-acquires-startup-boost-ai-shopping-efforts?unlock=61830d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16373,
+                    "guid": "1f1a7c219d",
+                    "title": "OpenAI’s Shopping Ambitions Hit Messy Data Reality",
+                    "url": "https://www.theinformation.com/articles/openais-shopping-ambitions-hit-messy-data-reality?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16634,
+            "guid": "3717c7",
+            "headline": "Alibaba Prepares Chipmaking Unit for IPO",
+            "dek": "The move follows the listings of several Chinese chip designers recently. ",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-22/alibaba-is-said-to-plan-ipo-for-ai-chipmaking-unit-t-head",
+            "source_label": "Bloomberg",
+            "body": "<p>Alibaba Group is preparing to take public its chipmaking unit T-Head, taking advantage of strong investor demand for companies developing AI processors to reduce China’s reliance on Nvidia, Bloomberg reported.</p>\n\n<p>Alibaba will first restructure the unit as a business partly owned by employees, before exploring an initial public offering, the timing of which is uncertain, the report said, citing people&nbsp; familiar with the matter.</p>\n\n<p>Several Chinese chip designers, including Moore Threads, MetaX Integrated Circuits, Biren Technology and Iluvatar Corex, went public in stock exchanges in Hong Kong and Shanghai over the past month, as China seeks to indigenize the supply of AI chips.</p>\n\n<p>Baidu also is poised to list its chipmaking subsidiary Kunlunxin.</p>",
+            "published_at": "2026-01-22T11:39:52.733Z",
+            "url": "https://www.theinformation.com/briefings/alibaba-prepares-chipmaking-unit-ipo?unlock=3717c7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibaba-prepares-chipmaking-unit-ipo?unlock=3717c7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1459572,
+                    "display_name": "Jing Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16633,
+            "guid": "d3d2bf",
+            "headline": "Anthropic Lowered Gross Margin Projection as Costs to Run AI Rose",
+            "dek": "Higher inference costs weighed on gross margins.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p><a href=\"https://www.theinformation.com/org-charts/anthropic\">Anthropic</a>&nbsp;last month&nbsp;projected it would generate a 40% gross profit margin from selling AI to businesses and application developers in 2025,&nbsp; 10 percentage points lower than its&nbsp;earlier optimistic expectations, <a href=\"https://www.theinformation.com/articles/anthropic-lowers-profit-margin-projection-revenue-skyrockets?rc=zjctrx\">The Information reported</a> late Wednesday.</p>\n\n<p>The lower-than-expected gross profit margin resulted from the costs of running Anthropic models for paying customers, in a process known as inference, on servers from Google and Amazon. Those inference costs were 23% higher than the company had anticipated, the projections showed. Anthropic calculates gross margins by subtracting inference costs and other costs of selling its products. Its margin still improved from the year earlier.</p> &nbsp;",
+            "published_at": "2026-01-22T05:20:51.978Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-lowered-gross-margin-projection-costs-run-ai-rose?unlock=d3d2bf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-lowered-gross-margin-projection-costs-run-ai-rose?unlock=d3d2bf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16444,
+                    "guid": "45377d5bca",
+                    "title": "Anthropic Lowers Gross Margin Projection as Revenue Skyrockets",
+                    "url": "https://www.theinformation.com/articles/anthropic-lowers-profit-margin-projection-revenue-skyrockets?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16630,
+            "guid": "e943d6",
+            "headline": "Amazon Launches AI Assistant For One Medical Customers",
+            "dek": "The chatbot can draw on patients’ existing medical records\r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon-owned primary care chain One Medical said it is launching an AI health assistant, a move that comes on the heels of similar healthcare chatbot announcements from Anthropic and OpenAI.</p>\n\n<p>One Medical members, who pay an annual fee for virtual and in person health care services, can use the assistant for medical advice, booking appointments and interpreting lab results. One Medical’s&nbsp;chatbot uses models available on AWS service Bedrock. Amazon started testing the chatbot last year.</p>\n\n<p>Anthropic and OpenAI both said earlier this month that they were launching consumer healthcare services, and OpenAI also recently acquired Torch, a healthcare AI app that can collate medical data from various providers.</p>",
+            "published_at": "2026-01-22T04:22:13.584Z",
+            "url": "https://www.theinformation.com/briefings/amazon-launches-ai-assistant-one-medical-customers?unlock=e943d6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-launches-ai-assistant-one-medical-customers?unlock=e943d6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16632,
+            "guid": "433a02",
+            "headline": "Apple Developing AI Wearable Pin in Challenge to OpenAI, Meta",
+            "dek": "The device would position Apple to compete more effectively with OpenAI and Meta Platforms, which are planning or already selling their own AI-powered devices.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple is developing an AI-powered wearable pin that could be released as early as 2027, according to people with direct knowledge of the matter.</p>\n\n<p>The device would position Apple to compete more effectively with OpenAI, which is planning its own AI-powered devices, and Meta Platforms, which is already selling smart glasses.</p>\n\n<p>Apple’s pin is a thin, flat, circular disc with an aluminum-and-glass shell and features two cameras—a standard lens and a wide-angle lens—on its front face, designed to capture photos and videos of the user’s surroundings. It includes three microphones to pick up sounds in the area surrounding the person wearing it.</p>\n\n<p>It also has a speaker, a physical button along one of its edges and a magnetic inductive charging interface on its back, similar to the one used on the Apple Watch. Apple engineers are aiming to make the pin the same size as an AirTag, only slightly thicker.</p>",
+            "published_at": "2026-01-21T23:49:41.534Z",
+            "url": "https://www.theinformation.com/briefings/apple-developing-ai-wearable-pin-challenge-openai-meta?unlock=433a02&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-developing-ai-wearable-pin-challenge-openai-meta?unlock=433a02&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        }
+    ]
+}
