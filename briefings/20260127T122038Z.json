@@ -1,0 +1,690 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16659,
+            "guid": "fdd551",
+            "headline": "China’s Moonshot AI Releases New Open-Source Model Kimi K2.5 ",
+            "dek": "Moonshot’s new model with an emphasis on “coding with vision” comes as DeepSeek is also moving closer to launching its new model. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Moonshot AI, a Chinese large-language model developer, released its new foundation model called Kimi K2.5, saying it excels in coding as well as its understanding of visual data.</p>\n\n<p>K2.5, which can process both text and visual inputs, can generate code based on images and video, according to the company. For complex tasks, K2.5 can also create and coordinate a “swarm” of up to 100 specialized sub-agents working in parallel to execute the tasks, the company said.</p>\n\n<p>The Beijing-based startup’s \\launched Kimi K2 last year. The model received positive reviews for its coding capabilities as well as its ability to power AI agents. The model gained popularity among application developers in the U.S. who were looking for cheaper but decent coding alternatives to OpenAI and Anthropic.</p>\n\n<p>New AI models from Chinese companies continue to fuel global competition. Moonshot’s new model comes as DeepSeek is also preparing to launch its long-awaited new model, V4, as The Information recently reported. Moonshot is one of China’s leading competitors in open-source AI models.</p>",
+            "published_at": "2026-01-27T10:40:41.427Z",
+            "url": "https://www.theinformation.com/briefings/chinas-moonshot-ai-releases-new-open-source-model-kimi-k2-5?unlock=fdd551&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-moonshot-ai-releases-new-open-source-model-kimi-k2-5?unlock=fdd551&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16382,
+                    "guid": "29f102e910",
+                    "title": "DeepSeek To Release Next Flagship AI Model With Strong Coding Ability",
+                    "url": "https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16658,
+            "guid": "aef9b6",
+            "headline": "Anthropic CEO Says ‘Horror’ of Minneapolis Killing Shows Need for Preserving Democratic Values",
+            "dek": "Amodei wrote that AI could empower authoritarian governments.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic CEO Dario Amodei <a href=\"https://www.darioamodei.com/essay/the-adolescence-of-technology\">published an essay</a> Monday outlining how he sees the risks from powerful AI, such as the possibility of AI taking over the world or empowering an authoritarian regime. Regarding the essay, Amodei <a href=\"https://x.com/DarioAmodei/status/2015833051205414955?s=20\">posted on X</a> that “given the horror we’re seeing in Minnesota, its emphasis on the importance of preserving democratic values and rights at home is particularly relevant.”</p>\n\n<p>The 21,800-word essay, titled “The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI” is a companion to <a href=\"https://www.darioamodei.com/essay/machines-of-loving-grace\">an earlier piece</a> by Amodei, “Machines of Loving Grace: How AI Could Transform the World for the Better,” which laid out a positive vision for the future of AI.</p>\n\n<p>Amodei specifically cited autonomous weapons, surveillance, propaganda and geopolitical strategy as domains in which an AI could benefit an autocracy. China is at the top of Amodei’s list of concerns, and Amodei doubled down on his advocacy for export controls to limit China’s access to U.S. chip technology.</p>\n\n<p>After risks from democracies and non-democratic countries with large datacenters, Amodei also flagged AI companies as a potential source of authoritarianism, writing, “It is somewhat awkward to say this as the CEO of an AI company, but I think the next tier of risk is actually AI companies themselves.”</p>",
+            "published_at": "2026-01-27T06:03:48.926Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-ceo-says-horror-minneapolis-killing-shows-need-preserving-democratic-values?unlock=aef9b6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-ceo-says-horror-minneapolis-killing-shows-need-preserving-democratic-values?unlock=aef9b6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16657,
+            "guid": "a93f80",
+            "headline": "Khosla Partners Clash Over ICE Killing",
+            "dek": "The disagreement was a rare instance of partners at the same firm clashing in public.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The founder and partners of OpenAI-backer Khosla Partners made opposing statements on X about the killing of a Minneapolis resident by a federal agent, in a rare instance of partners at the same VC firm clashing over politics in public.</p>\n\n<p>In a series of posts on X over the weekend, Khosla Ventures partner Keith Rabois defended federal agents’ decision to kill Alex Pretti in Minneapolis, Minn. On Saturday morning Raboi responded to a post about the killing, writing that “no law enforcement has shot an innocent person. illegals are committing violent crimes everyday.” Rabois continued arguing with other users on the site over the following days.</p>\n\n<p>Ethan Choi, another partner at the firm, disavowed Rabois’ views. “I want to make it clear that Keith doesn’t represent everyone’s views here,” Choi <a href=\"https://x.com/EthanChoi7/status/2015524019085451353?s=20\">posted</a> Sunday. “What happened in Minnesota is plain wrong. Don’t know how you could really see it differently. Sad to see a person’s life taken unnecessarily.”</p>\n\n<p>Founder Vinod Khosla <a href=\"https://x.com/vkhosla/status/2015647215642186008?s=20\">posted</a> Sunday that he sided with Choi. “The video was sickening to watch and the storytelling without facts or with invented fictitious facts by authorities almost unimaginable in a civilized society.”</p>",
+            "published_at": "2026-01-26T23:20:49.548Z",
+            "url": "https://www.theinformation.com/briefings/khosla-partners-clash-ice-killing?unlock=a93f80&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/khosla-partners-clash-ice-killing?unlock=a93f80&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16656,
+            "guid": "c5bab7",
+            "headline": "EU Investigates Elon Musk’s X Over Grok Integration ",
+            "dek": "xAI has started integrating Grok more deeply into the service, including by letting users generate images within the X app.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The European Union has opened a formal investigation into Elon Musk’s X over how the social media service has integrated xAI’s Grok AI chatbot. The investigation comes amid an outcry after users were able to prompt Grok to generate <a href=\"https://www.theinformation.com/briefings/xais-grok-posts-sexualized-images-minors-x\">sexualized images of real people</a> on X, including minors. X is owned by xAI.</p>\n\n<p>The EU <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_26_203\">said</a> it’s investigating whether X has violated the Digital Services Act, a wide-ranging law that requires companies to crack down on illegal content in the EU. Musk and the Trump administration have repeatedly criticized the law and accused the EU of censorship. The EU has the power to fine companies that violate the Digital Services Act up to 6% of their global revenue.</p>\n\n<p>xAI has started integrating Grok more deeply into the service, including by letting users generate images within the X app. That integration prompted concerns among some trust and safety staffers at X before they were laid off late last year, including that users could use Grok to generate sexualized images of real people, <a href=\"https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok\">The Information has reported</a>.</p>",
+            "published_at": "2026-01-26T14:59:09.358Z",
+            "url": "https://www.theinformation.com/briefings/eu-investigates-elon-musks-x-grok-integration?unlock=c5bab7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/eu-investigates-elon-musks-x-grok-integration?unlock=c5bab7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16655,
+            "guid": "82f985",
+            "headline": "Nvidia Invests Another $2 Billion in CoreWeave in New Deal",
+            "dek": "CoreWeave commits to use \"multiple generations\" of Nvidia chips including the upcoming Rubin GPUs.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia invested another $2 billion into AI cloud startup CoreWeave as part of a broader deal in which CoreWeave committed to adopt “multiple generations” of Nvidia chips including the upcoming Rubin GPUs. The investment more than doubled Nvidia’s stake in CoreWeave to 11.5%, according to a securities filing.</p>\n\n<p>News of the agreement sent CoreWeave stock 15% to $107 on Monday morning. Stock of CoreWeave, which went public last March at $40 a share, has gone on a rollercoaster since then. It soared to as high as $183 over the summer before plunging to as low as $64 in December. Nvidia bought the shares at $87.20, around where it was trading a couple of weeks ago.</p>\n\n<p>Nvidia has been a big backer of CoreWeave for the past couple of years, giving it a sizable allotment of chips and investing in its equity, in a sign that Nvidia wanted to help develop a competitor to cloud firms such as Amazon and Google which are increasing using their own AI chips.</p>",
+            "published_at": "2026-01-26T14:53:27.277Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-invests-another-2-billion-coreweave-new-deal?unlock=82f985&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-invests-another-2-billion-coreweave-new-deal?unlock=82f985&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16654,
+            "guid": "884c87",
+            "headline": "Nvidia CEO Tours China Amid Uncertainty Over Chip Sales",
+            "dek": "Jensen Huang is visiting Shanghai, Beijing and Shenzhen as China approves limited H200 chip purchases but broader sales remain unclear.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia CEO Jensen Huang arrived in Beijing on Sunday after spending two days in Shanghai over the weekend, according to various Chinese media reports. He is expected to attend the company’s Lunar New Year celebrations and meet Chinese clients, according to China Daily. It’s unclear if Huang will be meeting senior Chinese officials during his trip.</p>\n\n<p>Huang’s visit began in Shanghai on Jan. 23, where he drew crowds at the company’s Saturday festivities. The trip comes as Beijing approved some purchases of Nvidia’s H200 AI chip—the most powerful chip the company is permitted to sell to China, according to Bloomberg. But whether China will officially approve imports of the H200 remains uncertain.</p>\n\n<p>Huang is also planning to visit Shenzhen and then Taiwan, according to Reuters.</p>",
+            "published_at": "2026-01-26T07:36:04.140Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-tours-china-amid-uncertainty-chip-sales?unlock=884c87&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-tours-china-amid-uncertainty-chip-sales?unlock=884c87&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16653,
+            "guid": "c87d3b",
+            "headline": "Anthropic Sought Billions for Apple Deal, Report Says",
+            "dek": "The negotiations broke down over financial terms, the report said. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic had been in discussions with Apple to supply models to rebuild its Siri AI assistant and was seeking several billion dollars annually over multiple years, Bloomberg reported on Sunday. But negotiations with the AI startup stalled over the summer over the terms of a potential arrangement.</p>\n\n<p>Apple was also talking to OpenAI about the arrangement, which would have extended an earlier partnership with the ChatGPT maker.&nbsp;Apple ultimately chose Google’s Gemini after it found the software had improved significantly and Google agreed to a financial structure Apple found reasonable, the report said.&nbsp;OpenAI will still provide answers to more complex queries that users ask Siri.</p>",
+            "published_at": "2026-01-26T02:48:59.669Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-sought-billions-apple-deal-report-says?unlock=c87d3b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-sought-billions-apple-deal-report-says?unlock=c87d3b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16442,
+                    "guid": "b781964079",
+                    "title": "With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI",
+                    "url": "https://www.theinformation.com/articles/google-deal-apples-craig-federighi-plots-cautious-course-ai?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16652,
+            "guid": "8cb3d5",
+            "headline": "National Safety Agency to Investigate Waymo Over Austin Activity",
+            "dek": "The Austin school district has complained that Waymo vehicles were passing the buses soon after students had disembarked. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The National Transportation Safety Board on Friday <a href=\"https://x.com/NTSB_Newsroom/status/2014817506477703198\">said it planned to open a safety investigation</a> into the activity of Waymo vehicles around school buses in Austin, Tex.</p>\n\n<p>The investigation follows a report by the <a href=\"https://static.nhtsa.gov/odi/inv/2025/INOT-PE25013-30888P1.pdf\">Austin Independent School District</a> in November that Waymo vehicles had illegally passed school district buses that had stopped to load or unload students at least 19 times. The National Highway Traffic Safety Administration <a href=\"https://static.nhtsa.gov/odi/inv/2025/INIM-PE25013-30896.pdf\">opened an early probe of Waymo’s activity</a>&nbsp;around stopped school buses&nbsp;last month. Waymo in November said it had made a software update to resolve the issue, but the Austin school district said some of the violations occurred after the software update.</p>\n\n<p>Mauricio Peña, chief safety officer of Waymo, said in a statement that “we see this as an opportunity to provide the NTSB with transparent insights into our safety-first approach,” and noted that “there have been no collisions in the events in question.”</p>\n\n<p>The Google-owned unit is in the midst of a rapid expansion across the U.S., including in Houston, San Antonio and Dallas.</p>",
+            "published_at": "2026-01-26T02:34:39.555Z",
+            "url": "https://www.theinformation.com/briefings/national-safety-agency-investigate-waymo-austin-activity?unlock=8cb3d5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/national-safety-agency-investigate-waymo-austin-activity?unlock=8cb3d5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16651,
+            "guid": "0cf375",
+            "headline": "OpenAI Fine-Tunes Pitch to Businesses as Anthropic Rivalry Heats Up",
+            "dek": "The company is going after Anthropic, which has become the go-provider of AI for enterprises. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI is getting ready to unveil a new offering that aims to help large business customers&nbsp;incorporate AI into a variety of operations, from customer service to rewriting older application code, &nbsp;<a href=\"https://www.theinformation.com/articles/openai-aims-lure-businesses-anthropic?rc=zjctrx\">The Information reported Saturday</a>.</p>\n\n<p>The new product is part of the ChatGPT maker’s broader push to get customers to sign multi-year contracts worth more than $100 million. OpenAI leaders recently teased upcoming upgrades to the startup’s AI coding tool, Codex, which they said would soon surpass Claude Code’s performance and features.</p>\n\n<p>OpenAI is aiming to counter the inroads rival Anthropic has made with large companies due to the surging popularity of its AI coding product, Claude Code. One question is whether OpenAI can gain the trust of large companies that see Anthropic as a safer path to adopting AI because it is primarily targeting business customers.</p>",
+            "published_at": "2026-01-24T18:22:54.033Z",
+            "url": "https://www.theinformation.com/briefings/openai-plans-new-offering-aimed-large-customers?unlock=0cf375&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-plans-new-offering-aimed-large-customers?unlock=0cf375&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                },
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16459,
+                    "guid": "bd4d4edb3f",
+                    "title": "OpenAI Aims to Lure Businesses From Anthropic",
+                    "url": "https://www.theinformation.com/articles/openai-aims-lure-businesses-anthropic?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16650,
+            "guid": "e2e815",
+            "headline": "Judge Questions Google, Epic Games Over $800 Million Deal",
+            "dek": "A federal judge questioned whether an $800 million sales deal between Epic Games and Google was contributing to the parties opting for an antitrust settlement.",
+            "source_url": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement",
+            "source_label": "The Verge",
+            "body": "<p>A federal judge on Thursday questioned whether a previously undisclosed $800 million sales deal between Epic Games and Google was contributing to the parties opting for an antitrust settlement, The Verge reported.</p>\n\n<p>As part of the transaction, Epic would help Google market device operating system Android, and Google would help Epic market its Fortnite game, California district judge James Donato said at the hearing. Epic would pay $800 million to Google over six years for services associated with the deal, which may be tied to the services agreement.</p>\n\n<p>Donato asked whether the deal could constitute a “quid pro quo” incentivizing Epic to soften its demands for terms favoring other Android developers, The Verge reported. The current settlement, which Epic supports, would require Google to reduce its app store fees and make it easier to download alternative app stores. Epic CEO Tim Sweeney pushed back on the judge’s assessment, according to the Verge, noting that Epic was paying Google, not the other way around.</p>",
+            "published_at": "2026-01-24T02:13:33.821Z",
+            "url": "https://www.theinformation.com/briefings/judge-questions-google-epic-games-800-million-deal?unlock=e2e815&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/judge-questions-google-epic-games-800-million-deal?unlock=e2e815&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16649,
+            "guid": "bd8966",
+            "headline": "Exclusive: Google Acquires 3D Image Generator Startup",
+            "dek": "Google has acquired Common Sense Machines, a Cambridge, Mass.,-based startup developing generative artificial intelligence models to create three-dimensional content from two-dimensional images.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google has acquired Common Sense Machines, a Cambridge, Mass.,-based startup developing generative artificial intelligence models to create three-dimensional assets from two-dimensional images, a Google spokesperson confirmed.</p>\n\n<p>The deal closed this week, according to the spokesperson. The spokesperson declined to provide a price. The company had around a dozen employees, according to its LinkedIn page, and was last valued at $15 million after raising $10 million from investors including Andreessen Horowitz, according to PitchBook. One of Common Sense Machines’ co-CEOs, Tejas Kulkarni, worked as a research scientist at Google DeepMind before cofounding the company in 2020.</p>\n\n<p>The deal suggests that Google is continuing to lean further into image generation and multimodal AI after the success of its Nano Banana model, which creates images from text prompts. DeepMind chief Demis Hassabis has also talked about the importance of “world models,” which simulate the physical world. Common Sense Machines’ former employees will work at Google DeepMind, the spokesperson said.</p>",
+            "published_at": "2026-01-24T02:00:33.489Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-google-acquires-3d-image-generator-startup?unlock=bd8966&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-google-acquires-3d-image-generator-startup?unlock=bd8966&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                },
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16648,
+            "guid": "f7ed43",
+            "headline": "Geothermal Power Startup Fervo Files for Public Offering",
+            "dek": "Fervo is one of several power companies looking to go public as tech companies race to secure electricity for AI data centers.",
+            "source_url": "https://www.axios.com/pro/climate-deals/2026/01/22/fervo-ipo-s1-geothermal-energy",
+            "source_label": "Axios",
+            "body": "<p>Fervo Energy, a startup developing geothermal power projects, filed confidential paperwork for an initial public offering, Axios reported.</p>\n\n<p>JPMorgan and Bank of America are working with Fervo on the potential offering, Axios reported. Fervo in December said it raised $462 million in funding led by venture firm B Capital to help build projects such as its Cape Station site in Utah, which the company said would begin delivering 100 megawatts of power to the grid this year. Google also made an investment in the company.</p>\n\n<p>Fervo is one of several power companies looking to go public as tech companies race to secure electricity for AI data centers. Renewable power developer Hecate Energy on Friday filed to go public by merging with a blank-check company in a deal valuing it at $1.2 billion.</p>\n\n<p>Representatives for Fervo and Bank of America did not respond to requests for comment. A JPMorgan spokesperson declined to comment.</p>",
+            "published_at": "2026-01-23T22:37:38.955Z",
+            "url": "https://www.theinformation.com/briefings/geothermal-power-startup-fervo-files-public-offering?unlock=f7ed43&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/geothermal-power-startup-fervo-files-public-offering?unlock=f7ed43&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2412958,
+                    "display_name": "Miles Kruppa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16647,
+            "guid": "216902",
+            "headline": "DOJ Opens Criminal Probe Into Deel-Rippling Spy Claims",
+            "dek": "The Justice Department has launched a criminal investigation into allegations payroll startup Deel recruited and paid a spy inside a Rippling, according to the WSJ.",
+            "source_url": "",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>The Justice Department has launched a criminal investigation into allegations payroll startup Deel recruited and paid a spy inside a Rippling office in Ireland, according to The <a href=\"https://www.wsj.com/us-news/law/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations-9afe1eec\">The Wall Street Journal</a>. In recent weeks, prosecutors have distributed subpoenas for a grand jury, the Journal reported.</p>\n\n<p>Detectives from the Anti-Bribery and Corruption Unit of Ireland’s Garda National Economic Crime Bureau recently searched the home of Keith O’Brien, the alleged spy, according to a report by <a href=\"https://www.independent.ie/irish-news/courts/us-justice-department-opens-probe-in-alleged-corporate-spy-plot-involving-irish-executive/a1757789873.html\">The Irish Independent</a> on Friday. Garda Headquarters said the search was “part of an ongoing criminal investigation into alleged corruption and money laundering involving an international software company,” according to the report.</p>\n\n<p>A spokesperson for Deel said the company was&nbsp;not aware of any investigation. “We will always cooperate with the relevant authorities and provide any necessary information in response to valid inquiries,” Deel said.</p>\n\n<p>Court filings that were unsealed in November, in a civil lawsuit Rippling launched against Deel, showed Deel labeled as an expense a $6,000 payment it made to the wife of the company’s chief operating officer. That cash was immediately sent to O’Brien. Deel has denied Rippling’s civil suit allegations and launched a separate defamation case against its rival. A Deel spokesperson said its lawsuit shows Rippling made misleading claims about Deel, including in a separate civil case in Florida that&nbsp;was recently dismissed. That lawsuit,&nbsp;backed by a Rippling investor and lawyer, alleged lapses in Deel’s compliance controls.</p>\n\n<p>In November, Deel CEO Alex Bouaziz added Morrison Foerster partner William Frentzen, a&nbsp;former DOJ lawyer, to his legal team. Bouaziz also recently credited Andreessen Horowitz, which holds a multi-billion dollar stake in Deel, for helping to manage the fallout from Rippling’s allegations. Bouaziz told substack publication <a href=\"https://www.notboring.co/p/a16z-the-power-brokers\">Not Boring</a>, that the venture firm was “figuring things out, helping me figure out how to manage it, getting the best people to help, getting their own hands dirty. When a lot of this bullshit came out, I couldn’t have asked for a better partner.” Andreessen Horowitz did not respond immediately to a request for comment.</p>\n\n<p><em>This story&nbsp;has been updated to include comments&nbsp;from Deel.</em></p>",
+            "published_at": "2026-01-23T18:28:57.420Z",
+            "url": "https://www.theinformation.com/briefings/doj-opens-criminal-probe-deel-rippling-spy-claims?unlock=216902&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/doj-opens-criminal-probe-deel-rippling-spy-claims?unlock=216902&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16646,
+            "guid": "6c07ec",
+            "headline": "Google Invests in Japan’s Sakana AI",
+            "dek": "The partnership with Sakana could help Google increase its presence in Japan’s AI market. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Google invested in Sakana AI, a Tokyo-based developer of AI models and applications, Sakana said Friday. Google invested at the same valuation as the Japanese company’s <a href=\"https://www.theinformation.com/briefings/japans-sakana-ai-worth-2-6-billion-new-round?rc=jnr9wn\">recently announced funding round</a>, which valued it at $2.5 billion without the newly raised capital, according to Sakana cofounder and CEO David Ha. He didn’t disclose how much Google invested.</p>\n\n<p>Sakana, Japan’s most highly valued AI startup,&nbsp;also announced a strategic partnership with Google that will allow it to use the U.S. tech giant’s state-of-the-art AI models to build its technologies and products. “This partnership allows us to push the boundaries of automated scientific discovery and agentic AI even further,” Sakana&nbsp;said.</p>\n\n<p>The partnership with Sakana could also help Google increase its presence in Japan’s domestic AI model market, where OpenAI has so far been the frontrunner.</p>\n\n<p>Sakana, which means fish in Japanese, was founded in 2023 by former Google researchers Ha and Llion Jones, one of the co-authors of the <a href=\"https://www.theinformation.com/articles/eight-research-papers-behind-the-ai-boom\">original Google research paper</a> that outlined the transformer model architecture that underlies today’s most popular large language models like OpenAI’s GPT and Google’s Gemini.</p>",
+            "published_at": "2026-01-23T15:40:51.337Z",
+            "url": "https://www.theinformation.com/briefings/google-invests-japans-sakana-ai?unlock=6c07ec&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/google-invests-japans-sakana-ai?unlock=6c07ec&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16645,
+            "guid": "3859f3",
+            "headline": "Amazon Plans Thousands of Corporate Layoffs Next Week",
+            "dek": "Amazon laid off 14,000 employees in October, and is planning on eliminating a similar number of corporate employees soon\r\n",
+            "source_url": "https://www.reuters.com/business/world-at-work/amazon-plans-thousands-more-corporate-job-cuts-next-week-sources-say-2026-01-22/",
+            "source_label": "Reuters",
+            "body": "<p>Amazon will begin a round of layoffs next week, which could affect thousands of corporate employees, Reuters reported. In October, Amazon announced it was laying off 14,000 employees to help reduce management layers and bureaucracy.</p>\n\n<p>The upcoming layoffs will affect roughly the same number of employees as those in October, bringing the total number of laid off employees to as many as 30,000, Reuters reported. Affected units include Amazon Web Services, Prime Video, retail and human resources, the report said.</p>\n\n<p>Amazon CEO Andy Jassy <a href=\"https://www.theinformation.com/articles/amazon-ceo-weighs-ai-shopping-wars-openai-relationship\">told</a> The Information in an interview at Davos earlier this week that layoffs at Amazon aren’t about AI replacing human workers, but about improving the company’s culture after adding lots of employees in recent years. “Where we see layers stripping ownership, we’re going to try and take those layers away and we’re going to try and flatten it,” he said.</p>",
+            "published_at": "2026-01-23T15:27:27.659Z",
+            "url": "https://www.theinformation.com/briefings/amazon-plans-thousands-corporate-layoffs-next-week?unlock=3859f3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-plans-thousands-corporate-layoffs-next-week?unlock=3859f3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16644,
+            "guid": "b70580",
+            "headline": "TikTok Completes Creation of Data Security Joint Venture",
+            "dek": "The deal, blessed by President Trump last September, doesn't entirely sever TikTok from ByteDance.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>TikTok announced it has completed a restructuring in which its data security arm is being transferred into a joint venture,&nbsp;owned by a group of investors including Oracle, MGX&nbsp;and Silver Lake, to bring the popular app into compliance with a 2024 law. The law had required TikTok’s U.S. operations to sever its ties with its Chinese parent ByteDance or face a ban.</p>\n\n<p>The deal, blessed by President Trump last September, doesn’t entirely sever TikTok from ByteDance. As previously reported, and confirmed in today’s announcement, the joint venture will oversee the protection of TikTok’s U.S. user data, the security of the algorithm that governs what people see on the app and oversee content moderation. TikTok’s business—the sale of advertising and the running of TikTok Shop—remains part of ByteDance.</p>\n\n<p>Thursday’s announcement named the board members for the new joint venture. They include TikTok CEO Shou Chew, as well as Mark Dooley, a representative&nbsp;of ByteDance investors Susquehanna International Group, as well as Silver Lake co-CEO Egon Durban, former TPG Global executive Timothy Dattels, Oracle executive Ken Glueck and MGX executive David Scott. As expected, TikTok executive Adam Presser will run the joint venture, confirming an earlier report by The Information.</p>\n\n<p>TikTok also revealed the identity of other investors, including Michael Dell, affiliates of ByteDance investors&nbsp;Susquehanna and&nbsp;General Atlantic, as well as a Yuri Milner and&nbsp;Xavier Niel, a French entrepreneur and a ByteDance board member. ByteDance keeps 19.9% of the venture.</p>",
+            "published_at": "2026-01-23T01:11:59.514Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-completes-sale-data-security-arm-joint-venture?unlock=b70580&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-completes-sale-data-security-arm-joint-venture?unlock=b70580&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14682,
+                    "guid": "1ab59715d0",
+                    "title": "Oracle Is Leading Contender to Help Run TikTok in New Deal",
+                    "url": "https://www.theinformation.com/articles/oracle-leading-contender-help-run-tiktok-new-deal?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 15844,
+                    "guid": "0b5c11b321",
+                    "title": "TikTok Insiders Bet No. 2, Adam Presser, Will Run New Venture",
+                    "url": "https://www.theinformation.com/articles/tiktok-insiders-bet-2-adam-presser-will-run-new-venture?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16643,
+            "guid": "880872",
+            "headline": "Microsoft Outage Takes Down Outlook Email For Hours",
+            "dek": "It’s one of the most notable Microsoft outages since July last year, when an Outlook was down for 21 hours.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft said Thursday it was investigating an outage that took down Office 365 apps such as its Outlook email service and Teams messaging app in North America throughout the day. The company said it was aware of customers who were unable to send or receive emails through Outlook.</p>\n\n<p>It’s one of the most notable Microsoft outages since July last year, when an Outlook was down for 21 hours.</p>\n\n<p>Microsoft first acknowledged the outage around 1:30 p.m. Pacific Time. Two hours later the company said most of the service had been restored but customers might experience “degraded service” while it investigates the issue.</p>",
+            "published_at": "2026-01-23T00:01:48.417Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-outage-takes-outlook-email-hours?unlock=880872&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-outage-takes-outlook-email-hours?unlock=880872&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16642,
+            "guid": "7e1db6",
+            "headline": "Capital One Agrees to Buy Brex for $5 Billion, a Discount to Last Private Valuation",
+            "dek": "Capital One struck a deal to buy payments and credit card startup Brex.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Capital One struck a deal to buy payments and credit card startup Brex for $5.15 billion, the U.S. bank said on Thursday. That is a far cry from Brex’s last valuation of $12 billion during a 2022 fundraising, though the sale means investors in the nine-year-old startup will be able to cash out of their investments during a sluggish period for initial public offerings</p>\n\n<p>The purchase of Brex, which offers corporate credit card programs and sought to take on American Express, will be funded with an even split of cash and stock, Capital One said in a statement accompanying its latest quarterly results.</p>\n\n<p>Venture capital investors Greenoaks and TCV led Brex’s $300 million fundraising round in 2022. More recently, Brex took on $235 million of debt from Citi and private equity firm TPG. Brex was <a href=\"https://www.theinformation.com/articles/make-mistake-brex-ramp-fintechs-software-makers?rc=zjctrx\">generating more than $700 million</a> in annualized revenue as of September.</p>\n\n<p>Brex’s main rival, Ramp, raised money at a $22.5 billion valuation last summer and $32 billion valuation in November, after taking business away from Brex and competitors by offering slick software and more credit card rewards.</p>\n\n<p>Brex was founded by Brazilian entrepreneurs Henrique Dubugras and Pedro Franceschi, who ran the startup as co-CEOs until Dubugras stepped aside to serve as chairman in 2024. In a <a href=\"https://x.com/brexHQ/status/2014451666850840777\">post</a> on X, Brex said it was excited about “the largest bank-fintech deal in history” and the resources of Capital One would allow the startup to invest even more aggressively in automation and AI. In a <a href=\"https://x.com/pedroh96/status/2014450912497201289\">post</a> on X, Franceschi said he would continue as Brex’s CEO.</p>",
+            "published_at": "2026-01-22T22:11:01.775Z",
+            "url": "https://www.theinformation.com/briefings/capital-one-agrees-buy-brex-5-billion-discount-last-private-valuation?unlock=7e1db6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/capital-one-agrees-buy-brex-5-billion-discount-last-private-valuation?unlock=7e1db6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16641,
+            "guid": "b5f412",
+            "headline": "Donald Trump Launches Debanking Lawsuit Against JPMorgan",
+            "dek": "President Donald Trump sued JPMorgan and the bank’s CEO Jamie Dimon for closing his bank accounts.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>President Donald Trump sued JPMorgan and the bank’s CEO Jamie Dimon for closing his bank accounts in 2021 shortly after the January 6 riots in the U.S. Capital.</p>\n\n<p>The lawsuit, which was filed in Miami-Dade County and Thursday, claims accounts owned by Trump and his related entities were closed “as a result of political and social motivations.” Trump is seeking at least $5 billion in damages for allegedly cutting off his banking services. In a statement, JPMorgan said the suit has “no merit.”</p>\n\n<p>JPMorgan disclosed to investors last year that it was facing reviews and investigations related to the government’s probe of “debanking” in the financial sector. The lawsuit was filed after Dimon earlier this month criticized the Trump administration’s criminal probe into Federal Reserve chair Jerome Powell.</p>\n\n<p>“We respect the President’s right to sue us and our right to defend ourselves - that’s what courts are for,” JPMorgan said. The Trump Organization is suing Capital One over similar debanking allegations.</p>",
+            "published_at": "2026-01-22T21:54:39.857Z",
+            "url": "https://www.theinformation.com/briefings/donald-trump-launches-debanking-lawsuit-jpmorgan?unlock=b5f412&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/donald-trump-launches-debanking-lawsuit-jpmorgan?unlock=b5f412&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16640,
+            "guid": "c46e19",
+            "headline": "Intel’s Sales Slump Persists Despite AI Growth",
+            "dek": "The chipmaker's revenue fell 4% in the fourth quarter, largely a result of a decline in its unit that sells CPUs for use in personal computers.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Intel’s fourth quarter revenue fell 4%, the chip firm reported Thursday, at the high end of the company’s projections. The result reflected a 7% decline in its largest unit, through which it sells CPUs for use in personal computers and other consumer products. Intel stock, which has more than doubled in recent years, fell 6.6% in after-hours trading.</p>\n\n<p>That decline was partly offset by a 9% increase in its artificial intelligence data center CPU business and a 4% boost in sales from its chip manufacturing arm. Intel projected first quarter&nbsp; revenue would be between $11.7 and $12.7 billion in revenue, which would be as much as 7.8% lower than a year earlier. Intel generated $12.7 billion in revenue in the first quarter last year.</p>\n\n<p>Chief financial officer David Zinsner attributed the expected downturn in the current quarter to supply shortages, saying in the company’s earnings release that it expects available supply to be “at its lowest level in Q1 before improving in Q2 and beyond.”</p>",
+            "published_at": "2026-01-22T21:42:02.480Z",
+            "url": "https://www.theinformation.com/briefings/intels-sales-slump-persists-despite-ai-growth?unlock=c46e19&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/intels-sales-slump-persists-despite-ai-growth?unlock=c46e19&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16446,
+                    "guid": "9e5751b78b",
+                    "title": "Intel is Now Pricier Than TSMC: That Makes No Sense",
+                    "url": "https://www.theinformation.com/articles/intel-now-pricier-tsmc-makes-sense?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        }
+    ]
+}
