@@ -1,0 +1,705 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16671,
+            "guid": "a067e7",
+            "headline": "China Approves First Batch of Nvidia H200 AI Chip Imports",
+            "dek": "China approved 400,000 of the H200 AI chips for major tech firms as Nvidia CEO Jensen Huang visits China.",
+            "source_url": "https://www.reuters.com/world/china/china-gives-green-light-importing-first-batch-nvidias-h200-ai-chips-sources-say-2026-01-28/",
+            "source_label": "Reuters ",
+            "body": "<p>China has approved imports of the first batch of Nvidia’s H200 AI chips, according to Reuters, citing two people familiar with the matter. The approval was granted as Nvidia CEO Jensen Huang visits China this week, after weeks of uncertainty whether and at which scale Beijing will allow the powerful chips in.</p>\n\n<p>ByteDance, Alibaba Group and Tencent Holdings have been allowed to purchase over 400,000 H200 chips in total, while other companies are waiting for subsequent approvals, Reuters reported.</p>\n\n<p>President Donald Trump approved the H200 chip sales to China last month, representing the most significant rollback of the Biden-era semiconductor export restrictions to date. Chinese officials have spent the past weeks balancing the imports of the H200 chips—which are needed to develop China’s AI systems—against the long-term goal of cultivating semiconductor technology independence. While the H200 is the most powerful AI chip currently available to Chinese buyers, it remains less advanced than Nvidia’s latest Blackwell processors.</p>\n\n<p>The Information reported earlier this month that Beijing told tech companies they could only buy H200 chips in special circumstances, without specifying the criteria. Last week, Bloomberg reported that ByteDance, Alibaba, and Tencent had received in principle approval for the H200 chips.</p>",
+            "published_at": "2026-01-28T10:12:38.824Z",
+            "url": "https://www.theinformation.com/briefings/china-approves-first-batch-nvidia-h200-ai-chip-imports?unlock=a067e7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-approves-first-batch-nvidia-h200-ai-chip-imports?unlock=a067e7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16670,
+            "guid": "677b29",
+            "headline": "Anthropic Increases 2026 Revenue Forecast by 20% to $18 Billion",
+            "dek": "The company delays going cash flow positive till 2028, a year later than previously expected\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic, in December, projected to generate as much as $18 billion this year, about 20% more than its summer forecast, and $55 billion next year. The company expects to generate as much as $148 billion in 2029 in its most optimistic projections– about $3 billion more than what OpenAI projected to make that year.</p>\n\n<p>Some of the fast revenue growth is from the company’s success in selling access to its AI models via an application programming interface to business customers. In particular, the company has become popular for coding-related tasks, in part due to its coding agent Claude Code, which generated more than $1 billion in annualized revenue in November.</p>\n\n<p>But costs are adding up. The company revised its most optimistic&nbsp; projections to delay turning cash flow positive till 2028, a year later than previously expected. It projects to generate $2.2 billion in cash in 2028. Higher costs to train and run its AI models have contributed to the delay. This year, the company expects to spend $12 billion on training its models and $7 billion on running them for its paying users.</p>\n\n<p>The company is raising more than $10 billion at a valuation of $350 billion before the financing in a round led by Singapore’s GIC and Coatue Management. Strategic investors Nvidia and Microsoft in November committed to invest $10 billion and $5 billion respectively.</p>",
+            "published_at": "2026-01-28T04:12:05.736Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-increases-2026-revenue-forecast-20-18-billion?unlock=677b29&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-increases-2026-revenue-forecast-20-18-billion?unlock=677b29&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16669,
+            "guid": "8fffcf",
+            "headline": "Apple CEO Urges “Deescalation” Following Fatal ICE Shooting",
+            "dek": "The CEO’s call comes after criticism over his attendance at a White House film screening",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-28/apple-s-cook-calls-for-deescalation-after-latest-ice-shooting",
+            "source_label": "Bloomberg",
+            "body": "<p>Apple Chief Executive Tim Cook said he was “heartbroken by the events in Minneapolis” and called for a “deescalation” in an internal message to employees following Saturday’s fatal shooting by federal immigration agents. The message was first reported by <a href=\"https://www.bloomberg.com/news/articles/2026-01-28/apple-s-cook-calls-for-deescalation-after-latest-ice-shooting\">Bloomberg</a>.</p>\n\n<p>“This is a time for deescalation,” Cook wrote to employees. “I believe America is strongest when we live up to our highest ideals, when we treat everyone with dignity and respect no matter who they are or where they’re from, and when we embrace our shared humanity. This is something Apple has always advocated for. I had a good conversation with the president this week where I shared my views, and I appreciate his openness to engaging on issues that matter to us all.”</p>\n\n<p>The memo arrives after Cook faced criticism internally and externally for attending a White House screening of Melania, a documentary about the First Lady, on the same day as the shooting. Cook attended the screening alongside other tech leaders, including Amazon CEO Andy Jassy and AMD CEO Lisa Su.</p>",
+            "published_at": "2026-01-28T03:29:39.672Z",
+            "url": "https://www.theinformation.com/briefings/apple-ceo-urges-deescalation-following-fatal-ice-shooting?unlock=8fffcf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-ceo-urges-deescalation-following-fatal-ice-shooting?unlock=8fffcf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16668,
+            "guid": "41b161",
+            "headline": "SoftBank Said to Invest Up To $30 Billion in OpenAI",
+            "dek": "SoftBank has already sunk at least $30 billion in the ChatGPT maker. ",
+            "source_url": "",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>SoftBank is in talks to invest up to&nbsp;$30 billion in OpenAI, <a href=\"https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3?gaa_at=eafs&gaa_n=AWEtsqdaiNXQ3Yb53DI4ULyXMtF1shoYl165lA6WvOKoBLX2VYsub2dzlp3ii2BsQw%3D%3D&gaa_ts=69797415&gaa_sig=UlreoD9ZJRG6kIcEKj1Ri-OSeEMDCKFjbgOaDJNlFDpxHbU-bnrDOUXym8NrIfrqHqLq8HKyz-PFliAVgOm4Qw%3D%3D\">The Wall Street Journal</a> reported on Tuesday. An investment of that size would&nbsp;add to its more than $30 billion investment in the ChatGPT maker, likely cementing its role as the biggest shareholder.</p>\n\n<p>The talks are part of an ongoing funding round. OpenAI is in the process of raising&nbsp;tens of billions of dollars—<a href=\"https://www.theinformation.com/articles/openai-discussed-raising-tens-billions-valuation-around-750-billion\">as much as $100 billion</a>—at a valuation of around $750 billion before the financing, The Information was first to report. SoftBank led OpenAI’s $41 billion round that valued OpenAI at $260 billion before the investment last year. It also invested in a prior fundraise and share sale.</p>",
+            "published_at": "2026-01-28T03:02:03.834Z",
+            "url": "https://www.theinformation.com/briefings/softbank-said-invest-another-30-billion-openai?unlock=41b161&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-said-invest-another-30-billion-openai?unlock=41b161&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                },
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16667,
+            "guid": "9fb97b",
+            "headline": "Tether Officially Launches New U.S. Stablecoin",
+            "dek": "Tether is launching USAT to comply with U.S. stablecoin law. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tether, the world’s largest stablecoin issuer, <a href=\"https://tether.io/news/tether-announces-the-launch-of-usat-the-federally-regulated-dollar-backed-stablecoin-made-in-america/\">announced</a> the official launch of USAT, a new stablecoin for the U.S. market that’s regulated under U.S. stablecoin legislation.</p>\n\n<p>Tether, which is based in El Salvador, is creating the new stablecoin because its main token, USDT, which has $186 billion in circulation, may not be able to meet the auditing and reserve requirements of the new stablecoin law.</p>\n\n<p>Tether’s&nbsp;new stablecoin could threaten Circle, the biggest stablecoin issuer in the U.S., and a wave of stablecoin startups that launched after the new stablecoin law went into effect.</p>\n\n<p>The issuer of USAT is Anchorage Digital, which has a national bank trust charter. The token will be available on Bybit, Crypto.com, Kraken, OKX, and Moonpay at start, Tether said.</p>",
+            "published_at": "2026-01-27T23:48:43.243Z",
+            "url": "https://www.theinformation.com/briefings/tether-officially-launches-new-u-s-stablecoin?unlock=9fb97b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tether-officially-launches-new-u-s-stablecoin?unlock=9fb97b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14810,
+                    "guid": "0471ae27fe",
+                    "title": "Tether Eyes Issuing New Stablecoin for U.S. Market",
+                    "url": "https://www.theinformation.com/articles/tether-eyes-issuing-new-stablecoin-u-s-market?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16666,
+            "guid": "e14164",
+            "headline": "TikTok Settles First Social Media Addiction Lawsuit",
+            "dek": "It is the first in a series of cases to go to trial, testing whether social media companies can be held liable for harming youth mental health through addictive product design.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>TikTok settled a lawsuit brought against several social media firms by a 20-year-old girl from Chico, Calif., who claims her social media addiction led to depression and suicidal thoughts. It is the first in a series of cases to go to trial, testing whether social media companies can be held liable for harming youth mental health through addictive product design.</p>\n\n<p>Tiktok settled the case hours before jury selection was set to begin in the case, plaintiffs’ lawyers confirmed Tuesday morning. The case, in California superior court in Los Angeles, will still go forward against Meta Platforms and Google’s YouTube. Snap settled the case last week.</p>\n\n<p>Tuesday’s case is the first of thousands of cases brought by families, school districts, state attorneys general and Native American tribes. Both TikTok and Snap remain defendants in the other cases.</p>",
+            "published_at": "2026-01-27T20:54:03.136Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-settles-first-social-media-addiction-lawsuit?unlock=e14164&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-settles-first-social-media-addiction-lawsuit?unlock=e14164&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16665,
+            "guid": "46030c",
+            "headline": "Microsoft Unveils New In-House AI Chip",
+            "dek": "This week’s announcement comes after Microsoft revised its plans to roll out the chip globally following delays.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft has started using the latest version of its in-house AI chip, the company said on Monday, as part of its efforts to lessen reliance on Nvidia’s state-of-the-art chips.</p>\n\n<p>The new chips—called Maia 200—are already being used in one Microsoft data center, and the company plans to roll them out globally, executive vice president Scott Guthrie said in a blog post. Guthrie said that Microsoft has been able to use the chips to reduce the cost of running AI software like its 365 Copilot, which uses AI models from OpenAI and Anthropic to automate tasks in its Office 365 software.</p>\n\n<p>Microsoft isn’t the only company trying to build in-house competitors to Nvidia’s AI-specialized chips. Cloud rivals Amazon and Google have each developed their own proprietary AI chips, which they make available to cloud customers. It’s not clear whether Microsoft plans to make servers equipped with Maia 200 available to Azure customers. This week’s announcement comes after Microsoft <a href=\"https://www.theinformation.com/articles/microsoft-scales-back-ambitions-ai-chips-overcome-delays\">revised its plans to roll out the chip globally following delays</a>.</p>",
+            "published_at": "2026-01-27T16:20:22.752Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-unveils-new-house-ai-chip?unlock=46030c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-unveils-new-house-ai-chip?unlock=46030c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15338,
+                    "guid": "3291060a16",
+                    "title": "Microsoft Scales Back Ambitions for AI Chips to Overcome Delays",
+                    "url": "https://www.theinformation.com/articles/microsoft-scales-back-ambitions-ai-chips-overcome-delays?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16664,
+            "guid": "fb638e",
+            "headline": "Meta to Test Premium Subscriptions for Features Including AI",
+            "dek": "The move could signal that Meta is looking to generate new revenue from its AI services, as a way of offsetting the enormous sums it is pouring into AI development. ",
+            "source_url": "https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/",
+            "source_label": "TechCrunch",
+            "body": "<p>Meta Platforms plans to test premium subscriptions on its apps in the next few months, TechCrunch reported. The subscriptions would offer access to exclusive features, including “expanded AI capabilities,” TechCrunch said.</p>\n\n<p>The move could signal that Meta is looking to generate new revenue from its AI services, as a way of offsetting the enormous sums it is pouring into AI development. Meta’s spending has pressured its stock in the past few months.</p>\n\n<p>The expanded AI capabilities will include products from Manus, the AI agent Meta recently acquired for $2 billion.</p>",
+            "published_at": "2026-01-27T16:12:39.626Z",
+            "url": "https://www.theinformation.com/briefings/meta-test-premium-subscriptions-features-including-ai?unlock=fb638e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-test-premium-subscriptions-features-including-ai?unlock=fb638e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2636195,
+                    "display_name": "Jyoti Mann"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16663,
+            "guid": "7e6bd6",
+            "headline": "Amazon Shutters All U.S. Fresh Stores Amid Grocery Revamp",
+            "dek": "Amazon is centering its grocery strategy around Whole Foods and its growing grocery delivery offering.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon said Tuesday it would close its Amazon Fresh grocery stores and Amazon Go convenience stores in the U.S., as the e-commerce giant refocuses its grocery strategy on its Whole Foods stores and online grocery delivery.</p>\n\n<p>Amazon launched the Fresh concept in 2020, and pitched the stores as a high-tech alternative to a regular supermarket equipped with the company’s Just Walk Out automatic checkout technology. But Amazon <a href=\"https://www.theinformation.com/articles/zombie-amazon-grocery-stores-pile-up-as-openings-grind-to-a-halt?rc=d8mrkd\">slowed store openings starting in 2022</a> and ditched the Just Walk Out tech in the stores altogether <a href=\"https://www.theinformation.com/articles/amazons-grocery-stores-to-drop-just-walk-out-checkout-tech?rc=d8mrkd\">in 2024</a>. Amazon said it’s closing the nearly 60 U.S. Fresh store locations because it hadn’t “created a truly distinctive customer experience.”</p>\n\n<p>Amazon has pushed to aggressively grow its grocery business without expanding Fresh, both through its Whole Foods Market stores as well as its fast-growing grocery delivery services. In 2025, Amazon added smaller Whole Foods Market stores and <a href=\"https://www.theinformation.com/articles/amazon-plans-new-u-s-ultrafast-delivery-offering?rc=d8mrkd\">30-minute delivery</a> for “everyday essentials” like paper towels, produce and energy drinks. Some of the Amazon Fresh locations will be converted to Whole Foods stores, Amazon said, and the company will also add five more of the smaller Whole Foods stores by the end of the year. Amazon plans to continue experimenting with new types of stores, including <a href=\"https://www.theinformation.com/briefings/amazon-plans-big-box-retail-store?rc=d8mrkd\">a new big-box store it’s planning</a> in the Chicago suburbs.</p>",
+            "published_at": "2026-01-27T16:05:29.671Z",
+            "url": "https://www.theinformation.com/briefings/amazon-shutters-u-s-fresh-stores-amid-grocery-revamp?unlock=7e6bd6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-shutters-u-s-fresh-stores-amid-grocery-revamp?unlock=7e6bd6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 9721,
+                    "guid": "6143122fd1",
+                    "title": "How Amazon’s Bricks-and-Mortar Dreams Hit a Wall",
+                    "url": "https://www.theinformation.com/articles/how-amazons-bricks-and-mortar-dreams-hit-a-wall?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 16179,
+                    "guid": "f5ee8bd98b",
+                    "title": "Amazon Tests Ultrafast Delivery Offering",
+                    "url": "https://www.theinformation.com/articles/amazon-plans-new-u-s-ultrafast-delivery-offering?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16662,
+            "guid": "463fcd",
+            "headline": "Waymo’s Price Premium To Lyft and Uber Is Closing, Report Finds",
+            "dek": "Average Waymo prices have fallen, while Uber and Lyft prices have risen, since last April, according to ride-hailing analytics firm Obi. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The average price to ride in Waymo’s robotaxis has dropped by 3.6% since March to $19.69 per ride, according to a new report by ride-hailing analytics firm Obi. Riding in a Waymo is now, on average, 12.7% more expensive than riding in an Uber and 27.4% more expensive than riding in a Lyft, down from a 30% to 40% premium for Waymo rides last April, the month covered by Obi’s <a href=\"https://www.theinformation.com/briefings/waymo-rides-cost-uber-lyft-report-finds\">previous report</a>. Obi’s report looked at more than 90,000 rides in the San Francisco Bay Area during December 2025.</p>\n\n<p>The convergence in pricing partly stems from Uber and Lyft having raised their average prices, by 12% to $17.47 and 7% to $15.47 respectively, since last spring, according to the Obi report.</p>\n\n<p>“I wonder if there’s a Waymo effect to that in the sense that Waymo came out and had much higher prices and people showed that they were willing to pay those prices,” said Ashwini Anburajan, CEO of Obi, about the finding, though she added that Obi’s analysis did not take into account the potential impact of gas prices or economic inflation.</p>\n\n<p>Obi’s report also noted that 63% of over 2,000 robotaxi riders surveyed by Obi across locales where such vehicles were available say they are comfortable with the technology, up from 35% in Obi’s previous survey last spring.</p>",
+            "published_at": "2026-01-27T15:04:40.308Z",
+            "url": "https://www.theinformation.com/briefings/waymos-price-premium-lyft-uber-closing-report-finds?unlock=463fcd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymos-price-premium-lyft-uber-closing-report-finds?unlock=463fcd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16661,
+            "guid": "b9eaab",
+            "headline": "OpenAI CEO Says ‘ICE Is Going Too Far’ in Internal Memo",
+            "dek": "Other tech figures, including Google DeepMind chief scientist Jeff Dean, Meta's former chief AI scientist Yann LeCun and top venture capitalist Vinod Khosla, have denounced the shooting in recent days.",
+            "source_url": "",
+            "source_label": "The New York Times",
+            "body": "<p>As more tech executives weigh in on the weekend’s fatal shooting by federal immigration agents in Minneapolis, OpenAI CEO Sam Altman told staff this week that he believes “ICE is going too far,” according to a copy of the internal memo published by the New York Times’ DealBook.</p>\n\n<p>“There is a big difference between deporting violent criminals and what’s happening now, and we need to get the distinction right,” Altman wrote. He added that “President Trump is a very strong leader” and he hopes Trump “will rise to this moment and unite the country.”</p>\n\n<p>Other tech figures, including Google DeepMind chief scientist Jeff Dean, Meta’s former chief AI scientist Yann LeCun and top venture capitalist Vinod Khosla, have denounced the shooting in recent days.</p>",
+            "published_at": "2026-01-27T14:53:37.666Z",
+            "url": "https://www.theinformation.com/briefings/openai-ceo-says-ice-going-far-internal-memo?unlock=b9eaab&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-ceo-says-ice-going-far-internal-memo?unlock=b9eaab&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16660,
+            "guid": "145452",
+            "headline": "Pinterest To Cut Up To 15% of Staff As Part of AI Shift",
+            "dek": "The social media app has also been hurt by a shaky ad market.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Pinterest said Tuesday it will lay off up to 15% of its employees, or around 700 staffers, as part of a restructuring to put more resources towards artificial intelligence-focused projects.</p>\n\n<p>The digital scrapbooking app has been fighting for user attention as AI chatbot apps like ChatGPT grab a larger share of user attention, and has also seen a slowdown in advertising revenue. In Pinterest’s most recent quarterly report in November, CFO Julie Donnelly said that some U.S. retailers had pulled back on ad spending in part due to “tariff-related margin pressure.” Additionally, ad pricing declined 24% from a year earlier as ads in cheaper overseas markets made up a greater share of Pinterest’s revenue.</p>\n\n<p>As part of the restructuring, Pinterest said it will put more resources towards “prioritizing AI-powered products and capabilities.” Still, the company has <a href=\"https://www.theinformation.com/articles/pinterests-ai-strategy-focuses-users-want?rc=d8mrkd\">tried to walk a fine line</a> between incorporating more AI into its features and angering existing users who don’t want AI-generated content. Last week, Pinterest <a href=\"https://www.theinformation.com/briefings/pinterest-hires-lee-brown-chief-business-officer?rc=d8mrkd\">named</a> former DoorDash executive Lee Brown as its new chief business officer to oversee sales, content and ad product marketing.</p>",
+            "published_at": "2026-01-27T14:50:04.159Z",
+            "url": "https://www.theinformation.com/briefings/pinterest-cut-15-staff-part-ai-shift?unlock=145452&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pinterest-cut-15-staff-part-ai-shift?unlock=145452&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16116,
+                    "guid": "8b2c3a5cf1",
+                    "title": "Pinterest’s AI Strategy Focuses on What Users Want",
+                    "url": "https://www.theinformation.com/articles/pinterests-ai-strategy-focuses-users-want?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16659,
+            "guid": "fdd551",
+            "headline": "China’s Moonshot AI Releases New Open-Source Model Kimi K2.5 ",
+            "dek": "Moonshot’s new model with an emphasis on “coding with vision” comes as DeepSeek is also moving closer to launching its new model. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Moonshot AI, a Chinese large-language model developer, released its new foundation model called Kimi K2.5, saying it excels in coding as well as its understanding of visual data.</p>\n\n<p>K2.5, which can process both text and visual inputs, can generate code based on images and video, according to the company. For complex tasks, K2.5 can also create and coordinate a “swarm” of up to 100 specialized sub-agents working in parallel to execute the tasks, the company said.</p>\n\n<p>The Beijing-based startup’s \\launched Kimi K2 last year. The model received positive reviews for its coding capabilities as well as its ability to power AI agents. The model gained popularity among application developers in the U.S. who were looking for cheaper but decent coding alternatives to OpenAI and Anthropic.</p>\n\n<p>New AI models from Chinese companies continue to fuel global competition. Moonshot’s new model comes as DeepSeek is also preparing to launch its long-awaited new model, V4, as The Information recently reported. Moonshot is one of China’s leading competitors in open-source AI models.</p>",
+            "published_at": "2026-01-27T10:40:41.427Z",
+            "url": "https://www.theinformation.com/briefings/chinas-moonshot-ai-releases-new-open-source-model-kimi-k2-5?unlock=fdd551&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-moonshot-ai-releases-new-open-source-model-kimi-k2-5?unlock=fdd551&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16382,
+                    "guid": "29f102e910",
+                    "title": "DeepSeek To Release Next Flagship AI Model With Strong Coding Ability",
+                    "url": "https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16658,
+            "guid": "aef9b6",
+            "headline": "Anthropic CEO Says ‘Horror’ of Minneapolis Killing Shows Need for Preserving Democratic Values",
+            "dek": "Amodei wrote that AI could empower authoritarian governments.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic CEO Dario Amodei <a href=\"https://www.darioamodei.com/essay/the-adolescence-of-technology\">published an essay</a> Monday outlining how he sees the risks from powerful AI, such as the possibility of AI taking over the world or empowering an authoritarian regime. Regarding the essay, Amodei <a href=\"https://x.com/DarioAmodei/status/2015833051205414955?s=20\">posted on X</a> that “given the horror we’re seeing in Minnesota, its emphasis on the importance of preserving democratic values and rights at home is particularly relevant.”</p>\n\n<p>The 21,800-word essay, titled “The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI” is a companion to <a href=\"https://www.darioamodei.com/essay/machines-of-loving-grace\">an earlier piece</a> by Amodei, “Machines of Loving Grace: How AI Could Transform the World for the Better,” which laid out a positive vision for the future of AI.</p>\n\n<p>Amodei specifically cited autonomous weapons, surveillance, propaganda and geopolitical strategy as domains in which an AI could benefit an autocracy. China is at the top of Amodei’s list of concerns, and Amodei doubled down on his advocacy for export controls to limit China’s access to U.S. chip technology.</p>\n\n<p>After risks from democracies and non-democratic countries with large datacenters, Amodei also flagged AI companies as a potential source of authoritarianism, writing, “It is somewhat awkward to say this as the CEO of an AI company, but I think the next tier of risk is actually AI companies themselves.”</p>",
+            "published_at": "2026-01-27T06:03:48.926Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-ceo-says-horror-minneapolis-killing-shows-need-preserving-democratic-values?unlock=aef9b6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-ceo-says-horror-minneapolis-killing-shows-need-preserving-democratic-values?unlock=aef9b6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16657,
+            "guid": "a93f80",
+            "headline": "Khosla Partners Clash Over ICE Killing",
+            "dek": "The disagreement was a rare instance of partners at the same firm clashing in public.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The founder and partners of OpenAI-backer Khosla Partners made opposing statements on X about the killing of a Minneapolis resident by a federal agent, in a rare instance of partners at the same VC firm clashing over politics in public.</p>\n\n<p>In a series of posts on X over the weekend, Khosla Ventures partner Keith Rabois defended federal agents’ decision to kill Alex Pretti in Minneapolis, Minn. On Saturday morning Raboi responded to a post about the killing, writing that “no law enforcement has shot an innocent person. illegals are committing violent crimes everyday.” Rabois continued arguing with other users on the site over the following days.</p>\n\n<p>Ethan Choi, another partner at the firm, disavowed Rabois’ views. “I want to make it clear that Keith doesn’t represent everyone’s views here,” Choi <a href=\"https://x.com/EthanChoi7/status/2015524019085451353?s=20\">posted</a> Sunday. “What happened in Minnesota is plain wrong. Don’t know how you could really see it differently. Sad to see a person’s life taken unnecessarily.”</p>\n\n<p>Founder Vinod Khosla <a href=\"https://x.com/vkhosla/status/2015647215642186008?s=20\">posted</a> Sunday that he sided with Choi. “The video was sickening to watch and the storytelling without facts or with invented fictitious facts by authorities almost unimaginable in a civilized society.”</p>",
+            "published_at": "2026-01-26T23:20:49.548Z",
+            "url": "https://www.theinformation.com/briefings/khosla-partners-clash-ice-killing?unlock=a93f80&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/khosla-partners-clash-ice-killing?unlock=a93f80&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16656,
+            "guid": "c5bab7",
+            "headline": "EU Investigates Elon Musk’s X Over Grok Integration ",
+            "dek": "xAI has started integrating Grok more deeply into the service, including by letting users generate images within the X app.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The European Union has opened a formal investigation into Elon Musk’s X over how the social media service has integrated xAI’s Grok AI chatbot. The investigation comes amid an outcry after users were able to prompt Grok to generate <a href=\"https://www.theinformation.com/briefings/xais-grok-posts-sexualized-images-minors-x\">sexualized images of real people</a> on X, including minors. X is owned by xAI.</p>\n\n<p>The EU <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_26_203\">said</a> it’s investigating whether X has violated the Digital Services Act, a wide-ranging law that requires companies to crack down on illegal content in the EU. Musk and the Trump administration have repeatedly criticized the law and accused the EU of censorship. The EU has the power to fine companies that violate the Digital Services Act up to 6% of their global revenue.</p>\n\n<p>xAI has started integrating Grok more deeply into the service, including by letting users generate images within the X app. That integration prompted concerns among some trust and safety staffers at X before they were laid off late last year, including that users could use Grok to generate sexualized images of real people, <a href=\"https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok\">The Information has reported</a>.</p>",
+            "published_at": "2026-01-26T14:59:09.358Z",
+            "url": "https://www.theinformation.com/briefings/eu-investigates-elon-musks-x-grok-integration?unlock=c5bab7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/eu-investigates-elon-musks-x-grok-integration?unlock=c5bab7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16655,
+            "guid": "82f985",
+            "headline": "Nvidia Invests Another $2 Billion in CoreWeave in New Deal",
+            "dek": "CoreWeave commits to use \"multiple generations\" of Nvidia chips including the upcoming Rubin GPUs.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia invested another $2 billion into AI cloud startup CoreWeave as part of a broader deal in which CoreWeave committed to adopt “multiple generations” of Nvidia chips including the upcoming Rubin GPUs. The investment more than doubled Nvidia’s stake in CoreWeave to 11.5%, according to a securities filing.</p>\n\n<p>News of the agreement sent CoreWeave stock 15% to $107 on Monday morning. Stock of CoreWeave, which went public last March at $40 a share, has gone on a rollercoaster since then. It soared to as high as $183 over the summer before plunging to as low as $64 in December. Nvidia bought the shares at $87.20, around where it was trading a couple of weeks ago.</p>\n\n<p>Nvidia has been a big backer of CoreWeave for the past couple of years, giving it a sizable allotment of chips and investing in its equity, in a sign that Nvidia wanted to help develop a competitor to cloud firms such as Amazon and Google which are increasing using their own AI chips.</p>",
+            "published_at": "2026-01-26T14:53:27.277Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-invests-another-2-billion-coreweave-new-deal?unlock=82f985&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-invests-another-2-billion-coreweave-new-deal?unlock=82f985&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16654,
+            "guid": "884c87",
+            "headline": "Nvidia CEO Tours China Amid Uncertainty Over Chip Sales",
+            "dek": "Jensen Huang is visiting Shanghai, Beijing and Shenzhen as China approves limited H200 chip purchases but broader sales remain unclear.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Nvidia CEO Jensen Huang arrived in Beijing on Sunday after spending two days in Shanghai over the weekend, according to various Chinese media reports. He is expected to attend the company’s Lunar New Year celebrations and meet Chinese clients, according to China Daily. It’s unclear if Huang will be meeting senior Chinese officials during his trip.</p>\n\n<p>Huang’s visit began in Shanghai on Jan. 23, where he drew crowds at the company’s Saturday festivities. The trip comes as Beijing approved some purchases of Nvidia’s H200 AI chip—the most powerful chip the company is permitted to sell to China, according to Bloomberg. But whether China will officially approve imports of the H200 remains uncertain.</p>\n\n<p>Huang is also planning to visit Shenzhen and then Taiwan, according to Reuters.</p>",
+            "published_at": "2026-01-26T07:36:04.140Z",
+            "url": "https://www.theinformation.com/briefings/nvidia-ceo-tours-china-amid-uncertainty-chip-sales?unlock=884c87&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidia-ceo-tours-china-amid-uncertainty-chip-sales?unlock=884c87&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16653,
+            "guid": "c87d3b",
+            "headline": "Anthropic Sought Billions for Apple Deal, Report Says",
+            "dek": "The negotiations broke down over financial terms, the report said. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic had been in discussions with Apple to supply models to rebuild its Siri AI assistant and was seeking several billion dollars annually over multiple years, Bloomberg reported on Sunday. But negotiations with the AI startup stalled over the summer over the terms of a potential arrangement.</p>\n\n<p>Apple was also talking to OpenAI about the arrangement, which would have extended an earlier partnership with the ChatGPT maker.&nbsp;Apple ultimately chose Google’s Gemini after it found the software had improved significantly and Google agreed to a financial structure Apple found reasonable, the report said.&nbsp;OpenAI will still provide answers to more complex queries that users ask Siri.</p>",
+            "published_at": "2026-01-26T02:48:59.669Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-sought-billions-apple-deal-report-says?unlock=c87d3b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-sought-billions-apple-deal-report-says?unlock=c87d3b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16442,
+                    "guid": "b781964079",
+                    "title": "With Google Deal, Apple’s Craig Federighi Plots a Cautious Course in AI",
+                    "url": "https://www.theinformation.com/articles/google-deal-apples-craig-federighi-plots-cautious-course-ai?utm_source=ti_app"
+                }
+            ],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16652,
+            "guid": "8cb3d5",
+            "headline": "National Safety Agency to Investigate Waymo Over Austin Activity",
+            "dek": "The Austin school district has complained that Waymo vehicles were passing the buses soon after students had disembarked. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The National Transportation Safety Board on Friday <a href=\"https://x.com/NTSB_Newsroom/status/2014817506477703198\">said it planned to open a safety investigation</a> into the activity of Waymo vehicles around school buses in Austin, Tex.</p>\n\n<p>The investigation follows a report by the <a href=\"https://static.nhtsa.gov/odi/inv/2025/INOT-PE25013-30888P1.pdf\">Austin Independent School District</a> in November that Waymo vehicles had illegally passed school district buses that had stopped to load or unload students at least 19 times. The National Highway Traffic Safety Administration <a href=\"https://static.nhtsa.gov/odi/inv/2025/INIM-PE25013-30896.pdf\">opened an early probe of Waymo’s activity</a>&nbsp;around stopped school buses&nbsp;last month. Waymo in November said it had made a software update to resolve the issue, but the Austin school district said some of the violations occurred after the software update.</p>\n\n<p>Mauricio Peña, chief safety officer of Waymo, said in a statement that “we see this as an opportunity to provide the NTSB with transparent insights into our safety-first approach,” and noted that “there have been no collisions in the events in question.”</p>\n\n<p>The Google-owned unit is in the midst of a rapid expansion across the U.S., including in Houston, San Antonio and Dallas.</p>",
+            "published_at": "2026-01-26T02:34:39.555Z",
+            "url": "https://www.theinformation.com/briefings/national-safety-agency-investigate-waymo-austin-activity?unlock=8cb3d5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/national-safety-agency-investigate-waymo-austin-activity?unlock=8cb3d5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
