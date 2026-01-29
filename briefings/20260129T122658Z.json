@@ -1,0 +1,692 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16679,
+            "guid": "7fee75",
+            "headline": "OpenAI Said to Consider Eyeball Orbs to Keep Bots Off Social Media",
+            "dek": "OpenAI is developing humans-only social media.",
+            "source_url": "https://www.forbes.com/sites/annatong/2026/01/28/openai-wants-to-create-biometric-social-network-to-kill-xs-bot-problem/",
+            "source_label": "Forbes",
+            "body": "<p>OpenAI is planning to use eyeball-scanning orbs or Apple’s Face ID to make sure the users of its planned social media app are humans, not computers, according to Forbes.</p>\n\n<p>The orb is an iris scanner produced by Tools for Humanity, a company co-founded by OpenAI CEO Sam Altman.</p>\n\n<p>Verifying the identity of people online has become increasingly difficult in recent years, since language models can produce text that is indistinguishable from a person’s, and AI can increasingly generate realistic deepfake images and videos of people.</p>\n\n<p>OpenAI already has a social media app for AI video generation, Sora. Fewer than 10 people are currently working on developing OpenAI’s new social media app, according to Forbes.</p>",
+            "published_at": "2026-01-29T06:17:23.287Z",
+            "url": "https://www.theinformation.com/briefings/openai-said-consider-eyeball-orbs-keep-bots-social-media?unlock=7fee75&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-said-consider-eyeball-orbs-keep-bots-social-media?unlock=7fee75&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16678,
+            "guid": "322399",
+            "headline": "C3.AI Jumps on Merger Report",
+            "dek": "The company is in talks to merge with privately owned Automation Anywhere, which would go public via the merger, The Information reported. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares of C3.AI closed Wednesday 4% higher, after <a href=\"https://www.theinformation.com/articles/c3-ai-talks-merge-startup-automation-anywhere?rc=zjctrx\">The Information reported</a> late Tuesday that the company was in talks to merge with privately-owned&nbsp;Automation Anywhere.</p>\n\n<p>Automation Anywhere, last valued at $6.8 billion in 2019, develops software for automating repetitive tasks inside businesses. If the deal materializes, Automation Anywhere would buy C3.AI and go public as a result.</p>\n\n<p>C3.AI, which sells AI to large companies and government agencies, was the first branded AI stock when it went public in 2020. A combination with C3.AI could give Automation Anywhere more AI automation capabilities across different sectors.</p>\n\n<p>In November, Automation Anywhere agreed to buy Aisera, a startup that sells AI automation tools for back-offices like IT services, human resources and customer service. Shares of <a href=\"http://c3.ai\">C3.AI</a> have fallen 60% over the last year.</p>",
+            "published_at": "2026-01-29T01:03:53.131Z",
+            "url": "https://www.theinformation.com/briefings/c3-ai-jumps-merger-report?unlock=322399&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/c3-ai-jumps-merger-report?unlock=322399&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16677,
+            "guid": "582ad8",
+            "headline": "Fidelity to Launch Stablecoin",
+            "dek": "Fidelity becomes the first major brokerage to launch a stablecoin. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Fidelity Investments <a href=\"https://newsroom.fidelity.com/pressreleases/fidelity-investments--to-expand-digital-asset-investment-lineup-with-stablecoin-launch--fidelity-dig/s/3b55e2d1-1dba-4120-9528-1e07e632f3f4\">said</a> it is launching a stablecoin, called Fidelity Digital Dollar, for retail and institutional investors in the coming weeks, becoming the first major brokerage to have its own&nbsp;stablecoin.</p>\n\n<p>Fidelity has been an early mover in digital assets among traditional asset managers. It offers crypto trading and exchange-traded funds for bitcoin, ether and solana. The new stablecoin, FIDD, will be available for purchase through Fidelity’s digital assets platforms as well as major exchanges. Crypto investors typically use stablecoins to pay for trades and park their cash in stablecoins.</p>\n\n<p>Fidelity Digital Assets, which received approval for a national trust charter recently, will issue the stablecoin. Reserves will be managed by Fidelity Management &amp; Research Company.</p>",
+            "published_at": "2026-01-29T00:34:29.072Z",
+            "url": "https://www.theinformation.com/briefings/fidelity-launch-stablecoin?unlock=582ad8&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/fidelity-launch-stablecoin?unlock=582ad8&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16676,
+            "guid": "d39738",
+            "headline": "ServiceNow Shares Dip 7%  on Sales Forecast, CEO Clarifies M&A Strategy",
+            "dek": "ServiceNow CEO Bill McDermott said his company's recent string of acquisitions isn't a sign that it can't expand its business with products developed in-house. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>ServiceNow shares dipped 7% in after-hours trading after its fourth-quarter earnings, possibly because investors weren’t impressed by the&nbsp;enterprise software provider’s revenue growth forecast for its current fiscal year, which would be the same as its recently concluded one.&nbsp;ServiceNow is forecasting subscription sales growth between 20% and 21% for its current fiscal year, after growing 21% in its recently concluded year.</p>\n\n<p>On an earnings call, ServiceNow CEO Bill McDermott railed against what he characterized as inaccurate narratives about&nbsp;the company. For starters, ServiceNow is a “platform company” that sells AI agents and other products, and not merely a provider of subscription-based software features, McDermott said. “We are not living in a SaaS neighborhood,” he said.</p>\n\n<p>McDermott also said that despite ServiceNow’s string of large acquisitions over the past year, in which it has spent more than $10 billion to upgrade its cybersecurity and AI products, the company is still growing revenue organically and doesn’t have to resort to M&amp;A to expand its business.</p>\n\n<p>“We have never acquired a single company for revenue alone,” McDermott said. Later in the call, he said ServiceNow does “not have a large-scale M&amp;A on the roadmap.”</p>",
+            "published_at": "2026-01-29T00:29:07.340Z",
+            "url": "https://www.theinformation.com/briefings/servicenow-shares-dip-7-sales-forecast-ceo-clarifies-m-strategy?unlock=d39738&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/servicenow-shares-dip-7-sales-forecast-ceo-clarifies-m-strategy?unlock=d39738&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16675,
+            "guid": "52c83f",
+            "headline": "Microsoft Cloud Growth Slows, But OpenAI Fuels 60% Surge in Revenue Backlog ",
+            "dek": "But Microsoft said it had $625 billion in remaining performance obligations, 45% of which are from OpenAI.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft revenue grew 17% to $81.3 billion in the fourth quarter of 2025, a slightly lower rate of year-over-year growth than in the previous quarter. But Microsoft said it had $625 billion in remaining performance obligations as of the end of December, also known as a revenue backlog, up from $392 billion in the September quarter, implying it has plenty of revenue growth ahead.&nbsp;&nbsp;The company also disclosed it had 15 million paying subscribers of 365 Copilot, the suite of AI features for Office apps such as Excel and Word.</p>\n\n<p>Revenue from Azure and other cloud services grew 39% in the fourth quarter, compared to 40% growth in the quarter prior. Microsoft doesn’t break out Azure revenue in dollars. The company’s shares fell 4% in after-hours trading.</p>\n\n<p>The revenue backlog rise reflects OpenAI’s recent commitment to spend $250 billion on Microsoft’s Azure cloud over an unspecified period, which the companies announced in October. Microsoft said 45% of its remaining performance obligations came from OpenAI, or $281.2 billion, while the rest came from other customers’ bookings, including Anthropic. Microsoft said it will take 2.5 years, on average, for that backlog to turn into revenue.</p>\n\n<p>Microsoft has been pouring money into new data centers and servers equipped with Nvidia chips in order to meet demand from OpenAI, Anthropic, and other AI customers. The company’s capital expenditures in the December quarter were $37.5 billion, up 66% compared to last year, with two thirds of that spending going towards short-lived assets like chips. Free cash flow for the December quarter was $5.9 billion, down 9% from a year ago, which the company said was due to rising capital expenditures.</p>\n\n<p>Microsoft for the first time disclosed the number of paying subscribers of Office 365 Copilot software, which uses models from OpenAI and Anthropic to power AI features in its Office apps. Microsoft said the 15 million figure only includes subscribers who pay a monthly rate per seat, which starts at $30 per month. That implies the software is on track to generate billions of dollars in annual revenue, though many companies receive discounts when buying subscriptions in bulk. By comparison, OpenAI’s ChatGPT had 35 million paying users <a href=\"https://www.theinformation.com/newsletters/ai-agenda/went-wrong-openais-year-agents?rc=geicgp\">as of last July</a>.</p>\n\n<p>Microsoft also reported earnings per share of $5.16, which were much higher than usual because OpenAI <a href=\"https://www.theinformation.com/briefings/microsoft-gets-27-stake-openai-access-models-2032?rc=geicgp\">completed its restructuring in October</a> and granted Microsoft a 27% stake in the company for the first time. With the restructuring, Microsoft now reports gains and losses on its OpenAI stake after previously reporting a share of OpenAI’s operating losses. For consistency, Microsoft also reported non-GAAP earnings per share of $4.14 that excluded accounting for its OpenAI stake.</p>",
+            "published_at": "2026-01-28T22:11:21.987Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-cloud-growth-slows-openai-fuels-surge-revenue-backlog?unlock=52c83f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-cloud-growth-slows-openai-fuels-surge-revenue-backlog?unlock=52c83f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16674,
+            "guid": "c43af6",
+            "headline": "Meta Forecasts 73% Jump in 2026 Capex, 40% Rise in Expenses ",
+            "dek": "Meta reported stronger than projected fourth quarter revenue of $59.8 billion, up 24% year on year.",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Meta Platforms on Wednesday reported fourth-quarter revenue of $59.8 billion, up 24% from a year earlier, exceeding its own forecasts of $56 billion to $59 billion. The company also outlined ambitious spending plans for 2026, forecasting capital expenditures of $115 billion to $135 billion, up roughly 73% from $72 billion in 2025.</p>\n\n<p>The increase is being driven by investments in artificial intelligence initiatives, including on chips and servers. The parent company of Facebook, Instagram and WhatsApp in October also forecasted total expenses in 2025 would rise roughly 40% to between $162 billion and $169 billion, with the bulk of growth coming from infrastructure costs and employee compensation for technical talent. In the fourth quarter, Meta said operating expenses rose 40%, reducing its profit margin by seven percentage points to 41%.</p>\n\n<p>Meta expects first-quarter 2026 revenue to be between $53.5 billion and $56.5 billion. Despite the spending surge, the company anticipates operating income for 2026 to exceed 2025 levels. Meta shares were trading up 10% in after-hours trading, a sign investors were expecting the higher capex projections and were focused on Meta’s strong revenue growth.</p>",
+            "published_at": "2026-01-28T21:46:45.875Z",
+            "url": "https://www.theinformation.com/briefings/meta-forecasts-73-jump-2026-capex-40-rise-expenses?unlock=c43af6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-forecasts-73-jump-2026-capex-40-rise-expenses?unlock=c43af6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2636195,
+                    "display_name": "Jyoti Mann"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16673,
+            "guid": "7027ec",
+            "headline": "Tesla Discloses $2 Billion xAI Investment as Profit, Revenue Continue to Fall ",
+            "dek": "Total revenues fell 3% year-over-year to $24.9 billion, while net income fell 61% to $840 million.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tesla has agreed to invest $2 billion in xAI, the electric automaker said on Wednesday, further <a href=\"https://www.theinformation.com/articles/musk-tie-together-tesla-xai\">deepening ties</a> between the two Elon Musk-led companies.</p>\n\n<p>Tesla disclosed the investment alongside its fourth-quarter 2025 financial results, which showed the company’s sales and profits are continuing to decline. Total revenues fell 3% year-over-year to $24.9 billion, while net income fell 61% to $840 million. Tesla had its <a href=\"https://www.theinformation.com/briefings/tesla-deliveries-fell-16-fourth-quarter-worsening-2025-decline\">second year</a> in a row of falling auto sales in 2025 due to pressures including the end of electric vehicle subsidies in the U.S., increased competition from Chinese automakers globally and backlash to Musk’s political activities. Tesla shares were up about 2% in after-hours trading.</p>\n\n<p>Still, Musk has sought to turn attention toward newer initiatives like the Optimus humanoid robot and Tesla’s Robotaxi services. After <a href=\"https://www.theinformation.com/newsletters/the-briefing/elon-musks-promises-self-driving-ai-robots-clashed-reality\">blowing through deadlines</a> Musk had set for both projects in 2025, Tesla said Wednesday it will expand Robotaxi to seven additional U.S. cities by the end of June and unveil a new version of the Optimus robot by the end of March.</p>",
+            "published_at": "2026-01-28T21:46:28.769Z",
+            "url": "https://www.theinformation.com/briefings/tesla-discloses-2-billion-xai-investment-profit-revenue-continue-fall?unlock=7027ec&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tesla-discloses-2-billion-xai-investment-profit-revenue-continue-fall?unlock=7027ec&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16109,
+                    "guid": "14da9203e1",
+                    "title": "How Musk Could Tie Together Tesla and xAI",
+                    "url": "https://www.theinformation.com/articles/musk-tie-together-tesla-xai?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 267744,
+                    "name": "electric vehicles"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 86077,
+                    "name": "autonomous vehicles"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16672,
+            "guid": "b79b8f",
+            "headline": "Amazon Cuts 16,000 Employees",
+            "dek": "The layoffs follow a similarly sized round in October \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon announced on Wednesday that it was laying off 16,000 employees.</p>\n\n<p>The layoffs follow earlier layoffs in October, when Amazon said it was laying off approximately 14,000 corporate employees. Amazon said the latest layoffs continue on efforts to reduce layers and remove bureaucracy and that not all teams had accomplished that work in the October layoffs. Amazon said it would still hire in certain strategic areas.</p>\n\n<p>Beth Galetti, Amazon’s SVP of people experience and technology said in a note to employees shared as a press release that the company does not plan to continue making large-scale layoffs every few months.</p>",
+            "published_at": "2026-01-28T14:55:25.521Z",
+            "url": "https://www.theinformation.com/briefings/amazon-cuts-16-000-employees?unlock=b79b8f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-cuts-16-000-employees?unlock=b79b8f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16671,
+            "guid": "a067e7",
+            "headline": "China Approves First Batch of Nvidia H200 AI Chip Imports",
+            "dek": "China approved 400,000 of the H200 AI chips for major tech firms as Nvidia CEO Jensen Huang visits China.",
+            "source_url": "https://www.reuters.com/world/china/china-gives-green-light-importing-first-batch-nvidias-h200-ai-chips-sources-say-2026-01-28/",
+            "source_label": "Reuters ",
+            "body": "<p>China has approved imports of the first batch of Nvidia’s H200 AI chips, according to Reuters, citing two people familiar with the matter. The approval was granted as Nvidia CEO Jensen Huang visits China this week, after weeks of uncertainty whether and at which scale Beijing will allow the powerful chips in.</p>\n\n<p>ByteDance, Alibaba Group and Tencent Holdings have been allowed to purchase over 400,000 H200 chips in total, while other companies are waiting for subsequent approvals, Reuters reported.</p>\n\n<p>President Donald Trump approved the H200 chip sales to China last month, representing the most significant rollback of the Biden-era semiconductor export restrictions to date. Chinese officials have spent the past weeks balancing the imports of the H200 chips—which are needed to develop China’s AI systems—against the long-term goal of cultivating semiconductor technology independence. While the H200 is the most powerful AI chip currently available to Chinese buyers, it remains less advanced than Nvidia’s latest Blackwell processors.</p>\n\n<p>The Information reported earlier this month that Beijing told tech companies they could only buy H200 chips in special circumstances, without specifying the criteria. Last week, Bloomberg reported that ByteDance, Alibaba, and Tencent had received in principle approval for the H200 chips.</p>",
+            "published_at": "2026-01-28T10:12:38.824Z",
+            "url": "https://www.theinformation.com/briefings/china-approves-first-batch-nvidia-h200-ai-chip-imports?unlock=a067e7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/china-approves-first-batch-nvidia-h200-ai-chip-imports?unlock=a067e7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1997962,
+                    "display_name": "Qianer Liu"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16670,
+            "guid": "677b29",
+            "headline": "Anthropic Increases 2026 Revenue Forecast by 20% to $18 Billion",
+            "dek": "The company delays going cash flow positive till 2028, a year later than previously expected\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic, in December, projected to generate as much as $18 billion this year, about 20% more than its summer forecast, and $55 billion next year. The company expects to generate as much as $148 billion in 2029 in its most optimistic projections– about $3 billion more than what OpenAI projected to make that year.</p>\n\n<p>Some of the fast revenue growth is from the company’s success in selling access to its AI models via an application programming interface to business customers. In particular, the company has become popular for coding-related tasks, in part due to its coding agent Claude Code, which generated more than $1 billion in annualized revenue in November.</p>\n\n<p>But costs are adding up. The company revised its most optimistic&nbsp; projections to delay turning cash flow positive till 2028, a year later than previously expected. It projects to generate $2.2 billion in cash in 2028. Higher costs to train and run its AI models have contributed to the delay. This year, the company expects to spend $12 billion on training its models and $7 billion on running them for its paying users.</p>\n\n<p>The company is raising more than $10 billion at a valuation of $350 billion before the financing in a round led by Singapore’s GIC and Coatue Management. Strategic investors Nvidia and Microsoft in November committed to invest $10 billion and $5 billion respectively.</p>",
+            "published_at": "2026-01-28T04:12:05.736Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-increases-2026-revenue-forecast-20-18-billion?unlock=677b29&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-increases-2026-revenue-forecast-20-18-billion?unlock=677b29&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16669,
+            "guid": "8fffcf",
+            "headline": "Apple CEO Urges “Deescalation” Following Fatal ICE Shooting",
+            "dek": "The CEO’s call comes after criticism over his attendance at a White House film screening",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-01-28/apple-s-cook-calls-for-deescalation-after-latest-ice-shooting",
+            "source_label": "Bloomberg",
+            "body": "<p>Apple Chief Executive Tim Cook said he was “heartbroken by the events in Minneapolis” and called for a “deescalation” in an internal message to employees following Saturday’s fatal shooting by federal immigration agents. The message was first reported by <a href=\"https://www.bloomberg.com/news/articles/2026-01-28/apple-s-cook-calls-for-deescalation-after-latest-ice-shooting\">Bloomberg</a>.</p>\n\n<p>“This is a time for deescalation,” Cook wrote to employees. “I believe America is strongest when we live up to our highest ideals, when we treat everyone with dignity and respect no matter who they are or where they’re from, and when we embrace our shared humanity. This is something Apple has always advocated for. I had a good conversation with the president this week where I shared my views, and I appreciate his openness to engaging on issues that matter to us all.”</p>\n\n<p>The memo arrives after Cook faced criticism internally and externally for attending a White House screening of Melania, a documentary about the First Lady, on the same day as the shooting. Cook attended the screening alongside other tech leaders, including Amazon CEO Andy Jassy and AMD CEO Lisa Su.</p>",
+            "published_at": "2026-01-28T03:29:39.672Z",
+            "url": "https://www.theinformation.com/briefings/apple-ceo-urges-deescalation-following-fatal-ice-shooting?unlock=8fffcf&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/apple-ceo-urges-deescalation-following-fatal-ice-shooting?unlock=8fffcf&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16668,
+            "guid": "41b161",
+            "headline": "SoftBank Said to Invest Up To $30 Billion in OpenAI",
+            "dek": "SoftBank has already sunk at least $30 billion in the ChatGPT maker. ",
+            "source_url": "",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>SoftBank is in talks to invest up to&nbsp;$30 billion in OpenAI, <a href=\"https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3?gaa_at=eafs&gaa_n=AWEtsqdaiNXQ3Yb53DI4ULyXMtF1shoYl165lA6WvOKoBLX2VYsub2dzlp3ii2BsQw%3D%3D&gaa_ts=69797415&gaa_sig=UlreoD9ZJRG6kIcEKj1Ri-OSeEMDCKFjbgOaDJNlFDpxHbU-bnrDOUXym8NrIfrqHqLq8HKyz-PFliAVgOm4Qw%3D%3D\">The Wall Street Journal</a> reported on Tuesday. An investment of that size would&nbsp;add to its more than $30 billion investment in the ChatGPT maker, likely cementing its role as the biggest shareholder.</p>\n\n<p>The talks are part of an ongoing funding round. OpenAI is in the process of raising&nbsp;tens of billions of dollars—<a href=\"https://www.theinformation.com/articles/openai-discussed-raising-tens-billions-valuation-around-750-billion\">as much as $100 billion</a>—at a valuation of around $750 billion before the financing, The Information was first to report. SoftBank led OpenAI’s $41 billion round that valued OpenAI at $260 billion before the investment last year. It also invested in a prior fundraise and share sale.</p>",
+            "published_at": "2026-01-28T03:02:03.834Z",
+            "url": "https://www.theinformation.com/briefings/softbank-said-invest-another-30-billion-openai?unlock=41b161&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/softbank-said-invest-another-30-billion-openai?unlock=41b161&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                },
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16667,
+            "guid": "9fb97b",
+            "headline": "Tether Officially Launches New U.S. Stablecoin",
+            "dek": "Tether is launching USAT to comply with U.S. stablecoin law. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tether, the world’s largest stablecoin issuer, <a href=\"https://tether.io/news/tether-announces-the-launch-of-usat-the-federally-regulated-dollar-backed-stablecoin-made-in-america/\">announced</a> the official launch of USAT, a new stablecoin for the U.S. market that’s regulated under U.S. stablecoin legislation.</p>\n\n<p>Tether, which is based in El Salvador, is creating the new stablecoin because its main token, USDT, which has $186 billion in circulation, may not be able to meet the auditing and reserve requirements of the new stablecoin law.</p>\n\n<p>Tether’s&nbsp;new stablecoin could threaten Circle, the biggest stablecoin issuer in the U.S., and a wave of stablecoin startups that launched after the new stablecoin law went into effect.</p>\n\n<p>The issuer of USAT is Anchorage Digital, which has a national bank trust charter. The token will be available on Bybit, Crypto.com, Kraken, OKX, and Moonpay at start, Tether said.</p>",
+            "published_at": "2026-01-27T23:48:43.243Z",
+            "url": "https://www.theinformation.com/briefings/tether-officially-launches-new-u-s-stablecoin?unlock=9fb97b&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tether-officially-launches-new-u-s-stablecoin?unlock=9fb97b&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14810,
+                    "guid": "0471ae27fe",
+                    "title": "Tether Eyes Issuing New Stablecoin for U.S. Market",
+                    "url": "https://www.theinformation.com/articles/tether-eyes-issuing-new-stablecoin-u-s-market?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16666,
+            "guid": "e14164",
+            "headline": "TikTok Settles First Social Media Addiction Lawsuit",
+            "dek": "It is the first in a series of cases to go to trial, testing whether social media companies can be held liable for harming youth mental health through addictive product design.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>TikTok settled a lawsuit brought against several social media firms by a 20-year-old girl from Chico, Calif., who claims her social media addiction led to depression and suicidal thoughts. It is the first in a series of cases to go to trial, testing whether social media companies can be held liable for harming youth mental health through addictive product design.</p>\n\n<p>Tiktok settled the case hours before jury selection was set to begin in the case, plaintiffs’ lawyers confirmed Tuesday morning. The case, in California superior court in Los Angeles, will still go forward against Meta Platforms and Google’s YouTube. Snap settled the case last week.</p>\n\n<p>Tuesday’s case is the first of thousands of cases brought by families, school districts, state attorneys general and Native American tribes. Both TikTok and Snap remain defendants in the other cases.</p>",
+            "published_at": "2026-01-27T20:54:03.136Z",
+            "url": "https://www.theinformation.com/briefings/tiktok-settles-first-social-media-addiction-lawsuit?unlock=e14164&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/tiktok-settles-first-social-media-addiction-lawsuit?unlock=e14164&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16665,
+            "guid": "46030c",
+            "headline": "Microsoft Unveils New In-House AI Chip",
+            "dek": "This week’s announcement comes after Microsoft revised its plans to roll out the chip globally following delays.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft has started using the latest version of its in-house AI chip, the company said on Monday, as part of its efforts to lessen reliance on Nvidia’s state-of-the-art chips.</p>\n\n<p>The new chips—called Maia 200—are already being used in one Microsoft data center, and the company plans to roll them out globally, executive vice president Scott Guthrie said in a blog post. Guthrie said that Microsoft has been able to use the chips to reduce the cost of running AI software like its 365 Copilot, which uses AI models from OpenAI and Anthropic to automate tasks in its Office 365 software.</p>\n\n<p>Microsoft isn’t the only company trying to build in-house competitors to Nvidia’s AI-specialized chips. Cloud rivals Amazon and Google have each developed their own proprietary AI chips, which they make available to cloud customers. It’s not clear whether Microsoft plans to make servers equipped with Maia 200 available to Azure customers. This week’s announcement comes after Microsoft <a href=\"https://www.theinformation.com/articles/microsoft-scales-back-ambitions-ai-chips-overcome-delays\">revised its plans to roll out the chip globally following delays</a>.</p>",
+            "published_at": "2026-01-27T16:20:22.752Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-unveils-new-house-ai-chip?unlock=46030c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-unveils-new-house-ai-chip?unlock=46030c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15338,
+                    "guid": "3291060a16",
+                    "title": "Microsoft Scales Back Ambitions for AI Chips to Overcome Delays",
+                    "url": "https://www.theinformation.com/articles/microsoft-scales-back-ambitions-ai-chips-overcome-delays?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16664,
+            "guid": "fb638e",
+            "headline": "Meta to Test Premium Subscriptions for Features Including AI",
+            "dek": "The move could signal that Meta is looking to generate new revenue from its AI services, as a way of offsetting the enormous sums it is pouring into AI development. ",
+            "source_url": "https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/",
+            "source_label": "TechCrunch",
+            "body": "<p>Meta Platforms plans to test premium subscriptions on its apps in the next few months, TechCrunch reported. The subscriptions would offer access to exclusive features, including “expanded AI capabilities,” TechCrunch said.</p>\n\n<p>The move could signal that Meta is looking to generate new revenue from its AI services, as a way of offsetting the enormous sums it is pouring into AI development. Meta’s spending has pressured its stock in the past few months.</p>\n\n<p>The expanded AI capabilities will include products from Manus, the AI agent Meta recently acquired for $2 billion.</p>",
+            "published_at": "2026-01-27T16:12:39.626Z",
+            "url": "https://www.theinformation.com/briefings/meta-test-premium-subscriptions-features-including-ai?unlock=fb638e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/meta-test-premium-subscriptions-features-including-ai?unlock=fb638e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2636195,
+                    "display_name": "Jyoti Mann"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16663,
+            "guid": "7e6bd6",
+            "headline": "Amazon Shutters All U.S. Fresh Stores Amid Grocery Revamp",
+            "dek": "Amazon is centering its grocery strategy around Whole Foods and its growing grocery delivery offering.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon said Tuesday it would close its Amazon Fresh grocery stores and Amazon Go convenience stores in the U.S., as the e-commerce giant refocuses its grocery strategy on its Whole Foods stores and online grocery delivery.</p>\n\n<p>Amazon launched the Fresh concept in 2020, and pitched the stores as a high-tech alternative to a regular supermarket equipped with the company’s Just Walk Out automatic checkout technology. But Amazon <a href=\"https://www.theinformation.com/articles/zombie-amazon-grocery-stores-pile-up-as-openings-grind-to-a-halt?rc=d8mrkd\">slowed store openings starting in 2022</a> and ditched the Just Walk Out tech in the stores altogether <a href=\"https://www.theinformation.com/articles/amazons-grocery-stores-to-drop-just-walk-out-checkout-tech?rc=d8mrkd\">in 2024</a>. Amazon said it’s closing the nearly 60 U.S. Fresh store locations because it hadn’t “created a truly distinctive customer experience.”</p>\n\n<p>Amazon has pushed to aggressively grow its grocery business without expanding Fresh, both through its Whole Foods Market stores as well as its fast-growing grocery delivery services. In 2025, Amazon added smaller Whole Foods Market stores and <a href=\"https://www.theinformation.com/articles/amazon-plans-new-u-s-ultrafast-delivery-offering?rc=d8mrkd\">30-minute delivery</a> for “everyday essentials” like paper towels, produce and energy drinks. Some of the Amazon Fresh locations will be converted to Whole Foods stores, Amazon said, and the company will also add five more of the smaller Whole Foods stores by the end of the year. Amazon plans to continue experimenting with new types of stores, including <a href=\"https://www.theinformation.com/briefings/amazon-plans-big-box-retail-store?rc=d8mrkd\">a new big-box store it’s planning</a> in the Chicago suburbs.</p>",
+            "published_at": "2026-01-27T16:05:29.671Z",
+            "url": "https://www.theinformation.com/briefings/amazon-shutters-u-s-fresh-stores-amid-grocery-revamp?unlock=7e6bd6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-shutters-u-s-fresh-stores-amid-grocery-revamp?unlock=7e6bd6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 9721,
+                    "guid": "6143122fd1",
+                    "title": "How Amazon’s Bricks-and-Mortar Dreams Hit a Wall",
+                    "url": "https://www.theinformation.com/articles/how-amazons-bricks-and-mortar-dreams-hit-a-wall?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 16179,
+                    "guid": "f5ee8bd98b",
+                    "title": "Amazon Tests Ultrafast Delivery Offering",
+                    "url": "https://www.theinformation.com/articles/amazon-plans-new-u-s-ultrafast-delivery-offering?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16662,
+            "guid": "463fcd",
+            "headline": "Waymo’s Price Premium To Lyft and Uber Is Closing, Report Finds",
+            "dek": "Average Waymo prices have fallen, while Uber and Lyft prices have risen, since last April, according to ride-hailing analytics firm Obi. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The average price to ride in Waymo’s robotaxis has dropped by 3.6% since March to $19.69 per ride, according to a new report by ride-hailing analytics firm Obi. Riding in a Waymo is now, on average, 12.7% more expensive than riding in an Uber and 27.4% more expensive than riding in a Lyft, down from a 30% to 40% premium for Waymo rides last April, the month covered by Obi’s <a href=\"https://www.theinformation.com/briefings/waymo-rides-cost-uber-lyft-report-finds\">previous report</a>. Obi’s report looked at more than 90,000 rides in the San Francisco Bay Area during December 2025.</p>\n\n<p>The convergence in pricing partly stems from Uber and Lyft having raised their average prices, by 12% to $17.47 and 7% to $15.47 respectively, since last spring, according to the Obi report.</p>\n\n<p>“I wonder if there’s a Waymo effect to that in the sense that Waymo came out and had much higher prices and people showed that they were willing to pay those prices,” said Ashwini Anburajan, CEO of Obi, about the finding, though she added that Obi’s analysis did not take into account the potential impact of gas prices or economic inflation.</p>\n\n<p>Obi’s report also noted that 63% of over 2,000 robotaxi riders surveyed by Obi across locales where such vehicles were available say they are comfortable with the technology, up from 35% in Obi’s previous survey last spring.</p>",
+            "published_at": "2026-01-27T15:04:40.308Z",
+            "url": "https://www.theinformation.com/briefings/waymos-price-premium-lyft-uber-closing-report-finds?unlock=463fcd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymos-price-premium-lyft-uber-closing-report-finds?unlock=463fcd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2022677,
+                    "display_name": "Anita Ramaswamy"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16661,
+            "guid": "b9eaab",
+            "headline": "OpenAI CEO Says ‘ICE Is Going Too Far’ in Internal Memo",
+            "dek": "Other tech figures, including Google DeepMind chief scientist Jeff Dean, Meta's former chief AI scientist Yann LeCun and top venture capitalist Vinod Khosla, have denounced the shooting in recent days.",
+            "source_url": "",
+            "source_label": "The New York Times",
+            "body": "<p>As more tech executives weigh in on the weekend’s fatal shooting by federal immigration agents in Minneapolis, OpenAI CEO Sam Altman told staff this week that he believes “ICE is going too far,” according to a copy of the internal memo published by the New York Times’ DealBook.</p>\n\n<p>“There is a big difference between deporting violent criminals and what’s happening now, and we need to get the distinction right,” Altman wrote. He added that “President Trump is a very strong leader” and he hopes Trump “will rise to this moment and unite the country.”</p>\n\n<p>Other tech figures, including Google DeepMind chief scientist Jeff Dean, Meta’s former chief AI scientist Yann LeCun and top venture capitalist Vinod Khosla, have denounced the shooting in recent days.</p>",
+            "published_at": "2026-01-27T14:53:37.666Z",
+            "url": "https://www.theinformation.com/briefings/openai-ceo-says-ice-going-far-internal-memo?unlock=b9eaab&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-ceo-says-ice-going-far-internal-memo?unlock=b9eaab&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16660,
+            "guid": "145452",
+            "headline": "Pinterest To Cut Up To 15% of Staff As Part of AI Shift",
+            "dek": "The social media app has also been hurt by a shaky ad market.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Pinterest said Tuesday it will lay off up to 15% of its employees, or around 700 staffers, as part of a restructuring to put more resources towards artificial intelligence-focused projects.</p>\n\n<p>The digital scrapbooking app has been fighting for user attention as AI chatbot apps like ChatGPT grab a larger share of user attention, and has also seen a slowdown in advertising revenue. In Pinterest’s most recent quarterly report in November, CFO Julie Donnelly said that some U.S. retailers had pulled back on ad spending in part due to “tariff-related margin pressure.” Additionally, ad pricing declined 24% from a year earlier as ads in cheaper overseas markets made up a greater share of Pinterest’s revenue.</p>\n\n<p>As part of the restructuring, Pinterest said it will put more resources towards “prioritizing AI-powered products and capabilities.” Still, the company has <a href=\"https://www.theinformation.com/articles/pinterests-ai-strategy-focuses-users-want?rc=d8mrkd\">tried to walk a fine line</a> between incorporating more AI into its features and angering existing users who don’t want AI-generated content. Last week, Pinterest <a href=\"https://www.theinformation.com/briefings/pinterest-hires-lee-brown-chief-business-officer?rc=d8mrkd\">named</a> former DoorDash executive Lee Brown as its new chief business officer to oversee sales, content and ad product marketing.</p>",
+            "published_at": "2026-01-27T14:50:04.159Z",
+            "url": "https://www.theinformation.com/briefings/pinterest-cut-15-staff-part-ai-shift?unlock=145452&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/pinterest-cut-15-staff-part-ai-shift?unlock=145452&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16116,
+                    "guid": "8b2c3a5cf1",
+                    "title": "Pinterest’s AI Strategy Focuses on What Users Want",
+                    "url": "https://www.theinformation.com/articles/pinterests-ai-strategy-focuses-users-want?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        }
+    ]
+}
