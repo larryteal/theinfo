@@ -1,0 +1,726 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16703,
+            "guid": "7bfc28",
+            "headline": "Nvidia’s H200 Chip Sales to China Remain Stalled By U.S. Government",
+            "dek": "The stall highlights how Nvidia is caught between the U.S. and China, both of which are using the chips sales to advance their national security and economic interests",
+            "source_url": "https://www.ft.com/content/d963c6c9-3618-4d83-8efe-eccf74cd637f",
+            "source_label": "Financial Times",
+            "body": "<p>Nvidia’s application to sell the H200 chips to China is still awaiting final approval by the U.S. government, nearly two months after President Donald Trump approved the sale, the Financial Times reported, citing people familiar with the discussions.</p>\n\n<p>The stall highlights how Nvidia is increasingly caught between the U.S. and China as both sides seek control of their AI chip sales to advance their own national security and economic interests.</p>\n\n<p>Although Nvidia CEO Jensen Huang and President Trump brokered a deal in December to begin the H200 to China, multiple U.S. government agencies still need to sign off on the details, including the Departments of Commerce, State, Defense and Energy, the newspaper said.</p>\n\n<p>While Commerce has finished its review, the State Department is pushing for tougher rules to make it more difficult for China to use the chips in ways that could hurt U.S. national security, the report said.</p>\n\n<p>Meanwhile, the Chinese government has&nbsp;yet to formally approve the imports of the H200 either, which is one generation behind Nvidia’s flagship Blackwell chips, out of concerns that it could undermine China’s efforts to achieve semiconductor self-efficiency.</p>",
+            "published_at": "2026-02-04T09:43:57.358Z",
+            "url": "https://www.theinformation.com/briefings/nvidias-h200-chip-sales-china-remain-stalled-u-s-government?unlock=7bfc28&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidias-h200-chip-sales-china-remain-stalled-u-s-government?unlock=7bfc28&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16702,
+            "guid": "59cce7",
+            "headline": "Exclusive: Two Sequoia Capital Partners Leaving",
+            "dek": "Since the start of the year, four Sequoia partners have revealed plans to leave or step back from their roles. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Two partners at Sequoia Capital have left or plan to leave the blue-chip venture firm, according to people familiar with the decisions. The plans, which haven’t previously been reported, add to recent exits at the firm and come during a period when more venture capitalists are attempting new funds or startups, lured by the prospects of harnessing AI.</p>\n\n<p>Josephine Chen, who focuses on early stage investments and joined Sequoia nearly seven years ago, is leaving the firm to start what she’s described to colleagues as a new fund concept. Cole Pergament, a partner on the growth team who joined the firm from Mary Meeker’s Bond last year, left late last month. He has told some people at the firm he wanted to start a company.</p>\n\n<p>Last month, Charlie Curnin, a Sequoia partner who invested in early stage companies and who joined four years ago, <a href=\"https://x.com/charliecurnin/status/2014062349217656927?s=20\">announced his departure</a> to take part in a “once-in-a-generation time to build transformational products.” The firm typically has about 20 partners at a time.</p>\n\n<p>And in early January, general partner Ravi Gupta, previously CFO of Instacart, said that <a href=\"https://x.com/GuptaRK22\">he was planning</a> to start his own company and would step back from the GP role. He has remained a partner and represents Sequoia on some boards. Sequoia has committed to invest in Gupta’s new company.</p>\n\n<p>Sequoia, known for backing startups including SpaceX and Stripe, underwent a shake up in its top leadership late last year. Roelof Botha in November announced he was passing leadership of the firm to two general partners, Alfred Lin and Pat Grady, <a href=\"https://www.theinformation.com/articles/sequoias-botha-stepped-concerns-leadership-simmered?rc=zjctrx\">after three years in the top role</a> during a tumultuous time for startup investing.</p>",
+            "published_at": "2026-02-04T06:55:02.101Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-two-sequoia-capital-partners-leaving?unlock=59cce7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-two-sequoia-capital-partners-leaving?unlock=59cce7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                },
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                },
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16701,
+            "guid": "a93f89",
+            "headline": "Department of Justice Cross-Appeals Google Search Verdict",
+            "dek": "In ruling on how to remedy Google's search monopoly, the judge rejected the most extreme proposals from the Justice Department and plaintiff states.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Department of Justice and a group of U.S. states on Tuesday appealed a judge’s ruling on how Google’s search businesses should change in the wake of an earlier finding that it was an illegal monopoly. Their appeal came two weeks after Google also appealed the ruling.</p>\n\n<p>The remedies decision last fall followed a sweeping judgment in 2024 in which a federal judge found that Google had used exclusive distribution contracts to maintain an illegal monopoly in general search engines. In ruling on how to remedy that monopoly, the judge rejected the most extreme proposals from the Justice Department and plaintiff states, which included banning Google from paying for search distribution at all and forcing Google to sell its Chrome browser. Instead, the judge more narrowly prohibited exclusive distribution deals and mandated limited data sharing with Google’s search rivals.</p>\n\n<p>Google is seeking to halt the data sharing and search syndication remedies while the appeal is pending, according to its motion filed last month. The Justice Department filed last week to oppose that motion. The judge has not yet issued a ruling on the stay.</p>",
+            "published_at": "2026-02-03T22:18:04.314Z",
+            "url": "https://www.theinformation.com/briefings/department-justice-cross-appeals-google-search-verdict?unlock=a93f89&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/department-justice-cross-appeals-google-search-verdict?unlock=a93f89&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16700,
+            "guid": "f2fa5e",
+            "headline": "Wall Street Dumps Software Stocks as AI Disruption Fear Lingers",
+            "dek": "Sell-offs in software stocks continue as Wall Street grows wary of competitions from new AI tools. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares of enterprise software stocks tumbled Tuesday as worries over new AI tools replacing traditional enterprise software subscriptions deepened following Anthropic’s release of its latest tool to automate legal tasks.</p>\n\n<p>Shares of Snowflake, Atlassian, MongoDB, Elastic and Hubspot fell more than 10%. Other software heavyweights such as Salesforce, ServiceNow, Workday lost more than 7%. Many have tried to add new AI products or make acquisitions to beef up their offerings to fend off competitions from AI-native startups.</p>\n\n<p>Companies that sell analytics software to the legal industry were particularly hit by Anthropic’s release. Britain’s RELX and the Netherlands’ Wolters Kluwer fell by more than 10%. London Stock Exchange Group and Thomson Reuters, which have large data analytics businesses, lost more than a tenth of their market share.</p>",
+            "published_at": "2026-02-03T21:12:02.881Z",
+            "url": "https://www.theinformation.com/briefings/wall-street-dumps-software-stocks-ai-disruption-fear-lingers?unlock=f2fa5e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/wall-street-dumps-software-stocks-ai-disruption-fear-lingers?unlock=f2fa5e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16468,
+                    "guid": "3af0c6dbc1",
+                    "title": "AI Clogs Exits for PE-Backed Software Firms",
+                    "url": "https://www.theinformation.com/articles/ai-clogs-exits-pe-backed-software-firms?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16699,
+            "guid": "c0e980",
+            "headline": "PayPal Names New CEO As Growth Efforts Struggle",
+            "dek": "Payments through PayPal checkouts grew just 1% in the fourth quarter.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>PayPal named Enrique Lores as its next CEO on Tuesday, saying the company had fallen short of expectations on efforts to jumpstart growth. Lores, who has been the CEO of HP for six years, will replace Alex Chriss, a former Intuit executive who joined PayPal in mid-2023. PayPal shares fell more than 18% in morning trading.</p>\n\n<p>Chriss’ turnaround initiatives included getting more customers and online shops to use the company’s checkout buttons. The company said payments growth through PayPal-branded checkouts had slowed to 1% in the fourth quarter, down from 6% the same period year prior. PayPal’s overall net revenue, which also includes behind the scenes payment processing work it does for other companies, grew 4% in the period to $8.7 billion.</p>\n\n<p>One issue for PayPal is that it is one among many popular checkout options, such as Apple Pay—even if shoppers have a PayPal account, they might use another option if a checkout has multiple buttons. PayPal said it plans to make its checkouts more prominent and easier to use. PayPal has also partnered with firms including OpenAI and Google on checkouts inside AI chatbots, which it says is an important long-term opportunity. But PayPal said that AI-powered transactions won’t materially help the company’s growth in 2026, while spending on that area will weigh on margins.</p>",
+            "published_at": "2026-02-03T15:35:04.654Z",
+            "url": "https://www.theinformation.com/briefings/paypal-names-new-ceo-growth-efforts-struggle?unlock=c0e980&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/paypal-names-new-ceo-growth-efforts-struggle?unlock=c0e980&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16698,
+            "guid": "edf59e",
+            "headline": "French Police Raid X Office, Summon Elon Musk Over Grok Integration ",
+            "dek": "The prosecutor’s office said that it was investigating X for several violations of the law, including complicity in possession and dissemination of child pornography and the creation of sexually explicit deepfakes.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Paris office of Elon Musk’s X was raided by French police on Tuesday, as prosecutors summoned Musk and former CEO Linda Yaccarino for questioning as part of a broadening investigation into the social media service, according to a statement from the Paris prosecutor.</p>\n\n<p>The prosecutor’s office said that it was investigating X for several violations of the law, including complicity in possession and dissemination of child pornography and the creation of sexually explicit deepfakes. The office wants Musk and Yaccarino to appear at a hearing in April, though it’s unclear if it will be able to force them to appear.</p>\n\n<p>Also on Tuesday, the United Kingdom opened a separate probe into the creation of sexual deepfakes by its Grok chatbot. Late last year, X laid off several engineers focused on trust and safety after staff <a href=\"https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok\">raised concerns about the integration</a> of Grok into X, including the potential for the chatbot to create sexual images of real people, The Information has reported.</p>",
+            "published_at": "2026-02-03T15:28:03.910Z",
+            "url": "https://www.theinformation.com/briefings/french-police-raid-x-office-summon-elon-musk-grok-integration?unlock=edf59e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/french-police-raid-x-office-summon-elon-musk-grok-integration?unlock=edf59e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16148,
+                    "guid": "7ba49b9fc2",
+                    "title": "The Twins Pushing Elon Musk’s Plans to Replace X Staff With Grok",
+                    "url": "https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16697,
+            "guid": "b15004",
+            "headline": "Disney Names Parks Chief D'Amaro as New CEO",
+            "dek": "The selection immediately raises the question of whether D'Amaro will be more successful than Iger's previous successor—another parks veteran, Bob Chapek.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Walt Disney Co. named its theme parks chief, Josh D’Amaro, to succeed Bob Iger as CEO on March 18, ending a years-long search. The selection immediately raises the question of whether D’Amaro will be more successful than Iger’s previous successor—another parks veteran, Bob Chapek—in taking the reins of the entertainment giant.</p>\n\n<p>Chapek had the bad luck of taking over just as the Covid pandemic was starting, which forced the shuttering of Disney’s theme parks and froze much of its TV and&nbsp;film production. Chapek also presided over increasing losses at Disney’s streaming operations. After rising internal dissension, he was forced out in late 2022, after two and a half years, with Iger returning.</p>\n\n<p>Alongside D’Amaro’s appointment, Disney’s top entertainment executive Dana Walden, who was seen as a contender to be CEO, was named President and Chief Creative Officer of Disney. Iger, meanwhile, will become a senior advisor when D’Amaro takes over until he retires (for the second time) at the end of the year.</p>\n\n<p>Disney chair James Gorman, who oversaw the search, said D’Amaro had “demonstrated a strong vision for the company’s future and a deep understnading of the creative spirit that makes Disney unique.”</p>",
+            "published_at": "2026-02-03T14:50:11.484Z",
+            "url": "https://www.theinformation.com/briefings/disney-names-parks-chief-damaro-new-ceo?unlock=b15004&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/disney-names-parks-chief-damaro-new-ceo?unlock=b15004&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16696,
+            "guid": "840f20",
+            "headline": "Waymo Raises $16 Billion in Funding at $126 Billion Valuation",
+            "dek": "Self-driving ridesharing service Waymo said Monday it has raised $16 billion at a $126 billion valuation. The valuation includes the size of the investment, according to an investor in the round. ",
+            "source_url": "",
+            "source_label": "Waymo",
+            "body": "<p>Self-driving ridesharing service Waymo said Monday it has raised $16 billion at a $126 billion valuation. The valuation includes the size of the investment, according to an investor in the round.</p>\n\n<p>Dragoneer Investment Group, DST Global and Sequoia Capital led the round, it said. Waymo said that Alphabet remains a majority shareholder. Andreessen Horowitz, Tiger Global Management and Bessemer Venture Partners are amongst the investors who participated.</p>\n\n<p>The Information was first to report <a href=\"https://www.theinformation.com/articles/waymo-discusses-raising-billions-100-billion?rc=zjctrx\">that Waymo was in talks to raise</a> a new round of financing at a valuation of over $100 billion.</p>\n\n<p>Waymo said that in 2025 it more than tripled its annual volume of rides to more than 15 million, with expansion to Tokyo and London this year.</p>\n\n<p>The company has come under scrutiny recently for some recent incidents, including a child struck by one of its vehicles in Santa Monica and its vehicles stuck at intersections during a San Francisco power outage, Waymo has touted its safety record, claiming that its vehicles reduce serious injury crashes by 90%.</p>",
+            "published_at": "2026-02-03T02:10:21.309Z",
+            "url": "https://www.theinformation.com/briefings/waymo-raises-16-billion-funding-126-billion-valuation?unlock=840f20&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymo-raises-16-billion-funding-126-billion-valuation?unlock=840f20&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 14527,
+                    "name": "uber/lyft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16695,
+            "guid": "640dbe",
+            "headline": "SpaceX Acquires xAI for $250 Billion",
+            "dek": "The news, without the price, was confirmed by Elon Musk in a press release posted to SpaceX’s website Monday. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk’s SpaceX acquired xAI for $250 billion in stock, said a person familiar with the situation. SpaceX was valued at $1 trillion in the deal, another person familiar with the deal said. The news, without the price, was confirmed by Musk&nbsp;in a press release posted to SpaceX’s website Monday.&nbsp;Musk did not provide details of the purchase price or how the deal could affect SpaceX’s <a href=\"https://www.theinformation.com/articles/spacex-tells-investors-aiming-late-2026-ipo\">potential IPO</a> this year.</p>\n\n<p>“SpaceX has acquired xAI to form the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world’s foremost real-time information and free speech platform,” Musk said in the <a href=\"https://www.spacex.com/updates#xai-joins-spacex\">press release</a> published on SpaceX’s website.</p>\n\n<p>Most of the release focuses on SpaceX’s plans to launch data centers into space, which Musk says will be “the lowest cost way to generate AI compute” within two to three years.</p>",
+            "published_at": "2026-02-02T22:01:56.558Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-says-spacex-acquired-xai?unlock=640dbe&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-says-spacex-acquired-xai?unlock=640dbe&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                },
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                },
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16694,
+            "guid": "fd0fa5",
+            "headline": "SpaceX CFO to Hold Investor Call to Discuss xAI Deal ",
+            "dek": "The call comes as some SpaceX investors are concerned about having their shares of the rocket maker diluted through a potential acquisition.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SpaceX chief financial officer Bret Johnsen was scheduled to hold a call with investors at 5 pm EST on Monday to discuss the company’s acquisition of xAI, according to a person with direct knowledge.</p>\n\n<p>The call comes as some SpaceX investors are concerned about having their shares of the rocket maker diluted through a potential acquisition. Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo\">reported</a> Monday that SpaceX is moving forward with an acquisition of xAI that would price the combined company’s shares at $527 each, for a valuation of $1.25 trillion.</p>",
+            "published_at": "2026-02-02T21:39:02.976Z",
+            "url": "https://www.theinformation.com/briefings/spacex-cfo-hold-investor-call-discuss-xai-deal?unlock=fd0fa5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-cfo-hold-investor-call-discuss-xai-deal?unlock=fd0fa5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                },
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        },
+        {
+            "type": "Briefing",
+            "id": 16693,
+            "guid": "a1e829",
+            "headline": "Snowflake Paying OpenAI $200 Million For Access to AI Models",
+            "dek": "Snowflake wants more customers to build AI apps on the data they store in its database, and providing direct access to to OpenAI models could help. ",
+            "source_url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-openAI-forge-200-million-partnership-to-bring-enterprise-ready-ai-to-the-worlds-most-trusted-data-platform/",
+            "source_label": "The Information",
+            "body": "<p>Snowflake has <a href=\"https://www.snowflake.com/en/news/press-releases/snowflake-and-openAI-forge-200-million-partnership-to-bring-enterprise-ready-ai-to-the-worlds-most-trusted-data-platform/\">inked</a> a $200 million, multi-year agreement with OpenAI, under which it will incorporate the startup’s AI models in its own application-building service and equip its employees with OpenAI’s business version of ChatGPT.</p>\n\n<p>The agreement with Snowflake, which sells a cloud database widely used among Fortune 500 companies, is the latest sign of OpenAI’s efforts <a href=\"https://www.theinformation.com/articles/openai-aims-lure-businesses-anthropic?rc=eqgjah\">to compete for large AI deals</a> with rivals like Anthropic and Google. While OpenAI already has many business customers, agreements with major enterprise software providers could help it make more inroads with technology decision makers.</p>\n\n<p>OpenAI’s Snowflake agreement also shows how the startup is moving out of the shadow of its&nbsp;Microsoft partnership. Snowflake customers will now get direct access to OpenAI’s models, while previously they had to use Microsoft’s Azure cloud service to use them. That could entice Snowflake’s customers to build more AI-powered applications that tap the data they store in its database.</p>",
+            "published_at": "2026-02-02T21:36:12.572Z",
+            "url": "https://www.theinformation.com/briefings/snowflake-inks-200-million-agreement-access-openais-models?unlock=a1e829&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snowflake-inks-200-million-agreement-access-openais-models?unlock=a1e829&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16692,
+            "guid": "92c560",
+            "headline": "Elon Musk Appears to Confirm SpaceX and xAI Merger Plan in X Post ",
+            "dek": "Musk responded “yes” to a post from a space-focused investor who quoted a Bloomberg story about SpaceX and xAI being in advanced merger talks.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk appeared to confirm that SpaceX and xAI are considering a merger in an X post on Monday.</p>\n\n<p>Musk <a href=\"https://x.com/elonmusk/status/2018344195422081173\">responded</a> “yes” to a post from a space-focused investor who quoted a Bloomberg story about SpaceX and xAI being in advanced merger talks. In the <a href=\"https://x.com/aaronburnett/status/2018315169378496762\">post</a> that Musk responded to, the investor Aaron Burnett placed a handshake emoji between mission statements associated with xAI (“Understand the Universe”) and SpaceX (“Explore the Universe”).</p>\n\n<p>The Bloomberg report that Burnett quoted said that SpaceX and xAI are in advanced merger talks. SpaceX is also considering an initial public offering this year, The Information has reported.</p>",
+            "published_at": "2026-02-02T16:37:09.270Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-appears-confirm-spacex-xai-merger-plan-x-post?unlock=92c560&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-appears-confirm-spacex-xai-merger-plan-x-post?unlock=92c560&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16691,
+            "guid": "dc4fc6",
+            "headline": "Disney’s Entertainment Profits Fall Despite Higher Streaming Results",
+            "dek": "Disney's older entertainment businesses saw their profits fall 55%. ",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Walt Disney Co. reported a sharp drop in profits from its entertainment segment for the December quarter, as lower profits from its TV networks offset better results from its streaming business. Profits from Disney’s sports segment, which includes ESPN, also fell.</p>\n\n<p>Overall Disney reported 5% higher revenue but 9% lower operating income. The company’s entertainment segment, which includes the ABC broadcast network as well as cable channels like FX and its Disney+ and Hulu streaming services, reported a 35% drop in operating income to $1.1 billion on 7% higher revenue.</p>\n\n<p>Disney’s disclosures showed that its entertainment streaming operations increased revenue 11%, while operating profits jumped 72% to $450 million. But Disney’s older entertainment businesses saw their profits fall 55%. Disney changed how it reported its results for the quarter, reducing the amount it discloses about its older businesses. It also stopped reporting its streaming subscriber numbers. Disney stock was trading down in pre market trading.</p>",
+            "published_at": "2026-02-02T13:11:01.850Z",
+            "url": "https://www.theinformation.com/briefings/disneys-entertainment-profits-fall-despite-higher-streaming-results?unlock=dc4fc6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/disneys-entertainment-profits-fall-despite-higher-streaming-results?unlock=dc4fc6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16690,
+            "guid": "5ef502",
+            "headline": "Oracle to Raise Up to $50 Billion For Cloud Expansion",
+            "dek": "Notably, Oracle said the new funding wouldn’t just go toward data center capacity for OpenAI.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Oracle said Sunday it plans to raise between $45 billion and $50 billion this year through a mix of debt and equity to fund the rapid expansion of its cloud computing business.</p>\n\n<p>Oracle said the funds will go toward data center development to serve several large customers including OpenAI, Advanced Micro Devices, xAI, Meta Platforms, TikTok and Nvidia. Oracle previously hinted it would need to raise additional debt to fund its growth but hadn’t disclosed a specific plan for the year.</p>\n\n<p>Notably, Oracle said the new funding wouldn’t just go toward data center capacity for OpenAI, which has committed to spend several hundred billion dollars on Oracle Cloud in the coming years. Oracle shares are down 50% from last year’s high—erasing around $450 billion in market value—as investors question how much upfront investment Oracle will need to make before it will begin seeing meaningful revenue growth from the OpenAI contract. There are also concerns around whether OpenAI can pay for the cloud rentals and whether Oracle can get the data centers ready on time.</p>\n\n<p>Lenders have also <a href=\"https://www.theinformation.com/articles/oracle-linked-borrowing-binge-worries-lenders\">grown cautious</a> of all of the borrowing tied to Oracle data centers and have said privately that they want to limit their exposure. Developers building Oracle’s data centers for OpenAI have already <a href=\"https://www.theinformation.com/articles/oracle-linked-borrowing-binge-worries-lendershttps://www.theinformation.com/articles/oracle-linked-borrowing-binge-worries-lenders\">borrowed more $65 billion</a> in construction debt.</p>\n\n<p>Roughly half of the new funding will come from equity and the other half will come from a bond offering, Oracle said. In the three months ended at the end of November, Oracle burned roughly $10 billion, driven by spending on data centers, and in September raised an $18 billion bond offering. Oracle ended the quarter with about $20 billion in cash, even as its spending pushed its free cash flow negative and prompted the company to lean more heavily on debt.</p>",
+            "published_at": "2026-02-02T04:03:14.323Z",
+            "url": "https://www.theinformation.com/briefings/oracle-raise-50-billion-cloud-expansion?unlock=5ef502&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/oracle-raise-50-billion-cloud-expansion?unlock=5ef502&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16155,
+                    "guid": "fc15038f6e",
+                    "title": "Oracle-Linked Borrowing Binge Worries Lenders",
+                    "url": "https://www.theinformation.com/articles/oracle-linked-borrowing-binge-worries-lenders?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16689,
+            "guid": "dd98ca",
+            "headline": "U.A.E. Firm Quietly Bought 49% Stake In Trump Crypto Firm",
+            "dek": "An entity linked to a member of the United Arab Emirates royal family secretly purchased 49% of President Trump’s family’s crypto company.",
+            "source_url": "",
+            "source_label": "Wall Street Journal",
+            "body": "<p>An entity linked to a member of the United Arab Emirates royal family secretly purchased 49% of President Trump’s family’s crypto company, World Liberty Financial, the <a href=\"https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8\">Wall Street Journal</a> reported.</p>\n\n<p>Aryam Investment 1, a firm backed by Sheikh Tahnoon bin Zayed Al Nahyan, made a $500 million investment in World Liberty. The first part of the investment was made&nbsp;just days before President Trump took office for his second term, according to the WSJ. Trump family entities received $187 million from the first installment of the investment, according to the WSJ.&nbsp;Part of the investment was directed to entities linked to Steve Witkoff, the President’s Middle East envoy, and an entity tied to World Liberty co-founders Zak Folkman and Chase Herro, the report said.</p>\n\n<p>The deal would make Aryam the largest shareholder in World Liberty outside its founders. The Trump Administration subsequently gave one of Sheikh Tahnoon’s own companies, the artificial intelligence company G42, access to around half a million AI chips.</p>",
+            "published_at": "2026-02-01T23:41:34.015Z",
+            "url": "https://www.theinformation.com/briefings/u-e-firm-quietly-bought-49-stake-trump-crypto-firm?unlock=dd98ca&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-e-firm-quietly-bought-49-stake-trump-crypto-firm?unlock=dd98ca&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16688,
+            "guid": "10712e",
+            "headline": "SpaceX Seeks FCC Approval to Launch 1 Million Satellites For Orbital Data Center  ",
+            "dek": "The SpaceX filing did not include details such as the size of the satellites, their cost, or when they would be launched. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SpaceX has asked for permission to launch as many as 1 million satellites into space to function as a massive orbital data center, according to a company filing with the Federal Communications Commission.</p>\n\n<p>The filing outlines a plan for a satellite system that would be far larger than has ever been publicly detailed by SpaceX or any other company. Only about 25,000 satellites have ever been launched into orbit in history, <a href=\"https://sdup.esoc.esa.int/discosweb/statistics/\">according</a> to the European Space Agency. “By directly harnessing near-constant solar power with little operating or maintenance cost, these satellites will achieve transformative cost and energy efficiency while significantly reducing the environmental impact associated with terrestrial data centers,” SpaceX said in the <a href=\"https://fccprod.servicenowservices.com/icfs?id=ibfs_application_summary&number=SAT-LOA-20260108-00016\">filing</a> from late Friday.</p>\n\n<p>The SpaceX filing did not include details such as the size of the satellites, their cost, or when they would be launched. Space firms sometimes ask for permission to launch more satellites than they actually wind up releasing. Musk has said that space-based data centers will be more economical than those on Earth due to more abundant solar energy and cheaper cooling.</p>",
+            "published_at": "2026-01-31T23:05:50.266Z",
+            "url": "https://www.theinformation.com/briefings/spacex-seeks-fcc-approval-launch-1-million-satellites-orbital-data-center?unlock=10712e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-seeks-fcc-approval-launch-1-million-satellites-orbital-data-center?unlock=10712e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16687,
+            "guid": "e6c56a",
+            "headline": "Google’s World-Generating AI Product Causes Selloff in Videogame Stocks ",
+            "dek": "Here's more proof that equity investors are highly sensitive to AI threats.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares of videogame software creator Unity fell 24% Friday after Google unveiled <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\">Project Genie</a>, a tool customers can use to create virtual worlds. Shares of other videogame-related firms Take Two and Roblox dropped 8% and 13%, respectively. The selloff likely wiped out tens of billions of dollars in equity value across various stocks.</p>\n\n<p>The reaction to Google’s new product is yet another example of the acute sensitivity of equity investors&nbsp;to potential AI threats to traditional software—even if the threats are half-baked. For instance, Google called the product an “experimental research prototype” and said “generated worlds might not look completely true-to-life or always adhere closely to prompts or images, or real-world physics.” It added that “characters can sometimes be less controllable, or experience higher latency in control.”</p>\n\n<p>Investors likely are considering the possibility that Google could quickly improve the product to the point where it can materially draw interest from videogame creators. For now, Google is including Project Genie in a large bundle of AI services for $249 a month.</p>",
+            "published_at": "2026-01-31T22:15:53.404Z",
+            "url": "https://www.theinformation.com/briefings/googles-ai-video-launch-causes-selloff-videogame-stocks?unlock=e6c56a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/googles-ai-video-launch-causes-selloff-videogame-stocks?unlock=e6c56a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16686,
+            "guid": "15ef11",
+            "headline": "Nvidia CEO Confirms New Investment in OpenAI, ‘Probably the Largest We Have Ever Made'",
+            "dek": "As The Information reported Wednesday, Nvidia is in talks to invest up to $30 billion in OpenAI as part of an equity funding round.",
+            "source_url": "",
+            "source_label": "The information",
+            "body": "<p>Nvidia CEO Jensen Huang <a href=\"https://www.youtube.com/live/07CsjfwGzhs\">said Saturday</a> that the AI chip designer&nbsp;“will invest a great deal of money” in OpenAI,&nbsp;“probably the largest investment we have ever made.” The comments, which he made to a gaggle of reporters in Taiwan,&nbsp;appear to confirm The Information’s Wednesday report that <a href=\"https://www.theinformation.com/articles/nvidia-microsoft-amazon-talks-invest-60-billion-openai\">Nvidia was in talks to invest up to $30 billion</a> in OpenAI as part of the ChatGPT maker’s effort to raise $100 billion at a pre-investment valuation of $750 billion.</p>\n\n<p>Amazon and Microsoft also are discussing putting in considerable sums of capital, the report said. Nvidia’s biggest ever investment happened&nbsp;in December, when it&nbsp;agreed to pay around $20 billion to hire a team from AI chip designer Groq and license the startup’s technology.</p>\n\n<p>The OpenAI investment indirectly benefits Nvidia, as OpenAI’s biggest&nbsp;cost is renting Nvidia servers from cloud providers such as Microsoft, Amazon and Oracle.</p>\n\n<p>Huang said OpenAI was “one of the most consequential companies of our time” and downplayed the idea he had tensions with the ChatGPT maker. The comments came&nbsp;a day after The Wall Street Journal reported that Nvidia’s tentative deal to invest as much as $100 billion in OpenAI to help it build 10 gigawatts of its own data center capacity over a period of years has stalled.</p>\n\n<p>When the $100 billion deal was announced in September, OpenAI and Nvidia executives said the agreement had not been finalized and they hoped to work out the details in the coming weeks. The Information reported at the time that the deal could involve <a href=\"https://www.theinformation.com/articles/openai-megadeal-nvidia-discusses-new-business-model-chip-leasing\">OpenAI leasing chips directly from Nvidia</a>. But since then, Nvidia disclosed to shareholders that the deal with OpenAI might not come to fruition.</p>",
+            "published_at": "2026-01-31T00:56:30.344Z",
+            "url": "https://www.theinformation.com/briefings/nvidias-tentative-deal-invest-100-billion-openai-stalls?unlock=15ef11&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidias-tentative-deal-invest-100-billion-openai-stalls?unlock=15ef11&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                },
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16485,
+                    "guid": "b977cdf6a0",
+                    "title": "Nvidia, Microsoft, Amazon in Talks to Invest Up to $60 Billion in OpenAI",
+                    "url": "https://www.theinformation.com/articles/nvidia-microsoft-amazon-talks-invest-60-billion-openai?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16685,
+            "guid": "f8bbca",
+            "headline": "SpaceX Made $8 Billion Profit in 2025",
+            "dek": "That figure does not include capital expenditures. ",
+            "source_url": "https://www.reuters.com/business/finance/spacex-generated-about-8-billion-profit-last-year-ahead-ipo-sources-say-2026-01-30/",
+            "source_label": "Reuters",
+            "body": "<p>SpaceX brought in about $8 billion in profit last year on between $15 billion and $16 billion in revenue, Reuters <a href=\"https://www.reuters.com/business/finance/spacex-generated-about-8-billion-profit-last-year-ahead-ipo-sources-say-2026-01-30/\">reported</a> Friday. That figure is earnings before interest, taxes, depreciation and amortization, which does not include capital expenditures.</p>\n\n<p>The fresh financials come as SpaceX considers raising as much as $50 billion in an initial public offering that could value the company at $1.5 trillion, according to the report. SpaceX is also reportedly <a href=\"https://www.theinformation.com/newsletters/dealmaker/spacex-merger-reward-musk-loyalists\">considering a merger</a> with CEO Elon Musk’s artificial intelligence startup xAI.</p>\n\n<p>The majority of SpaceX’s revenue comes from its Starlink satellite internet business, which hit 9 million subscribers late last year. The company also makes money from launching payloads into space for governments and other companies.</p>",
+            "published_at": "2026-01-30T22:31:38.212Z",
+            "url": "https://www.theinformation.com/briefings/spacex-made-8-billion-profit-2025?unlock=f8bbca&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-made-8-billion-profit-2025?unlock=f8bbca&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16684,
+            "guid": "1e2bb6",
+            "headline": "ByteDance and Alibaba to Launch New Models in Race for AI Supremacy in China",
+            "dek": "The AI rivalry between the two Chinese tech giants is intensifying not only in model development but also in consumer apps and AI cloud services.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>ByteDance and Alibaba Group are both preparing to release their next flagship AI models around the Lunar New Year holiday in mid-February, in what could be the most consequential battle in the country’s tech sector, The Information reported.</p>\n\n<p>ByteDance is preparing to launch Doubao 2.0, its new flagship large language model, Seedream 5.0, an image generation model, and SeedDance 2.0, a video generation model. Alibaba, meanwhile, is working on its new flagship model, Qwen 3.5.</p>\n\n<p>The AI model development race is part of the two tech giant’s intensifying rivalry. ByteDance’s fast-growing cloud computing business has used its AI services to <a href=\"https://www.theinformation.com/articles/bytedance-challenges-alibabas-reign-chinas-ai-cloud-market?rc=9byxri\">challenge Alibaba,</a> whose cloud arm is the biggest in China. Alibaba plans to make a big holiday marketing push for its Qwen AI app for consumers, in a challenge to ByteDance’s popular Doubao chatbot, China’s largest AI app by users.</p>",
+            "published_at": "2026-01-30T09:12:14.870Z",
+            "url": "https://www.theinformation.com/briefings/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?unlock=1e2bb6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?unlock=1e2bb6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16487,
+                    "guid": "d8f7138b76",
+                    "title": "ByteDance, Alibaba to Launch New Models in Race for AI Supremacy in China",
+                    "url": "https://www.theinformation.com/articles/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        }
+    ]
+}
