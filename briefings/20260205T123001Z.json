@@ -1,0 +1,711 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16713,
+            "guid": "83a6f3",
+            "headline": "OpenAI in Talks to Power Amazon’s Alexa, Other AI Products",
+            "dek": "The talks are happening at the same time Amazon considers making an equity investment in OpenAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI is discussing a commercial agreement with Amazon to develop customized models the e-commerce giant could use to power its artificial intelligence products, including its Alexa voice assistant, <a href=\"https://www.theinformation.com/articles/amazon-discusses-getting-special-access-openai-tech\">The Information reported</a> Wednesday.</p>\n\n<p>It isn’t clear how much of a discount Amazon would get on the technology from OpenAI if it uses the ChatGPT maker’s models for its products. The talks are happening at the same time Amazon <a href=\"https://www.theinformation.com/articles/nvidia-microsoft-amazon-talks-invest-60-billion-openai\">considers making an equity investment</a> of tens of billions of dollars in OpenAI, which is also one of its cloud customers.</p>\n\n<p>The Amazon-OpenAI relationship represents one of the many circular arrangements in the AI world, where a company (in this case Amazon) would be a customer, investor and vendor of OpenAI.</p>",
+            "published_at": "2026-02-05T00:01:51.089Z",
+            "url": "https://www.theinformation.com/briefings/openai-talks-power-amazons-alexa-ai-products?unlock=83a6f3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-talks-power-amazons-alexa-ai-products?unlock=83a6f3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16517,
+                    "guid": "64ea42d42f",
+                    "title": "Amazon Discusses Getting Special Access to OpenAI Tech",
+                    "url": "https://www.theinformation.com/articles/amazon-discusses-getting-special-access-openai-tech?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16712,
+            "guid": "f5ba63",
+            "headline": "Snap Reports Steady Revenue Growth in Fourth Quarter ",
+            "dek": "Daily Active Users slipped sequentially for the first time in years\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Snap revenue increased 10% in the fourth quarter to $1.7 billion, the same rate of growth as it reported last quarter. One worrisome sign is that Snap’s daily active users fell to 474 million from 477 million in the third quarter, although it was up from a year earlier. This is the first time Snap hasn’t reported sequential growth in daily active users in several years.</p>\n\n<p>Net income, meanwhile, jumped to $45 million compared with $9 million in the fourth quarter of 2024. The fourth quarter tends to be the strongest for companies like Snap that make their money primarily from advertising.</p>\n\n<p>Spiegel said the company is on track to launch its Specs line of glasses publicly this year. Last month, the company said it was spinning out Specs into a separate subsidiary, confirming earlier reporting from The Information. Snap shares fell 3% in after market trading.</p>",
+            "published_at": "2026-02-04T23:32:01.804Z",
+            "url": "https://www.theinformation.com/briefings/snap-reports-steady-revenue-growth-fourth-quarter?unlock=f5ba63&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snap-reports-steady-revenue-growth-fourth-quarter?unlock=f5ba63&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16711,
+            "guid": "fb11b2",
+            "headline": "Crypto Venture Capitalist Kyle Samani Steps Down From Multicoin",
+            "dek": "Kyle Samani will move on to exploring AI, longevity and robotics. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Kyle Samani, the co-founder of Multicoin Capital, will step back from his crypto venture firm to explore other areas of technology, including AI, longevity and robotics, according to a <a href=\"https://drive.google.com/file/d/1bsoabiBTM09CU85241VfJzl9upCqDrMq/view\">letter</a> the firm sent to its investors.</p>\n\n<p>Multicoin, founded in 2017, was known for betting big on solana tokens and FTX. David Sacks was a limited partner in Multicoin, until Sacks divested his interest in the firm when he became the White House AI and crypto czar last year.</p>\n\n<p>Samani has been engaging with policymakers and regulators in Washington. He will transition to an advisory role at Multicoin and will continue to make personal investments in the crypto industry. He will remain chairman of Forward Industries, the biggest solana-holding stock.</p>",
+            "published_at": "2026-02-04T22:38:58.227Z",
+            "url": "https://www.theinformation.com/briefings/crypto-venture-capitalist-kyle-samani-steps-multicoin?unlock=fb11b2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/crypto-venture-capitalist-kyle-samani-steps-multicoin?unlock=fb11b2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16710,
+            "guid": "3d9c29",
+            "headline": "Alphabet Will Double CapEx to About $180 Billion as AI Cloud Business Booms",
+            "dek": "Alphabet reported a better than projected 18% increase in fourth quarter revenue, fueled by strong growth both in its core search ads business and in cloud sales. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Alphabet reported a better than projected 18% increase in fourth quarter revenue, fueled by strong growth both in its core search ads business and in cloud sales. Google’s revenue from search ads grew 17%, topping the third quarter’s 14.5% growth, and Cloud revenue soared 48%, well above that segment’s 34% growth in the third quarter.</p>\n\n<p>The results suggest Google’s advances in AI are lifting its business. And Google signaled its intention to keep the AI growth going, saying it plans to double its capital expenditures this year to between $175 billion and $185 billion.</p>\n\n<p>Google also highlighted the growth of its Gemini app, which it said has now reached 750 million monthly active users. (OpenAI said last fall that ChatGPT had 800 million weekly active users.) Other segment results indicate how much money the company is investing in areas like Waymo and its Google DeepMind AI research unit. Alphabet’s losses on Other Bets, which include Waymo, more than tripled to $3.6 billion last quarter, and its net loss on Alphabet-level activities, which Google said “primarily reflect expenses related to our shared AI research and development,” more than doubled to $5.9 billion.</p>",
+            "published_at": "2026-02-04T21:27:36.924Z",
+            "url": "https://www.theinformation.com/briefings/alphabet-projects-doubled-capex-strong-fourth-quarter?unlock=3d9c29&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alphabet-projects-doubled-capex-strong-fourth-quarter?unlock=3d9c29&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16423,
+                    "guid": "655fa98be9",
+                    "title": "Google’s Gemini Sees Developer Requests More Than Double in Five Months",
+                    "url": "https://www.theinformation.com/articles/googles-gemini-sees-skyrocketing-business-sales?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16709,
+            "guid": "b253be",
+            "headline": "Former PayPal Executive Marcus Explains How Payments Firm Lost Its Way",
+            "dek": "Marcus, who left PayPal in 2014 just before its spinoff from eBay, said the company had prioritized its bottom line over long-term vision.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Former PayPal president David Marcus criticized his former employer in a viral social media <a href=\"https://x.com/davidmarcus/status/2018809762708873443\">post</a> this week, writing that the payments giant had “lost its mojo” and arguing that the company had for many years prioritized the bottom line over its longer-term product vision. His comments were made on Tuesday, the day that PayPal <a href=\"https://www.theinformation.com/briefings/paypal-names-new-ceo-growth-efforts-struggle?rc=d8mrkd\">announced</a> it would replace current CEO Alex Chriss with HP CEO Enrique Lores, saying the company had fallen short of expectations on efforts to jumpstart growth.</p>\n\n<p>Marcus was the founder and CEO of mobile payments company Zong, which was acquired by PayPal in 2011. Marcus rose to become PayPal’s president but left the company in 2014, just before the company’s spinoff from eBay.</p>\n\n<p>Marcus said in his post that the company slowly lost its momentum following the spinoff, when PayPal was run by Dan Schulman, in particular after the departure of Bill Ready, who rose to become PayPal’s COO before he left the company in 2019. Marcus said that during this period, the company mistakenly optimized for growing its overall payments volume instead of focusing on higher-margin products that deepened customer relationships like buy now, pay later offerings and had lost ground to other payment options like Apple Pay.</p>",
+            "published_at": "2026-02-04T20:35:12.627Z",
+            "url": "https://www.theinformation.com/briefings/former-paypal-executive-marcus-explains-payments-firm-lost-way?unlock=b253be&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/former-paypal-executive-marcus-explains-payments-firm-lost-way?unlock=b253be&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16708,
+            "guid": "29682f",
+            "headline": "AI Chip Startup Cerebras Raises $1 Billion at $23 Billion Valuation",
+            "dek": "The new funding round comes as Cerebras is expected to go public in the coming months. ",
+            "source_url": "",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>AI chip startup Cerebras Systems said Wednesday has raised about $1 billion in a new funding round that values the company at $23 billion including the new investment. The Information first <a href=\"https://www.theinformation.com/articles/chipmaker-cerebras-talks-raise-1-billion-22-billion-valuation\">reported</a> in January that the startup was in fundraising talks at a $22 billion valuation before the new investment.</p>\n\n<p>The new funding round comes as Cerebras is expected to list in the coming months. It aimed to go public earlier but said last September that it was withdrawing those plans and instead raised more money privately.</p>\n\n<p>The company also recently announced a deal with OpenAI, which agreed to purchase 750 megawatts worth of computing power from the startup through 2028 for about $10 billion, according to a person familiar with the deal.</p>",
+            "published_at": "2026-02-04T18:43:19.851Z",
+            "url": "https://www.theinformation.com/briefings/ai-chip-startup-cerebras-raises-1-billion-23-billion-valuation?unlock=29682f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ai-chip-startup-cerebras-raises-1-billion-23-billion-valuation?unlock=29682f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16398,
+                    "guid": "d73ef88f5f",
+                    "title": "Chipmaker Cerebras in Talks to Raise $1 Billion at a $22 Billion Valuation",
+                    "url": "https://www.theinformation.com/articles/chipmaker-cerebras-talks-raise-1-billion-22-billion-valuation?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16707,
+            "guid": "22da70",
+            "headline": "Microsoft Replaces Security Leader with Windows Veteran",
+            "dek": "Before her roughly one-year stint at Google Cloud, Gallot spent more than 15 years at Microsoft.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft security chief Charlie Bell will leave his role and be replaced by Hayete Gallot, a former Microsoft executive who most recently served as Google Cloud’s president of customer experience, CEO Satya Nadella said Wednesday.</p>\n\n<p>Bell, who joined Microsoft in 2021 to lead its security business after more than two decades at Amazon, will move to a new role as an independent engineer, Nadella said, adding that he and Bell had been “planning this transition for some time.”</p>\n\n<p>Bell oversaw growth in the security business, with revenue growing from $10 billion in 2021 to <a href=\"https://www.theinformation.com/articles/a-former-amazonian-hits-bumps-in-push-to-make-microsoft-more-secure?rc=geicgp\">more than $20 billion in 2023</a>, which is the last time the company has disclosed security revenue. However, Bell’s tenure was also marked by several notable security vulnerabilities that rattled <a href=\"https://www.theinformation.com/articles/a-former-amazonian-hits-bumps-in-push-to-make-microsoft-more-secure?rc=geicgp\">Microsoft’s Azure cloud unit</a> and its 365 email and workplace software. After a federal government review found that Microsoft was responsible for a breach that allowed Chinese hackers to access customers’ data in 2023, the company <a href=\"https://www.theinformation.com/briefings/microsoft-security-teams-reorg-changes-pay-structure-following-pressure-from-us?rc=geicgp\">reorganized security teams under Bell</a> and vowed to make changes including tying executives’ pay to improving the company’s security.</p>\n\n<p>Before her roughly one-year stint at Google Cloud, Gallot spent more than 15 years at Microsoft, where she held various executive roles in its Azure, Windows and Office 365 businesses.</p>",
+            "published_at": "2026-02-04T17:52:41.873Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-replaces-security-leader-windows-veteran?unlock=22da70&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-replaces-security-leader-windows-veteran?unlock=22da70&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16706,
+            "guid": "b48b66",
+            "headline": "Washington Post Lays Off One-Third of Newsroom",
+            "dek": "The newspaper has seen search traffic fall by half in the past three years.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Washington Post is laying off one-third of the newsroom, a spokesperson confirmed.&nbsp;Executive editor Matt Murray said in a note to staff shared with reporters that traffic to the Post’s web site from organic search had fallen by nearly half in the past three years. Declining traffic, a result of less referrals coming from search, is a result of AI-powered changes to search and the rise of AI chatbots.</p>\n\n<p>“Platforms like Search that shaped the previous era of digital news, and which once helped The Post thrive, are in serious decline,” Murray said. “We are still in the early days of AI-generated content, which is drastically reshaping user experiences and expectations.”</p>\n\n<p>Murray also said story output has declined in the past five years and that the publication often writes “from one perspective, for one slice of the audience.”</p>",
+            "published_at": "2026-02-04T17:01:18.638Z",
+            "url": "https://www.theinformation.com/briefings/washington-post-lays-one-third-newsroom?unlock=b48b66&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/washington-post-lays-one-third-newsroom?unlock=b48b66&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16705,
+            "guid": "1b8c7c",
+            "headline": "AWS CEO Says Data Centers in Space are A Long Way Off",
+            "dek": "The comments come as Elon Musk is touting the idea to explain why he is merging SpaceX and xAI\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon Web Services CEO Matt Garman said that existing technology is “pretty far” from making data centers in space possible, just as Elon Musk has been pitching the idea as part of the logic for merging SpaceX and xAI.</p>\n\n<p>“I don’t know if you’ve seen a rack of servers recently,” Garman said at the Cisco AI Summit in San Francisco on Feb. 3. “They’re heavy. The last I checked humanity has yet to ever build … a permanent structure in space, on the moon or anywhere like that. So maybe. I know Elon says he’s going to launch a million satellites. There are not enough rockets to launch a million satellites yet.” Garman said there were some compelling reasons for data centers in space, including an infinite amount of power and easy cooling.</p>\n\n<p>Earlier this week, rocket and satellite company SpaceX announced it was merging with foundation lab xAI, just as SpaceX plans to go public later this year. In a press release announcing the merger, Musk said that in 2 to 3 years, “the lowest cost way to generate AI compute will be in space.” Amazon founder and board chair Jeff Bezos has also expressed optimism about data centers in space, but on a significantly longer timeline than Musk. Bezos, who also founded SpaceX competitor Blue Origin, said last fall that data centers in space could be built within the next 10 to 20 years.</p>",
+            "published_at": "2026-02-04T15:16:54.473Z",
+            "url": "https://www.theinformation.com/briefings/aws-ceo-says-data-centers-space-long-way?unlock=1b8c7c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-ceo-says-data-centers-space-long-way?unlock=1b8c7c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16704,
+            "guid": "79cc62",
+            "headline": "Uber Reports 20% Higher Revenue As Growth Accelerates",
+            "dek": "Uber's food delivery business is growing particularly fast.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Uber reported 20% higher revenue for the fourth quarter, and a big jump in operating profits, as its business showed signs of acceleration, particularly on the food delivery side. Uber projected a slight slowdown in growth in the first quarter, however. Uber shares were trading down 3.7% in trading on Wednesday afternoon.</p>\n\n<p>Uber’s gross bookings—the dollar volume of all the trips booked on its platform—rose 22% year on year, up a percentage point from the third quarter. That growth was particularly evident on the food dleivery side, where gross bookings rose 26% compared with 20% on the larger ride-hailing side.</p>\n\n<p>Revenue—the amount that Uber keeps after paying drivers their cut—rose 30% on the delivery side and 19% on ride hailing side. Profits from delivery also grew at a faster pace, although ride-hailing still made twice as much money as delivery. Uber’s free cash flow—cash from operations, less capital expenditures—jumped 65% to $2.8 billion.</p>",
+            "published_at": "2026-02-04T14:05:34.252Z",
+            "url": "https://www.theinformation.com/briefings/uber-reports-20-higher-revenue-growth-accelerates?unlock=79cc62&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/uber-reports-20-higher-revenue-growth-accelerates?unlock=79cc62&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 14527,
+                    "name": "uber/lyft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16703,
+            "guid": "7bfc28",
+            "headline": "Nvidia’s H200 Chip Sales to China Remain Stalled By U.S. Government",
+            "dek": "The stall highlights how Nvidia is caught between the U.S. and China, both of which are using the chips sales to advance their national security and economic interests",
+            "source_url": "https://www.ft.com/content/d963c6c9-3618-4d83-8efe-eccf74cd637f",
+            "source_label": "Financial Times",
+            "body": "<p>Nvidia’s application to sell the H200 chips to China is still awaiting final approval by the U.S. government, nearly two months after President Donald Trump approved the sale, <a href=\"https://www.ft.com/content/d963c6c9-3618-4d83-8efe-eccf74cd637f\">the Financial Times reported,</a> citing people familiar with the discussions.</p>\n\n<p>The stall highlights how Nvidia is increasingly caught between the U.S. and China as both sides seek control of their AI chip sales to advance their own national security and economic interests.</p>\n\n<p>Although Nvidia CEO Jensen Huang and President Trump brokered a deal in December to begin the H200 to China, multiple U.S. government agencies still need to sign off on the details, including the Departments of Commerce, State, Defense and Energy, the newspaper said.</p>\n\n<p>While Commerce has finished its review, the State Department is pushing for tougher rules to make it more difficult for China to use the chips in ways that could hurt U.S. national security, the report said.</p>\n\n<p>Meanwhile, the Chinese government has&nbsp;yet to formally approve the imports of the H200 either, which is one generation behind Nvidia’s flagship Blackwell chips, out of concerns that it could undermine China’s efforts to achieve semiconductor self-efficiency.</p>",
+            "published_at": "2026-02-04T09:43:57.358Z",
+            "url": "https://www.theinformation.com/briefings/nvidias-h200-chip-sales-china-remain-stalled-u-s-government?unlock=7bfc28&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidias-h200-chip-sales-china-remain-stalled-u-s-government?unlock=7bfc28&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16702,
+            "guid": "59cce7",
+            "headline": "Exclusive: Two Sequoia Capital Partners Leaving",
+            "dek": "Since the start of the year, four Sequoia partners have revealed plans to leave or step back from their roles. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Two partners at Sequoia Capital have left or plan to leave the blue-chip venture firm, according to people familiar with the decisions. The plans, which haven’t previously been reported, add to recent exits at the firm and come during a period when more venture capitalists are attempting new funds or startups, lured by the prospects of harnessing AI.</p>\n\n<p>Josephine Chen, who focuses on early stage investments and joined Sequoia nearly seven years ago, is leaving the firm to start what she’s described to colleagues as a new fund concept. Cole Pergament, a partner on the growth team who joined the firm from Mary Meeker’s Bond last year, left late last month. He has told some people at the firm he wanted to start a company.</p>\n\n<p>Last month, Charlie Curnin, a Sequoia partner who invested in early stage companies and who joined four years ago, <a href=\"https://x.com/charliecurnin/status/2014062349217656927?s=20\">announced his departure</a> to take part in a “once-in-a-generation time to build transformational products.” The firm typically has about 20 partners at a time.</p>\n\n<p>And in early January, general partner Ravi Gupta, previously CFO of Instacart, said that <a href=\"https://x.com/GuptaRK22\">he was planning</a> to start his own company and would step back from the GP role. He has remained a partner and represents Sequoia on some boards. Sequoia has committed to invest in Gupta’s new company.</p>\n\n<p>Sequoia, known for backing startups including SpaceX and Stripe, underwent a shake up in its top leadership late last year. Roelof Botha in November announced he was passing leadership of the firm to two general partners, Alfred Lin and Pat Grady, <a href=\"https://www.theinformation.com/articles/sequoias-botha-stepped-concerns-leadership-simmered?rc=zjctrx\">after three years in the top role</a> during a tumultuous time for startup investing.</p>",
+            "published_at": "2026-02-04T06:55:02.101Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-two-sequoia-capital-partners-leaving?unlock=59cce7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-two-sequoia-capital-partners-leaving?unlock=59cce7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                },
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                },
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16701,
+            "guid": "a93f89",
+            "headline": "Department of Justice Cross-Appeals Google Search Verdict",
+            "dek": "In ruling on how to remedy Google's search monopoly, the judge rejected the most extreme proposals from the Justice Department and plaintiff states.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Department of Justice and a group of U.S. states on Tuesday appealed a judge’s ruling on how Google’s search businesses should change in the wake of an earlier finding that it was an illegal monopoly. Their appeal came two weeks after Google also appealed the ruling.</p>\n\n<p>The remedies decision last fall followed a sweeping judgment in 2024 in which a federal judge found that Google had used exclusive distribution contracts to maintain an illegal monopoly in general search engines. In ruling on how to remedy that monopoly, the judge rejected the most extreme proposals from the Justice Department and plaintiff states, which included banning Google from paying for search distribution at all and forcing Google to sell its Chrome browser. Instead, the judge more narrowly prohibited exclusive distribution deals and mandated limited data sharing with Google’s search rivals.</p>\n\n<p>Google is seeking to halt the data sharing and search syndication remedies while the appeal is pending, according to its motion filed last month. The Justice Department filed last week to oppose that motion. The judge has not yet issued a ruling on the stay.</p>",
+            "published_at": "2026-02-03T22:18:04.314Z",
+            "url": "https://www.theinformation.com/briefings/department-justice-cross-appeals-google-search-verdict?unlock=a93f89&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/department-justice-cross-appeals-google-search-verdict?unlock=a93f89&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16700,
+            "guid": "f2fa5e",
+            "headline": "Wall Street Dumps Software Stocks as AI Disruption Fear Lingers",
+            "dek": "Sell-offs in software stocks continue as Wall Street grows wary of competitions from new AI tools. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shares of enterprise software stocks tumbled Tuesday as worries over new AI tools replacing traditional enterprise software subscriptions deepened following Anthropic’s release of its latest tool to automate legal tasks.</p>\n\n<p>Shares of Snowflake, Atlassian, MongoDB, Elastic and Hubspot fell more than 10%. Other software heavyweights such as Salesforce, ServiceNow, Workday lost more than 7%. Many have tried to add new AI products or make acquisitions to beef up their offerings to fend off competitions from AI-native startups.</p>\n\n<p>Companies that sell analytics software to the legal industry were particularly hit by Anthropic’s release. Britain’s RELX and the Netherlands’ Wolters Kluwer fell by more than 10%. London Stock Exchange Group and Thomson Reuters, which have large data analytics businesses, lost more than a tenth of their market share.</p>",
+            "published_at": "2026-02-03T21:12:02.881Z",
+            "url": "https://www.theinformation.com/briefings/wall-street-dumps-software-stocks-ai-disruption-fear-lingers?unlock=f2fa5e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/wall-street-dumps-software-stocks-ai-disruption-fear-lingers?unlock=f2fa5e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16468,
+                    "guid": "3af0c6dbc1",
+                    "title": "AI Clogs Exits for PE-Backed Software Firms",
+                    "url": "https://www.theinformation.com/articles/ai-clogs-exits-pe-backed-software-firms?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16699,
+            "guid": "c0e980",
+            "headline": "PayPal Names New CEO As Growth Efforts Struggle",
+            "dek": "Payments through PayPal checkouts grew just 1% in the fourth quarter.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>PayPal named Enrique Lores as its next CEO on Tuesday, saying the company had fallen short of expectations on efforts to jumpstart growth. Lores, who has been the CEO of HP for six years, will replace Alex Chriss, a former Intuit executive who joined PayPal in mid-2023. PayPal shares fell more than 18% in morning trading.</p>\n\n<p>Chriss’ turnaround initiatives included getting more customers and online shops to use the company’s checkout buttons. The company said payments growth through PayPal-branded checkouts had slowed to 1% in the fourth quarter, down from 6% the same period year prior. PayPal’s overall net revenue, which also includes behind the scenes payment processing work it does for other companies, grew 4% in the period to $8.7 billion.</p>\n\n<p>One issue for PayPal is that it is one among many popular checkout options, such as Apple Pay—even if shoppers have a PayPal account, they might use another option if a checkout has multiple buttons. PayPal said it plans to make its checkouts more prominent and easier to use. PayPal has also partnered with firms including OpenAI and Google on checkouts inside AI chatbots, which it says is an important long-term opportunity. But PayPal said that AI-powered transactions won’t materially help the company’s growth in 2026, while spending on that area will weigh on margins.</p>",
+            "published_at": "2026-02-03T15:35:04.654Z",
+            "url": "https://www.theinformation.com/briefings/paypal-names-new-ceo-growth-efforts-struggle?unlock=c0e980&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/paypal-names-new-ceo-growth-efforts-struggle?unlock=c0e980&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16698,
+            "guid": "edf59e",
+            "headline": "French Police Raid X Office, Summon Elon Musk Over Grok Integration ",
+            "dek": "The prosecutor’s office said that it was investigating X for several violations of the law, including complicity in possession and dissemination of child pornography and the creation of sexually explicit deepfakes.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Paris office of Elon Musk’s X was raided by French police on Tuesday, as prosecutors summoned Musk and former CEO Linda Yaccarino for questioning as part of a broadening investigation into the social media service, according to a statement from the Paris prosecutor.</p>\n\n<p>The prosecutor’s office said that it was investigating X for several violations of the law, including complicity in possession and dissemination of child pornography and the creation of sexually explicit deepfakes. The office wants Musk and Yaccarino to appear at a hearing in April, though it’s unclear if it will be able to force them to appear.</p>\n\n<p>Also on Tuesday, the United Kingdom opened a separate probe into the creation of sexual deepfakes by its Grok chatbot. Late last year, X laid off several engineers focused on trust and safety after staff <a href=\"https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok\">raised concerns about the integration</a> of Grok into X, including the potential for the chatbot to create sexual images of real people, The Information has reported.</p>",
+            "published_at": "2026-02-03T15:28:03.910Z",
+            "url": "https://www.theinformation.com/briefings/french-police-raid-x-office-summon-elon-musk-grok-integration?unlock=edf59e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/french-police-raid-x-office-summon-elon-musk-grok-integration?unlock=edf59e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16148,
+                    "guid": "7ba49b9fc2",
+                    "title": "The Twins Pushing Elon Musk’s Plans to Replace X Staff With Grok",
+                    "url": "https://www.theinformation.com/articles/twins-pushing-elon-musks-plans-replace-x-staff-grok?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16697,
+            "guid": "b15004",
+            "headline": "Disney Names Parks Chief D'Amaro as New CEO",
+            "dek": "The selection immediately raises the question of whether D'Amaro will be more successful than Iger's previous successor—another parks veteran, Bob Chapek.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Walt Disney Co. named its theme parks chief, Josh D’Amaro, to succeed Bob Iger as CEO on March 18, ending a years-long search. The selection immediately raises the question of whether D’Amaro will be more successful than Iger’s previous successor—another parks veteran, Bob Chapek—in taking the reins of the entertainment giant.</p>\n\n<p>Chapek had the bad luck of taking over just as the Covid pandemic was starting, which forced the shuttering of Disney’s theme parks and froze much of its TV and&nbsp;film production. Chapek also presided over increasing losses at Disney’s streaming operations. After rising internal dissension, he was forced out in late 2022, after two and a half years, with Iger returning.</p>\n\n<p>Alongside D’Amaro’s appointment, Disney’s top entertainment executive Dana Walden, who was seen as a contender to be CEO, was named President and Chief Creative Officer of Disney. Iger, meanwhile, will become a senior advisor when D’Amaro takes over until he retires (for the second time) at the end of the year.</p>\n\n<p>Disney chair James Gorman, who oversaw the search, said D’Amaro had “demonstrated a strong vision for the company’s future and a deep understnading of the creative spirit that makes Disney unique.”</p>",
+            "published_at": "2026-02-03T14:50:11.484Z",
+            "url": "https://www.theinformation.com/briefings/disney-names-parks-chief-damaro-new-ceo?unlock=b15004&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/disney-names-parks-chief-damaro-new-ceo?unlock=b15004&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16696,
+            "guid": "840f20",
+            "headline": "Waymo Raises $16 Billion in Funding at $126 Billion Valuation",
+            "dek": "Self-driving ridesharing service Waymo said Monday it has raised $16 billion at a $126 billion valuation. The valuation includes the size of the investment, according to an investor in the round. ",
+            "source_url": "",
+            "source_label": "Waymo",
+            "body": "<p>Self-driving ridesharing service Waymo said Monday it has raised $16 billion at a $126 billion valuation. The valuation includes the size of the investment, according to an investor in the round.</p>\n\n<p>Dragoneer Investment Group, DST Global and Sequoia Capital led the round, it said. Waymo said that Alphabet remains a majority shareholder. Andreessen Horowitz, Tiger Global Management and Bessemer Venture Partners are amongst the investors who participated.</p>\n\n<p>The Information was first to report <a href=\"https://www.theinformation.com/articles/waymo-discusses-raising-billions-100-billion?rc=zjctrx\">that Waymo was in talks to raise</a> a new round of financing at a valuation of over $100 billion.</p>\n\n<p>Waymo said that in 2025 it more than tripled its annual volume of rides to more than 15 million, with expansion to Tokyo and London this year.</p>\n\n<p>The company has come under scrutiny recently for some recent incidents, including a child struck by one of its vehicles in Santa Monica and its vehicles stuck at intersections during a San Francisco power outage, Waymo has touted its safety record, claiming that its vehicles reduce serious injury crashes by 90%.</p>",
+            "published_at": "2026-02-03T02:10:21.309Z",
+            "url": "https://www.theinformation.com/briefings/waymo-raises-16-billion-funding-126-billion-valuation?unlock=840f20&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/waymo-raises-16-billion-funding-126-billion-valuation?unlock=840f20&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 14527,
+                    "name": "uber/lyft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16695,
+            "guid": "640dbe",
+            "headline": "SpaceX Acquires xAI for $250 Billion",
+            "dek": "The news, without the price, was confirmed by Elon Musk in a press release posted to SpaceX’s website Monday. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk’s SpaceX acquired xAI for $250 billion in stock, said a person familiar with the situation. SpaceX was valued at $1 trillion in the deal, another person familiar with the deal said. The news, without the price, was confirmed by Musk&nbsp;in a press release posted to SpaceX’s website Monday.&nbsp;Musk did not provide details of the purchase price or how the deal could affect SpaceX’s <a href=\"https://www.theinformation.com/articles/spacex-tells-investors-aiming-late-2026-ipo\">potential IPO</a> this year.</p>\n\n<p>“SpaceX has acquired xAI to form the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world’s foremost real-time information and free speech platform,” Musk said in the <a href=\"https://www.spacex.com/updates#xai-joins-spacex\">press release</a> published on SpaceX’s website.</p>\n\n<p>Most of the release focuses on SpaceX’s plans to launch data centers into space, which Musk says will be “the lowest cost way to generate AI compute” within two to three years.</p>",
+            "published_at": "2026-02-02T22:01:56.558Z",
+            "url": "https://www.theinformation.com/briefings/elon-musk-says-spacex-acquired-xai?unlock=640dbe&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/elon-musk-says-spacex-acquired-xai?unlock=640dbe&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                },
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                },
+                {
+                    "type": "Author",
+                    "id": 2519482,
+                    "display_name": "Katie Roof"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16694,
+            "guid": "fd0fa5",
+            "headline": "SpaceX CFO to Hold Investor Call to Discuss xAI Deal ",
+            "dek": "The call comes as some SpaceX investors are concerned about having their shares of the rocket maker diluted through a potential acquisition.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>SpaceX chief financial officer Bret Johnsen was scheduled to hold a call with investors at 5 pm EST on Monday to discuss the company’s acquisition of xAI, according to a person with direct knowledge.</p>\n\n<p>The call comes as some SpaceX investors are concerned about having their shares of the rocket maker diluted through a potential acquisition. Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo\">reported</a> Monday that SpaceX is moving forward with an acquisition of xAI that would price the combined company’s shares at $527 each, for a valuation of $1.25 trillion.</p>",
+            "published_at": "2026-02-02T21:39:02.976Z",
+            "url": "https://www.theinformation.com/briefings/spacex-cfo-hold-investor-call-discuss-xai-deal?unlock=fd0fa5&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-cfo-hold-investor-call-discuss-xai-deal?unlock=fd0fa5&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 8,
+                    "display_name": "Jessica E. Lessin"
+                },
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [],
+            "topics": []
+        }
+    ]
+}
