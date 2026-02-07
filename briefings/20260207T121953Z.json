@@ -1,0 +1,686 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16720,
+            "guid": "a6f66f",
+            "headline": "Palmer Luckey’s Erebor Bank Got Full Charter Approval ",
+            "dek": "Erebor Bank aims to fill the hole left by Silicon Valley Bank. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump administration has granted full approval to a bank charter application for Erebor Bank, a startup-focused lender founded last year by Anduril co-founder Palmer Luckey and Palantir co-founder Joe Lonsdale.</p>\n\n<p>A spokesperson at the Office of the Comptroller of the Currency confirmed it granted the national bank charter to Erebor.</p>\n\n<p>Erebor Bank aims to serve startups and clients in industries including defense and crypto. The bank raised funding at a $4 billion valuation last year. Erebor, named after a fictional mountain where dwarves stored treasure in J.R.R. Tolkien’s book The Hobbit, is funded by venture firms including Andreessen Horowitz, Lux Capital and Peter Thiel’s Founders Fund.</p>",
+            "published_at": "2026-02-06T23:42:36.762Z",
+            "url": "https://www.theinformation.com/briefings/palmer-luckeys-erebor-bank-got-full-charter-approval?unlock=a6f66f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/palmer-luckeys-erebor-bank-got-full-charter-approval?unlock=a6f66f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16719,
+            "guid": "066a66",
+            "headline": "European Commission: TikTok’s ‘Addictive Design’ Breaches DMA",
+            "dek": "TikTok needs to “change the basic design of its service,” such as by disabling infinite scroll and implementing better screen time management tools, the Commission said.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The European Commission said on Friday that it had preliminarily found TikTok to be in breach of the Digital Markets Act for its “addictive design,” including features like infinite scroll, autoplay and push notifications.</p>\n\n<p>TikTok needs to “change the basic design of its service,” such as by disabling infinite scroll and implementing more effective screen time management tools, the Commission said. TikTok has the ability to defend itself against the finding, but if it is upheld, it could result in fines of up to 6% of TikTok’s global revenue.</p>\n\n<p>The European Commission’s decision comes as parallel cases kick off in the United States accusing TikTok, Meta, YouTube and Snap of addictive product design that has fueled a mental health crisis among young people. The first of thousands of trials started last week with jury selection in Los Angeles; TikTok and Snap settled that case, although they remain defendants in the other cases.</p>",
+            "published_at": "2026-02-06T18:02:53.803Z",
+            "url": "https://www.theinformation.com/briefings/european-commission-tiktoks-addictive-design-breaches-dma?unlock=066a66&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/european-commission-tiktoks-addictive-design-breaches-dma?unlock=066a66&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16718,
+            "guid": "d30169",
+            "headline": "Alibaba Battles for Chinese AI Users With $432 Million Holiday Campaign",
+            "dek": "This year, AI is at the center of Chinese tech giants’ battle to win over consumers during the Lunar New Year holiday. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Alibaba Group, the Chinese e-commerce giant, is offering hundreds of millions of dollars in shopping vouchers and other promotions to users of its Qwen AI chatbot app during the Lunar New Year holiday.</p>\n\n<p>Alibaba’s effort to boost Qwen’s usage is part of an <a href=\"https://www.theinformation.com/articles/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?rc=jnr9wn\">intensifying battle</a> among Chinese tech giants to build the biggest consumer AI platform in the country. Tencent Holdings, which is behind the Yuanbao AI chatbot app, is also offering giveaways during the holiday, while ByteDance operates Doubao, China’s largest AI app by users.</p>\n\n<p>Alibaba is offering a free shopping voucher worth 25 yuan ($3.60) to every user of its Qwen app, whose AI shopping function lets consumers make online purchases of food, drinks and groceries. Next week, it will start gifting digital red envelopes containing random amounts of money to users, allowing them to win up to 2,888 yuan in cash. Alibaba plans to spend around 3 billion yuan ($432 million) on Qwen’s overall holiday giveaway campaign. Tencent’s Yuanbao, meanwhile, started offering red envelopes to users earlier this month.</p>\n\n<p>As Alibaba competes with ByteDance and Tencent over China’s 1.4 billion people, the company is betting on the success of its Qwen app, which was launched in November. Since then, it has connected the app to its e-commerce, online travel, mapping and payments business to enable the chatbot to act as an AI agent to help them with tasks such as ordering snacks and booking trips.</p>",
+            "published_at": "2026-02-06T09:09:03.440Z",
+            "url": "https://www.theinformation.com/briefings/alibaba-battles-chinese-ai-users-432-million-holiday-campaign?unlock=d30169&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibaba-battles-chinese-ai-users-432-million-holiday-campaign?unlock=d30169&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16717,
+            "guid": "3c6f58",
+            "headline": "OpenAI Reveals Frontier, an AI Agent Platform for Businesses",
+            "dek": "The company will also hire hundreds of AI consultants to support enterprise adoption of AI\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI on Thursday unveiled a new platform for business customers to develop, run and manage AI agents that can take actions on behalf of employees, confirming <a href=\"https://www.theinformation.com/articles/openai-aims-lure-businesses-anthropic\">The Information’s reporting</a> last month. OpenAI lists HP, Intuit and Uber, among others, as customers of its Frontier platform.</p>\n\n<p>The company says Frontier should help businesses overcome some of the key hurdles of implementing AI, such as helping agents get access to the right tools, managing identity and permissioning and incorporating feedback to improve them.</p>\n\n<p>OpenAI is also hiring hundreds of AI consultants, also known as forward-deployed engineers, to support businesses’ adoption of AI, <a href=\"https://www.theinformation.com/articles/openai-hiring-hundreds-ai-consultants-boost-enterprise-sales?rc=8tzurb\">The Information reported on Wednesday</a>. These engineers can help large companies develop custom AI applications and agents to automate tasks based on the clients’ own data.</p>\n\n<p>OpenAI’s success with businesses could help pave the path for an eventual initial public offering. It expects to increase revenue from business customers to 50% by the end of the year from roughly 40% of OpenAI’s&nbsp; revenue, as of last month.</p>",
+            "published_at": "2026-02-05T22:47:15.875Z",
+            "url": "https://www.theinformation.com/briefings/openai-reveals-frontier-ai-agent-platform-businesses?unlock=3c6f58&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-reveals-frontier-ai-agent-platform-businesses?unlock=3c6f58&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16716,
+            "guid": "cc6857",
+            "headline": "Anthropic Releases New AI, Hurting Financial Services Stocks",
+            "dek": "Anthropic said its new AI would be better for tasks like financial analysis and creating spreadsheets and presentations.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic on Thursday released its latest flagship model, Claude Opus 4.6, which the company said is better at longer-duration tasks, according to a blog post. That means the model will be better for tasks like financial analysis, doing research and creating spreadsheets and presentations, the blog post said.</p>\n\n<p>The progress Anthropic’s AI has made in finance could prove worrying for firms that sell financial services-related software and data. In the hours after Anthropic’s release, shares of S&amp;P Global fell 3%, while shares of Factset fell 7%.</p>\n\n<p>Anthropic also released a “preview” version of Claude, its competitor to ChatGPT, that acts as an assistant that can draft and edit PowerPoint presentations. The company made new updates to its AI assistant for Excel, which helps with building debugging spreadsheets. Claude Opus 4.6 beat out models from OpenAI and Google on the Finance Agent benchmark, which evaluates how well AI performs on core financial analyst tasks, according to data Anthropic published in its blog post.</p>",
+            "published_at": "2026-02-05T22:01:05.350Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-releases-new-ai-hurting-financial-services-stocks?unlock=cc6857&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-releases-new-ai-hurting-financial-services-stocks?unlock=cc6857&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16715,
+            "guid": "98763e",
+            "headline": "Amazon Plans $200 Billion Capital Spending in 2026 ",
+            "dek": "AWS revenue growth accelerated to 24%\r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon said on Thursday it expects capital expenditures to rise to $200 billion this year as it pours more money into artificial intelligence efforts. The company’s shares fell more than 7% in after hours trading.</p>\n\n<p>That would mark a jump from Amazon’s 2025 spending of $131.8 billion. It’s also higher than cloud and AI competitor Google’s planned spending of between $175 billion and $185 billion this year. Amazon said the 2026 spending would focus on areas including AI and chips as well as robotics and its Leo satellite internet service.</p>\n\n<p>Revenue in the Amazon Web Services cloud unit rose by 24% to $35.6 billion in the fourth quarter, up from 20% growth the previous quarter and AWS’ fastest revenue growth since 2022. Amazon’s overall net sales rose 14% to $213.4 billion in the fourth quarter, compared to 13% growth in the second and third quarters of 2025.</p>",
+            "published_at": "2026-02-05T21:58:13.174Z",
+            "url": "https://www.theinformation.com/briefings/amazon-plans-200-billion-capital-spending-2026?unlock=98763e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-plans-200-billion-capital-spending-2026?unlock=98763e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16714,
+            "guid": "d5a5d7",
+            "headline": "Cook Acknowledges Apple Employee Unhappiness Over ICE Crackdown",
+            "dek": "Cook voiced his support for both immigrants and law enforcement and said he was saddened by the feelings people were experiencing around recent events",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple CEO Tim Cook acknowledged at an all-hands staff meeting on Thursday that some company employees were upset about the Trump administration’s immigration crackdown. He voiced his support for both immigrants and law enforcement and said he was saddened by the feelings people were experiencing around recent events, according to a person who was present at the meeting.</p>\n\n<p>The meeting was called after dozens of current and former Apple employees signed a pledge condemning the U.S.‘s Immigration and Customs Enforcement recent enforcement actions in cities like Minneapolis and the killing of Minneapolis nurse Alex Pretti last month. On the same day Pretti died, Cook attended a White House screening of Melania, a documentary about the First Lady.</p>\n\n<p>Separately, in answer to a question about recent leadership departures, Cooke said he spends a lot of time thinking about who will do his job 10 years from now, and that everyone in leadership should be thinking that way.</p>",
+            "published_at": "2026-02-05T19:22:45.491Z",
+            "url": "https://www.theinformation.com/briefings/cook-acknowledges-apple-employee-unhappiness-ice-crackdown?unlock=d5a5d7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/cook-acknowledges-apple-employee-unhappiness-ice-crackdown?unlock=d5a5d7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                },
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16713,
+            "guid": "83a6f3",
+            "headline": "OpenAI in Talks to Power Amazon’s Alexa, Other AI Products",
+            "dek": "The talks are happening at the same time Amazon considers making an equity investment in OpenAI. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI is discussing a commercial agreement with Amazon to develop customized models the e-commerce giant could use to power its artificial intelligence products, including its Alexa voice assistant, <a href=\"https://www.theinformation.com/articles/amazon-discusses-getting-special-access-openai-tech\">The Information reported</a> Wednesday.</p>\n\n<p>It isn’t clear how much of a discount Amazon would get on the technology from OpenAI if it uses the ChatGPT maker’s models for its products. The talks are happening at the same time Amazon <a href=\"https://www.theinformation.com/articles/nvidia-microsoft-amazon-talks-invest-60-billion-openai\">considers making an equity investment</a> of tens of billions of dollars in OpenAI, which is also one of its cloud customers.</p>\n\n<p>The Amazon-OpenAI relationship represents one of the many circular arrangements in the AI world, where a company (in this case Amazon) would be a customer, investor and vendor of OpenAI.</p>",
+            "published_at": "2026-02-05T00:01:51.089Z",
+            "url": "https://www.theinformation.com/briefings/openai-talks-power-amazons-alexa-ai-products?unlock=83a6f3&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-talks-power-amazons-alexa-ai-products?unlock=83a6f3&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16517,
+                    "guid": "64ea42d42f",
+                    "title": "Amazon Discusses Getting Special Access to OpenAI Tech",
+                    "url": "https://www.theinformation.com/articles/amazon-discusses-getting-special-access-openai-tech?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16712,
+            "guid": "f5ba63",
+            "headline": "Snap Reports Steady Revenue Growth in Fourth Quarter ",
+            "dek": "Daily Active Users slipped sequentially for the first time in years\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Snap revenue increased 10% in the fourth quarter to $1.7 billion, the same rate of growth as it reported last quarter. One worrisome sign is that Snap’s daily active users fell to 474 million from 477 million in the third quarter, although it was up from a year earlier. This is the first time Snap hasn’t reported sequential growth in daily active users in several years.</p>\n\n<p>Net income, meanwhile, jumped to $45 million compared with $9 million in the fourth quarter of 2024. The fourth quarter tends to be the strongest for companies like Snap that make their money primarily from advertising.</p>\n\n<p>Spiegel said the company is on track to launch its Specs line of glasses publicly this year. Last month, the company said it was spinning out Specs into a separate subsidiary, confirming earlier reporting from The Information. Snap shares fell 3% in after market trading.</p>",
+            "published_at": "2026-02-04T23:32:01.804Z",
+            "url": "https://www.theinformation.com/briefings/snap-reports-steady-revenue-growth-fourth-quarter?unlock=f5ba63&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/snap-reports-steady-revenue-growth-fourth-quarter?unlock=f5ba63&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16711,
+            "guid": "fb11b2",
+            "headline": "Crypto Venture Capitalist Kyle Samani Steps Down From Multicoin",
+            "dek": "Kyle Samani will move on to exploring AI, longevity and robotics. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Kyle Samani, the co-founder of Multicoin Capital, will step back from his crypto venture firm to explore other areas of technology, including AI, longevity and robotics, according to a <a href=\"https://drive.google.com/file/d/1bsoabiBTM09CU85241VfJzl9upCqDrMq/view\">letter</a> the firm sent to its investors.</p>\n\n<p>Multicoin, founded in 2017, was known for betting big on solana tokens and FTX. David Sacks was a limited partner in Multicoin, until Sacks divested his interest in the firm when he became the White House AI and crypto czar last year.</p>\n\n<p>Samani has been engaging with policymakers and regulators in Washington. He will transition to an advisory role at Multicoin and will continue to make personal investments in the crypto industry. He will remain chairman of Forward Industries, the biggest solana-holding stock.</p>",
+            "published_at": "2026-02-04T22:38:58.227Z",
+            "url": "https://www.theinformation.com/briefings/crypto-venture-capitalist-kyle-samani-steps-multicoin?unlock=fb11b2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/crypto-venture-capitalist-kyle-samani-steps-multicoin?unlock=fb11b2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16710,
+            "guid": "3d9c29",
+            "headline": "Alphabet Will Double CapEx to About $180 Billion as AI Cloud Business Booms",
+            "dek": "Alphabet reported a better than projected 18% increase in fourth quarter revenue, fueled by strong growth both in its core search ads business and in cloud sales. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Alphabet reported a better than projected 18% increase in fourth quarter revenue, fueled by strong growth both in its core search ads business and in cloud sales. Google’s revenue from search ads grew 17%, topping the third quarter’s 14.5% growth, and Cloud revenue soared 48%, well above that segment’s 34% growth in the third quarter.</p>\n\n<p>The results suggest Google’s advances in AI are lifting its business. And Google signaled its intention to keep the AI growth going, saying it plans to double its capital expenditures this year to between $175 billion and $185 billion.</p>\n\n<p>Google also highlighted the growth of its Gemini app, which it said has now reached 750 million monthly active users. (OpenAI said last fall that ChatGPT had 800 million weekly active users.) Other segment results indicate how much money the company is investing in areas like Waymo and its Google DeepMind AI research unit. Alphabet’s losses on Other Bets, which include Waymo, more than tripled to $3.6 billion last quarter, and its net loss on Alphabet-level activities, which Google said “primarily reflect expenses related to our shared AI research and development,” more than doubled to $5.9 billion.</p>",
+            "published_at": "2026-02-04T21:27:36.924Z",
+            "url": "https://www.theinformation.com/briefings/alphabet-projects-doubled-capex-strong-fourth-quarter?unlock=3d9c29&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alphabet-projects-doubled-capex-strong-fourth-quarter?unlock=3d9c29&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16423,
+                    "guid": "655fa98be9",
+                    "title": "Google’s Gemini Sees Developer Requests More Than Double in Five Months",
+                    "url": "https://www.theinformation.com/articles/googles-gemini-sees-skyrocketing-business-sales?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16709,
+            "guid": "b253be",
+            "headline": "Former PayPal Executive Marcus Explains How Payments Firm Lost Its Way",
+            "dek": "Marcus, who left PayPal in 2014 just before its spinoff from eBay, said the company had prioritized its bottom line over long-term vision.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Former PayPal president David Marcus criticized his former employer in a viral social media <a href=\"https://x.com/davidmarcus/status/2018809762708873443\">post</a> this week, writing that the payments giant had “lost its mojo” and arguing that the company had for many years prioritized the bottom line over its longer-term product vision. His comments were made on Tuesday, the day that PayPal <a href=\"https://www.theinformation.com/briefings/paypal-names-new-ceo-growth-efforts-struggle?rc=d8mrkd\">announced</a> it would replace current CEO Alex Chriss with HP CEO Enrique Lores, saying the company had fallen short of expectations on efforts to jumpstart growth.</p>\n\n<p>Marcus was the founder and CEO of mobile payments company Zong, which was acquired by PayPal in 2011. Marcus rose to become PayPal’s president but left the company in 2014, just before the company’s spinoff from eBay.</p>\n\n<p>Marcus said in his post that the company slowly lost its momentum following the spinoff, when PayPal was run by Dan Schulman, in particular after the departure of Bill Ready, who rose to become PayPal’s COO before he left the company in 2019. Marcus said that during this period, the company mistakenly optimized for growing its overall payments volume instead of focusing on higher-margin products that deepened customer relationships like buy now, pay later offerings and had lost ground to other payment options like Apple Pay.</p>",
+            "published_at": "2026-02-04T20:35:12.627Z",
+            "url": "https://www.theinformation.com/briefings/former-paypal-executive-marcus-explains-payments-firm-lost-way?unlock=b253be&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/former-paypal-executive-marcus-explains-payments-firm-lost-way?unlock=b253be&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16708,
+            "guid": "29682f",
+            "headline": "AI Chip Startup Cerebras Raises $1 Billion at $23 Billion Valuation",
+            "dek": "The new funding round comes as Cerebras is expected to go public in the coming months. ",
+            "source_url": "",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>AI chip startup Cerebras Systems said Wednesday has raised about $1 billion in a new funding round that values the company at $23 billion including the new investment. The Information first <a href=\"https://www.theinformation.com/articles/chipmaker-cerebras-talks-raise-1-billion-22-billion-valuation\">reported</a> in January that the startup was in fundraising talks at a $22 billion valuation before the new investment.</p>\n\n<p>The new funding round comes as Cerebras is expected to list in the coming months. It aimed to go public earlier but said last September that it was withdrawing those plans and instead raised more money privately.</p>\n\n<p>The company also recently announced a deal with OpenAI, which agreed to purchase 750 megawatts worth of computing power from the startup through 2028 for about $10 billion, according to a person familiar with the deal.</p>",
+            "published_at": "2026-02-04T18:43:19.851Z",
+            "url": "https://www.theinformation.com/briefings/ai-chip-startup-cerebras-raises-1-billion-23-billion-valuation?unlock=29682f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ai-chip-startup-cerebras-raises-1-billion-23-billion-valuation?unlock=29682f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16398,
+                    "guid": "d73ef88f5f",
+                    "title": "Chipmaker Cerebras in Talks to Raise $1 Billion at a $22 Billion Valuation",
+                    "url": "https://www.theinformation.com/articles/chipmaker-cerebras-talks-raise-1-billion-22-billion-valuation?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16707,
+            "guid": "22da70",
+            "headline": "Microsoft Replaces Security Leader with Windows Veteran",
+            "dek": "Before her roughly one-year stint at Google Cloud, Gallot spent more than 15 years at Microsoft.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Microsoft security chief Charlie Bell will leave his role and be replaced by Hayete Gallot, a former Microsoft executive who most recently served as Google Cloud’s president of customer experience, CEO Satya Nadella said Wednesday.</p>\n\n<p>Bell, who joined Microsoft in 2021 to lead its security business after more than two decades at Amazon, will move to a new role as an independent engineer, Nadella said, adding that he and Bell had been “planning this transition for some time.”</p>\n\n<p>Bell oversaw growth in the security business, with revenue growing from $10 billion in 2021 to <a href=\"https://www.theinformation.com/articles/a-former-amazonian-hits-bumps-in-push-to-make-microsoft-more-secure?rc=geicgp\">more than $20 billion in 2023</a>, which is the last time the company has disclosed security revenue. However, Bell’s tenure was also marked by several notable security vulnerabilities that rattled <a href=\"https://www.theinformation.com/articles/a-former-amazonian-hits-bumps-in-push-to-make-microsoft-more-secure?rc=geicgp\">Microsoft’s Azure cloud unit</a> and its 365 email and workplace software. After a federal government review found that Microsoft was responsible for a breach that allowed Chinese hackers to access customers’ data in 2023, the company <a href=\"https://www.theinformation.com/briefings/microsoft-security-teams-reorg-changes-pay-structure-following-pressure-from-us?rc=geicgp\">reorganized security teams under Bell</a> and vowed to make changes including tying executives’ pay to improving the company’s security.</p>\n\n<p>Before her roughly one-year stint at Google Cloud, Gallot spent more than 15 years at Microsoft, where she held various executive roles in its Azure, Windows and Office 365 businesses.</p>",
+            "published_at": "2026-02-04T17:52:41.873Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-replaces-security-leader-windows-veteran?unlock=22da70&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-replaces-security-leader-windows-veteran?unlock=22da70&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16706,
+            "guid": "b48b66",
+            "headline": "Washington Post Lays Off One-Third of Newsroom",
+            "dek": "The newspaper has seen search traffic fall by half in the past three years.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Washington Post is laying off one-third of the newsroom, a spokesperson confirmed.&nbsp;Executive editor Matt Murray said in a note to staff shared with reporters that traffic to the Post’s web site from organic search had fallen by nearly half in the past three years. Declining traffic, a result of less referrals coming from search, is a result of AI-powered changes to search and the rise of AI chatbots.</p>\n\n<p>“Platforms like Search that shaped the previous era of digital news, and which once helped The Post thrive, are in serious decline,” Murray said. “We are still in the early days of AI-generated content, which is drastically reshaping user experiences and expectations.”</p>\n\n<p>Murray also said story output has declined in the past five years and that the publication often writes “from one perspective, for one slice of the audience.”</p>",
+            "published_at": "2026-02-04T17:01:18.638Z",
+            "url": "https://www.theinformation.com/briefings/washington-post-lays-one-third-newsroom?unlock=b48b66&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/washington-post-lays-one-third-newsroom?unlock=b48b66&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16705,
+            "guid": "1b8c7c",
+            "headline": "AWS CEO Says Data Centers in Space are A Long Way Off",
+            "dek": "The comments come as Elon Musk is touting the idea to explain why he is merging SpaceX and xAI\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Amazon Web Services CEO Matt Garman said that existing technology is “pretty far” from making data centers in space possible, just as Elon Musk has been pitching the idea as part of the logic for merging SpaceX and xAI.</p>\n\n<p>“I don’t know if you’ve seen a rack of servers recently,” Garman said at the Cisco AI Summit in San Francisco on Feb. 3. “They’re heavy. The last I checked humanity has yet to ever build … a permanent structure in space, on the moon or anywhere like that. So maybe. I know Elon says he’s going to launch a million satellites. There are not enough rockets to launch a million satellites yet.” Garman said there were some compelling reasons for data centers in space, including an infinite amount of power and easy cooling.</p>\n\n<p>Earlier this week, rocket and satellite company SpaceX announced it was merging with foundation lab xAI, just as SpaceX plans to go public later this year. In a press release announcing the merger, Musk said that in 2 to 3 years, “the lowest cost way to generate AI compute will be in space.” Amazon founder and board chair Jeff Bezos has also expressed optimism about data centers in space, but on a significantly longer timeline than Musk. Bezos, who also founded SpaceX competitor Blue Origin, said last fall that data centers in space could be built within the next 10 to 20 years.</p>",
+            "published_at": "2026-02-04T15:16:54.473Z",
+            "url": "https://www.theinformation.com/briefings/aws-ceo-says-data-centers-space-long-way?unlock=1b8c7c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/aws-ceo-says-data-centers-space-long-way?unlock=1b8c7c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16704,
+            "guid": "79cc62",
+            "headline": "Uber Reports 20% Higher Revenue As Growth Accelerates",
+            "dek": "Uber's food delivery business is growing particularly fast.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Uber reported 20% higher revenue for the fourth quarter, and a big jump in operating profits, as its business showed signs of acceleration, particularly on the food delivery side. Uber projected a slight slowdown in growth in the first quarter, however. Uber shares were trading down 3.7% in trading on Wednesday afternoon.</p>\n\n<p>Uber’s gross bookings—the dollar volume of all the trips booked on its platform—rose 22% year on year, up a percentage point from the third quarter. That growth was particularly evident on the food dleivery side, where gross bookings rose 26% compared with 20% on the larger ride-hailing side.</p>\n\n<p>Revenue—the amount that Uber keeps after paying drivers their cut—rose 30% on the delivery side and 19% on ride hailing side. Profits from delivery also grew at a faster pace, although ride-hailing still made twice as much money as delivery. Uber’s free cash flow—cash from operations, less capital expenditures—jumped 65% to $2.8 billion.</p>",
+            "published_at": "2026-02-04T14:05:34.252Z",
+            "url": "https://www.theinformation.com/briefings/uber-reports-20-higher-revenue-growth-accelerates?unlock=79cc62&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/uber-reports-20-higher-revenue-growth-accelerates?unlock=79cc62&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 14527,
+                    "name": "uber/lyft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16703,
+            "guid": "7bfc28",
+            "headline": "Nvidia’s H200 Chip Sales to China Remain Stalled By U.S. Government",
+            "dek": "The stall highlights how Nvidia is caught between the U.S. and China, both of which are using the chips sales to advance their national security and economic interests",
+            "source_url": "https://www.ft.com/content/d963c6c9-3618-4d83-8efe-eccf74cd637f",
+            "source_label": "Financial Times",
+            "body": "<p>Nvidia’s application to sell the H200 chips to China is still awaiting final approval by the U.S. government, nearly two months after President Donald Trump approved the sale, <a href=\"https://www.ft.com/content/d963c6c9-3618-4d83-8efe-eccf74cd637f\">the Financial Times reported,</a> citing people familiar with the discussions.</p>\n\n<p>The stall highlights how Nvidia is increasingly caught between the U.S. and China as both sides seek control of their AI chip sales to advance their own national security and economic interests.</p>\n\n<p>Although Nvidia CEO Jensen Huang and President Trump brokered a deal in December to begin the H200 to China, multiple U.S. government agencies still need to sign off on the details, including the Departments of Commerce, State, Defense and Energy, the newspaper said.</p>\n\n<p>While Commerce has finished its review, the State Department is pushing for tougher rules to make it more difficult for China to use the chips in ways that could hurt U.S. national security, the report said.</p>\n\n<p>Meanwhile, the Chinese government has&nbsp;yet to formally approve the imports of the H200 either, which is one generation behind Nvidia’s flagship Blackwell chips, out of concerns that it could undermine China’s efforts to achieve semiconductor self-efficiency.</p>",
+            "published_at": "2026-02-04T09:43:57.358Z",
+            "url": "https://www.theinformation.com/briefings/nvidias-h200-chip-sales-china-remain-stalled-u-s-government?unlock=7bfc28&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/nvidias-h200-chip-sales-china-remain-stalled-u-s-government?unlock=7bfc28&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16394,
+                    "guid": "dea872f36f",
+                    "title": "China Restricts Nvidia Chip Purchases to Special Circumstances",
+                    "url": "https://www.theinformation.com/articles/china-restricts-nvidia-chip-purchases-special-circumstances?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                },
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16702,
+            "guid": "59cce7",
+            "headline": "Exclusive: Two Sequoia Capital Partners Leaving",
+            "dek": "Since the start of the year, four Sequoia partners have revealed plans to leave or step back from their roles. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Two partners at Sequoia Capital have left or plan to leave the blue-chip venture firm, according to people familiar with the decisions. The plans, which haven’t previously been reported, add to recent exits at the firm and come during a period when more venture capitalists are attempting new funds or startups, lured by the prospects of harnessing AI.</p>\n\n<p>Josephine Chen, who focuses on early stage investments and joined Sequoia nearly seven years ago, is leaving the firm to start what she’s described to colleagues as a new fund concept. Cole Pergament, a partner on the growth team who joined the firm from Mary Meeker’s Bond last year, left late last month. He has told some people at the firm he wanted to start a company.</p>\n\n<p>Last month, Charlie Curnin, a Sequoia partner who invested in early stage companies and who joined four years ago, <a href=\"https://x.com/charliecurnin/status/2014062349217656927?s=20\">announced his departure</a> to take part in a “once-in-a-generation time to build transformational products.” The firm typically has about 20 partners at a time.</p>\n\n<p>And in early January, general partner Ravi Gupta, previously CFO of Instacart, said that <a href=\"https://x.com/GuptaRK22\">he was planning</a> to start his own company and would step back from the GP role. He has remained a partner and represents Sequoia on some boards. Sequoia has committed to invest in Gupta’s new company.</p>\n\n<p>Sequoia, known for backing startups including SpaceX and Stripe, underwent a shake up in its top leadership late last year. Roelof Botha in November announced he was passing leadership of the firm to two general partners, Alfred Lin and Pat Grady, <a href=\"https://www.theinformation.com/articles/sequoias-botha-stepped-concerns-leadership-simmered?rc=zjctrx\">after three years in the top role</a> during a tumultuous time for startup investing.</p>",
+            "published_at": "2026-02-04T06:55:02.101Z",
+            "url": "https://www.theinformation.com/briefings/exclusive-two-sequoia-capital-partners-leaving?unlock=59cce7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/exclusive-two-sequoia-capital-partners-leaving?unlock=59cce7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                },
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                },
+                {
+                    "type": "Author",
+                    "id": 745176,
+                    "display_name": "Laura Mandaro"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1019,
+                    "name": "startups"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16701,
+            "guid": "a93f89",
+            "headline": "Department of Justice Cross-Appeals Google Search Verdict",
+            "dek": "In ruling on how to remedy Google's search monopoly, the judge rejected the most extreme proposals from the Justice Department and plaintiff states.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Department of Justice and a group of U.S. states on Tuesday appealed a judge’s ruling on how Google’s search businesses should change in the wake of an earlier finding that it was an illegal monopoly. Their appeal came two weeks after Google also appealed the ruling.</p>\n\n<p>The remedies decision last fall followed a sweeping judgment in 2024 in which a federal judge found that Google had used exclusive distribution contracts to maintain an illegal monopoly in general search engines. In ruling on how to remedy that monopoly, the judge rejected the most extreme proposals from the Justice Department and plaintiff states, which included banning Google from paying for search distribution at all and forcing Google to sell its Chrome browser. Instead, the judge more narrowly prohibited exclusive distribution deals and mandated limited data sharing with Google’s search rivals.</p>\n\n<p>Google is seeking to halt the data sharing and search syndication remedies while the appeal is pending, according to its motion filed last month. The Justice Department filed last week to oppose that motion. The judge has not yet issued a ruling on the stay.</p>",
+            "published_at": "2026-02-03T22:18:04.314Z",
+            "url": "https://www.theinformation.com/briefings/department-justice-cross-appeals-google-search-verdict?unlock=a93f89&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/department-justice-cross-appeals-google-search-verdict?unlock=a93f89&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        }
+    ]
+}
