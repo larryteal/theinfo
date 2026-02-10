@@ -1,0 +1,670 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16765,
+            "guid": "5f3fdb",
+            "headline": "Another Cofounder of Elon Musk’s xAI Resigns ",
+            "dek": "Wu, who reported to Musk, played a central role in xAI’s core AI model development.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tony Wu, one of xAI’s cofounders, said he has resigned from Elon Musk’s AI company. Wu’s exit follows the departure last year of another xAI cofounder, Igor Babuschkin.</p>\n\n<p>“I will deeply miss the people,&nbsp; the warrooms, and all those battles we have fought together,” Wu said in a <a href=\"https://x.com/Yuhu_ai_/status/2021113745024614671?s=20\">post</a> on X. “It’s time for my next chapter.”</p>\n\n<p>Wu, a computer scientist who got his doctorate from the University of Toronto, joined xAI from Google in 2023 when Musk created the company. Wu, who was in charge of reasoning and reported to Musk, played a <a href=\"https://www.theinformation.com/articles/people-running-elon-musks-xai?rc=jnr9wn\">central role</a> in xAI’s core AI model development.</p>\n\n<p>Wu’s departure comes at a time when xAI is going through major changes. Earlier this month, Musk’s aerospace company SpaceX announced a merger with xAI. The deal valued SpaceX at $1 trillion and xAI at $250 billion.</p>",
+            "published_at": "2026-02-10T09:17:16.073Z",
+            "url": "https://www.theinformation.com/briefings/another-cofounder-elon-musks-xai-resigns?unlock=5f3fdb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/another-cofounder-elon-musks-xai-resigns?unlock=5f3fdb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16764,
+            "guid": "13c5a0",
+            "headline": "China’s Zhipu Rolls Out New AI Model in Stealth Mode",
+            "dek": "Pony Alpha, an open-source model released on the OpenRouter marketplace, is actually Zhipu’s new GLM-5 model.  ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Zhipu, one of China’s prominent AI developers, has anonymously released its new large language model under a different name on OpenRouter, a popular AI model marketplace for developers.</p>\n\n<p>Pony Alpha, a new open-source LLM launched on OpenRouter a few days ago, is Zhipu’s new model, known as GLM-5, in disguise, according to a person with direct knowledge of the matter. In a <a href=\"https://x.com/OpenRouterAI/status/2019831892733022606?s=20\">post</a> on X, OpenRouter said Pony Alpha “delivers strong performance across coding, reasoning and roleplay.”</p>\n\n<p>Beijing-based Zhipu, which went public in Hong Kong under the corporate name Knowledge Atlas Technology, is planning to officially launch GLM-5 later this week, the person said. Zhipu’s previous model, GLM-4.7, was ranked high among open-source models for coding and agentic tasks.</p>\n\n<p>By releasing the model first under a different name on OpenRouter without telling users that it’s a new Zhipu model, the company is trying to gather and assess feedback from users without preconceptions or prejudices, the person said.</p>\n\n<p>Zhipu’s GLM-5 comes as <a href=\"https://www.theinformation.com/newsletters/ai-agenda/chinas-open-source-models-challenge-anthropic-ai-coding?rc=jnr9wn\">Chinese open-source AI models</a> are gaining popularity among U.S. developers who are looking for cheaper but capable alternatives for coding to Anthropic’s Claude and other U.S. models.</p>",
+            "published_at": "2026-02-10T09:14:52.062Z",
+            "url": "https://www.theinformation.com/briefings/chinas-zhipu-rolls-new-ai-model-stealth-mode?unlock=13c5a0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-zhipu-rolls-new-ai-model-stealth-mode?unlock=13c5a0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16763,
+            "guid": "840566",
+            "headline": "Michael Grimes Returns to Morgan Stanley After Government Stint",
+            "dek": "Grimes is returning at a time where the Wall Street bank is gearing for a year of mega listings.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Michael Grimes, a long-time tech banker, is returning to Morgan Stanley after a one-year stint with the Trump administration, where he was a senior advisor to the U.S. Department of Commerce and oversaw the government’s investment unit, according to an internal memo viewed by The Information. He’ll be chairman of investment banking at the bank, the memo said.</p>\n\n<p>Before he became a government employee, Grimes had been Morgan Stanley’s head of technology investment banking and managed some of the firm’s most high profile tech IPOs, including Facebook and Uber.</p>\n\n<p>Grimes, who has a close relationship with Elon Musk, is returning at a time where the Wall Street bank is gearing for a year of mega listings. Elon Musk’s SpaceX is preparing for a summer listing after it recently merged with his AI startup xAI that values the combined company at $1.25 trillion. It has not formally hired bankers for the listing, although Morgan Stanley is considered to be one of them.</p>",
+            "published_at": "2026-02-09T23:01:22.161Z",
+            "url": "https://www.theinformation.com/briefings/michael-grimes-returns-morgan-stanley-government-stint?unlock=840566&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/michael-grimes-returns-morgan-stanley-government-stint?unlock=840566&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16762,
+            "guid": "667ed6",
+            "headline": "Stripe Aims for $140 Billion Valuation in new Tender",
+            "dek": "Stripe is preparing a potential tender offer that could value the payments company at more than $140 billion, Axios reported. ",
+            "source_url": "https://www.axios.com/pro/fintech-deals/2026/02/09/stripe-tender-140-billion-payments",
+            "source_label": "Axios",
+            "body": "<p>Stripe is preparing a potential tender offer that could value the payments company at more than $140 billion, Axios <a href=\"https://www.axios.com/pro/fintech-deals/2026/02/09/stripe-tender-140-billion-payments\">reported</a>.</p>\n\n<p>That would put the company’s valuation well above the $107 billion mark at which it bought back shares from investors last fall. It marks a significant rebound from the $50 billion valuation investors gave Stripe when it raised money in 2023.</p>\n\n<p>A Stripe spokesperson declined to comment.</p>",
+            "published_at": "2026-02-09T22:36:50.003Z",
+            "url": "https://www.theinformation.com/briefings/stripe-aims-140-billion-valuation-new-tender?unlock=667ed6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/stripe-aims-140-billion-valuation-new-tender?unlock=667ed6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16761,
+            "guid": "22e839",
+            "headline": "Alphabet Reportedly Set for $20 Billion US Bond Sale",
+            "dek": "The tech industry has increasingly turned to debt financing to fund exploding spending on data centers and chips.",
+            "source_url": "https://www.bloomberg.com/news/articles/2026-02-09/alphabet-set-to-raise-20-billion-from-us-dollar-bond-sale?srnd=phx-technology",
+            "source_label": "Bloomberg",
+            "body": "<p>Alphabet is set to raise $20 billion in the U.S. bond market, as part of a massive debt sale that will also see the company selling bonds in British pounds and Swiss francs, Bloomberg reported. The bond offering comes days after the Google parent company announced that it expected to double its capital expenditure spending to around $185 billion this year.</p>\n\n<p>The tech industry has increasingly turned to <a href=\"https://www.theinformation.com/articles/ai-data-center-lenders-watch?rc=n9lbpq\">debt financing</a> to fund exploding spending on data centers and chips. <a href=\"https://www.theinformation.com/articles/capex-ramp-will-squeeze-google-amazon-meta?rc=n9lbpq\">Capital expenditures</a> are slated to take up all of the projected free cash flow at Amazon, and most of it at Alphabet and Meta, according to the companies’ earnings and analyst projections.</p>\n\n<p>Alphabet increased the dollar bond sale to $20 billion after initially offering $15 billion, as debt investors showed intense interest, according to Bloomberg. Alphabet is also offering a rare 100-year bond in the UK. As of the end of last year, Alphabet had $126.8 billion in cash and cash equivalents, according to its most recent earnings filing.</p>",
+            "published_at": "2026-02-09T20:44:16.236Z",
+            "url": "https://www.theinformation.com/briefings/alphabet-reportedly-set-20-billion-bond-sale?unlock=22e839&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alphabet-reportedly-set-20-billion-bond-sale?unlock=22e839&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16534,
+                    "guid": "ec906cf62b",
+                    "title": "How Capex Ramp Up Will Squeeze Google, Amazon, Meta",
+                    "url": "https://www.theinformation.com/articles/capex-ramp-will-squeeze-google-amazon-meta?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16760,
+            "guid": "061f08",
+            "headline": "Workday Co-Founder Returns to CEO Role as AI Fears Mount ",
+            "dek": "Aneel Bhusri, who co-founded Workday in 2005 and stepped down as co-CEO two years ago, is returning to lead the enterprise software firm.",
+            "source_url": "https://newsroom.workday.com/2026-02-09-Workday-Announces-CEO-Transition-as-Co-Founder-Aneel-Bhusri-Returns-to-Lead-the-Companys-Next-Chapter",
+            "source_label": "The Information",
+            "body": "<p>Workday, which sells human resources and financial management applications, <a href=\"https://newsroom.workday.com/2026-02-09-Workday-Announces-CEO-Transition-as-Co-Founder-Aneel-Bhusri-Returns-to-Lead-the-Companys-Next-Chapter\">announced</a> that co-founder and executive chair Aneel Bhusri is returning as&nbsp;CEO. He is taking over for Carl Eschenbach, who is stepping down after two years in that role and also vacating the board seat he has held since 2018.</p>\n\n<p>Bhusri becomes the latest tech founder to return to operational roles in their&nbsp;companies in challenging times, a list that has recently included&nbsp;Google co-founder Sergey Brin and UiPath co-founder Daniel Dines.</p>\n\n<p>The biggest immediate task Bhusri will face is battling the perception that AI is a threat to Workday’s business, one that many of its enterprise software peers are also grappling with.</p>\n\n<p>Workday has made a number of moves to boost its AI capabilities in recent years, acquiring enterprise AI startups Sana and Paradox and developing its own models to automate tasks such as generating job descriptions and scanning resumes.</p>\n\n<p>But so far, Workday’s&nbsp;CEO switch hasn’t seemed to soothe investors’ anxiety,&nbsp;as its shares dropped more than 6% after the announcement and are now down more than 25% since the start of the year.</p>",
+            "published_at": "2026-02-09T20:23:40.930Z",
+            "url": "https://www.theinformation.com/briefings/workday-co-founder-returns-ceo-role-ai-fears-mount?unlock=061f08&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/workday-co-founder-returns-ceo-role-ai-fears-mount?unlock=061f08&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 122814,
+                    "display_name": "Kevin McLaughlin"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16759,
+            "guid": "13f936",
+            "headline": "OpenAI Launches ChatGPT Ads",
+            "dek": "The company said it will add other formats over time but would prevent “narrow ads targeting.” ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI <a href=\"https://openai.com/index/testing-ads-in-chatgpt/\">said</a> Monday it’s beginning to show ads in ChatGPT for some U.S. users. The ads, which OpenAI says are a test, will be shown to logged-in users with free subscriptions, as well as subscribers to OpenAI’s new Go tier, which costs $8 per month. Free users can opt out of seeing ads in exchange for fewer daily messages, the company said.</p>\n\n<p>OpenAI said it decides what ad to show by matching ads submitted by advertisers to the topic of a conversation, in addition to previous chats and interactions with ads. For example, OpenAI said, if a user is searching for recipes, they might see ads for meal kits or grocery delivery services. Advertisers won’t be able to see chats or personal details about users, OpenAI said, and will only receive aggregate information about how their ads perform like number of total views or clicks.</p>\n\n<p>OpenAI is charging advertisers on a per-view basis, The Information <a href=\"https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=d8mrkd\">previously reported</a> and was <a href=\"https://www.theinformation.com/articles/openai-seeks-premium-prices-early-ads-push?rc=d8mrkd\">aiming for premium prices</a> on par with pricey streaming ads in early conversations with potential advertisers. The company said Monday that it will “evolve” the ads business over time “to support additional formats, objectives and buying models and build new ways for businesses to interact with consumers in ChatGPT.” It also said it would add “guardrails to prevent narrow ads targeting,” but didn’t specify any rules or control measures.</p>",
+            "published_at": "2026-02-09T20:20:00.804Z",
+            "url": "https://www.theinformation.com/briefings/openai-launches-chatgpt-ads?unlock=13f936&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-launches-chatgpt-ads?unlock=13f936&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16464,
+                    "guid": "98215d0f4f",
+                    "title": "OpenAI Seeks Premium Prices in Early Ads Push",
+                    "url": "https://www.theinformation.com/articles/openai-seeks-premium-prices-early-ads-push?utm_source=ti_app"
+                },
+                {
+                    "type": "Article",
+                    "id": 16434,
+                    "guid": "7bf9ec5e30",
+                    "title": "OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch",
+                    "url": "https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16758,
+            "guid": "602b7e",
+            "headline": "Databricks Raises $7 Billion in New Funds",
+            "dek": "The fundraising effort shows the company has been able to continue to tap the private markets ahead of a widely anticipated initial public offering.\r\n\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Databricks said it had raised $7 billion of fresh capital after hitting a $5.4 billion annual revenue pace in the fourth quarter.</p>\n\n<p>The fundraising effort, which started in November and was split between $5 billion of equity and $2 billion of debt capacity, shows the company has been able to continue to tap the private markets ahead of a widely anticipated initial public offering.</p>\n\n<p>Its fourth-quarter revenue growth rate, more than 65%, would be among the fastest growing software firms if it were public.</p>",
+            "published_at": "2026-02-09T19:01:26.382Z",
+            "url": "https://www.theinformation.com/briefings/databricks-raises-7-billion-new-funds?unlock=602b7e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/databricks-raises-7-billion-new-funds?unlock=602b7e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 47748,
+                    "display_name": "Cory Weinberg"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 7099,
+                    "name": "enterprise"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022795,
+                    "name": "venture capital"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16757,
+            "guid": "64d0db",
+            "headline": "Uber Does Deal With Getir to Expand in Turkey",
+            "dek": "The deal comes nine months after Uber bought another Turkish delivery service, Trendyol.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Uber is expanding its presence in Turkey by buying Getir’s&nbsp;food delivery operations in that country for $335 million in cash. Uber is also paying $100 million to buy 15% of Getir’s grocery and water delivery businesses, with purchase of the rest “subject to certain operating and financial performance conditions.”</p>\n\n<p>The purchase comes about nine months after Uber bought 85% of Trendyol Group, another food and grocery delivery service in Turkey, for $700 million. Uber said it plans to integrate the two services, by having Getir’s app include restaurants delivering through Trendyol Go, and Getir’s grocery offerings available through the Trendyol app.</p>\n\n<p>Getir’s food delivery business generated over $1 billion in gross bookings in 2025, up more than 50% from the prior year on a constant currency basis, Uber said. The company’s global food delivery business generated $25 billion in gross bookings in the fourth quarter alone.</p>",
+            "published_at": "2026-02-09T16:35:42.699Z",
+            "url": "https://www.theinformation.com/briefings/uber-deal-getir-expand-turkey?unlock=64d0db&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/uber-deal-getir-expand-turkey?unlock=64d0db&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16756,
+            "guid": "1970fb",
+            "headline": "SpaceX Shifts Focus to Building Moon City, Musk Says",
+            "dek": "Musk’s comments come days after he pitched the idea of operating data centers in space. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Elon Musk said on Sunday that SpaceX has shifted its focus to building a “self-growing city” on the Moon, which could be achieved in less than 10 years.</p>\n\n<p>In comparison, building a city on Mars would take more than 20 years, he said in a post on X. “SpaceX will also strive to build a Mars city and begin doing so in about 5 to 7 years, but the overriding priority is securing the future of civilization and the Moon is faster,” he said.</p>\n\n<p>Musk’s comments come after The Wall Street Journal <a href=\"https://www.wsj.com/science/space-astronomy/spacex-delays-mars-plans-to-focus-on-moon-66d5c542\">reported</a> on Friday that SpaceX is delaying its mission to Mars and prioritizing going to the moon first.</p>\n\n<p>Investors are watching SpaceX’s plans closely as the company is aiming for an initial public offering this year that could raise $50 billion. Earlier this month, SpaceX announced a merger with xAI and Musk pitched the idea of operating data centers in space as part of the logic behind the merger.</p>",
+            "published_at": "2026-02-09T11:00:20.799Z",
+            "url": "https://www.theinformation.com/briefings/spacex-shifts-focus-building-moon-city-musk-says?unlock=1970fb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spacex-shifts-focus-building-moon-city-musk-says?unlock=1970fb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1938,
+                    "name": "space"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16755,
+            "guid": "70ee1f",
+            "headline": "ByteDance’s Seedance 2.0 Video Model Generates Buzz ",
+            "dek": "The new model shows how Chinese companies are playing central roles in the global AI video market. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>ByteDance’s new AI video generation model Seedance 2.0, unveiled over the weekend, is generating a lot of buzz on social media, with some calling it a game changer.</p>\n\n<p>The new model is the latest indication of how Chinese companies are playing central roles in the advancements of AI video technology, and confirms an <a href=\"https://www.theinformation.com/articles/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?rc=jnr9wn\">earlier report</a> by The Information. Early users of the model are praising its ability to produce sophisticated multi-shot scenes with synchronized sound effects, music and dialogue in multiple languages. So far, Seedance 2.0 is available only to a limited number of users of Jimeng, ByteDance’s AI image and video app in China, and Jianying, the company’s Chinese video editing app.</p>\n\n<p>On X and other social media platforms, users have shared many videos that they say were created by Seedance 2.0, including a <a href=\"https://x.com/EHuanglu/status/2020547445869117882?s=20\">Star Wars-like sci-fi clip</a> packed with action and sound effects and many anime and <a href=\"https://x.com/NACHOS2D_/status/2020295747741057507?s=20\">videogame-like</a> footages, as well as what resembles a <a href=\"https://x.com/tuolaji2024/status/2020083327907373103?s=20\">scene</a> from a 1970s-style Hong Kong kung fu movie.</p>\n\n<p>Competition in the AI video market is intensifying as more Chinese companies roll out new models. ByteDance’s Seedance 2.0 comes just days after its Chinese rival Kuaishou launched its new AI video generation model called Kling 3.0, which also received positive reviews on social media.</p>",
+            "published_at": "2026-02-09T07:49:13.841Z",
+            "url": "https://www.theinformation.com/briefings/bytedances-seedance-2-0-video-model-generates-buzz?unlock=70ee1f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/bytedances-seedance-2-0-video-model-generates-buzz?unlock=70ee1f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16487,
+                    "guid": "d8f7138b76",
+                    "title": "ByteDance, Alibaba to Launch New Models in Race for AI Supremacy in China",
+                    "url": "https://www.theinformation.com/articles/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16722,
+            "guid": "e33a27",
+            "headline": "Crypto Exchange Bithumb Mistakenly Sent $44 Billion Bitcoin to Users ",
+            "dek": "South Korean platform Bithumb said it has recovered 99.7% of the bitcoin.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Bithumb, the second largest crypto exchange in South Korea, said it mistakenly gave away 620,000 bitcoin, worth about $44 billion, to users, and has recovered 99.7% of the money.</p>\n\n<p>Bithumb was planning to distribute cash rewards to users in Korean won during a promotional event on Friday, but mistakenly sent bitcoin instead. The exchange discovered its mistake within 20 minutes and blocked transactions and withdrawals for the 695 customers who got the bitcoin, it said in a statement Saturday.</p>\n\n<p>Bithumb said it’s trying to recover the remaining assets and will use corporate funds to cover any shortfall. Fat-finger mistakes in the crypto industry are not uncommon. Last year, Paxos, a stablecoin issuer, mistakenly created $300 trillion worth of PayPal stablecoins, before reversing the transaction within half an hour.</p>",
+            "published_at": "2026-02-07T21:52:41.351Z",
+            "url": "https://www.theinformation.com/briefings/crypto-exchange-bithumb-mistakenly-sent-44-billion-bitcoin-users?unlock=e33a27&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/crypto-exchange-bithumb-mistakenly-sent-44-billion-bitcoin-users?unlock=e33a27&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16721,
+            "guid": "76e9f2",
+            "headline": "Microsoft Commercial CEO Responds to Potential OpenAI Competition",
+            "dek": "The response shows how seriously established software providers are taking new AI products.",
+            "source_url": "https://www.theinformation.com/articles/microsoft-sales-chief-responds-potential-rivalry-openais-new-agent-product",
+            "source_label": "The Information",
+            "body": "<p>Days after OpenAI released a new AI product for enterprise customers, Microsoft commercial CEO Judson Althoff told staff that Microsoft is uniquely positioned to compete with the product, The Information reported Friday.</p>\n\n<p>In a memo to staff, Althoff responded to OpenAI’s release of Frontier, a new product that aims to let customers create multiple “AI coworkers” and assign them different tasks that involve pulling in data from various applications, according to two people who received the memo. Microsoft sells competing products including its Agent 365, which aims to help companies keep track of different AI agents—including those offered by OpenAI—and connect those agents to other applications so they can reorganize files or create forecasts based on data stored in those applications.</p>\n\n<p>Althoff provided talking points salespeople could use in selling Microsoft’s tools, including that Microsoft has years of experience providing large enterprises with security and compliance guarantees. He also said that, unlike OpenAI, Microsoft’s Azure cloud service is already a place where customers use AI models from a range of different providers, including OpenAI rivals like Anthropic.</p>\n\n<p>The response shows how seriously established software providers are taking new AI products that aim to change how businesses use software. Public market investors have in recent weeks sold off software stocks on fears that AI could make traditional enterprise software less valuable.</p>",
+            "published_at": "2026-02-07T15:58:23.748Z",
+            "url": "https://www.theinformation.com/briefings/microsoft-commercial-ceo-responds-potential-openai-competition?unlock=76e9f2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/microsoft-commercial-ceo-responds-potential-openai-competition?unlock=76e9f2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1236432,
+                    "display_name": "Aaron Holmes"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 632,
+                    "name": "microsoft"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16720,
+            "guid": "a6f66f",
+            "headline": "Palmer Luckey’s Erebor Bank Got Full Charter Approval ",
+            "dek": "Erebor Bank aims to fill the hole left by Silicon Valley Bank. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The Trump administration has granted full approval to a bank charter application for Erebor Bank, a startup-focused lender founded last year by Anduril co-founder Palmer Luckey and Palantir co-founder Joe Lonsdale.</p>\n\n<p>A spokesperson at the Office of the Comptroller of the Currency confirmed it granted the national bank charter to Erebor.</p>\n\n<p>Erebor Bank aims to serve startups and clients in industries including defense and crypto. The bank raised funding at a $4 billion valuation last year. Erebor, named after a fictional mountain where dwarves stored treasure in J.R.R. Tolkien’s book The Hobbit, is funded by venture firms including Andreessen Horowitz, Lux Capital and Peter Thiel’s Founders Fund.</p>",
+            "published_at": "2026-02-06T23:42:36.762Z",
+            "url": "https://www.theinformation.com/briefings/palmer-luckeys-erebor-bank-got-full-charter-approval?unlock=a6f66f&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/palmer-luckeys-erebor-bank-got-full-charter-approval?unlock=a6f66f&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1999301,
+                    "display_name": "Yueqi Yang"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 116267,
+                    "name": "crypto"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16719,
+            "guid": "066a66",
+            "headline": "European Commission: TikTok’s ‘Addictive Design’ Breaches DMA",
+            "dek": "TikTok needs to “change the basic design of its service,” such as by disabling infinite scroll and implementing better screen time management tools, the Commission said.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>The European Commission said on Friday that it had preliminarily found TikTok to be in breach of the Digital Markets Act for its “addictive design,” including features like infinite scroll, autoplay and push notifications.</p>\n\n<p>TikTok needs to “change the basic design of its service,” such as by disabling infinite scroll and implementing more effective screen time management tools, the Commission said. TikTok has the ability to defend itself against the finding, but if it is upheld, it could result in fines of up to 6% of TikTok’s global revenue.</p>\n\n<p>The European Commission’s decision comes as parallel cases kick off in the United States accusing TikTok, Meta, YouTube and Snap of addictive product design that has fueled a mental health crisis among young people. The first of thousands of trials started last week with jury selection in Los Angeles; TikTok and Snap settled that case, although they remain defendants in the other cases.</p>",
+            "published_at": "2026-02-06T18:02:53.803Z",
+            "url": "https://www.theinformation.com/briefings/european-commission-tiktoks-addictive-design-breaches-dma?unlock=066a66&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/european-commission-tiktoks-addictive-design-breaches-dma?unlock=066a66&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16718,
+            "guid": "d30169",
+            "headline": "Alibaba Battles for Chinese AI Users With $432 Million Holiday Campaign",
+            "dek": "This year, AI is at the center of Chinese tech giants’ battle to win over consumers during the Lunar New Year holiday. \r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Alibaba Group, the Chinese e-commerce giant, is offering hundreds of millions of dollars in shopping vouchers and other promotions to users of its Qwen AI chatbot app during the Lunar New Year holiday.</p>\n\n<p>Alibaba’s effort to boost Qwen’s usage is part of an <a href=\"https://www.theinformation.com/articles/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?rc=jnr9wn\">intensifying battle</a> among Chinese tech giants to build the biggest consumer AI platform in the country. Tencent Holdings, which is behind the Yuanbao AI chatbot app, is also offering giveaways during the holiday, while ByteDance operates Doubao, China’s largest AI app by users.</p>\n\n<p>Alibaba is offering a free shopping voucher worth 25 yuan ($3.60) to every user of its Qwen app, whose AI shopping function lets consumers make online purchases of food, drinks and groceries. Next week, it will start gifting digital red envelopes containing random amounts of money to users, allowing them to win up to 2,888 yuan in cash. Alibaba plans to spend around 3 billion yuan ($432 million) on Qwen’s overall holiday giveaway campaign. Tencent’s Yuanbao, meanwhile, started offering red envelopes to users earlier this month.</p>\n\n<p>As Alibaba competes with ByteDance and Tencent over China’s 1.4 billion people, the company is betting on the success of its Qwen app, which was launched in November. Since then, it has connected the app to its e-commerce, online travel, mapping and payments business to enable the chatbot to act as an AI agent to help them with tasks such as ordering snacks and booking trips.</p>",
+            "published_at": "2026-02-06T09:09:03.440Z",
+            "url": "https://www.theinformation.com/briefings/alibaba-battles-chinese-ai-users-432-million-holiday-campaign?unlock=d30169&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibaba-battles-chinese-ai-users-432-million-holiday-campaign?unlock=d30169&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16717,
+            "guid": "3c6f58",
+            "headline": "OpenAI Reveals Frontier, an AI Agent Platform for Businesses",
+            "dek": "The company will also hire hundreds of AI consultants to support enterprise adoption of AI\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>OpenAI on Thursday unveiled a new platform for business customers to develop, run and manage AI agents that can take actions on behalf of employees, confirming <a href=\"https://www.theinformation.com/articles/openai-aims-lure-businesses-anthropic\">The Information’s reporting</a> last month. OpenAI lists HP, Intuit and Uber, among others, as customers of its Frontier platform.</p>\n\n<p>The company says Frontier should help businesses overcome some of the key hurdles of implementing AI, such as helping agents get access to the right tools, managing identity and permissioning and incorporating feedback to improve them.</p>\n\n<p>OpenAI is also hiring hundreds of AI consultants, also known as forward-deployed engineers, to support businesses’ adoption of AI, <a href=\"https://www.theinformation.com/articles/openai-hiring-hundreds-ai-consultants-boost-enterprise-sales?rc=8tzurb\">The Information reported on Wednesday</a>. These engineers can help large companies develop custom AI applications and agents to automate tasks based on the clients’ own data.</p>\n\n<p>OpenAI’s success with businesses could help pave the path for an eventual initial public offering. It expects to increase revenue from business customers to 50% by the end of the year from roughly 40% of OpenAI’s&nbsp; revenue, as of last month.</p>",
+            "published_at": "2026-02-05T22:47:15.875Z",
+            "url": "https://www.theinformation.com/briefings/openai-reveals-frontier-ai-agent-platform-businesses?unlock=3c6f58&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/openai-reveals-frontier-ai-agent-platform-businesses?unlock=3c6f58&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 786903,
+                    "display_name": "Sri Muppidi"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16716,
+            "guid": "cc6857",
+            "headline": "Anthropic Releases New AI, Hurting Financial Services Stocks",
+            "dek": "Anthropic said its new AI would be better for tasks like financial analysis and creating spreadsheets and presentations.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic on Thursday released its latest flagship model, Claude Opus 4.6, which the company said is better at longer-duration tasks, according to a blog post. That means the model will be better for tasks like financial analysis, doing research and creating spreadsheets and presentations, the blog post said.</p>\n\n<p>The progress Anthropic’s AI has made in finance could prove worrying for firms that sell financial services-related software and data. In the hours after Anthropic’s release, shares of S&amp;P Global fell 3%, while shares of Factset fell 7%.</p>\n\n<p>Anthropic also released a “preview” version of Claude, its competitor to ChatGPT, that acts as an assistant that can draft and edit PowerPoint presentations. The company made new updates to its AI assistant for Excel, which helps with building debugging spreadsheets. Claude Opus 4.6 beat out models from OpenAI and Google on the Finance Agent benchmark, which evaluates how well AI performs on core financial analyst tasks, according to data Anthropic published in its blog post.</p>",
+            "published_at": "2026-02-05T22:01:05.350Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-releases-new-ai-hurting-financial-services-stocks?unlock=cc6857&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-releases-new-ai-hurting-financial-services-stocks?unlock=cc6857&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1720773,
+                    "display_name": "Stephanie Palazzolo"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16715,
+            "guid": "98763e",
+            "headline": "Amazon Plans $200 Billion Capital Spending in 2026 ",
+            "dek": "AWS revenue growth accelerated to 24%\r\n",
+            "source_url": "",
+            "source_label": "The Information ",
+            "body": "<p>Amazon said on Thursday it expects capital expenditures to rise to $200 billion this year as it pours more money into artificial intelligence efforts. The company’s shares fell more than 7% in after hours trading.</p>\n\n<p>That would mark a jump from Amazon’s 2025 spending of $131.8 billion. It’s also higher than cloud and AI competitor Google’s planned spending of between $175 billion and $185 billion this year. Amazon said the 2026 spending would focus on areas including AI and chips as well as robotics and its Leo satellite internet service.</p>\n\n<p>Revenue in the Amazon Web Services cloud unit rose by 24% to $35.6 billion in the fourth quarter, up from 20% growth the previous quarter and AWS’ fastest revenue growth since 2022. Amazon’s overall net sales rose 14% to $213.4 billion in the fourth quarter, compared to 13% growth in the second and third quarters of 2025.</p>",
+            "published_at": "2026-02-05T21:58:13.174Z",
+            "url": "https://www.theinformation.com/briefings/amazon-plans-200-billion-capital-spending-2026?unlock=98763e&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/amazon-plans-200-billion-capital-spending-2026?unlock=98763e&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2242907,
+                    "display_name": "Catherine Perloff"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 902,
+                    "name": "markets"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 4441,
+                    "name": "cloud"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16714,
+            "guid": "d5a5d7",
+            "headline": "Cook Acknowledges Apple Employee Unhappiness Over ICE Crackdown",
+            "dek": "Cook voiced his support for both immigrants and law enforcement and said he was saddened by the feelings people were experiencing around recent events",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Apple CEO Tim Cook acknowledged at an all-hands staff meeting on Thursday that some company employees were upset about the Trump administration’s immigration crackdown. He voiced his support for both immigrants and law enforcement and said he was saddened by the feelings people were experiencing around recent events, according to a person who was present at the meeting.</p>\n\n<p>The meeting was called after dozens of current and former Apple employees signed a pledge condemning the U.S.‘s Immigration and Customs Enforcement recent enforcement actions in cities like Minneapolis and the killing of Minneapolis nurse Alex Pretti last month. On the same day Pretti died, Cook attended a White House screening of Melania, a documentary about the First Lady.</p>\n\n<p>Separately, in answer to a question about recent leadership departures, Cooke said he spends a lot of time thinking about who will do his job 10 years from now, and that everyone in leadership should be thinking that way.</p>",
+            "published_at": "2026-02-05T19:22:45.491Z",
+            "url": "https://www.theinformation.com/briefings/cook-acknowledges-apple-employee-unhappiness-ice-crackdown?unlock=d5a5d7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/cook-acknowledges-apple-employee-unhappiness-ice-crackdown?unlock=d5a5d7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 538524,
+                    "display_name": "Aaron Tilley"
+                },
+                {
+                    "type": "Author",
+                    "id": 4,
+                    "display_name": "Amir Efrati"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1583,
+                    "name": "apple"
+                }
+            ]
+        }
+    ]
+}
