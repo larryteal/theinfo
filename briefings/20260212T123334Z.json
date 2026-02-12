@@ -1,0 +1,669 @@
+{
+    "briefings": [
+        {
+            "type": "Briefing",
+            "id": 16779,
+            "guid": "d4b1ff",
+            "headline": "Anthropic Donates $20 Million to AI Politics Org",
+            "dek": "The group, Public First, will support candidates who advocate for transparency requirements for AI companies.  ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic has donated $20 million to Public First Action, a political advocacy non-profit organization, the company plans to announce Thursday. The organization will spend its money on political candidates of both parties who support transparency requirements for AI companies, a federal AI framework, export controls on AI chips and regulation to prevent AI-enabled biological weapons. (<a href=\"https://www.theinformation.com/newsletters/ai-agenda/two-state-ai-laws-watch\">Transparency bills</a> such as California’s SB 53 or New York’s Raise Act require AI companies to share information, such as their safety and security policies, with the public or government officials.)</p>\n\n<p>“AI is being adopted faster than any technology in history, and the window to get policy right is closing,” Anthropic wrote in a statement. “Yet there are no official guardrails in place and no federal framework on the horizon.”</p>\n\n<p>Anthropic’s donation is the latest instance of AI companies using their financial resources to push for their preferred government policies. OpenAI President Greg Brockman and venture firm Andreessen Horowitz together donated $100 million to Leading the Future last year, a super PAC opposing state-level AI regulation. Meta has spent $65 million on PACs to elect California candidates it views as favorable to the AI industry, Politico has reported.</p>\n\n<p>Public First Action also plans to announce its first ad campaign, which will run in Tennessee. It will thank Senator Marsha Blackburn for her work on bills involving child safety on the internet, according to Public First. The advocacy group was founded by former U.S. Representatives Chris Stewart, a Republican who represented Utah, and Brad Carson, a Democrat who represented Oklahoma.</p>",
+            "published_at": "2026-02-12T12:00:52.065Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-donates-20-million-ai-politics-org?unlock=d4b1ff&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-donates-20-million-ai-politics-org?unlock=d4b1ff&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2114360,
+                    "display_name": "Rocket Drew"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16781,
+            "guid": "2e13cd",
+            "headline": "Alibaba’s Holiday AI Shopping Campaign Generates 120 Million Orders ",
+            "dek": "Chinese tech giants are fighting a costly battle to promote their AI apps during the country’s biggest holiday season.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Alibaba Group said its Qwen chatbot app’s AI e-commerce service has generated more than 120 million orders from Chinese consumers over the past six days, since the company last week started giving away free shopping vouchers to the app’s users.</p>\n\n<p>Alibaba, ByteDance and Tencent Holdings have all started offering giveaways and other incentives to promote their AI chatbot apps ahead of the Lunar New Year this month, as the Chinese tech giants fight over the country’s 1.4 billion consumers during the country’s biggest holiday season.</p>\n\n<p>Alibaba is offering a free shopping voucher worth 25 yuan ($3.60) to every user of its Qwen app, which allows consumers to make online purchases of food, drinks and groceries. The Qwen app is also giving away digital red envelopes containing random amounts of money to users, allowing them to win up to 2,888 yuan in cash. Alibaba plans to spend around 3 billion yuan ($432 million) in total on Qwen’s overall holiday giveaway campaign. The rival AI apps from ByteDance and Tencent have also launched similar campaigns with red envelopes and other promotions.</p>",
+            "published_at": "2026-02-12T07:18:27.786Z",
+            "url": "https://www.theinformation.com/briefings/alibabas-holiday-ai-shopping-campaign-generates-120-million-orders?unlock=2e13cd&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/alibabas-holiday-ai-shopping-campaign-generates-120-million-orders?unlock=2e13cd&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16780,
+            "guid": "ebf956",
+            "headline": "Singapore’s Grab Reports First Full-Year Profit ",
+            "dek": "Despite the improvements in earnings over the past year, Nasdaq-listed Grab’s stock has struggled. ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Grab, Southeast Asia’s largest ride-hailing and food delivery company, reported full-year profits for the first time, a little more than four years after it went public via merging with a blank-check company.</p>\n\n<p>“It’s not just a one-time thing,” said Grab Chief Financial Officer Peter Oey, in an interview on Thursday after the Nasdaq-listed company announced its financial results. “We are a sustainable business.”</p>\n\n<p>Singapore-based Grab posted a net profit of $200 million for 2025, compared to a net loss of $158 million in 2024. It also swung to an operating profit of $65 million in 2025, from an operating loss of $168 million in 2024. Its 2025 revenue rose 20% to $3.37 billion.</p>\n\n<p>Oey said a major factor behind the full-year profit is Grab’s ongoing effort to automate its operations, including its more extensive use of AI, in order to reduce costs. “We are able to operate with less headcount,” even as Grab continues to expand into more cities across Southeast Asia, he said.</p>\n\n<p>Despite the improvements in earnings, Grab’s stock hasn’t caught up. Its current share price is down 11.5% from 12 months ago, and it has declined 16.7% since the beginning of this year. Grab is underperforming the Nasdaq Composite, which is down only 0.7% year to date.&nbsp; The stock’s weakness is due to investors’ doubts about whether Grab can sustain the pace of its expansion in Southeast Asia, and concerns over the region’s economic outlook.</p>",
+            "published_at": "2026-02-12T07:15:55.859Z",
+            "url": "https://www.theinformation.com/briefings/singapores-grab-reports-first-full-year-profit?unlock=ebf956&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/singapores-grab-reports-first-full-year-profit?unlock=ebf956&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16778,
+            "guid": "3b99ab",
+            "headline": "Meta’s Auditor Raised Red Flag On Its Data Center Accounting ",
+            "dek": "Ernst & Young did not indicate it disagreed with Meta’s approach, but the designation signals that it was one of the most complex aspects of its audit.",
+            "source_url": "",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Meta Platforms’ auditor issued a cautionary note in the tech giant’s latest annual report, flagging the company’s accounting treatment of its $27 billion data center project as a “critical audit matter.”</p>\n\n<p>Ernst &amp; Young did not indicate it disagreed with Meta’s approach, but the designation signals that it was one of the most complex aspects of its audit. (The Information previously on <a href=\"https://www.theinformation.com/articles/creative-dealmaking-behind-metas-30-billion-data-center-financing\">Meta’s creative deal-making</a>, which included getting a letter from the Securities and Exchange Commission OK-ing the accounting treatment.)</p>\n\n<p>The project, known as Hyperion, was structured as a joint venture with Blue Owl Capital. Meta accounted for this as a so-called “variable interest entity.” Under accounting rules, a company must consolidate such an entity if it is deemed the “primary beneficiary,” meaning it has the power to direct the activities that most significantly affect the venture’s economic performance. Meta concluded it is not the primary beneficiary, allowing it to keep the project’s assets and debt off its balance sheet.</p>\n\n<p>EY said auditing that conclusion was “especially challenging due to the significant judgment required” to determine Meta was not the primary beneficiary. The EY comment was first reported on by The Wall Street Journal.</p>",
+            "published_at": "2026-02-12T04:17:54.429Z",
+            "url": "https://www.theinformation.com/briefings/metas-auditor-raised-red-flag-data-center-accounting?unlock=3b99ab&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/metas-auditor-raised-red-flag-data-center-accounting?unlock=3b99ab&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 15965,
+                    "guid": "5cf9a2fb38",
+                    "title": "The Creative Dealmaking Behind Meta’s $30 Billion Data Center Financing",
+                    "url": "https://www.theinformation.com/articles/creative-dealmaking-behind-metas-30-billion-data-center-financing?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16777,
+            "guid": "3e07d7",
+            "headline": "Anthropic Joins Firms Promising Data Centers Won’t Raise Power Prices",
+            "dek": "Tech companies are trying to defuse backlash over AI’s strain on power grids.\r\n",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Anthropic said Wednesday it will take steps to ensure its data centers don’t raise electricity prices for consumers, joining a list of tech companies that includes OpenAI and Microsoft that are trying to defuse backlash over AI’s strain on power grids.</p>\n\n<p>Anthropic said it would address what it described as the root causes of price hikes. Anthropic pledged to pay for “100% of the grid upgrades needed to interconnect our data centers,” aiming to prevent those costs from being passed on to households. It also said it plans to secure dedicated power supplies for its facilities so they are not fully reliant on the existing grid, a strategy that has become <a href=\"https://www.theinformation.com/articles/ai-power-demand-spurs-make-your-own-electricity-effort-for-data-centers\">increasingly common</a> among large AI data center developers.</p>\n\n<p>Anthropic said it would make these commitments directly for the facilities where it works with partners on the development. In cases where it leases capacity from cloud providers, the company said it is “exploring” ways to mitigate the impact its workloads might have on local electricity prices.</p>",
+            "published_at": "2026-02-12T00:04:37.101Z",
+            "url": "https://www.theinformation.com/briefings/anthropic-joins-firms-promising-data-centers-raise-power-prices?unlock=3e07d7&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/anthropic-joins-firms-promising-data-centers-raise-power-prices?unlock=3e07d7&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1518951,
+                    "display_name": "Anissa Gardizy"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 14417,
+                    "guid": "2e0ae655b5",
+                    "title": "AI Power Demand Spurs Make-Your-Own-Electricity Effort for Data Centers",
+                    "url": "https://www.theinformation.com/articles/ai-power-demand-spurs-make-your-own-electricity-effort-for-data-centers?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16776,
+            "guid": "96fa09",
+            "headline": "Adam Mosseri: Social Media Not ‘Clinically Addictive’",
+            "dek": "Mosseri is the first social media executive to testify as plaintiffs try to convince a jury that Meta and YouTube’s product designs are and causes mental health problems.",
+            "source_url": "https://www.nytimes.com/2026/02/11/technology/adam-mosseri-instagram-addiction-trial.html",
+            "source_label": "The New York Times",
+            "body": "<p>Adam Mosseri, the head of Instagram, testified in a landmark trial on Wednesday that social media was not “clinically addictive,” The New York Times reported. Mosseri added that people could be addicted to social media similarly to being addicted to a television show, but that that was different from, and less serious than, being “clinically addicted,” according to The New York Times.</p>\n\n<p>Mosseri is the first social media executive to testify as lawyers for K.G.M., a 20-year-old girl from Chico, Calif., try to convince a jury that Meta’s and YouTube’s product designs are addictive and have caused K.G.M. mental health problems. Meta CEO Mark Zuckerberg and YouTube CEO Neal Mohan are both expected to testify in the trial, which is the first of thousands being brought against social media companies. Snap and TikTok both settled K.G.M.‘s case on the eve of trial, but remain defendants in the other cases.</p>\n\n<p>Opening statements in the trial kicked off on Monday. Mark Lanier, a lawyer for the plaintiffs, argued that Instagram and YouTube were “digital casinos.” Meta countered that K.G.M.’s mental health problems were caused by familial abuse, and YouTube said that it was not a social media company. On Wednesday, Mosseri said that Instagram was careful to test features used by young people before releasing them; Lanier presented internal documents from 2019 showing that Mosseri and Zuckerberg lifted a ban on beauty filters, overruling executives who warned they could lead to body dysmorphia in young users.</p>",
+            "published_at": "2026-02-11T22:55:22.267Z",
+            "url": "https://www.theinformation.com/briefings/adam-mosseri-social-media-clinically-addictive?unlock=96fa09&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/adam-mosseri-social-media-clinically-addictive?unlock=96fa09&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1276174,
+                    "display_name": "Erin Woo"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 11946,
+                    "guid": "23a3ae4a96",
+                    "title": "Behind Instagram Head Adam Mosseri’s Mixed Record on Youth Safety",
+                    "url": "https://www.theinformation.com/articles/behind-instagram-head-adam-mosseris-mixed-record-on-youth-safety?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1891,
+                    "name": "culture"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16775,
+            "guid": "998430",
+            "headline": "X Subscriptions Hit $1 Billion in Annualized Revenue, Exec Says ",
+            "dek": "X has ramped up efforts to sell subscriptions after Elon Musk’s acquisition of the site in 2022 coincided with a decline in advertising revenue.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>X recently hit $1 billion in annualized recurring revenue from selling subscriptions, head of product Nikita Bier said in an xAI all-hands meeting on Tuesday.</p>\n\n<p>The subscriptions X sells include Basic, Premium and Premium+ plans that range from $3 to $40 per month. The social media site, formerly known as Twitter, has ramped up efforts to sell subscriptions after Elon Musk’s acquisition of the site in 2022 coincided with a <a href=\"https://www.theinformation.com/articles/some-advertisers-are-bargain-hunting-on-x-it-may-not-be-enough\">decline in advertising revenue</a>. X subscriptions include benefits like boosted posts, checkmarks and additional access to xAI’s Grok models. xAI acquired X last year.</p>\n\n<p>Bier’s comments, which he made during an xAI all-hands meeting that the company <a href=\"https://x.com/xai/status/2021667200885829667\">posted on X</a>, did not include an update on advertising revenue or other xAI financials. During the meeting, Musk also detailed a wider xAI <a href=\"https://www.theinformation.com/articles/musk-restructures-xai-team-amid-senior-departures-spacex-merger\">leadership shakeup</a> following the company’s merger with SpaceX last week.</p>",
+            "published_at": "2026-02-11T22:44:04.850Z",
+            "url": "https://www.theinformation.com/briefings/x-subscriptions-hit-1-billion-annualized-revenue-exec-says?unlock=998430&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/x-subscriptions-hit-1-billion-annualized-revenue-exec-says?unlock=998430&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1422855,
+                    "display_name": "Theo Wayt"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16589,
+                    "guid": "8d485c2b05",
+                    "title": "Musk Restructures xAI Team Amid Senior Departures, SpaceX Merger",
+                    "url": "https://www.theinformation.com/articles/musk-restructures-xai-team-amid-senior-departures-spacex-merger?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 255454,
+                    "name": "x"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2471074,
+                    "name": "media/telecom"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16774,
+            "guid": "d02d63",
+            "headline": "Essilor and Meta Sell 7 Million Smart Glasses in 2025",
+            "dek": "Essilor had reported a year ago that only 2 million smart glasses had been sold since the product was launched in 2023.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>EssilorLuxottica and Meta Platforms sold more than 7 million smart glasses in 2025, Essilor reported on Wednesday, a huge improvement on 2024. Essilor had reported a year ago that only 2 million smart glasses had been sold since the product was launched in 2023.</p>\n\n<p>EssilorLuxottica’s disclosure was the most detailed either of the companies has given about the glasses. Meta CEO Mark Zuckerberg said last month that sales of the glasses “more than tripled last year” without giving the actual figures.</p>\n\n<p>Zuckerberg has high hopes for the potential of the glasses, which include access to Meta’s AI assistant. Zuckerberg noted on the January earnings call that “billions of people wear glasses or contacts for vision correction [and]&hellip;it’s hard to imagine a world in seeral year where most glasses that people wear aren’t AI glasses.”</p>",
+            "published_at": "2026-02-11T21:57:50.068Z",
+            "url": "https://www.theinformation.com/briefings/essilor-meta-sell-7-million-smart-glasses-2025?unlock=d02d63&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/essilor-meta-sell-7-million-smart-glasses-2025?unlock=d02d63&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16773,
+            "guid": "e90948",
+            "headline": "Target Participates in OpenAI Ads Pilot",
+            "dek": "Brands that advertise through Target’s retail media business will also be able to advertise in ChatGPT.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Target <a href=\"https://corporate.target.com/press/fact-sheet/2026/02/conversational-ai-advertising\">said</a> this week that it will be one of the first advertisers working with OpenAI as it launches ads in ChatGPT. Target also said that brands that advertise through its Roundel retail media business will be able to participate in the ads pilot.</p>\n\n<p>OpenAI <a href=\"https://www.theinformation.com/briefings/openai-launches-chatgpt-ads?rc=d8mrkd\">launched</a> ads for some U.S. ChatGPT users on Monday. To start, OpenAI is charging advertisers on a per-view basis, The Information <a href=\"https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=d8mrkd\">previously reported</a>, and will determine which ads are shown based on topics and keywords in users’ prompts.</p>\n\n<p>Generally, AI apps moving into showing ads have been seen as a potential threat to ad businesses like Target’s, though the early moves by OpenAI show they can still be involved as partners. In its most recent quarterly earnings report in November, Target said that its retail media business grew ad sales at a rate in the mid-teens, even as net sales declined. Roundel clients include General Mills, Clorox and Nestle, according to its website.</p>",
+            "published_at": "2026-02-11T21:57:44.903Z",
+            "url": "https://www.theinformation.com/briefings/target-participates-openai-ads-pilot?unlock=e90948&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/target-participates-openai-ads-pilot?unlock=e90948&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16772,
+            "guid": "e89419",
+            "headline": "Ackman Reports Stakes in Amazon and Meta",
+            "dek": "The investments added to a portfolio that already holds shares of Alphabet and Uber.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Hedge fund manager Bill Ackman’s Pershing Square Capital Management last year bought stakes in Meta Platforms and Amazon, adding to a portfolio already heavy with big tech stocks Alphabet and Uber.</p>\n\n<p>Ackman jumped into both stocks as they were underperforming. Amazon rose 5.2% last year, while Meta rose 12.8%, compared with the Nasdaq’s 20% rise. (Meta is up slightly so far in 2026 while Amazon is down 11%). In a presentation to investors posted on its website on Wednesday, Pershing Square described Meta as a “leader in the fast-growing digital advertising space and one of the clearest beneficiaries of AI integration” while Amazon was the “largest cloud business by market share&hellip;and the dominant retail e-commerce operator.”</p>\n\n<p>All its big tech investments “offer structurally higher growth than most companies in the S&amp;P 500,” the presentation said. The hedge fund has about $30 billion under management, a third of which is in one company, Howard Hughes Holdings.</p>",
+            "published_at": "2026-02-11T20:03:27.452Z",
+            "url": "https://www.theinformation.com/briefings/ackman-reports-stakes-amazon-meta?unlock=e89419&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/ackman-reports-stakes-amazon-meta?unlock=e89419&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1332,
+                    "name": "amazon"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 1299,
+                    "name": "google"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16771,
+            "guid": "67768d",
+            "headline": "Shopify Shares Tumble Amid Software Selloff",
+            "dek": "The e-commerce software maker has moved quickly to help its merchants sell through new AI-powered shopping features.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Shopify shares were down around 11% by midday Wednesday, reversing a nearly 12% premarket jump that had followed the release of the e-commerce software maker’s latest financial results. That volatile trading likely reflects general investor fears about AI’s impact on software companies that have been triggering sharp selloffs in companies across the sector.</p>\n\n<p>The drop comes even as Shopify has moved quickly to work with AI companies like OpenAI and Google to help them develop shopping features for their AI apps. That could give it a piece of the market if AI-powered shopping takes off, but will likely weigh on margins in the near term due to the cost of the new AI tools.</p>\n\n<p>Shopify’s revenue rose 31% to $3.7 billion in the fourth quarter of 2025, helped in part by Shopify adding more large merchants and growth in its payments business. Shopify said Wednesday it expects to continue that momentum, projecting a revenue growth rate in the low thirties for the current quarter. The company also announced a $2 billion share buyback program, which it plans to launch later this month.</p>",
+            "published_at": "2026-02-11T15:13:31.097Z",
+            "url": "https://www.theinformation.com/briefings/shopify-shares-jump-forecasts-continued-revenue-growth?unlock=67768d&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/shopify-shares-jump-forecasts-continued-revenue-growth?unlock=67768d&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1403907,
+                    "display_name": "Ann Gehan"
+                }
+            ],
+            "related_items": [
+                {
+                    "type": "Article",
+                    "id": 16396,
+                    "guid": "f307ae4fc5",
+                    "title": "Google Flips OpenAI’s Shopping Strategy on Its Head",
+                    "url": "https://www.theinformation.com/articles/google-flips-openais-shopping-strategy-head?utm_source=ti_app"
+                }
+            ],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 1239,
+                    "name": "e-commerce"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16770,
+            "guid": "91b749",
+            "headline": "Departures Accelerate at Elon Musk’s xAI as Yet Another Cofounder Leaves",
+            "dek": " The company is going through big changes after SpaceX earlier this month announced a merger with xAI.  ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Jimmy Ba, a cofounder of Elon Musk’s xAI and a prominent AI scientist, said late Tuesday that he just left the company. Ba’s exit comes the day after another xAI cofounder, Tony Wu, announced his resignation.</p>\n\n<p>“It’s time to recalibrate my gradient on the big picture,” Ba said in a <a href=\"https://x.com/jimmybajimmyba/status/2021374875793801447?s=20\">post</a> on X. “2026 is gonna be insane and likely the busiest (and most consequential) year for the future of our species.”</p>\n\n<p>Ba, who reported to Musk at xAI, is also a professor at the University of Toronto, where he got his doctorate under the supervision of Nobel Prize winner Geoffrey Hinton.</p>\n\n<p>On the same day, several other xAI employees, including <a href=\"https://x.com/hangg70/status/2021412690321924543?s=20\">Hang Gao</a> and <a href=\"https://x.com/Chace_AGI/status/2021452881875141060?s=20\">Chace Lee</a>, also said&nbsp; in posts on X that they had left the company. Gao worked on image and video models, while Lee was part of the firm’s AI software team known as Macrohard.</p>\n\n<p>The departures come at a time when xAI is going through major changes. Earlier this month, Musk’s aerospace company SpaceX announced a merger with xAI. The deal valued SpaceX at $1 trillion and xAI at $250 billion.</p>",
+            "published_at": "2026-02-11T11:34:29.991Z",
+            "url": "https://www.theinformation.com/briefings/departures-accelerate-elon-musks-xai-yet-another-cofounder-leaves?unlock=91b749&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/departures-accelerate-elon-musks-xai-yet-another-cofounder-leaves?unlock=91b749&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16769,
+            "guid": "39845c",
+            "headline": "U.S. Lawmakers Urge Trump to Close Chip-Equipment Loopholes",
+            "dek": "The push comes after media outlets reported that China has made progress building advanced chip-making equipment using scavenged parts.",
+            "source_url": "https://chinaselectcommittee.house.gov/media/press-releases/chairmen-moolenaar-and-mast-lead-letter-pledging-bipartisan-support-for-strengthening-export-controls-on-chipmaking-tools",
+            "source_label": "The Information",
+            "body": "<p>The chairs of the U.S. House China and Foreign Affairs committees sent a letter urging the Trump administration to close loopholes in export controls that allow China to gain access to advanced&nbsp;chip-making equipment.</p>\n\n<p>The push comes after media reports&nbsp;in December that China made progress developing advanced chip-making machines, either by upgrading older equipment or by building prototypes using scavenged parts.</p>\n\n<p>While the U.S. has already worked with the Netherlands to restrict the sale of advanced chip equipment made by Dutch supplier ASML to China, the export controls still have “critical gaps,” said House Select Committee on China Chairman John Moolenaar and House Foreign Affairs Committee Chairman Brian Mast. ASML is the world’s largest supplier of extreme ultraviolet lithography tools, which are critical to making advanced chips.</p>\n\n<p>Some of the current U.S. restrictions target specified entities in China&nbsp;rather than impose&nbsp;a blanket countrywide ban on equipment entering China, they said. The lawmakers urged the Trump administration to press U.S. allies to implement “countrywise controls” for China on all the key chip-making equipment and subcomponents that China can’t produce.</p>\n\n<p>They added they wanted the Trump administration to brief them by next month&nbsp;on its strategy for strengthening these export controls, along with a timeline for the goal.</p>",
+            "published_at": "2026-02-11T03:38:54.322Z",
+            "url": "https://www.theinformation.com/briefings/u-s-lawmakers-urge-trump-close-chip-equipment-loopholes?unlock=39845c&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/u-s-lawmakers-urge-trump-close-chip-equipment-loopholes?unlock=39845c&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 333163,
+                    "display_name": "Wayne Ma"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 2971,
+                    "name": "semiconductors"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16768,
+            "guid": "5bceab",
+            "headline": "Lyft’s Revenue Grows 3% As Legal and Regulatory Reserves Mar Top Line",
+            "dek": "The company reported 19% growth in bookings for the fourth quarter.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Lyft, the no. 2 ridehailing firm, reported 3% higher revenue of $1.6 billion in the fourth quarter, sending its stock plunging 15% in after-hours trading. But Lyft said that excluding changes to legal, tax, and regulatory reserves, its revenue would have risen 13%.</p>\n\n<p>The company reported 19% growth in gross bookings, the total dollar value of transactions done on the service. Free cash flow hit $227.6 million in the quarter, and $1.1 billion for the year.</p>\n\n<p>On a conference call with analysts, Lyft CEO David Risher said the company’s nascent ad sales business—putting ads on vehicle and in the app—had reached a $100 million revenue run rate in the fourth quarter.</p>",
+            "published_at": "2026-02-10T22:26:55.169Z",
+            "url": "https://www.theinformation.com/briefings/lyfts-revenue-grows-3-legal-regulatory-reserves-mar-top-line?unlock=5bceab&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/lyfts-revenue-grows-3-legal-regulatory-reserves-mar-top-line?unlock=5bceab&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 14527,
+                    "name": "uber/lyft"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16767,
+            "guid": "c26ad2",
+            "headline": "Meta’s Zuckerberg Buys South Florida Home",
+            "dek": "The home purchase in Indian Creek comes as a one-time tax on billionaires heads to California voters in November.  ",
+            "source_url": "https://www.wsj.com/real-estate/luxury-homes/mark-zuckerburg-indian-creek-miami-florida-38f63db4?st=2UgT7f&reflink=desktopwebshare_permalink",
+            "source_label": "The Wall Street Journal",
+            "body": "<p>Meta Platforms CEO Mark Zuckerberg and his wife Priscilla Chan are reportedly purchasing a mansion on Indian Creek, a man-made island in South Florida often referred to as “Billionaire Bunker.”</p>\n\n<p>According to a report in The Wall Street Journal, Zuckerberg told one of his future neighbors in&nbsp;Indian Creek—Irma Braman, the wife of billionaire auto dealer Norman Braman—that he plans to move into the property by April. It’s unclear whether Zuckerberg intends to give up his California residency, but the relocation could be a response to the state’s proposed billionaire tax.</p>\n\n<p>A number of other wealthy Silicon Valley tech executives, including Google founders Larry Page and Sergey Brin, have reportedly purchased or are in talks to purchase homes in Florida. The Meta chief’s sprawling real estate portfolio also includes properties in Palo Alto, the Hawaiian island of Kauai, Lake Tahoe&nbsp;and Washington, D.C.</p>",
+            "published_at": "2026-02-10T16:46:04.506Z",
+            "url": "https://www.theinformation.com/briefings/metas-zuckerberg-buys-south-florida-home?unlock=c26ad2&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/metas-zuckerberg-buys-south-florida-home?unlock=c26ad2&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2636195,
+                    "display_name": "Jyoti Mann"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 6148,
+                    "name": "real estate"
+                },
+                {
+                    "type": "Topic",
+                    "id": 284173,
+                    "name": "meta"
+                },
+                {
+                    "type": "Topic",
+                    "id": 11216,
+                    "name": "policy"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16766,
+            "guid": "71620a",
+            "headline": "Spotify’s Revenue Rises 7%, as Ads Fall Again",
+            "dek": "Spotify executives said the ads business should pick up in the second half of this year.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Spotify’s revenue grew 7% in the fourth quarter of 2025, the music streaming and podcast service&nbsp;reported, in line with the third quarter. A 4% drop in ad revenue partly offset 8% higher subscription revenue.</p>\n\n<p>But the company reported an improvement in its gross margin, which translated to an increase in its operating profit margin of several percentage points. Spotify’s operating profit rose 47% to 701 million euros. Spotify also reported 10% growth in the number of paying subscribers. Spotify stock was trading up 15% on Tuesday morning.</p>\n\n<p>Spotify’s ad business has suffered declining revenues for the past few quarters, despite promises from the company last spring that it was poised for growth. On a conference call with analysts on Tuesday, Spotify executives said the business should pick up in the second half of this year.</p>",
+            "published_at": "2026-02-10T16:21:16.974Z",
+            "url": "https://www.theinformation.com/briefings/spotifys-revenue-rises-7-ads-fall?unlock=71620a&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/spotifys-revenue-rises-7-ads-fall?unlock=71620a&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 1270,
+                    "display_name": "Martin Peers"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5493,
+                    "name": "entertainment"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16765,
+            "guid": "5f3fdb",
+            "headline": "Another Cofounder of Elon Musk’s xAI Resigns ",
+            "dek": "Wu, who reported to Musk, played a central role in xAI’s core AI model development.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Tony Wu, one of xAI’s cofounders, said he has resigned from Elon Musk’s AI company. Wu’s exit follows the departure last year of another xAI cofounder, Igor Babuschkin.</p>\n\n<p>“I will deeply miss the people,&nbsp; the warrooms, and all those battles we have fought together,” Wu said in a <a href=\"https://x.com/Yuhu_ai_/status/2021113745024614671?s=20\">post</a> on X. “It’s time for my next chapter.”</p>\n\n<p>Wu, a computer scientist who got his doctorate from the University of Toronto, joined xAI from Google in 2023 when Musk created the company. Wu, who was in charge of reasoning and reported to Musk, played a <a href=\"https://www.theinformation.com/articles/people-running-elon-musks-xai?rc=jnr9wn\">central role</a> in xAI’s core AI model development.</p>\n\n<p>Wu’s departure comes at a time when xAI is going through major changes. Earlier this month, Musk’s aerospace company SpaceX announced a merger with xAI. The deal valued SpaceX at $1 trillion and xAI at $250 billion.</p>",
+            "published_at": "2026-02-10T09:17:16.073Z",
+            "url": "https://www.theinformation.com/briefings/another-cofounder-elon-musks-xai-resigns?unlock=5f3fdb&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/another-cofounder-elon-musks-xai-resigns?unlock=5f3fdb&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16764,
+            "guid": "13c5a0",
+            "headline": "China’s Zhipu Rolls Out New AI Model in Stealth Mode",
+            "dek": "Pony Alpha, an open-source model released on the OpenRouter marketplace, is actually Zhipu’s new GLM-5 model.  ",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Zhipu, one of China’s prominent AI developers, has anonymously released its new large language model under a different name on OpenRouter, a popular AI model marketplace for developers.</p>\n\n<p>Pony Alpha, a new open-source LLM launched on OpenRouter a few days ago, is Zhipu’s new model, known as GLM-5, in disguise, according to a person with direct knowledge of the matter. In a <a href=\"https://x.com/OpenRouterAI/status/2019831892733022606?s=20\">post</a> on X, OpenRouter said Pony Alpha “delivers strong performance across coding, reasoning and roleplay.”</p>\n\n<p>Beijing-based Zhipu, which went public in Hong Kong under the corporate name Knowledge Atlas Technology, is planning to officially launch GLM-5 later this week, the person said. Zhipu’s previous model, GLM-4.7, was ranked high among open-source models for coding and agentic tasks.</p>\n\n<p>By releasing the model first under a different name on OpenRouter without telling users that it’s a new Zhipu model, the company is trying to gather and assess feedback from users without preconceptions or prejudices, the person said.</p>\n\n<p>Zhipu’s GLM-5 comes as <a href=\"https://www.theinformation.com/newsletters/ai-agenda/chinas-open-source-models-challenge-anthropic-ai-coding?rc=jnr9wn\">Chinese open-source AI models</a> are gaining popularity among U.S. developers who are looking for cheaper but capable alternatives for coding to Anthropic’s Claude and other U.S. models.</p>",
+            "published_at": "2026-02-10T09:14:52.062Z",
+            "url": "https://www.theinformation.com/briefings/chinas-zhipu-rolls-new-ai-model-stealth-mode?unlock=13c5a0&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/chinas-zhipu-rolls-new-ai-model-stealth-mode?unlock=13c5a0&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 97940,
+                    "display_name": "Juro Osawa"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 5129,
+                    "name": "asia"
+                },
+                {
+                    "type": "Topic",
+                    "id": 19616,
+                    "name": "ai"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16763,
+            "guid": "840566",
+            "headline": "Michael Grimes Returns to Morgan Stanley After Government Stint",
+            "dek": "Grimes is returning at a time where the Wall Street bank is gearing for a year of mega listings.",
+            "source_url": "",
+            "source_label": "The Information",
+            "body": "<p>Michael Grimes, a long-time tech banker, is returning to Morgan Stanley after a one-year stint with the Trump administration, where he was a senior advisor to the U.S. Department of Commerce and oversaw the government’s investment unit, according to an internal memo viewed by The Information. He’ll be chairman of investment banking at the bank, the memo said.</p>\n\n<p>Before he became a government employee, Grimes had been Morgan Stanley’s head of technology investment banking and managed some of the firm’s most high profile tech IPOs, including Facebook and Uber.</p>\n\n<p>Grimes, who has a close relationship with Elon Musk, is returning at a time where the Wall Street bank is gearing for a year of mega listings. Elon Musk’s SpaceX is preparing for a summer listing after it recently merged with his AI startup xAI that values the combined company at $1.25 trillion. It has not formally hired bankers for the listing, although Morgan Stanley is considered to be one of them.</p>",
+            "published_at": "2026-02-09T23:01:22.161Z",
+            "url": "https://www.theinformation.com/briefings/michael-grimes-returns-morgan-stanley-government-stint?unlock=840566&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/michael-grimes-returns-morgan-stanley-government-stint?unlock=840566&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 2448998,
+                    "display_name": "Valida Pau"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        },
+        {
+            "type": "Briefing",
+            "id": 16762,
+            "guid": "667ed6",
+            "headline": "Stripe Aims for $140 Billion Valuation in new Tender",
+            "dek": "Stripe is preparing a potential tender offer that could value the payments company at more than $140 billion, Axios reported. ",
+            "source_url": "https://www.axios.com/pro/fintech-deals/2026/02/09/stripe-tender-140-billion-payments",
+            "source_label": "Axios",
+            "body": "<p>Stripe is preparing a potential tender offer that could value the payments company at more than $140 billion, Axios <a href=\"https://www.axios.com/pro/fintech-deals/2026/02/09/stripe-tender-140-billion-payments\">reported</a>.</p>\n\n<p>That would put the company’s valuation well above the $107 billion mark at which it bought back shares from investors last fall. It marks a significant rebound from the $50 billion valuation investors gave Stripe when it raised money in 2023.</p>\n\n<p>A Stripe spokesperson declined to comment.</p>",
+            "published_at": "2026-02-09T22:36:50.003Z",
+            "url": "https://www.theinformation.com/briefings/stripe-aims-140-billion-valuation-new-tender?unlock=667ed6&utm_source=ti_app",
+            "share_url": "https://www.theinformation.com/briefings/stripe-aims-140-billion-valuation-new-tender?unlock=667ed6&utm_medium=share&utm_source=ti_app",
+            "authors": [
+                {
+                    "type": "Author",
+                    "id": 375275,
+                    "display_name": "Michael Roddan"
+                }
+            ],
+            "related_items": [],
+            "topics": [
+                {
+                    "type": "Topic",
+                    "id": 4022301,
+                    "name": "finance"
+                }
+            ]
+        }
+    ]
+}
